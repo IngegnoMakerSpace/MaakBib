@@ -5,11 +5,13 @@ author: ben
 categories: [ tutorial, medium ]
 image: assets/images/code_fragment.jpg
 ---
-Je hebt een leuke activiteit ontwikkeld die ideaal is om toe te voegen op MaakBib? Wel, goed nieuws, dit kan. Je kan ons de activiteit opsturen als docx, of google doc. Zorg dat het copyright van alle foto's en alle teksten bij jezelf ligt, en geef ons (MaakBib/De Creatieve STEM) copyright recht op de foto's en de tekst. Het eenvoudigst is dat je een creative commons licentie geeft aan al je werk. 
+Je hebt een leuke activiteit ontwikkeld die ideaal is om toe te voegen op [MaakBib](http://maakbib.be)? Wel, goed nieuws, dit kan. Je kan ons de activiteit opsturen als docx, of google doc. 
+
+Zorg dat het copyright van alle foto's en alle teksten bij jezelf ligt, en geef ons (MaakBib/De Creatieve STEM) copyright recht op de foto's en de tekst. Het eenvoudigst is dat je een creative commons licentie geeft aan al je werk. 
 
 # Zelf de site aanpassen
 
-Je kan ook zelf de site aanpassen! Deze site is beschikbaar op github. Maak een account daar, navigeer dan naar de MaakBib code opslag. In de rechterhoek kies je voor <strong>fork</strong>, welke een copie van de MaakBib site zal maken waarin je je activiteit kunt toevoegen.
+Je kan ook zelf de site aanpassen! Deze site is beschikbaar op [github.com](https://github.com). Maak een account daar, navigeer dan naar de [MaakBib code opslag](https://github.com/IngegnoMakerSpace/MaakBib). In de rechterhoek kies je voor <strong>Fork</strong>, welke een copie van de MaakBib site zal maken waarin je je activiteit kunt toevoegen.
 
 Kies in de folder **\_posts** een bestaande activiteit met een layout zoals je jouw activiteit wil geven, en sla deze op met een naam die de datum en beschrijving bevat, bv _2020-01-06-activiteit-toevoegen-aan-maakbib.md_
 
