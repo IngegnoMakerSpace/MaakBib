@@ -28,7 +28,7 @@ authors:
     avatar: 'assets/images/avatars/avatar08.png'
     gravatar: none
     email: benny.malengier@decreatievestem.be
-    web: https://decreatievestem.be
+    web: http://decreatievestem.be
     twitter: https://twitter.com/
     description: "Benny is onderzoeker bij de UGent. Hij ontwikkeld workshops rond IoT, Arduino en meer. Hij verzorgt de IT voor De Creatieve STEM, en is onder andere mede auteur van <a href=\"http://blokkencode.ingegno.be\">blokkencode.ingegno.be</a>"
   amy:
@@ -36,9 +36,17 @@ authors:
     display_name: Amy
     avatar: 'assets/images/avatars/avatar03.png'
     email: amy@decreatievestem.be
-    web: https://decreatievestem.be
+    web: http://decreatievestem.be
     twitter: https://twitter.com/
     description: "Amy is FabLab manager, workshop ontwikkelaar, en workshop begeleider bij De Creatieve STEM"
+  len:
+    name: Lennard
+    display_name: Lennard
+    avatar: 'assets/images/avatars/avatar.png'
+    email: lennard@decreatievestem.be
+    web: http://decreatievestem.be
+    twitter: https://twitter.com/
+    description: "Lennard is productontwikkelaar en manus van alles: lassen, houtbewerking, digitaal tekenen. Kan allemaal. Hij is workshop begeleider bij De Creatieve STEM"
 # Plugins
 plugins:
   - jekyll-paginate
