@@ -17,21 +17,28 @@ authors:
   cri:
     name: Cristina
     display_name: Cristina
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/avatars/avatar01.png'
     email: cristina@decreatievestem.be
     web: https://decreatievestem.be
     twitter: https://twitter.com/
     description: "Oprichter van De Creatieve STEM. Workshops begeleiden, workshops maken, opleiden, inspireren, ze doet het allemaal."
   ben:
     name: Benny
-    display_name: Benny    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    display_name: Benny
+    avatar: 'assets/images/avatars/avatar08.png'
+    gravatar: none
     email: benny.malengier@decreatievestem.be
     web: https://decreatievestem.be
     twitter: https://twitter.com/
-    description: "Benny verzorgt de IT, en is onderzoeker bij de UGent. Hij ontwikkeld workshops rond IoT, Arduino en meer. Hij is ook de auteur van blokkencode.ingegno.be"
-
+    description: "Benny is onderzoeker bij de UGent. Hij ontwikkeld workshops rond IoT, Arduino en meer. Hij verzorgt de IT voor De Creatieve STEM, en is onder andere mede auteur van <a href=\"http://blokkencode.ingegno.be\">blokkencode.ingegno.be</a>"
+  amy:
+    name: Amy
+    display_name: Amy
+    avatar: 'assets/images/avatars/avatar03.png'
+    email: amy@decreatievestem.be
+    web: https://decreatievestem.be
+    twitter: https://twitter.com/
+    description: "Amy is FabLab manager, workshop ontwikkelaar, en workshop begeleider bij De Creatieve STEM"
 # Plugins
 plugins:
   - jekyll-paginate
