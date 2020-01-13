@@ -6,3 +6,4 @@ _site
 vendor
 .jekyll-cache
 _site.zip
+.directory
