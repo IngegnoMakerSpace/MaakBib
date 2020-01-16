@@ -4,10 +4,9 @@ title:  "Bewegende Sprookjesparkbewoner"
 authors: [cristina, sanne] 
 categories: [ challenge, Do It Yourself, low tech, middle tech, prototyping ]
 image: assets/images/2020-01-16-sprookjespark-bewoner/hoofding.png
-downloads: [assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pdf, assets/images/22020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pptx]
+downloads: [assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pdf, assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pptx]
 ---
-Kruip in de kleren van Rube Goldberg en maak een ketting reactie (knikkerbaan) om een ballon te laten ontploffen in minimum 3 stappen.
-
+Maak  een pretpark bewoner! Jouw constructie moet minstens een bewegende onderdeel hebben. 
 ## Benodigdheden
 
 * Papierwaren en karton
