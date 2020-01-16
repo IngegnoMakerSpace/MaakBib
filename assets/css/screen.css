@@ -899,3 +899,7 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+tr {
+    border: 1px solid #ccc;
+}
