@@ -34,11 +34,11 @@ comments: false
   </li>
   <li><a target="_blank" href="https://www.minus-one.be/"> Minus One</a> <a target="_blank" href="https://www.minus-one.be/"> <img src="assets/images/sponsors/minusone-logo.png" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://www.technopolis.be/en/"> Technopolis</a> <a target="_blank" href="https://www.technopolis.be/en/"> <img src="assets/images/sponsors/technopolis-logo.png" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://www.technopolis.be/en/"> Technopolis</a> <a target="_blank" href="https://www.technopolis.be/en/"> <img src="assets/images/sponsors/technopolis-logo.png" height="100" width="150"/></a>
   </li>
   <li><a target="_blank" href="https://daskunst.be/"> Das Kunst</a> <a target="_blank" href="https://daskunst.be/"> <img src="assets/images/sponsors/daskunst-logo.png" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"> <img src="assets/images/sponsors/rhizo-logo.png" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"> <img src="assets/images/sponsors/rhizo-logo.png" height="100" width="150"/></a>
   </li>
 </ul>
 
