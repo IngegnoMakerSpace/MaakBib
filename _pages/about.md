@@ -18,7 +18,7 @@ comments: false
 <ul>
   <li><a target="_blank" href="http://decreatievestem.be/">vzw De Creatieve STEM</a> <a target="_blank" href="http://decreatievestem.be/"> <img src="{{site.baseurl}}/assets/images/sponsors/CreatieveSTEMLogo.png"></a>
   </li>
-  <li><a target="_blank" href="https://ieper.bibliotheek.be/"> Bibliotheek Ieper</a> <a target="_blank" href="https://ieper.bibliotheek.be/"> <img src="{{site.baseurl}}/assets/images/sponsors/logodebib.jpg"></a>
+  <li><a target="_blank" href="https://ieper.bibliotheek.be/"> Bibliotheek Ieper</a> <a target="_blank" href="https://ieper.bibliotheek.be/"> <img src="{{site.baseurl}}/assets/images/sponsors/logodebib.jpg" height="25" width="25"></a>
   </li>
   <li><a target="_blank" href="https://zonnebeke.bibliotheek.be/"> Bibliotheek Zonnebeke</a> <a target="_blank" href="https://zonnebeke.bibliotheek.be/"> <img src="{{site.baseurl}}/assets/images/sponsors/zonnebeke-bibliotheek-logo.jpg"></a>
   </li>
