@@ -38,7 +38,7 @@ comments: false
   </li>
   <li><a target="_blank" href="https://daskunst.be/"> Das Kunst</a> <a target="_blank" href="https://daskunst.be/"><br> <img src="assets/images/sponsors/daskunst-logo.png" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"><br> <img src="assets/images/sponsors/rhizo-logo.png" height="100" width="150"/></a>
+  <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"><br> <img src="assets/images/sponsors/rhizo-logo.png" height="100" width="200"/></a>
   </li>
 </ul>
 
