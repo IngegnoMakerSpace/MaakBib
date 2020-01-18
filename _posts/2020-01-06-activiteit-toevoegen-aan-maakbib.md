@@ -32,6 +32,76 @@ Naast vet en cursief kunt u ook een andere speciale opmaak in Markdown gebruiken
 + \*\*\_cursief vet\_\*\* wordt **_cursief vet_**
 + \\\*speciale karakters\\\* wordt \*speciale karakters\*
 
+## Paragraaf, nieuwe lijn, bullets en indent
+
+Je start een nieuwe paragraaf door een lege lijn te laten tussen blokken, bv
+```md
+paragraaf1 bla bla
+
+paragraaf 2 bla bla
+
+}
+```
+wordt:
+
+paragraaf1 bla bla
+
+paragraaf 2 bla bla
+
+Wil je gewoon een nieuwe lijn, dan kan dat met het symbool \\ op het einde van de lijn, bv
+
+```md
+tekst in een paragraaf\
+dit op nieuwe lijn
+}
+```
+wordt:
+
+
+tekst in een paragraaf\
+dit op nieuwe lijn
+
+Lijstjes maak je door nummers of sterretjes te plaatsen aan het begin van een lijn, terwijl je 4 spaties kunt gebruiken voor indents. Bevoorbeeld:
+
+
+```md
+tekst
+
+* bullet1
+* bullet2
+
+1. lijst
+2. lijst\
+    nieuwe lijn in lijst met 4 spaties ervoor.
+    1. sublijst
+    2. sublijst
+        * subbullet
+3. lijst
+
+    indent tekst
+
+tekst
+}
+```
+wordt:
+
+tekst
+
+* bullet1
+* bullet2
+
+1. lijst
+2. lijst\
+    nieuwe lijn in lijst met 4 spaties ervoor.
+    1. sublijst
+    2. sublijst
+        * subbullet
+3. lijst
+
+    indent tekst
+
+tekst
+
 ## Code Blokken
 
 Er zijn twee soorten code-elementen die in Markdown kunnen worden ingevoegd, de eerste is inline en de andere is blok. Inline code wordt opgemaakt door elk woord of woorden in back-ticks (\`) te plaatsen, `zoals dit`. Grotere codefragmenten kunnen op meerdere regels worden weergegeven met behulp van drievoudige back-ticks (\`\`\`) aan het begin en einde:
