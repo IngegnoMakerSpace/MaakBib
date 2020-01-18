@@ -16,29 +16,29 @@ comments: false
 
 <p>Volgende partners zetten hun schouders onder het MaakBib project:</p>
 <ul>
-  <li><a target="_blank" href="http://decreatievestem.be/">vzw De Creatieve STEM</a> <a target="_blank" href="http://decreatievestem.be/"> <img src="{{site.baseurl}}/assets/images/sponsors/CreatieveSTEMLogo.png"></a>
+  <li><a target="_blank" href="http://decreatievestem.be/">vzw De Creatieve STEM</a> <a target="_blank" href="http://decreatievestem.be/"><br> <img src="{{site.baseurl}}/assets/images/sponsors/CreatieveSTEMLogo.png"></a>
   </li>
-  <li><a target="_blank" href="https://ieper.bibliotheek.be/"> Bibliotheek Ieper</a> <a target="_blank" href="https://ieper.bibliotheek.be/"> <img src="assets/images/sponsors/logodebib.jpg" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://ieper.bibliotheek.be/"> Bibliotheek Ieper</a> <a target="_blank" href="https://ieper.bibliotheek.be/"><br> <img src="assets/images/sponsors/logodebib.jpg" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://zonnebeke.bibliotheek.be/"> Bibliotheek Zonnebeke</a> <a target="_blank" href="https://zonnebeke.bibliotheek.be/"> <img src="assets/images/sponsors/zonnebeke-biblotheek-logo.jpg" height="100" width="150"/></a>
+  <li><a target="_blank" href="https://zonnebeke.bibliotheek.be/"> Bibliotheek Zonnebeke</a> <a target="_blank" href="https://zonnebeke.bibliotheek.be/"><br> <img src="assets/images/sponsors/zonnebeke-biblotheek-logo.jpg" height="100" width="150"/></a>
   </li>
-  <li><a target="_blank" href="https://poperinge.bibliotheek.be/"> Bibliotheek Poperinge</a> <a target="_blank" href="https://poperinge.bibliotheek.be/"> <img src="assets/images/sponsors/poperinge-bibliotheek-logo.png" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://poperinge.bibliotheek.be/"> Bibliotheek Poperinge</a> <a target="_blank" href="https://poperinge.bibliotheek.be/"><br> <img src="assets/images/sponsors/poperinge-bibliotheek-logo.png" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://kortrijk.bibliotheek.be/"> Bibliotheek Kortrijk</a> <a target="_blank" href="https://kortrijk.bibliotheek.be/"> <img src="assets/images/sponsors/kortrijk-biblotheek-logo.jpg" height="180" width="100"/></a>
+  <li><a target="_blank" href="https://kortrijk.bibliotheek.be/"> Bibliotheek Kortrijk</a> <a target="_blank" href="https://kortrijk.bibliotheek.be/"><br> <img src="assets/images/sponsors/kortrijk-biblotheek-logo.jpg" height="180" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://stad.gent/nl/bibliotheek/"> Bibliotheek Gent</a> <a target="_blank" href="https://stad.gent/nl/bibliotheek/"> <img src="assets/images/sponsors/gent-bibliotheek-logo.png" height="180" width="130"/></a>
+  <li><a target="_blank" href="https://stad.gent/nl/bibliotheek/"> Bibliotheek Gent</a> <a target="_blank" href="https://stad.gent/nl/bibliotheek/"><br> <img src="assets/images/sponsors/gent-bibliotheek-logo.png" height="180" width="130"/></a>
   </li>
-  <li><a target="_blank" href="https://www.maldegem.be/bibliotheek/"> Bibliotheek Maldegem</a> <a target="_blank" href="https://www.maldegem.be/bibliotheek/"> <img src="assets/images/sponsors/maldegem-bibliotheek-logo.jpg" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://www.maldegem.be/bibliotheek/"> Bibliotheek Maldegem</a> <a target="_blank" href="https://www.maldegem.be/bibliotheek/"><br> <img src="assets/images/sponsors/maldegem-bibliotheek-logo.jpg" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://sint-niklaas.bibliotheek.be/"> Bibliotheek Sint-Niklaas</a> <a target="_blank" href="https://sint-niklaas.bibliotheek.be/"> <img src="assets/images/sponsors/sintniklaas-bibliotheek-logo.png" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://sint-niklaas.bibliotheek.be/"> Bibliotheek Sint-Niklaas</a> <a target="_blank" href="https://sint-niklaas.bibliotheek.be/"><br> <img src="assets/images/sponsors/sintniklaas-bibliotheek-logo.png" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://www.minus-one.be/"> Minus One</a> <a target="_blank" href="https://www.minus-one.be/"> <img src="assets/images/sponsors/minusone-logo.png" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://www.minus-one.be/"> Minus One</a> <a target="_blank" href="https://www.minus-one.be/"><br> <img src="assets/images/sponsors/minusone-logo.png" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://www.technopolis.be/en/"> Technopolis</a> <a target="_blank" href="https://www.technopolis.be/en/"> <img src="assets/images/sponsors/technopolis-logo.png" height="100" width="150"/></a>
+  <li><a target="_blank" href="https://www.technopolis.be/en/"> Technopolis</a> <a target="_blank" href="https://www.technopolis.be/en/"><br> <img src="assets/images/sponsors/technopolis-logo.png" height="100" width="150"/></a>
   </li>
-  <li><a target="_blank" href="https://daskunst.be/"> Das Kunst</a> <a target="_blank" href="https://daskunst.be/"> <img src="assets/images/sponsors/daskunst-logo.png" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://daskunst.be/"> Das Kunst</a> <a target="_blank" href="https://daskunst.be/"><br> <img src="assets/images/sponsors/daskunst-logo.png" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"> <img src="assets/images/sponsors/rhizo-logo.png" height="100" width="150"/></a>
+  <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"><br> <img src="assets/images/sponsors/rhizo-logo.png" height="100" width="150"/></a>
   </li>
 </ul>
 
