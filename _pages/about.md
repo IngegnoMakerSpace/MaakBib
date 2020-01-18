@@ -32,7 +32,7 @@ comments: false
   </li>
   <li><a target="_blank" href="https://sint-niklaas.bibliotheek.be/"> Bibliotheek Sint-Niklaas</a> <a target="_blank" href="https://sint-niklaas.bibliotheek.be/"> <img src="assets/images/sponsors/sintniklaas-bibliotheek-logo.png" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://www.minus-one.be/"> Minus One</a> <a target="_blank" href="https://www.minus-one.be/"> <img src="/assets/images/sponsors/minusone-logo.png" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://www.minus-one.be/"> Minus One</a> <a target="_blank" href="https://www.minus-one.be/"> <img src="assets/images/sponsors/minusone-logo.png" height="100" width="100"/></a>
   </li>
   <li><a target="_blank" href="https://www.technopolis.be/en/"> Technopolis</a> <a target="_blank" href="https://www.technopolis.be/en/"> <img src="assets/images/sponsors/technopolis-logo.png" height="100" width="100"/></a>
   </li>
