@@ -20,7 +20,7 @@ comments: false
   </li>
   <li><a target="_blank" href="https://ieper.bibliotheek.be/"> Bibliotheek Ieper</a> <a target="_blank" href="https://ieper.bibliotheek.be/"> <img src="assets/images/sponsors/logodebib.jpg" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://zonnebeke.bibliotheek.be/"> Bibliotheek Zonnebeke</a> <a target="_blank" href="https://zonnebeke.bibliotheek.be/"> <img src="assets/images/sponsors/zonnebeke-biblotheek-logo.jpg" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://zonnebeke.bibliotheek.be/"> Bibliotheek Zonnebeke</a> <a target="_blank" href="https://zonnebeke.bibliotheek.be/"> <img src="assets/images/sponsors/zonnebeke-biblotheek-logo.jpg" height="100" width="150"/></a>
   </li>
   <li><a target="_blank" href="https://poperinge.bibliotheek.be/"> Bibliotheek Poperinge</a> <a target="_blank" href="https://poperinge.bibliotheek.be/"> <img src="assets/images/sponsors/poperinge-bibliotheek-logo.png" height="100" width="100"/></a>
   </li>
