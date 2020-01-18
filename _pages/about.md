@@ -24,7 +24,7 @@ comments: false
   </li>
   <li><a target="_blank" href="https://poperinge.bibliotheek.be/"> Bibliotheek Poperinge</a> <a target="_blank" href="https://poperinge.bibliotheek.be/"> <img src="{{site.baseurl}}/assets/images/sponsors/poperinge-bibliotheek-logo.png"></a>
   </li>
-  <li><a target="_blank" href="https://kortrijk.bibliotheek.be/"> Bibliotheek Kortrijk</a> <a target="_blank" href="https://kortrijk.bibliotheek.be/"> <img src="{{site.baseurl}}/assets/images/sponsors/kortrijk-bibliotheek-logo.jpg"></a>
+  <li><a target="_blank" href="https://kortrijk.bibliotheek.be/"> Bibliotheek Kortrijk</a> <a target="_blank" href="https://kortrijk.bibliotheek.be/"> <img src="{{site.baseurl}}/assets/images/sponsors/kortrijk-biblotheek-logo.jpg"></a>
   </li>
   <li><a target="_blank" href="https://stad.gent/nl/bibliotheek/"> Bibliotheek Gent</a> <a target="_blank" href="https://stad.gent/nl/bibliotheek/"> <img src="{{site.baseurl}}/assets/images/sponsors/gent-bibliotheek-logo.png"></a>
   </li>
