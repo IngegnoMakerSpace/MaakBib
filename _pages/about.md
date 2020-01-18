@@ -24,9 +24,9 @@ comments: false
   </li>
   <li><a target="_blank" href="https://poperinge.bibliotheek.be/"> Bibliotheek Poperinge</a> <a target="_blank" href="https://poperinge.bibliotheek.be/"> <img src="assets/images/sponsors/poperinge-bibliotheek-logo.png" height="100" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://kortrijk.bibliotheek.be/"> Bibliotheek Kortrijk</a> <a target="_blank" href="https://kortrijk.bibliotheek.be/"> <img src="assets/images/sponsors/kortrijk-biblotheek-logo.jpg" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://kortrijk.bibliotheek.be/"> Bibliotheek Kortrijk</a> <a target="_blank" href="https://kortrijk.bibliotheek.be/"> <img src="assets/images/sponsors/kortrijk-biblotheek-logo.jpg" height="180" width="100"/></a>
   </li>
-  <li><a target="_blank" href="https://stad.gent/nl/bibliotheek/"> Bibliotheek Gent</a> <a target="_blank" href="https://stad.gent/nl/bibliotheek/"> <img src="assets/images/sponsors/gent-bibliotheek-logo.png" height="100" width="100"/></a>
+  <li><a target="_blank" href="https://stad.gent/nl/bibliotheek/"> Bibliotheek Gent</a> <a target="_blank" href="https://stad.gent/nl/bibliotheek/"> <img src="assets/images/sponsors/gent-bibliotheek-logo.png" height="180" width="130"/></a>
   </li>
   <li><a target="_blank" href="https://www.maldegem.be/bibliotheek/"> Bibliotheek Maldegem</a> <a target="_blank" href="https://www.maldegem.be/bibliotheek/"> <img src="assets/images/sponsors/maldegem-bibliotheek-logo.jpg" height="100" width="100"/></a>
   </li>
