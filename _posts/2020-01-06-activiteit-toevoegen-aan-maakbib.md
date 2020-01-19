@@ -2,6 +2,7 @@
 layout: post
 title:  "Een activiteit toevoegen op MaakBib"
 author: ben
+featured: false
 categories: [ tutorial, medium ]
 image: assets/images/code_fragment.jpg
 ---
