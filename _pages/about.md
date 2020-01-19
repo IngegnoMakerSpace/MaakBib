@@ -18,6 +18,11 @@ comments: false
 <ul>
   <li><a target="_blank" href="http://decreatievestem.be/">vzw De Creatieve STEM</a> <a target="_blank" href="http://decreatievestem.be/"><br> <img src="{{site.baseurl}}/assets/images/sponsors/CreatieveSTEMLogo.png"></a>
   </li>
+   <li><a target="_blank" href="https://daskunst.be/"> Das Kunst</a> <a target="_blank" href="https://daskunst.be/"><br> <img src="assets/images/sponsors/daskunst-logo.png" height="100" width="100"/></a>
+  </li>
+  <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"><br> <img src="assets/images/sponsors/rhizo-logo.png" height="100" width="200"/></a>
+  </li><br>
+  <h4>Members</h4>
   <li><a target="_blank" href="https://ieper.bibliotheek.be/"> Bibliotheek Ieper</a> <a target="_blank" href="https://ieper.bibliotheek.be/"><br> <img src="assets/images/sponsors/logodebib.jpg" height="100" width="100"/></a>
   </li>
   <li><a target="_blank" href="https://zonnebeke.bibliotheek.be/"> Bibliotheek Zonnebeke</a> <a target="_blank" href="https://zonnebeke.bibliotheek.be/"><br> <img src="assets/images/sponsors/zonnebeke-biblotheek-logo.jpg" height="100" width="150"/></a>
@@ -36,10 +41,7 @@ comments: false
   </li>
   <li><a target="_blank" href="https://www.technopolis.be/en/"> Technopolis</a> <a target="_blank" href="https://www.technopolis.be/en/"><br> <img src="assets/images/sponsors/technopolis-logo.png" height="100" width="150"/></a>
   </li>
-  <li><a target="_blank" href="https://daskunst.be/"> Das Kunst</a> <a target="_blank" href="https://daskunst.be/"><br> <img src="assets/images/sponsors/daskunst-logo.png" height="100" width="100"/></a>
-  </li>
-  <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"><br> <img src="assets/images/sponsors/rhizo-logo.png" height="100" width="200"/></a>
-  </li>
+  
 </ul>
 
 <h4>Vragen, opmerkingen, of verbeteringen,?</h4>
