@@ -39,9 +39,17 @@ post_class: post-template
                 {% endfor %}
 
                 <!-- Post Title -->
+              <div class="limitheight row post-top-meta">
+              <div class="limitheight col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
                 <h1 class="posttitle">{{ page.title }}</h1>
-
-            </div>
+              </div>
+                  <div class="printbutton col-xs-12 col-md-3 col-lg-2 text-center text-md-right mb-4 mb-md-0">
+                {% if page.print %}
+                  <a target="_blank" href="{{ site.baseurl }}/{{ page.print }}" > 
+                  </a>
+                {% endif %}
+                  </div>
+              </div>
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
             {% if site.adsense == "enabled" %}

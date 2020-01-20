@@ -9,8 +9,15 @@ DIT: true
 DIY: true
 CHALLENGE: true
 categories: [ challenge, Do It Yourself, low tech, middle tech, high tech, snijplotter, warmtepers]
+assets: assets/images/2020-01-16-tangram-labojas
 image: assets/images/2020-01-16-tangram-labojas/hoofding.png
-downloads: [assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op papier.pdf,assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op Google Tekeningen.jpg , assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op papier.pdf, assets/images/2020-01-16-tangram-labojas/tangram labojas stappenplan.pptx, assets/images/2020-01-16-tangram-labojas/Fiche_LabojasLogo_hightech.pdf]
+print: assets/images/2020-01-16-tangram-labojas/Stappenplan Tangram Labojas.pdf 
+downloads: [
+  assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op papier.pdf,
+  assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op Google Tekeningen.jpg , 
+  assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op papier.pdf, 
+  assets/images/2020-01-16-tangram-labojas/tangram labojas stappenplan.pptx, 
+  assets/images/2020-01-16-tangram-labojas/Fiche_LabojasLogo_hightech.pdf]
 ---
 Elke uitvinder haar labojas en eigen logo! 
 

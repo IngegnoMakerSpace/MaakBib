@@ -10,6 +10,7 @@ DIY: false
 CHALLENGE: false
 categories: [ tutorial, low, lasercutter ]
 image: assets/images/2020-01-13-lasercut-glasversiering/lasecut_glasversiering.png
+print: assets/images/2020-01-13-lasercut-glasversiering/LaserCutter_glasversiering.pdf
 ---
 In deze activiteit leer je een leuke versiering maken voor glazen op de feesttafel. We gebruiken hiervoor de lasercutter
 

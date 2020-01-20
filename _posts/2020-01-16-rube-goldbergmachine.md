@@ -10,6 +10,7 @@ DIY: true
 CHALLENGE: true
 categories: [ challenge, Do It Yourself, low tech, middle tech, prototyping ]
 image: assets/images/2020-01-16-rube-goldbergmachine/hoofding.jpg
+print: assets/images/2020-01-16-rube-goldbergmachine/Fiche_Rube Goldbergmachine.pdf
 downloads: [assets/images/2020-01-16-rube-goldbergmachine/Fiche_Rube Goldbergmachine.pdf, assets/images/2020-01-16-rube-goldbergmachine/Fiche_Rube Goldbergmachine.pptx]
 ---
 Kruip in de kleren van Rube Goldberg en maak een ketting reactie (knikkerbaan) om een ballon te laten ontploffen in minimum 3 stappen.
