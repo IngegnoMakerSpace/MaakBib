@@ -11,6 +11,7 @@ DIY: true
 CHALLENGE: false
 categories: [ tutorial, medium ]
 image: assets/images/code_fragment.jpg
+print: false
 ---
 Je hebt een leuke activiteit ontwikkeld die ideaal is om toe te voegen op [MaakBib](http://maakbib.be)? Wel, goed nieuws, dit kan. Je kan ons de activiteit opsturen als docx, of google doc. 
 

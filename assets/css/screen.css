@@ -949,3 +949,20 @@ a.btnactive:active{
   color: white;
 }
 
+
+.printbutton a:link, .printbutton a:visited {
+  background-color: white;
+  color: white;
+  padding: 35px 25px 25px 35px; /* whatever the dimensions the image needs */
+  margin: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-image: url('/assets/images/print0.png') ; /* Position left/right/whatever */
+  background-repeat: no-repeat;
+}
+
+.printbutton a:hover, .printbutton  a:active {
+  background-image: url('/assets/images/print.png') ; /* Position left/right/whatever */
+  background-repeat: no-repeat;
+}

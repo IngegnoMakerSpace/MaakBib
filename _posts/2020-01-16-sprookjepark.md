@@ -11,6 +11,7 @@ CHALLENGE: true
 categories: [ challenge, Do It Yourself, low tech, middle tech, prototyping ]
 image: assets/images/2020-01-16-sprookjespark-bewoner/hoofding.png
 downloads: [assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pdf, assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pptx]
+print: assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pdf
 ---
 Maak  een pretpark bewoner! Jouw constructie moet minstens een bewegende onderdeel hebben. 
 ## Benodigdheden
