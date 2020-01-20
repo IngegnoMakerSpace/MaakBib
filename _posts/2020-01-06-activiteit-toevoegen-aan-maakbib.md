@@ -1,8 +1,14 @@
 ---
 layout: post
 title:  "Een activiteit toevoegen op MaakBib"
-author: ben
+authors: [ben]
 featured: false
+lowtech: false
+medtech: false
+hightech: true
+DIT: false
+DIY: true
+CHALLENGE: false
 categories: [ tutorial, medium ]
 image: assets/images/code_fragment.jpg
 ---

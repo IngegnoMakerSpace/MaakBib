@@ -1,7 +1,13 @@
 ---
 layout: post
 title:  "Knikkerbaan met een knal maken"
-authors: [cristina, sanne] 
+authors: [cri, sanne] 
+lowtech: true
+medtech: true
+hightech: false
+DIT: false
+DIY: true
+CHALLENGE: true
 categories: [ challenge, Do It Yourself, low tech, middle tech, prototyping ]
 image: assets/images/2020-01-16-rube-goldbergmachine/hoofding.jpg
 downloads: [assets/images/2020-01-16-rube-goldbergmachine/Fiche_Rube Goldbergmachine.pdf, assets/images/2020-01-16-rube-goldbergmachine/Fiche_Rube Goldbergmachine.pptx]

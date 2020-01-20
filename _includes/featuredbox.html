@@ -1,5 +1,7 @@
 <!-- begin post -->
-{% assign author = site.authors[post.author] %}
+{% assign firstauthorname = {{post.authors | first}} %}
+{% assign author = site.authors[ firstauthorname ] %}
+
 <div class="col-md-6 mb-30px">
     <div class="listfeaturedtag h-100">
         <div class="row h-100">
@@ -33,7 +35,7 @@
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
-                                {% if post.author %}
+                                {% if post.authors %}
                                 <span class="meta-footer-thumb">
                                 {% if author.avatar %}
                                 <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">

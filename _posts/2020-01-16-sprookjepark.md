@@ -1,7 +1,13 @@
 ---
 layout: post
 title:  "Bewegende Sprookjesparkbewoner"
-authors: [cristina, sanne] 
+authors: [cri, sanne] 
+lowtech: true
+medtech: true
+hightech: false
+DIT: false
+DIY: true
+CHALLENGE: true
 categories: [ challenge, Do It Yourself, low tech, middle tech, prototyping ]
 image: assets/images/2020-01-16-sprookjespark-bewoner/hoofding.png
 downloads: [assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pdf, assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pptx]

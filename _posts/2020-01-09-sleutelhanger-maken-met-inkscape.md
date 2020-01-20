@@ -1,8 +1,14 @@
 ---
 layout: post
 title:  "Sleutelhanger maken met Inkscape en de Lasercutter"
-author: amy
+authors: [amy]
 featured: true
+lowtech: false
+medtech: false
+hightech: true
+DIT: true
+DIY: false
+CHALLENGE: false
 categories: [ tutorial, medium, lasercutter ]
 image: assets/images/2020-01-09-sleutelhanger-maken-met-inkscape/image22.png
 ---
