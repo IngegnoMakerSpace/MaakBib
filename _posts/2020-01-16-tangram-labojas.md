@@ -1,7 +1,13 @@
 ---
 layout: post
 title:  "Ontwerp een labojas"
-authors: [cristina, sanne] 
+authors: [cri, sanne] 
+lowtech: true
+medtech: true
+hightech: true
+DIT: true
+DIY: true
+CHALLENGE: true
 categories: [ challenge, Do It Yourself, low tech, middle tech, high tech, snijplotter, warmtepers]
 image: assets/images/2020-01-16-tangram-labojas/hoofding.png
 downloads: [assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op papier.pdf,assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op Google Tekeningen.jpg , assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op papier.pdf, assets/images/2020-01-16-tangram-labojas/tangram labojas stappenplan.pptx, assets/images/2020-01-16-tangram-labojas/Fiche_LabojasLogo_hightech.pdf]

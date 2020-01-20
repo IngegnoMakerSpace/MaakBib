@@ -1,7 +1,13 @@
 ---
 layout: post
-title:  "Sleutelhanger maken met Inkscape en de Lasercutter"
-author: len
+title:  "Glasversiering maken met de lasercutter"
+authors: [len]
+lowtech: false
+medtech: true
+hightech: false
+DIT: true
+DIY: false
+CHALLENGE: false
 categories: [ tutorial, low, lasercutter ]
 image: assets/images/2020-01-13-lasercut-glasversiering/lasecut_glasversiering.png
 ---

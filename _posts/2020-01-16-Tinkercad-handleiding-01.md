@@ -2,6 +2,12 @@
 layout: post
 title:  "3D printer: aan de slag met Tinkercad"
 authors: [sanne, benny]
+lowtech: true
+medtech: false
+hightech: false
+DIT: false
+DIY: true
+CHALLENGE: false
 categories: [ tutorial, low, 3D-printer, Do It Yourself]
 image: assets/images/2020-01-16-Tinkercad-handleiding-01/Tinkercad-handleiding.png
 downloads: [assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf]

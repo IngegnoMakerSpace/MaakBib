@@ -2,6 +2,12 @@
 layout: post
 title:  "Tinkercad gebruiken om een bootje te maken"
 authors: [sanne]
+lowtech: true
+medtech: false
+hightech: false
+DIT: false
+DIY: true
+CHALLENGE: false
 featured: true
 categories: [ tutorial, low, 3D-printer, Do It Yourself]
 image: assets/images/2020-01-16-Tinkercad-handleiding-02/hoofding.png

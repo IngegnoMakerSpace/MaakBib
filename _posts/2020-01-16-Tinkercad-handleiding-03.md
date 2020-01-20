@@ -2,6 +2,12 @@
 layout: post
 title:  "Tinkercad gebruiken om een 3D print uil te maken"
 authors: [sanne]
+lowtech: true
+medtech: false
+hightech: false
+DIT: false
+DIY: true
+CHALLENGE: false
 categories: [ tutorial, low, 3D-printer, Do It Yourself]
 image: assets/images/2020-01-16-Tinkercad-handleiding-03/hoofding.png
 downloads: [assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf]
