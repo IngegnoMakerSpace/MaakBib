@@ -8,9 +8,9 @@ pagination:
 <!-- Tech Selector
 ================================================== -->
 <div class="filterbutton">
-  <a class="btnactive" href="/lowtech"
+  <a href="/lowtech"
     >low tech</a>
-  <a href="/medtech"
+  <a class="btnactive" href="/medtech"
     >medium tech</a>
   <a href="/hightech"
     >high tech</a>
@@ -32,7 +32,7 @@ pagination:
 
         {% for post in site.posts %}
         
-        {% if post.lowtech%}
+        {% if post.medtech%}
 
           {% include postbox.html %}
           
