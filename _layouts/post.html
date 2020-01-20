@@ -93,32 +93,33 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
+            {% if page.layout == post %}
+              <!-- Post Categories -->
+              <div class="after-post-cats">
+                  <ul class="tags mb-4">
+                      {% assign sortedCategories = page.categories | sort %}
+                      {% for category in sortedCategories %}
+                      <li>
+                          <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+                      </li>
+                      {% endfor %}
+                  </ul>
+              </div>
+              <!-- End Categories -->
 
-            <!-- Post Categories -->
-            <div class="after-post-cats">
-                <ul class="tags mb-4">
-                    {% assign sortedCategories = page.categories | sort %}
-                    {% for category in sortedCategories %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <!-- End Categories -->
-
-            <!-- Post Tags -->
-            <div class="after-post-tags">
-                <ul class="tags">
-                    {% assign sortedTags = page.tags | sort %}
-                    {% for tag in sortedTags %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <!-- End Tags -->
+              <!-- Post Tags -->
+              <div class="after-post-tags">
+                  <ul class="tags">
+                      {% assign sortedTags = page.tags | sort %}
+                      {% for tag in sortedTags %}
+                      <li>
+                          <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                      </li>
+                      {% endfor %}
+                  </ul>
+              </div>
+              <!-- End Tags -->
+           {% endif %}
 
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
@@ -130,7 +131,6 @@ post_class: post-template
             {% endif %}
             <div class="clearfix"></div>
             </div>
-            <!-- End Categories -->
 
         </div>
         <!-- End Post -->
@@ -140,9 +140,9 @@ post_class: post-template
 <!-- End Article
 ================================================== -->
 
-<!-- Begin Comments
+<!-- Begin Comments  -- TURNED OFF
 ================================================== -->
-{% if page.comments != false %}
+{% if false %}
     <div class="container">
         <div id="comments" class="row justify-content-center mb-5">
             <div class="col-md-8">

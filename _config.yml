@@ -55,6 +55,16 @@ authors:
     web: http://decreatievestem.be
     twitter: https://twitter.com/
     description: "Sanne is productontwikkelaar. Ze is onder andere bedenker van <a href=\"http://www.ingegno.be/realisations/diorama.html\">het Diorama project</a> welke je bij Ingegno, De Creatieve STEM en enkele bibliotheken kunt uitlenen"
+
+# Collections on MaakBib site
+collections:
+  wistjedat:
+    output: true
+  tools:
+    output: true
+  draaiboeken:
+    output: true
+
 # Plugins
 plugins:
   - jekyll-paginate-v2

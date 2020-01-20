@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Low Tech Activiteiten
-permalink: /lowtech
+title: High Tech Activiteiten
+permalink: /hightech
 pagination: 
   enabled: false
 ---
