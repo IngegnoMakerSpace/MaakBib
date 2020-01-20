@@ -22,7 +22,10 @@ comments: false
   </li>
   <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"><br> <img src="assets/images/sponsors/rhizo-logo.png" height="100" width="200"/></a>
   </li><br>
+  
   <h4>Members</h4>
+  
+  <p>Zijn dit de leden die we gedurende het project gaan samenwerken: </p>
   <li><a target="_blank" href="https://ieper.bibliotheek.be/"> Bibliotheek Ieper</a> <a target="_blank" href="https://ieper.bibliotheek.be/"><br> <img src="assets/images/sponsors/logodebib.jpg" height="100" width="100"/></a>
   </li>
   <li><a target="_blank" href="https://zonnebeke.bibliotheek.be/"> Bibliotheek Zonnebeke</a> <a target="_blank" href="https://zonnebeke.bibliotheek.be/"><br> <img src="assets/images/sponsors/zonnebeke-biblotheek-logo.jpg" height="100" width="150"/></a>
