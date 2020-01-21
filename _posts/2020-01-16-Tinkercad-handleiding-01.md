@@ -11,7 +11,9 @@ CHALLENGE: false
 categories: [ tutorial, low, 3D-printer, Do It Yourself]
 image: assets/images/2020-01-16-Tinkercad-handleiding-01/Tinkercad-handleiding.png
 print: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
-downloads: [assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf]
+downloads:
+  - name: 'Volledige handleiding 3D printen'
+    file: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
 ---
 Je wil een 3D object maken en printen met de 3D printer? We leren je hier hoe. 
 

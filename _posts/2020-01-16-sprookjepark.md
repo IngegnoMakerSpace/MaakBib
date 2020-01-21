@@ -10,10 +10,18 @@ DIY: true
 CHALLENGE: true
 categories: [ challenge, Do It Yourself, low tech, middle tech, prototyping ]
 image: assets/images/2020-01-16-sprookjespark-bewoner/hoofding.png
-downloads: [assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pdf, assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pptx]
 print: assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pdf
+downloads:
+  - name: 'Fiche van de activiteit'
+    file: assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pdf
+  - name: 'Presentatie van de activiteit' 
+    file: assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pptx
+    description: Gebruik deze presentatie om de activiteit aan te brengen
+    
 ---
+
 Maak  een pretpark bewoner! Jouw constructie moet minstens een bewegende onderdeel hebben. 
+
 ## Benodigdheden
 
 * Papierwaren en karton
