@@ -12,7 +12,27 @@ post_class: post-template
 
         <!-- Post Share -->
         <div class="col-md-2 pl-0">
+          {% if false %}  <!-- deactivate the share sidebox for now -->
             {% include share.html %}
+          {% endif %}
+          {% if page.DIT or page.DIY or page.CHALLENGE %}
+          <div class="share sticky-top sticky-top-offset">
+            {% if page.DIT %}
+              <p><strong>DIT</strong> </p>
+              <p>Doe in groep deze activiteit.</p>
+              <p>Je krijgt hier een handig stappenplan.</p>
+            {% endif%}
+            {% if page.DIY %}
+              <p><strong>DIY</strong> </p>
+              <p>Deze activiteit doe je zelfstandig op je eigen ritme.</p>
+            {% endif%}
+            {% if page.CHALLENGE %}
+              <p><strong>CHALLANGE</strong> </p>
+              <p>Dit is een challenge. Werk eraan in groep, werk op het stuk dat je het meest interesseert.</p>
+            {% endif%}
+          </div>
+          {% endif %}
+          
         </div>
 
         <!-- Post -->
@@ -50,6 +70,7 @@ post_class: post-template
                 {% endif %}
                   </div>
               </div>
+          </div>
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
             {% if site.adsense == "enabled" %}
@@ -83,6 +104,30 @@ post_class: post-template
                 {% endif %}
                 <!-- End Toc -->
                 {{content}}
+              
+                <!-- Downloadable content box -->
+                {% if page.downloads %}
+                <div class="list-item-2 container wrap-reverse align-items-end justify-content-center" data-aos="fade-up" data-aos-delay="0" data-aos-offset="0">
+                  <div class="list-item-2-img flex-basis-300 flex-grow-1" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
+                    <h2>Downloads</h2>
+                  </div>
+                  <div class="flex-basis-400 flex-grow-5">
+                    {% for download in page.downloads %}
+                    <div class="list-download" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
+                      <div class="list-download-title">
+                      <p>{{download.name}}: <a href="{{site.baseurl}}/{{download.file}}" target=_blank>Download</a></p>
+                        {% if download.description %}
+                          <p class="list-download-p">{{download.description}}</p>
+                        {% endif %}
+                      </div>
+                      <hr>
+                    </div>
+                        
+                    {% endfor %}
+                  </div>
+                </div>
+                {% endif %}
+                
             </div>
 
             <!-- Rating -->
@@ -101,6 +146,7 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
+              
             {% if page.layout == post %}
               <!-- Post Categories -->
               <div class="after-post-cats">
@@ -143,8 +189,8 @@ post_class: post-template
         </div>
         <!-- End Post -->
 
-    </div>
-</div>
+    </div> <!-- end row -->
+    
 <!-- End Article
 ================================================== -->
 

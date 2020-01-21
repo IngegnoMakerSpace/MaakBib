@@ -12,12 +12,22 @@ categories: [ challenge, Do It Yourself, low tech, middle tech, high tech, snijp
 assets: assets/images/2020-01-16-tangram-labojas
 image: assets/images/2020-01-16-tangram-labojas/hoofding.png
 print: assets/images/2020-01-16-tangram-labojas/Stappenplan Tangram Labojas.pdf 
-downloads: [
-  assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op papier.pdf,
-  assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op Google Tekeningen.jpg , 
-  assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op papier.pdf, 
-  assets/images/2020-01-16-tangram-labojas/tangram labojas stappenplan.pptx, 
-  assets/images/2020-01-16-tangram-labojas/Fiche_LabojasLogo_hightech.pdf]
+downloads:
+  - name: 'Sjabloon tangram zwart/wit'
+    file: assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op papier.pdf
+    description: Print dit sjabloon voor de deelnemers. 
+  - name: 'Sjabloon tangram kleur'
+    file: assets/images/2020-01-16-tangram-labojas/Sjabloon tangram op Google Tekeningen.jpg
+    description: Print dit sjabloon voor de deelnemers indien je kleur tangram wil. 
+  - name: 'Handleiding Logo maken'
+    file: assets/images/2020-01-16-tangram-labojas/HowTo_make_logo.pdf
+    description: 'Met deze handleiding leer je de basisregels om een logo te ontwerpen'
+  - name: 'Presentatie Stappenplan'
+    file: assets/images/2020-01-16-tangram-labojas/tangram labojas stappenplan.pptx
+  - name: 'Fiche Low/Middle tech versie'
+    file: assets/images/2020-01-16-tangram-labojas/Stappenplan Tangram Labojas.pdf
+  - name: 'Fiche high tech versie'
+    file: assets/images/2020-01-16-tangram-labojas/Fiche_LabojasLogo_hightech.pdf
 ---
 Elke uitvinder haar labojas en eigen logo! 
 
@@ -48,7 +58,7 @@ Activiteit in low/middle tech versie  [deze handige fiche]({{ site.baseurl }}/as
 
 Activiteit in high tech versie vind je terug in [deze handige fiche]({{ site.baseurl }}/assets/images/2020-01-16-tangram-labojas/Fiche_LabojasLogo_hightech.pdf).
 
-Info over de basis regels logo's maken[deze handige fiche]({{ site.baseurl }}/assets/images/2020-01-16-tangram-labojas/HowTo_make_logo.pdf).
+Info over de basis regels logo's maken [deze handige fiche]({{ site.baseurl }}/assets/images/2020-01-16-tangram-labojas/HowTo_make_logo.pdf).
 
 ## Voorbeelden
 Heb je een foto van je werkje? Stuur het ons!
