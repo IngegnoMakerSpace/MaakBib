@@ -45,10 +45,11 @@ comments: false
   <li><a target="_blank" href="https://sint-niklaas.bibliotheek.be/"> Bibliotheek Sint-Niklaas</a> <a target="_blank" href="https://sint-niklaas.bibliotheek.be/"><br> <img src="assets/images/sponsors/sintniklaas-bibliotheek-logo.png" height="100" width="100"/></a>
   </li>
   <li><a target="_blank" href="https://www.minus-one.be/"> Minus One</a> <a target="_blank" href="https://www.minus-one.be/"><br> <img src="assets/images/sponsors/minusone-logo.png" height="100" width="100"/></a>
-  <p>Minus One is a youth culture center in the beautiful Ghent Rabot district, just outside the city center. We stimulate and inspire young people with a varied program. You can dance with us, party, attend concerts, organize events, follow workshops, quizzes, hang out, and follow different workshops, but also develop your project during a residency, participate in creative interventions in the public space, develop your business idea or ask for advice about a project idea or business plan. We provide customized support.</p>
+  <p>Minus One is een jongerencultuurcentrum in de prachtige Gentse Rabotwijk, net buiten het stadscentrum. We prikkelen en inspireren jongeren met een gevarieerd programma. Je kan bij ons dansen, feesten, concerten bijwonen, evenementen organiseren, workshops volgen, quizzen, hangen, en verschillende ateliers volgen, maar ook je project uitwerken tijdens een residentie, meedoen met creatieve interventies in de openbare ruimte, je ondernemingsidee uitwerken of advies vragen over een projectidee of businessplan. Wij zorgen voor ondersteuning op maat.</p>
   </li>
   <li><a target="_blank" href="https://www.technopolis.be/en/"> Technopolis</a> <a target="_blank" href="https://www.technopolis.be/en/"><br> <img src="assets/images/sponsors/technopolis-logo.png" height="100" width="150"/></a>
-  <p>Technopolis is a place where curious people aged 4 to 104 years old come to discover all kinds of stuff about science and technology. Technopolis is not a museum, but a hands-on science centre! You roll up your sleeves during all kinds of workshops, feast your eyes on amazing demonstrations and mind-blowing shows and try out numerous interactive exhibits.</p>
+  <p>Technopolis is een plek waar curieuzeneuzemosterdpotten van 4 tot 104 van alles over wetenschap en technologie komen ontdekken.
+Technopolis is géén museum, maar een doe-centrum! Je steekt er de handen uit de mouwen tijdens allerlei workshops, geeft je ogen de kost tijdens te gekke demo's en shows en je gaat er aan de slag met talloze interactieve opstellingen.</p>
   </li>
   
 </ul>
