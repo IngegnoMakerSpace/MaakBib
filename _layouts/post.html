@@ -10,11 +10,31 @@ post_class: post-template
 <div class="container">
     <div class="row">
 
-        <!-- Post Share -->
+        <!-- Left Column -->
         <div class="col-md-2 pl-0">
           {% if false %}  <!-- deactivate the share sidebox for now -->
             {% include share.html %}
           {% endif %}
+          
+          
+          <!-- Author Box -->
+          {% for authorname in page.authors %}
+            {% assign author = site.authors[ authorname ] %}
+            <div class="row post-top-meta">
+                <div class="share text-center text-md-center">
+                    {% if author.avatar %}
+                    <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}" style="margin-right: 0px">
+                    {% else %}
+                    <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+                    {% endif %}
+                    <p>
+                    <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
+                    </p><!--a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a-->
+                    <span class="author-description">{{ author.description }}</span>
+                </div>
+            </div>
+          {% endfor %}
+          
           {% if page.DIT or page.DIY or page.CHALLENGE %}
           <div class="share sticky-top sticky-top-offset">
             {% if page.DIT %}
@@ -40,7 +60,8 @@ post_class: post-template
         <div class="col-md-9 flex-first flex-md-unordered">
             <div class="mainheading">
 
-                <!-- Author Box -->
+                <!-- Author Box above post-->
+                {% if false %}
                 {% for authorname in page.authors %}
                   {% assign author = site.authors[ authorname ] %}
                   <div class="row post-top-meta">
@@ -57,6 +78,7 @@ post_class: post-template
                       </div>
                   </div>
                 {% endfor %}
+                {% endif %}
 
                 <!-- Post Title -->
               <div class="limitheight row post-top-meta">
