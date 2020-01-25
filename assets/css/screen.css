@@ -998,3 +998,13 @@ a.btnactive:active{
         margin-top: 20px;
       }
 }
+
+a.callout {
+    padding: 8px 10px 8px;
+    background: #be2033;
+    border-radius: 30px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 0.8rem;
+    display: inline-block;
+}
