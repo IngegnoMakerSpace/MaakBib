@@ -6,9 +6,11 @@ comments: false
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+<div class="col-md-8 pr-5" markdown="1">
 
-<p>MaakBib is een STEM-partnerschap gesteund door Vlaio. </p>
+`MaakBib` is een STEM-partnerschap gesteund door Vlaio.
+
+`MaakBib` is een initiatief waarbij een bestaande bibliotheek niet enkel nog dient als een uitleendienst voor boeken, maar ook een uitleendienst aan kennis en maakvaardigheden. Hiertoe vervelt de bibliotheek naar een instituut met ook verschillend fablab tools die aangeboden worden. Ook binnen diverse jeugdorganisaties zal zo’n MaakBib ingericht worden.
 
 <!--p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p-->
 
