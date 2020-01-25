@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Etsen van glas - Low Tech"
+title:  "Nutella Lamp: Etsen van glas - Mid Tech"
 authors: [fien]
 lowtech: true
 medtech: false
@@ -8,14 +8,15 @@ hightech: false
 DIT: true
 DIY: false
 CHALLENGE: false
-categories: [ chemie ]
+categories: [ chemie, snijplotter, 2D-tekenen ]
 image: assets/images/2020-01-25-etsen-van-glas-low-tech/workshop-glas-ets-vosje.jpg
 print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
 downloads:
   - name: 'Stappenplan glas etsen met etspasta'
     file: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
 ---
-Ga aan de slag met glas ets. Hiermee creër je afbeeldingen op glazen voorwerpen van ongehard glas.
+
+Ga aan de slag met glas ets om een tilt-licht te maken voor in je kamer. Met glas ets creër je afbeeldingen op glazen voorwerpen van ongehard glas. Ideaal voor een leuk nachtlampje.
 
 Glas etsen met etspasta is niet moeilijk maar je moet wel heel zorgvuldig te werk gaan want je werkt met een bijtend middeltje. 
 
@@ -23,8 +24,10 @@ Wist je dat de mogelijkheid om glas met zuur te etsen werd in 1670 bij toeval in
 
 ## Benodigdheden
 
-* Glazen voorwerpen van ongehard glas
-* Sticker vel of sticker sjablonen
+* Glazen voorwerpen van ongehard glas: we gebruiken een Nutella pot
+* Sticker vel
+* Snijplotter
+* Laptop met Inkscape (2d tekenen)
 * Transfertape
 * Schilderstape
 * Alcohol of glasreiniger (optioneel)
@@ -35,26 +38,31 @@ Wist je dat de mogelijkheid om glas met zuur te etsen werd in 1670 bij toeval in
 * Water en afwasmiddel (zonder citroen)
 * Keukenpapier
 * Keukenhanddoek
+* tiltsensor (TODO LINK)
+* coincell batterij 3V en batterijhouder
+* Space tape (conductieve plakband) of geleidende draad
+* LED lampje
 
-## Maak je glasets sjabloon
+## Maak je digitale glasets sjabloon
 
-Maak eerst je sjabloon, dat is de figuur die je op je glas wil zien verschijnen. Je hoeft geen tekenaar te zijn, je kan ook eenvoudige geometrische figuren gebruiken. Bevoorbeeld, knip gewoon driehoeken en rechthoeken uit zoals een tangram.
+We maken eerst een sjabloon van de figuur die we op ons glas willen. We maken deze op de computer met het programma Inkscape.
 
-![tangram]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/image7.png) ![tangram]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/image5.png) 
+TODO: hoe vb tekenen. link naar inkscape handleiding
 
-Maak dus een tekening, bijvoorbeeld <br/>
-![geimporteerde figuur]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/image17.png)
+Geen tijd om een sjabloon te maken? Of inspiratie nodig? Download een van onze voorbeeld sjablonen of zoek een 2D svg file op internet geschikt voor een sjabloon (zoekterm: silhouette, sjabloon)
 
-Knip deze tekening dan uit op de rand,opgelet, je kan beide delen gebruiken, dus proper knippen!<br/>
-![geimporteerde figuur]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/image11.png)
+TODO: hier links naar download svgs
 
-Kies hoe je etst, de cut-out (rechts) of de template (links):
-![geimporteerde figuur]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/image14.png)
+## Snij je digitale glasets sjabloon
+
+TODO: plotter gebruiken. link naar plotter handleiding
 
 Je sjabloon is klaar! __Was__ het __glas__ en plak het stickersjabloon op het glas
 
-## Fiche
+## Fiche glas etsen
 Je vindt een overzicht van de stappen en leuke weetjes in [deze handige fiche]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf).
+
+Voor onze toepassing gebruiken we een glasbokaal.
 
 Een overzicht:
 
@@ -68,6 +76,11 @@ Een overzicht:
 8. Om er zeker van te zijn dat het glas helemaal schoon is kun je het nog in de vaatwasser doen voor gebruik.
 
 De etssjablonen en de gebruikte doekjes zijn nu chemisch afval! Ga hier zorgvuldig mee om. Ruim alle materiaal op en bewaar de etspasta buiten het bereik van kinderen!
+
+## Licht circuit maken voor in je pot
+Je pot is klaar, nu nog deze omtoveren in een lampje ingewerkt in het deksel.
+
+TODO
 
 ## Voorbeelden
 Heb je een foto van je glasversiering? Stuur hem ons!
