@@ -2,6 +2,7 @@
 layout: page
 title: Makers Gezocht!
 permalink: /makersgezocht
+image: assets/downloads/202001_makersgezocht/Makersvoormakers.png
 comments: false
 ---
 
@@ -9,6 +10,13 @@ comments: false
 <div class="col-md-8 pr-5" markdown="1">
 
 Voor het project Maakbib zijn we op zoek naar de echte makers onder ons, meer specifiek naar hun eigenzinnige projecten geschikt voor activiteiten binnen makerspaces en FabLabs. 
+
+{% if site.lazyimages == "enabled" %}
+<img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+{% else %}
+<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+{% endif %}
+            
 
 Maakbib is een initiatief waarbij een bestaande bibliotheek niet enkel nog dient als een uitleendienst voor boeken, maar ook een uitleendienst aan kennis en maakvaardigheden. Hiertoe vervelt de bibliotheek naar een instituut met ook verschillend fablab tools die aangeboden worden. Ook binnen diverse jeugdorganisaties zal zo’n MaakBib ingericht worden.
 
@@ -23,7 +31,7 @@ We zijn op zoek naar concrete stappenplannen volgens een bepaald niveau. Spreek 
 
 De stappenplannen worden beschikbaar gesteld aan MaakBib onder een Creative Commons licentie.
 
-#### Wat is nu de bedoeling?
+#### Wat kan ik? 
 
 __Lowtech__: Ik kan iets openschroeven en ga aan de slag met de onderdelen binnenin. Ik maak bijvoorbeeld een _useless machine_ of gewoon een simpele stroomkring. 
 
@@ -70,7 +78,10 @@ Als inspiratie van wat we met niveau bedoelen kun je __ons voorbeeld Glas Etsen 
 
 <div class="col-md-4">
 
-<div class="sticky-top sticky-top-80">
+<div class="sticky-top sticky-top-80"  markdown="1">
+<h5>Downloads</h5>
+<a target="_blank" href="{{site.baseurl}}/assets/downloads/202001_makersgezocht/Maker voor maker sjabloon.pptx">Activiteiten Sjabloon</a>
+
 <h5>Sponsors</h5>
 
 <p>MaakBib is mogelijk gemaakt door steun van volgende partners.
