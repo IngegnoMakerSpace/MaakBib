@@ -9,6 +9,9 @@ hightech: true
 DIT: false
 DIY: true
 CHALLENGE: false
+duurtijd: "2 tot 3u"
+moeilijkheidsgraad_1_3: 3
+prijs_1_3: 0
 categories: [ software, website ]
 image: assets/images/code_fragment.jpg
 print: false
