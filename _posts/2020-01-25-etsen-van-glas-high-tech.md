@@ -95,7 +95,35 @@ Het elektronische circuit:
 ![circuit]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/etsen_glas_hightech_schema.png)
 
 #### Constructie van Circuit
+Om het circuit te maken, heb je naast de componenten, 7 draadjes nodig alsook een soldeerbout, kniptang, striptang en kleine platte schroevendraaier. 
 
+Indien mogelijk, gebruik rode draden voor de aansluitingen naar 5V en zwarte draden voor de aansluitingen naar GND. 
+
+Knip de draadjes ongeveer 10 cm lang en strip de uiteinden, vertin ze dan.  
+Vertin dan de pootjes van de DHT22 en de eilandjes op de neopixel (enkel de 3 eilandjes aan de _in_ kant zal je nodig hebben). 
+Soldeer dan de draden eraan.
+Gebruik krimpkousenom kortsluitingen te vermijden en je werk proper te houden.
+Soldeer een poot van de LDR aan een poot van de weerstand en soldeer hierbij een draad die je dan met de A0 verbindt. 
+
+![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie02.jpg)
+![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie03.jpg)
+
+![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie01.jpg)
+![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie11.jpg)
+
+Beslis waar alles moet komen op het dop en gebruik een stift om aan te duiden waar de gaten voor het bevestigen van de stukken moeten komen. Maak dan ook een gat om de neopixel aan de binnenkant van het dop te kunnen doen. Steek de neopixel erdoor en connecteer dan de draden naar de juiste pinnen zoals aangegeven in het schema. 
+
+![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie04.jpg)
+![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie06.jpg)
+![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie07.jpg)
+
+Maak alle andere connecties zoals op het schema en gebruik dan M3 moeren (bij voorkeur nylon moeren) om alles aan het dop te bevestigen. 
+De constructie zou nu zoals volgt moeten eruit zien,met de neopixel aan de binnekant van het dop.
+
+![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie10.jpg)
+![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie09.jpg)
+
+Heb je geen moeren? Dan kan je ook lijmen. 
 #### Programmatie
 
 We programmeren nu de nano om als nachtlamp te kunnen dienen. We gebruiken hiervoor [blokkencode.ingegno.be](http://blokkencode.ingegno.be). Een basishandleiding van deze tool vind je op de site van [Ingegno](http://ingegno.be/realisations/blockly4arduino.html).
