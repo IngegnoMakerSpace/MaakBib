@@ -61,18 +61,23 @@ We meten de temperatuur van de kamer ook, en passen hiermee de kleur van het lic
 
 Neem volgende componenten:
 
-* Een Arduino Nano
-* Een DHT11 of DHT22 op een PCB
-* Een LDR
-* Een neopixel
+* 1 Arduino Nano
+* 1 Arduini Nano houder (optioneel)
+* 1 DHT11 of DHT22 op een PCB
+* 1 LDR (hier 16 kOhm)
+* 1 weerstand (hier 16 kOhm)
+* 1 neopixel
 
-Stap 1 is het bepalen van welke weerstand we nodig hebben om de LDR uit te lezen. Een LDR geeft een verschillende weerstand terug afhankelijk van de hoeveelheid lichtinval. Als het donker is, is de weerstand het grootst. Meet de weerstand met een multimeter met je vinger op de LDR (dus in het donker). De LDR die wij gebruiken heeft een weerstand van `16 kOhm` dan. We schakelen hem daarom in serie met een andere weerstand van dezelfde sterkte, in ons geval een  `16 kOhm`, en maken volgend circuit met de componenten:
+Start met het bepalen van welke weerstand nodig is om de LDR uit te lezen. Dit doe je door de weerstandwaarde te meten met een multimeter terwijl je de LDR met je vinger bedekt (in het donker dus). Schakel dan de LDR in serie met een weerstand van dezelfde waarde zoals verder beschreven. 
+
+Een LDR geeft een verschillende weerstandwaarde terug afhankelijk van de hoeveelheid lichtinval. Als het donker is, is de weerstand het grootst. 
+Als we onze LDR uitmeten met een multimeter, heeft deze een weerstand van `16 kOhm`. We schakelen hem in serie met een andere weerstand van dezelfde sterkte, in ons geval een  `16 kOhm`, en maken volgend circuit met de componenten:
 
 ![fritzing circuit]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/circuit.png)
 
-Je ziet dat de LDR naar de GND pin gaat, en de weerstand naar de `5V`. Ze zijn geconnecteerd, en deze connectie verbind je met de `A0` pin. Hiermee meten we de lichtinval. Als het donker is, zijn beide weerstanden gelijk, en wordt het voltage dus in twee gesplitst. We meten dan aan de `A0` pin `2,5 V`. Is er veel licht, dan is de LDR een veel lagere weerstand dat de `16 kOhm`, en meten we dus aan de `A0` pin een waarde die dichter bij `0 V` ligt dan bij `2,5 V`.
+De LDR is verbinden met de GND pin en staat in serie met de weerstand die dan met de `5V` verbonden is. Je verbindt dan ook de twee (zie schema) met de analoge `A0` pin. Hiermee meten we de lichtinval. Als het donker is, zijn beide weerstanden gelijk, en wordt het voltage dus in twee gesplitst. We meten dan aan de `A0` pin `2,5 V`. Is er veel licht, dan is de LDR een veel lagere weerstand dat de `16 kOhm`, en meten we dus aan de `A0` pin een waarde die dichter bij `0 V` ligt dan bij `2,5 V`.
 
-Een neopixel heeft een in en een uit kant. De in kant heeft 3 connecties, de GND, de VCC welke naar `5V` gaat, en de input meestal aangeduid met `Din`, welke we verbinden met pin `D2` van de nano.
+Een neopixel heeft een _in_ en een _uit_ kant. De _in_ kant heeft 3 connecties, de GND, de VCC welke naar `5V` gaat, en de input meestal aangeduid met `Din`, welke we verbinden met pin `D2` van de nano.
 
 De DHT11 of DHT22 heeft 4 pinnen. Koop deze evenwel op een PCB, dan zijn er 3 pinnen en is constructie gemakkelijker. Een pin is - of GND, een pin + of VCC welke opnieuw naar `5V` gaat, en dan een out pint welke je verbindt met `D8` van de nano. De DHT22 meet temperatuur nauwkeuriger dan de DHT11, en is daarom een beetje duurder.
 
