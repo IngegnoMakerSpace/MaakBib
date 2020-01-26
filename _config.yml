@@ -55,6 +55,14 @@ authors:
     web: http://decreatievestem.be
     twitter: https://twitter.com/
     description: "Sanne is productontwikkelaar. Ze is onder andere bedenker van <a href=\"http://www.ingegno.be/realisations/diorama.html\">het Diorama project</a> welke je kunt uitlenen"
+  fien:
+    name: Fien
+    display_name: Fien
+    avatar: 'assets/images/avatars/avatar18.png'
+    email: 
+    web: http://decreatievestem.be
+    twitter: https://twitter.com/
+    description: "Fien is productontwikkelaar en leerkracht met een passie voor voetbal."
 
 # Collections on MaakBib site
 collections:
