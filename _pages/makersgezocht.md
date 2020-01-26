@@ -31,6 +31,7 @@ We zijn op zoek naar concrete stappenplannen volgens een bepaald niveau. Spreek 
 
 De stappenplannen worden beschikbaar gesteld aan MaakBib onder een Creative Commons licentie.
 
+<div class="border_boxmaakbib02_img" markdown="1">
 #### Wat kan ik? 
 
 __Lowtech__: Ik kan iets openschroeven en ga aan de slag met de onderdelen binnenin. Ik maak bijvoorbeeld een _useless machine_ of gewoon een simpele stroomkring. 
@@ -38,6 +39,7 @@ __Lowtech__: Ik kan iets openschroeven en ga aan de slag met de onderdelen binne
 __Middletech__: Met een minimum aan digitale wijsheid ga ik aan de slag. Ik gebruik enkele digitale applicaties om bijvoorbeeld de snijplotter te gaan bedienen. 
 
 __Hightech__: Physical computing heeft (bijna) geen geheimen meer voor mij. Ik gebruik voor mijn projecten vooral digitale maaktechnieken. Denk maar aan een lasercutter, CNC-router, functioneel 3D-printen.
+</div>
 
 #### Ik heb interesse. Wat nu?
 
@@ -46,6 +48,8 @@ Misschien heb je al een mock-up, schets of een foto van een eigen constructie di
 
 Alle inzendingen worden verzameld, en door een jury bestaande uit makers, jeugdwerkers en bibliotheekverantwoordelijken beoordeeld. Je krijgt in Maart een seintje of je activiteit is geselecteerd, en kunt aan het werk om dit in detail uit te schrijven.  
 
+
+<div class="border_boxmaakbib03_img" markdown="1">
 #### Wat hebben wij jou te bieden?
 
 Buiten eeuwige roem bieden we je ook een ondersteuning voor het geleverde werk. Afhankelijk voor welk niveau je indient krijgen geselecteerde activiteiten volgend bedrag. 
@@ -55,6 +59,7 @@ Lowtech: een vergoeding van __€300__.
 Middletech: een vergoeding van __€550__.
 
 Hightech: een vergoeding van __€750__.
+</div>
 
 #### Planning?
 
