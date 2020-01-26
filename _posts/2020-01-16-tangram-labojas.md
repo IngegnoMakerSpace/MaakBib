@@ -3,7 +3,7 @@ layout: post
 title:  "Ontwerp een labojas"
 authors: [cri, sanne] 
 lowtech: true
-medtech: true
+midtech: true
 hightech: true
 DIT: true
 DIY: true

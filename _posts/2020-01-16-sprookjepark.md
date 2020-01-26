@@ -3,7 +3,7 @@ layout: post
 title:  "Bewegende Sprookjesparkbewoner"
 authors: [cri, sanne] 
 lowtech: true
-medtech: true
+midtech: true
 hightech: false
 DIT: false
 DIY: true

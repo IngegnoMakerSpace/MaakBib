@@ -3,7 +3,7 @@ layout: post
 title:  "Tinkercad gebruiken om een 3D print uil te maken"
 authors: [sanne]
 lowtech: true
-medtech: false
+midtech: false
 hightech: false
 DIT: false
 DIY: true

@@ -3,7 +3,7 @@ layout: post
 title:  "3D printer: aan de slag met Tinkercad"
 authors: [sanne, benny]
 lowtech: true
-medtech: false
+midtech: false
 hightech: false
 DIT: false
 DIY: true

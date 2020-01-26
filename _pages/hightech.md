@@ -9,11 +9,11 @@ pagination:
 ================================================== -->
 <div class="filterbutton">
   <a href="/lowtech"
-    >low tech</a>
-  <a href="/medtech"
-    >medium tech</a>
+    >Low Tech</a>
+  <a href="/midtech"
+    >Middle Tech</a>
   <a class="btnactive" href="/hightech"
-    >high tech</a>
+    >High Tech</a>
   <a href="/">Alle</a>
 </div>
 

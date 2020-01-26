@@ -3,7 +3,7 @@ layout: post
 title:  "Glasversiering maken met de lasercutter"
 authors: [len]
 lowtech: false
-medtech: true
+midtech: true
 hightech: false
 DIT: true
 DIY: false
