@@ -3,7 +3,7 @@ layout: post
 title:  "Etsen van glas - Low Tech"
 authors: [fien]
 lowtech: true
-medtech: false
+midtech: false
 hightech: false
 DIT: true
 DIY: false

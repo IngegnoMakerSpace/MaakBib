@@ -4,7 +4,7 @@ title:  "Een activiteit toevoegen op MaakBib"
 authors: [ben]
 featured: false
 lowtech: false
-medtech: false
+midtech: false
 hightech: true
 DIT: false
 DIY: true

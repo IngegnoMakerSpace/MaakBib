@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Medium Tech Activiteiten
-permalink: /medtech
+title: Middle Tech Activiteiten
+permalink: /midtech
 pagination: 
   enabled: false
 ---
@@ -9,11 +9,11 @@ pagination:
 ================================================== -->
 <div class="filterbutton">
   <a href="/lowtech"
-    >low tech</a>
-  <a class="btnactive" href="/medtech"
-    >medium tech</a>
+    >Low Tech</a>
+  <a class="btnactive" href="/midtech"
+    >Middle Tech</a>
   <a href="/hightech"
-    >high tech</a>
+    >High Tech</a>
   <a href="/">Alle</a>
 </div>
 
