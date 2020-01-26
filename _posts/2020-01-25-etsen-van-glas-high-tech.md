@@ -8,7 +8,7 @@ hightech: false
 DIT: true
 DIY: false
 CHALLENGE: false
-categories: [ chemie, snijplotter, 2D-tekenen ]
+categories: [ chemie, snijplotter, 2D-tekenen, Physical Computing ]
 image: assets/images/2020-01-25-etsen-van-glas-low-tech/workshop-glas-ets-vosje.jpg
 print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
 downloads:

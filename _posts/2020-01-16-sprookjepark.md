@@ -8,7 +8,7 @@ hightech: false
 DIT: false
 DIY: true
 CHALLENGE: true
-categories: [ challenge, Do It Yourself, low tech, middle tech, prototyping ]
+categories: [ prototyping, art&craft ]
 image: assets/images/2020-01-16-sprookjespark-bewoner/hoofding.png
 print: assets/images/2020-01-16-sprookjespark-bewoner/Fiche_Sprookjespark.pdf
 downloads:

@@ -8,7 +8,7 @@ hightech: false
 DIT: false
 DIY: true
 CHALLENGE: true
-categories: [ challenge, Do It Yourself, low tech, middle tech, prototyping ]
+categories: [ prototyping, art&craft ]
 image: assets/images/2020-01-16-rube-goldbergmachine/hoofding.jpg
 print: assets/images/2020-01-16-rube-goldbergmachine/Fiche_Rube Goldbergmachine.pdf
 downloads: 

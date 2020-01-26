@@ -9,7 +9,7 @@ hightech: true
 DIT: true
 DIY: false
 CHALLENGE: false
-categories: [ tutorial, medium, lasercutter ]
+categories: [ lasercutter, 2D-tekenen ]
 image: assets/images/2020-01-09-sleutelhanger-maken-met-inkscape/image22.png
 print: false
 ---

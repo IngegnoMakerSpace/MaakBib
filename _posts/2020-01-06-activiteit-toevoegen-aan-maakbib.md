@@ -9,7 +9,7 @@ hightech: true
 DIT: false
 DIY: true
 CHALLENGE: false
-categories: [ tutorial, medium ]
+categories: [ software, website ]
 image: assets/images/code_fragment.jpg
 print: false
 ---
