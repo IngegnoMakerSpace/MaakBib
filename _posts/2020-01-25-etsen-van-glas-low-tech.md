@@ -14,6 +14,21 @@ print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.p
 downloads:
   - name: 'Stappenplan glas etsen met etspasta'
     file: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
+benodigdheden:  [
+  Glazen voorwerpen van ongehard glas,
+  Sticker vel of sticker sjablonen,
+  Transfertape,
+  Schilderstape,
+  Alcohol of glasreiniger (optioneel),
+  Etspasta,
+  Rubberen of latex handschoenen,
+  Spatels (bv. ijsstokje),
+  Plastic placemat,
+  Water en afwasmiddel (zonder citroen),
+  Keukenpapier,
+  Keukenhanddoek,
+]
+
 ---
 Ga aan de slag met glas ets. Hiermee creër je afbeeldingen op glazen voorwerpen van ongehard glas.
 
@@ -23,18 +38,7 @@ Wist je dat de mogelijkheid om glas met zuur te etsen werd in 1670 bij toeval in
 
 ## Benodigdheden
 
-* Glazen voorwerpen van ongehard glas
-* Sticker vel of sticker sjablonen
-* Transfertape
-* Schilderstape
-* Alcohol of glasreiniger (optioneel)
-* Etspasta
-* Rubberen of latex handschoenen
-* Spatels (bv. ijsstokje)
-* Plastic placemat
-* Water en afwasmiddel (zonder citroen)
-* Keukenpapier
-* Keukenhanddoek
+{% include benodigdheden.html %}
 
 ## Maak je glasets sjabloon
 
