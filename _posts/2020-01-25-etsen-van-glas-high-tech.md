@@ -124,6 +124,7 @@ De constructie zou nu zoals volgt moeten eruit zien,met de neopixel aan de binne
 ![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie09.jpg)
 
 Heb je geen moeren? Dan kan je ook lijmen. 
+
 #### Programmatie
 
 We programmeren nu de nano om als nachtlamp te kunnen dienen. We gebruiken hiervoor [blokkencode.ingegno.be](http://blokkencode.ingegno.be). Een basishandleiding van deze tool vind je op de site van [Ingegno](http://ingegno.be/realisations/blockly4arduino.html).
