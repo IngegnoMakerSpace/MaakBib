@@ -21,7 +21,7 @@ authors:
     email: cristina@decreatievestem.be
     web: https://decreatievestem.be
     twitter: https://twitter.com/
-    description: "Creatieve manus van alles. Wiskundige. Niets is te gek, en ja, je kunt meer dan je denkt"
+    description: "Creatieve factotum. Wiskundige. Niets is te gek, en ja, je kunt meer dan je denkt"
   ben:
     name: Benny
     display_name: Benny
@@ -30,7 +30,7 @@ authors:
     email: benny.malengier@decreatievestem.be
     web: http://decreatievestem.be
     twitter: https://twitter.com/
-    description: "Benny is onderzoeker bij de UGent. Hij ontwikkeld workshops rond IoT, Arduino en meer. Auteur van <a href=\"http://blokkencode.ingegno.be\">blokkencode</a>"
+    description: "Onderzoeker bij de UGent. Ontwikkelt workshops rond IoT, Arduino en meer. Auteur van <a href=\"http://blokkencode.ingegno.be\">blokkencode</a>"
   amy:
     name: Amy
     display_name: Amy
@@ -38,7 +38,7 @@ authors:
     email: amy@decreatievestem.be
     web: http://decreatievestem.be
     twitter: https://twitter.com/
-    description: "Amy is FabLab manager, workshop ontwikkelaar, boten bouwer, zeilster en dan ook nog workshop begeleider"
+    description: "FabLab manager, workshop ontwikkelaar, boten bouwer, zeilster en dan ook nog workshop begeleider"
   len:
     name: Lennard
     display_name: Lennard
@@ -46,7 +46,7 @@ authors:
     email: lennard@decreatievestem.be
     web: http://decreatievestem.be
     twitter: https://twitter.com/
-    description: "Lennard is productontwikkelaar en manus van alles: lassen, houtbewerking, digitaal tekenen. Kan allemaal."
+    description: "Productontwikkelaar en manus van alles: lassen, houtbewerking, digitaal tekenen. Kan allemaal."
   sanne:
     name: Sanne
     display_name: Sanne
@@ -54,7 +54,7 @@ authors:
     email: 
     web: http://decreatievestem.be
     twitter: https://twitter.com/
-    description: "Sanne is productontwikkelaar. Ze is onder andere bedenker van <a href=\"http://www.ingegno.be/realisations/diorama.html\">het Diorama project</a> welke je kunt uitlenen"
+    description: "Productontwikkelaar. Ze is onder andere bedenker van <a href=\"http://www.ingegno.be/realisations/diorama.html\">het Diorama project</a> welke je kunt uitlenen"
   fien:
     name: Fien
     display_name: Fien
@@ -62,7 +62,7 @@ authors:
     email: 
     web: http://decreatievestem.be
     twitter: https://twitter.com/
-    description: "Fien is productontwikkelaar en leerkracht met een passie voor voetbal."
+    description: "Productontwikkelaar en leerkracht met een passie voor voetbal."
 
 # Collections on MaakBib site
 collections:
