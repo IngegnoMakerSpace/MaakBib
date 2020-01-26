@@ -138,9 +138,9 @@ post_class: post-template
                     <div class="list-download" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
                       <div class="list-download-title">
                       {% assign urlstart = download.file | slice: 0, 4 %}
-                      {% assign url = {{site.baseurl}} | append: '/' | append: {{download.file}} %}
+                      {% assign url = site.baseurl | append: '/' | append: download.file %}
                       {% if urlstart == 'http' %}
-                        {% assign url = {{download.file}} %}
+                        {% assign url = download.file %}
                       {% endif %}
                       <p>{{download.name}}: <a href="{{url}}" target=_blank>Download</a></p>
                         {% if download.description %}
