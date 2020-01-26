@@ -48,7 +48,7 @@
      id="namedview2649"
      showgrid="false"
      inkscape:zoom="2.5330116"
-     inkscape:cx="120.60216"
+     inkscape:cx="322.86329"
      inkscape:cy="177.04728"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -2545,12 +2545,56 @@
   <text
      style="font-style:normal;font-weight:normal;font-size:medium;font-family:DroidSans;fill:#000000;fill-opacity:1;stroke:none"
      id="text2639"
-     y="113.80255"
-     x="283.99472">NeoPixel</text>
+     y="89.226982"
+     x="291.10089">NeoPixel</text>
   <circle
      style="fill:#000000;stroke:none;stroke-width:0"
      cx="11.843263"
      cy="23.306509"
      r="1.4400001"
      id="circle2601-3" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.12504387px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7500025px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="269.14655"
+     y="98.51368"
+     id="text3397"><tspan
+       sodipodi:role="line"
+       id="tspan3395"
+       x="269.14655"
+       y="98.51368"
+       style="stroke-width:0.7500025px">+</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.12504387px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7500025px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="271.51526"
+     y="141.743"
+     id="text3401"><tspan
+       sodipodi:role="line"
+       id="tspan3399"
+       x="271.51526"
+       y="141.743"
+       style="stroke-width:0.7500025px">-</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.12504387px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7500025px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="269.44263"
+     y="120.12833"
+     id="text3405"><tspan
+       sodipodi:role="line"
+       id="tspan3403"
+       x="269.44263"
+       y="120.12833"
+       style="stroke-width:0.7500025px">Din</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.12504387px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7500025px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="316.52109"
+     y="121.31271"
+     id="text3409"><tspan
+       sodipodi:role="line"
+       id="tspan3407"
+       x="316.52109"
+       y="121.31271"
+       style="stroke-width:0.7500025px">Dout</tspan></text>
 </svg>
