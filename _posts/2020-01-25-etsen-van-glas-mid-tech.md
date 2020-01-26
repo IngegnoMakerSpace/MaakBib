@@ -14,6 +14,26 @@ print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.p
 downloads:
   - name: 'Stappenplan glas etsen met etspasta'
     file: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
+benodigdheden:  [
+  Glazen voorwerpen van ongehard glas; we gebruiken een Nutella pot,
+  Sticker vel,
+  Snijplotter,
+  Laptop met Inkscape (2d tekenen),
+  Transfertape,
+  Schilderstape,
+  Alcohol of glasreiniger (optioneel),
+  Etspasta,
+  Rubberen of latex handschoenen,
+  Spatels (bv. ijsstokje),
+  Plastic placemat,
+  Water en afwasmiddel (zonder citroen),
+  Keukenpapier,
+  Keukenhanddoek,
+  tiltsensor (TODO LINK),
+  coincell batterij 3V en batterijhouder,
+  Space tape (conductieve plakband) of geleidende draad,
+  LED lampje
+]
 ---
 
 Ga aan de slag met glas ets om een tilt-licht te maken voor in je kamer. Met glas ets creër je afbeeldingen op glazen voorwerpen van ongehard glas. Ideaal voor een leuk nachtlampje.
@@ -24,24 +44,7 @@ Wist je dat de mogelijkheid om glas met zuur te etsen werd in 1670 bij toeval in
 
 ## Benodigdheden
 
-* Glazen voorwerpen van ongehard glas: we gebruiken een Nutella pot
-* Sticker vel
-* Snijplotter
-* Laptop met Inkscape (2d tekenen)
-* Transfertape
-* Schilderstape
-* Alcohol of glasreiniger (optioneel)
-* Etspasta
-* Rubberen of latex handschoenen
-* Spatels (bv. ijsstokje)
-* Plastic placemat
-* Water en afwasmiddel (zonder citroen)
-* Keukenpapier
-* Keukenhanddoek
-* tiltsensor (TODO LINK)
-* coincell batterij 3V en batterijhouder
-* Space tape (conductieve plakband) of geleidende draad
-* LED lampje
+{% include benodigdheden.html %}
 
 ## Maak je digitale glasets sjabloon
 

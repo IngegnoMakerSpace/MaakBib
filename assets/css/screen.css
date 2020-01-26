@@ -1027,11 +1027,16 @@ div.border_boxmaakbib02_img {
   border-image: url(../images/box_Maakbib02_cmyk.png) round;
   border-image-width: 100px;
   border-image-slice: 38%;
-  color:#49bcc5;
+  color: gainsboro;
   background: #364f6b;
   margin-bottom: 10px;
   line-height: 1.35;
 }
+
+div.border_boxmaakbib02_img h4 {
+  color: #49bcc5;
+}
+
 
 div.border_boxmaakbib03_img {
   border: 25px solid transparent;
@@ -1039,8 +1044,29 @@ div.border_boxmaakbib03_img {
   border-image: url(../images/box_Maakbib03_cmyk.png) round;
   border-image-width: 100px;
   border-image-slice: 38%;
-  color:#e73854;
+  color: gainsboro;
   background: #09528a;
   margin-bottom: 10px;
   line-height: 1.2;
+}
+
+div.border_boxmaakbib03_img h4 {
+  color: #e73854;
+}
+
+div.benodigdheden {    
+    /* background-color:Gray;*/
+}
+
+.benodigdheden ul {
+  padding-left: 10px;
+}
+
+.benodigdheden li {
+      list-style-type: none;
+}
+.benodigdheden li:before {
+          content: '\00bb';
+          color: #be2033;
+          padding-right: 0.5em;
 }
