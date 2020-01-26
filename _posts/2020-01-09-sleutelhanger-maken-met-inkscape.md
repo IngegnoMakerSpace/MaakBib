@@ -9,6 +9,9 @@ hightech: true
 DIT: true
 DIY: false
 CHALLENGE: false
+duurtijd: "1u30"
+moeilijkheidsgraad_1_3: 1
+prijs_1_3: 0
 categories: [ lasercutter, 2D-tekenen ]
 image: assets/images/2020-01-09-sleutelhanger-maken-met-inkscape/image22.png
 print: false

@@ -8,6 +8,9 @@ hightech: false
 DIT: false
 DIY: true
 CHALLENGE: false
+duurtijd: "1u"
+moeilijkheidsgraad_1_3: 1
+prijs_1_3: 0
 categories: [ software, 3D-printer]
 image: assets/images/2020-01-16-Tinkercad-handleiding-01/Tinkercad-handleiding.png
 print: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf

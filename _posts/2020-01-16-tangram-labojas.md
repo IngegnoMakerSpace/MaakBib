@@ -8,6 +8,9 @@ hightech: true
 DIT: true
 DIY: true
 CHALLENGE: true
+duurtijd: "3u"
+moeilijkheidsgraad_1_3: 1
+prijs_1_3: 1
 categories: [ snijplotter, warmtepers, art&craft]
 assets: assets/images/2020-01-16-tangram-labojas
 image: assets/images/2020-01-16-tangram-labojas/hoofding.png

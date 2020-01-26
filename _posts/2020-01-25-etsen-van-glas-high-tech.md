@@ -8,6 +8,9 @@ hightech: true
 DIT: true
 DIY: false
 CHALLENGE: false
+duurtijd: "3 tot 6u"
+moeilijkheidsgraad_1_3: 2
+prijs_1_3: 2
 categories: [ chemie, snijplotter, 2D-tekenen, Physical Computing ]
 image: assets/images/2020-01-25-etsen-van-glas-low-tech/workshop-glas-ets-vosje.jpg
 print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf

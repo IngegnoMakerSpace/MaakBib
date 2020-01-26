@@ -38,18 +38,34 @@ post_class: post-template
           {% if page.DIT or page.DIY or page.CHALLENGE %}
           <div class="share sticky-top sticky-top-offset">
             {% if page.DIT %}
-              <p><strong>DIT</strong> </p>
-              <p>Doe in groep deze activiteit.</p>
-              <p>Je krijgt hier een handig stappenplan.</p>
+              <p><strong>DIT</strong> &#10004; </p>
             {% endif%}
             {% if page.DIY %}
-              <p><strong>DIY</strong> </p>
-              <p>Deze activiteit doe je zelfstandig op je eigen ritme.</p>
+              <p><strong>DIY</strong> &#10004; </p>
             {% endif%}
             {% if page.CHALLENGE %}
-              <p><strong>CHALLANGE</strong> </p>
-              <p>Dit is een challenge. Werk eraan in groep, werk op het stuk dat je het meest interesseert.</p>
+              <p><strong>CHALLANGE</strong> &#10004; </p>
             {% endif%}
+            {% if page.duurtijd %}
+            <p><strong>Duur:</strong> {{page.duurtijd}}</p>
+            {% endif%}
+            {% if page.moeilijkheidsgraad_1_3 %}
+              {% if  page.moeilijkheidsgraad_1_3 == 1 %}
+                <p><strong>Beginner</strong> &#10004; </p>
+              {% elsif  page.moeilijkheidsgraad_1_3 == 2 %}
+                <p><strong>Half-gevorderden</strong> &#10004; </p>
+              {% elsif  page.moeilijkheidsgraad_1_3 == 3 %}
+                <p><strong>Gevorderden</strong> &#10004; </p>
+              {% endif %}
+            {% endif%}
+            {% if page.prijs_1_3 > 0 %}
+            <p><strong>Prijs:</strong> 
+              {% for i in  (1..page.prijs_1_3)%}
+                €
+              {% endfor %}
+            </p>
+            {% endif%}
+            
           </div>
           {% endif %}
           

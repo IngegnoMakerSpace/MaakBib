@@ -8,6 +8,9 @@ hightech: false
 DIT: true
 DIY: false
 CHALLENGE: false
+duurtijd: "1u30"
+moeilijkheidsgraad_1_3: 1
+prijs_1_3: 1
 categories: [ lasercutter, 2D-tekenen ]
 image: assets/images/2020-01-13-lasercut-glasversiering/lasecut_glasversiering.png
 print: assets/images/2020-01-13-lasercut-glasversiering/LaserCutter_glasversiering.pdf
