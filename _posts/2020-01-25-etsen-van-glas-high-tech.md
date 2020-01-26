@@ -83,7 +83,15 @@ De DHT11 of DHT22 heeft 4 pinnen. Koop deze evenwel op een PCB, dan zijn er 3 pi
 
 Maak je constructie zodat alles in het deksel past, en je nog stroom kunt voorzien aan de Arduino. Hiertoe moet je solderen (TODO: link naar solderen )
 
+Het elektronische circuit:
+
+![circuit]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/etsen_glas_hightech_schema.png)
+
 #### Constructie van Circuit
+
+#### Programmatie
+
+We programmeren nu de nano om als nachtlamp te kunnen dienen.
 
 ## Voorbeelden
 Heb je een foto van je glasversiering? Stuur hem ons!
