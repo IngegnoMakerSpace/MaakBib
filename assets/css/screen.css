@@ -1015,10 +1015,14 @@ div.border_boxmaakbib01_img {
   border-image: url(../images/box_Maakbib01_cmyk.png) round;
   border-image-width: 100px;
   border-image-slice: 38%;
-  color:#be2033;
+  color: #4f4f4f;
   background: #9fd5dc;
   margin-bottom: 10px;
   line-height: 1.2;
+}
+
+div.border_boxmaakbib01_img h4 {
+  color: #be2033;
 }
 
 div.border_boxmaakbib02_img {
@@ -1036,7 +1040,6 @@ div.border_boxmaakbib02_img {
 div.border_boxmaakbib02_img h4 {
   color: #49bcc5;
 }
-
 
 div.border_boxmaakbib03_img {
   border: 25px solid transparent;
