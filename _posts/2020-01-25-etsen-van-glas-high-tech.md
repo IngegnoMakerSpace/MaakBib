@@ -14,6 +14,10 @@ print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.p
 downloads:
   - name: 'Stappenplan glas etsen met etspasta'
     file: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
+  - name: 'blokkencode xml file'
+    file: https://raw.githubusercontent.com/IngegnoMakerSpace/MaakBib/master/assets/images/2020-01-25-etsen-van-glas-high-tech/glasets_licht.xml
+  - name: 'Arduino nano code'
+    file: https://raw.githubusercontent.com/IngegnoMakerSpace/MaakBib/master/assets/images/2020-01-25-etsen-van-glas-high-tech/glasets_licht/glasets_licht.ino
 benodigdheden:  [
   Neopixel LED,
   DHT11 Temp/RH sensor,
@@ -120,11 +124,63 @@ De constructie zou nu zoals volgt moeten eruit zien, met de neopixel aan de binn
 ![constructie]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/constructie09.jpg)
 
 Heb je geen moeren? Dan kan je ook lijmen. 
+
 #### Programmatie
 
-We programmeren nu de nano om als nachtlamp te kunnen dienen. We gebruiken hiervoor [blokkencode.ingegno.be](http://blokkencode.ingegno.be)
+We programmeren nu de nano om als nachtlamp te kunnen dienen. We gebruiken hiervoor [blokkencode.ingegno.be](http://blokkencode.ingegno.be). Een basishandleiding van deze tool vind je op de site van [Ingegno](http://ingegno.be/realisations/blockly4arduino.html).
 
+Begin met het definieren van je Arduino Nano en alle gebruikte pinnen, alsook seriële monitor output om de gemeten waarden te kunnen opvolgen:
 
+![programma]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/programma_01.png)
+
+Maak een effect om elke seconde de lichtinval te meten en de temperatuur te meten:
+
+![programma]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/programma_02.png)
+
+In het setup gedeelde van de code (`Arduino doe eerst`) geven we beginwaarden voor alle variabelen, en zorgen we dat de neopixel af staat bij opstarten.
+
+![programma]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/programma_03.png)
+
+Vervolgens maken we een fuctie die de gemeten lichtinval omzet naar de helderheid die we de neopixel willen geven. We  voorzien 4 mogelijkheden, waarbij we bij dag de helderheid op 0 zetten, dus licht uit! Je kan de waarden van de helderheid (nacht, schemer, vallicht) aanpassen naar getallen tussen 0 en 255 indien je licht te zwak of helder vindt.
+
+![programma]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/programma_04.png)
+
+Onze loop zal er dan als volgt uitzien:
+
+1. meet licht
+2. meet temperatuur
+3. bepaal wat de helderheid van de pixel moet zijn
+4. bereken de nieuwe kleur die de pixel moet aannemen
+5. fade van oude kleur naar nieuwe kleur
+
+![programma]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/programma_05.png)
+
+De laatste twee procedures moeten we nog maken. De procedure `bepaal_volgende_kleur` is een `effect` welke om de 2 seconden een nieuwe kleur berekend. Welke kleur dit is zal afhankelijk zijn van de temperatuur:
+
+1. als dag: pixel uit
+2. als > 20°C, dan is het te warm, we tonen een combinatie van rood en groen als volgende kleur. Rood zal overheersen.
+3. als < 17°C, dat is het te koud in je kamer. We tonen een combinatie van blauw en groen als volgende kleur. Blauw zal overheersen
+4. anders is de temperatuur perfect! We tonen een regenboogeffect die door alle kleuren op een aangename manier gaat.
+
+De procedure om dit te doen is:
+
+![programma]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/programma_06.png)
+
+vervolg:
+
+![programma]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/programma_07.png)
+
+Om de regenboog te maken gebruiken we een teller. Om de twee seconden verhoogt de waarde van de teller met 1, en bekomen we een nieuwe kleur in onze regenboog. We doen dit als volgt:
+
+![programma]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/programma_08.png)
+
+We zijn er bijna! We hebben een oude kleur in de variabelen `R`, `G` en `B`, en de nieuw berekende kleur in de `Nieuw` variabelen. Elke twee seconden is er een nieuwe kleur, en we hebben de tijd bijgehouden waarop dit gebeurde met de variabele `tijdKleurBepaald`. We faden van de oude in de nieuwe kleur met een effect die elke 100 milliseconden loopt en over 1 seconde fade van oud naar nieuw, dan de voor 1 seconde de nieuwe kleur toont.
+
+Dit doen we zo:
+
+![programma]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/programma_09.png)
+
+Dit is het. Je vindt de xml file van deze code om op te laden op [blokkencode.ingegno.be](http://blokkencode.ingegno.be) in de Downloads, alsook de ino file die gegenereerd wordt. Je kan deze aanpassen zoals je zelf wil! 
 
 ## Voorbeelden
 Heb je een foto van je glasversiering? Stuur hem ons!
