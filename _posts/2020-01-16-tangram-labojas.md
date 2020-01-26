@@ -8,7 +8,7 @@ hightech: true
 DIT: true
 DIY: true
 CHALLENGE: true
-categories: [ challenge, Do It Yourself, low tech, middle tech, high tech, snijplotter, warmtepers]
+categories: [ snijplotter, warmtepers, art&craft]
 assets: assets/images/2020-01-16-tangram-labojas
 image: assets/images/2020-01-16-tangram-labojas/hoofding.png
 print: assets/images/2020-01-16-tangram-labojas/Stappenplan Tangram Labojas.pdf 

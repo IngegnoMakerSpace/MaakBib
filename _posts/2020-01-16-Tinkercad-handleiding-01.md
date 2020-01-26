@@ -8,7 +8,7 @@ hightech: false
 DIT: false
 DIY: true
 CHALLENGE: false
-categories: [ tutorial, low, 3D-printer, Do It Yourself]
+categories: [ software, 3D-printer]
 image: assets/images/2020-01-16-Tinkercad-handleiding-01/Tinkercad-handleiding.png
 print: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
 downloads:

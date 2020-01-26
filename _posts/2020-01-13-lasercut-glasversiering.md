@@ -8,7 +8,7 @@ hightech: false
 DIT: true
 DIY: false
 CHALLENGE: false
-categories: [ tutorial, low, lasercutter ]
+categories: [ lasercutter, 2D-tekenen ]
 image: assets/images/2020-01-13-lasercut-glasversiering/lasecut_glasversiering.png
 print: assets/images/2020-01-13-lasercut-glasversiering/LaserCutter_glasversiering.pdf
 downloads:
