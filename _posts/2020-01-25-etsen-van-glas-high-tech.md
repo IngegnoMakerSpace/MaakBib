@@ -2,9 +2,9 @@
 layout: post
 title:  "Slimme Nutella Lamp: Etsen van glas - High Tech"
 authors: [fien, cristina]
-lowtech: true
+lowtech: false
 midtech: false
-hightech: false
+hightech: true
 DIT: true
 DIY: false
 CHALLENGE: false
