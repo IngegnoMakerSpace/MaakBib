@@ -68,10 +68,13 @@ Neem volgende componenten:
 * 1 weerstand (hier 16 kOhm)
 * 1 neopixel
 
+
+![componenten]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/componenten.jpg)
+
 Start met het bepalen van welke weerstand nodig is om de LDR uit te lezen. Dit doe je door de weerstandwaarde te meten met een multimeter terwijl je de LDR met je vinger bedekt (in het donker dus). Schakel dan de LDR in serie met een weerstand van dezelfde waarde zoals verder beschreven. 
 
 Een LDR geeft een verschillende weerstandwaarde terug afhankelijk van de hoeveelheid lichtinval. Als het donker is, is de weerstand het grootst. 
-Als we onze LDR uitmeten met een multimeter, heeft deze een weerstand van `16 kOhm`. We schakelen hem in serie met een andere weerstand van dezelfde sterkte, in ons geval een  `16 kOhm`, en maken volgend circuit met de componenten:
+Als we onze LDR uitmeten met een multimeter, heeft deze een weerstand van `16 kOhm`. We schakelen hem in serie met een andere weerstand van ongeveer sterkte, in ons geval een  `15 kOhm`, en maken volgend circuit met de componenten:
 
 ![fritzing circuit]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-high-tech/circuit.png)
 
@@ -91,7 +94,9 @@ Het elektronische circuit:
 
 #### Programmatie
 
-We programmeren nu de nano om als nachtlamp te kunnen dienen.
+We programmeren nu de nano om als nachtlamp te kunnen dienen. We gebruiken hiervoor [blokkencode.ingegno.be](http://blokkencode.ingegno.be)
+
+
 
 ## Voorbeelden
 Heb je een foto van je glasversiering? Stuur hem ons!
