@@ -2,8 +2,8 @@
 layout: post
 title:  "Nutella Lamp: Etsen van glas - Mid Tech"
 authors: [fien]
-lowtech: true
-midtech: false
+lowtech: false
+midtech: true
 hightech: false
 DIT: true
 DIY: false
