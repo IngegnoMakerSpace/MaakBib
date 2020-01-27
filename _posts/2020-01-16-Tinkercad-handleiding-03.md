@@ -11,20 +11,28 @@ CHALLENGE: false
 duurtijd: "1u"
 moeilijkheidsgraad_1_3: 1
 prijs_1_3: 0
+pijler_tinkering : false
+pijler_design_thinking : false
+pijler_digitale_fabricatie : true
+pijler_physical_computing : false
 categories: [ software, 3D-printer]
 image: assets/images/2020-01-16-Tinkercad-handleiding-03/hoofding.png
 print: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
 downloads:
   - name: 'Volledige handleiding 3D printen'
     file: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
+benodigdheden:  [
+  Computer met muis,
+  Toegang tot het internet,
+  3D printer als je het wil afdrukken,
+]
+  
 ---
 Leer werken met Tinkercad en 3D tekeningen maken door deze handige handleiding te volgen om een **3D print uil** te maken.
 
 ## Benodigdheden
 
-* Computer met muis
-* Toegang tot het internet
-* 3D printer als je het wil afdrukken
+{% include benodigdheden.html %}
 
 ## Wat is Tinkercad?
 

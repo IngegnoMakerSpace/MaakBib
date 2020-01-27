@@ -2,7 +2,7 @@
 <div class="row">
   <div class="col-xs-12 col-md-6 col-lg-6 text-left text-md-left benodigdheden">
     <ul>
-    {% assign halfval = page.benodigdheden.size | divided_by: 2  %}
+    {% assign halfval = page.benodigdheden.size | plus: 1 | divided_by: 2 | plus: -1 %}
     {% for itemnr in (0..halfval) %}
       {% assign item = page.benodigdheden[itemnr] %}
       {% if item %}
@@ -13,10 +13,40 @@
     </ul>
   </div>
   <div class="col-xs-12 col-md-6 col-lg-6 text-left text-md-left benodigdheden">
-    {% assign halfval = page.benodigdheden.size | divided_by: 2  %}
-    {% assign halfval = halfval | plus:1 %}
+    {% assign halfval = page.benodigdheden.size | plus: 1 | divided_by: 2 | plus: -1 %}
+    {% assign halfval = halfval | plus: 1 %}
     {% for itemnr in (halfval..page.benodigdheden.size) %}
       {% assign item = page.benodigdheden[itemnr] %}
+      {% if item %}
+      <li> {{item}}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if page.benodigdheden_opt %}
+<strong>Optioneel:</strong>
+
+<div class="row">
+  <div class="col-xs-12 col-md-6 col-lg-6 text-left text-md-left benodigdheden">
+    <ul>
+    {% assign halfval = page.benodigdheden_opt.size | plus: 1 | divided_by: 2 | plus: -1 %}
+    {% for itemnr in (0..halfval) %}
+      {% assign item = page.benodigdheden_opt[itemnr] %}
+      {% if item %}
+      <li> {{item}}
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+  <div class="col-xs-12 col-md-6 col-lg-6 text-left text-md-left benodigdheden">
+    {% assign halfval = page.benodigdheden_opt.size | plus: 1 | divided_by: 2  | plus: -1  %}
+    {% assign halfval = halfval | plus:1 %}
+    {% for itemnr in (halfval..page.benodigdheden_opt.size) %}
+      {% assign item = page.benodigdheden_opt[itemnr] %}
       {% if item %}
       <li> {{item}}
       </li>

@@ -11,20 +11,27 @@ CHALLENGE: false
 duurtijd: "1u"
 moeilijkheidsgraad_1_3: 1
 prijs_1_3: 0
+pijler_tinkering : false
+pijler_design_thinking : false
+pijler_digitale_fabricatie : true
+pijler_physical_computing : false
 categories: [ software, 3D-printer]
 image: assets/images/2020-01-16-Tinkercad-handleiding-01/Tinkercad-handleiding.png
 print: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
 downloads:
   - name: 'Volledige handleiding 3D printen'
     file: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
+benodigdheden:  [
+  Computer met muis,
+  Toegang tot het internet,
+  3D printer als je het wil afdrukken,
+]
 ---
 Je wil een 3D object maken en printen met de 3D printer? We leren je hier hoe. 
 
 ## Benodigdheden
 
-* Computer met muis
-* Toegang tot het internet
-* 3D printer als je het wil afdrukken
+{% include benodigdheden.html %}
 
 ## Wat is Tinkercad?
 ### Van tekening naar print
