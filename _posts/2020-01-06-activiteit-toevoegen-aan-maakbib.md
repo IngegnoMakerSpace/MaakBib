@@ -12,6 +12,10 @@ CHALLENGE: false
 duurtijd: "2 tot 3u"
 moeilijkheidsgraad_1_3: 3
 prijs_1_3: 0
+pijler_tinkering : false
+pijler_design_thinking : false
+pijler_digitale_fabricatie : false
+pijler_physical_computing : false
 categories: [ software, website ]
 image: assets/images/code_fragment.jpg
 print: false

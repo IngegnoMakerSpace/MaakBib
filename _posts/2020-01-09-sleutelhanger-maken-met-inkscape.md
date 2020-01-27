@@ -12,17 +12,24 @@ CHALLENGE: false
 duurtijd: "1u30"
 moeilijkheidsgraad_1_3: 1
 prijs_1_3: 0
+pijler_tinkering : false
+pijler_design_thinking : false
+pijler_digitale_fabricatie : true
+pijler_physical_computing : false
 categories: [ lasercutter, 2D-tekenen ]
 image: assets/images/2020-01-09-sleutelhanger-maken-met-inkscape/image22.png
 print: false
+benodigdheden:  [
+  Computer met muis,
+  De Inkscape software,
+  Een Lasersnijder,
+]
 ---
 Je wil een sleutelhanger maken uit een materiaal die in de lasercutter past? We leren je hoe dat moet doen.
 
 ## Benodigdheden
 
-* Computer met muis
-* De Inkscape software
-* Een Lasersnijder
+{% include benodigdheden.html %}
 
 ## Stap 1: Open inkscape
 Inkscape is wat men een vectorieel tekenprogramma noemt. Het staat op de computers voorgeinstalleerd. Werk je thuis? Je kan het gratis installeren van [inkscape.org](https://inkscape.org/release)

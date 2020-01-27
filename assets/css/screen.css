@@ -1066,10 +1066,14 @@ div.benodigdheden {
 }
 
 .benodigdheden li {
-      list-style-type: none;
+  list-style-type: none;
 }
 .benodigdheden li:before {
-          content: '\00bb';
-          color: #be2033;
-          padding-right: 0.5em;
+  content: '\00bb';
+  color: #be2033;
+  padding-right: 0.5em;
+}
+
+span.sidebar-strong {
+  color: black;
 }

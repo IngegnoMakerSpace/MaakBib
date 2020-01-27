@@ -11,6 +11,10 @@ CHALLENGE: false
 duurtijd: "3 tot 6u"
 moeilijkheidsgraad_1_3: 2
 prijs_1_3: 2
+pijler_tinkering : false
+pijler_design_thinking : false
+pijler_digitale_fabricatie : true
+pijler_physical_computing : true
 categories: [ chemie, snijplotter, 2D-tekenen, Physical Computing ]
 image: assets/images/2020-01-25-etsen-van-glas-low-tech/workshop-glas-ets-vosje.jpg
 print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
@@ -43,6 +47,7 @@ Je hebt de benodigdheden nodig van de activiteit [Glas Etsen]({{ site.baseurl }}
 
 Je hebt extra nodig:
 
+{% include benodigdheden.html %}
 
 ## Maak je Nutella glas lamp
 
