@@ -40,7 +40,7 @@ benodigdheden:  [
 ]
 ---
 
-Ga aan de slag met glas ets om een tilt-licht te maken voor in je kamer. Met glas ets creër je afbeeldingen op glazen voorwerpen van ongehard glas. Ideaal voor een leuk nachtlampje.
+Ga aan de slag met glas ets om een __tilt-licht__ te maken voor in je kamer. Met glas ets creër je afbeeldingen op glazen voorwerpen van ongehard glas. Ideaal voor een leuk nachtlampje.
 
 Glas etsen met etspasta is niet moeilijk maar je moet wel heel zorgvuldig te werk gaan want je werkt met een bijtend middeltje. 
 
@@ -91,3 +91,5 @@ TODO
 
 ## Voorbeelden
 Heb je een foto van je glasversiering? Stuur hem ons!
+
+![Voorbeeld Glas Etsen]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/glas_etsen.jpg)
