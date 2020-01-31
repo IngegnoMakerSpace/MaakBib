@@ -81,9 +81,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
 
-# gems
-gems: [jekyll-paginate-v2]
-
 # Archives
 jekyll-archives:
   enabled:
