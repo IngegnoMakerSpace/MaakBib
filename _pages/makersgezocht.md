@@ -3,11 +3,17 @@ layout: page
 title: Makers Gezocht!
 permalink: /makersgezocht
 image: assets/downloads/202001_makersgezocht/Makersvoormakers.png
+submission: https://forms.gle/c1jHoQw2zLkM4CCD9
 comments: false
 ---
 
+
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5" markdown="1">
+
+<div style="text-align: center">
+<a href="https://forms.gle/c1jHoQw2zLkM4CCD9"><img src="{{ site.baseurl }}/assets/images/submit.svg"></a>
+</div>
 
 Voor het project Maakbib zijn we op zoek naar de echte makers onder ons, meer specifiek naar hun eigenzinnige projecten geschikt voor activiteiten binnen makerspaces en FabLabs. 
 
@@ -43,7 +49,7 @@ __Hightech__: Physical computing heeft (bijna) geen geheimen meer voor mij. Ik g
 
 #### Ik heb interesse. Wat nu?
 
-Schrijf je idee voor maakproject uit in een korte alinea. Stuur dit op naar ons via __dit Google Form__. <br />
+Schrijf je idee voor maakproject uit in een korte alinea. Stuur dit op naar ons via <a href="https://forms.gle/c1jHoQw2zLkM4CCD9">dit Google Form</a>. <br />
 Misschien heb je al een mock-up, schets of een foto van een eigen constructie die je verder kunt uitwerken? Voeg deze toe. 
 
 Alle inzendingen worden verzameld, en door een jury bestaande uit makers, jeugdwerkers en bibliotheekverantwoordelijken beoordeeld. Je krijgt in Maart een seintje of je activiteit is geselecteerd, en kunt aan het werk om dit in detail uit te schrijven.  
@@ -70,22 +76,37 @@ Je kan je voorstel __ten laatste indienen op 1 maart__ om middernacht.
 Dan laten wij jou zo snel mogelijk weten of je erbij bent of niet. <br />
 Nadien kan je aan de slag gaan met onze template, en nodigen we jullie uit voor een feedbackmoment. 
 
-Finaal zullen de finale bestanden upgeload worden naar [MaakBib.be](MaakBib.be), en is jouw hard werk voor eeuwig verzilverd. 
+Finaal zullen de finale bestanden upgeload worden naar [MaakBib.be](/), en is jouw hard werk voor eeuwig verzilverd. 
 
 
 #### Hoe indienen?
 
-Zoals gezegd, gebruik __volgend Google Form__ voor je voorstel tot activiteit. <br />
-Als inspiratie van wat we met niveau bedoelen kun je __ons voorbeeld Glas Etsen activiteit__ bekijken, welke we in 3 niveaus opgemaakt hebben.
+Zoals gezegd, gebruik <a href="https://forms.gle/c1jHoQw2zLkM4CCD9">volgend Google Form</a> voor je voorstel tot activiteit. <br />
+Als inspiratie van wat we met niveau bedoelen kun je __ons voorbeeld Glas Etsen activiteit__ bekijken, welke we in 3 niveaus opgemaakt hebben:
 
+* Low Tech: [Etsen van glas - Low Tech](http://maakbib.be/etsen-van-glas-low-tech/)
+* Middle Tech: [Nutella Lamp: Etsen van glas - Mid Tech](http://maakbib.be/etsen-van-glas-mid-tech/)
+* High Tech: [Slimme Nutella Lamp: Etsen van glas - High Tech](http://maakbib.be/etsen-van-glas-high-tech/)
+
+#### De Flyer
+
+Verspreid [onze pdf flyer]({{site.baseurl}}/assets/downloads/202001_makersgezocht/Flyer_makersvoormakers_finaal.pdf) naar al wie interesse heeft!
+
+![flyer](assets/downloads/202001_makersgezocht/flyer.png)
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80"  markdown="1">
+<h5>Dien In</h5>
+<a href="https://forms.gle/c1jHoQw2zLkM4CCD9">Dien je voorstel in </a>
+
 <h5>Downloads</h5>
+
 <a target="_blank" href="{{site.baseurl}}/assets/downloads/202001_makersgezocht/Maker voor maker sjabloon.pptx">Activiteiten Sjabloon</a>
+
+<a target="_blank" href="{{site.baseurl}}/assets/downloads/202001_makersgezocht/Flyer_makersvoormakers_finaal.pdf">Flyer Makers Gezocht</a>
 
 <h5>Sponsors</h5>
 

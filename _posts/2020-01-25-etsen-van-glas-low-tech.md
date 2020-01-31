@@ -13,7 +13,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 categories: [ chemie ]
-image: assets/images/2020-01-25-etsen-van-glas-low-tech/workshop-glas-ets-vosje.jpg
+image: assets/images/2020-01-25-etsen-van-glas-low-tech/glas_etsen00.jpg
 print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
 downloads:
   - name: 'Stappenplan glas etsen met etspasta'
@@ -61,21 +61,30 @@ Kies hoe je etst, de cut-out (rechts) of de template (links):
 
 Je sjabloon is klaar! __Was__ het __glas__ en plak het stickersjabloon op het glas
 
+![sticker plakken]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/glas_etsen05.jpg)
+
 ## Fiche
 Je vindt een overzicht van de stappen en leuke weetjes in [deze handige fiche]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf).
 
 Een overzicht:
 
 1. trek rubber handschoenen aan
-2. smeer de etspasta op het sjabloon in een dun laagje, zorg dat alles dat niet geetst moet worden goed bedekt is, bv schilderstape
-3. laat de etspasta 5 tot 10 minuten inwerken
+2. smeer de etspasta op het sjabloon in een dun laagje, zorg dat alles dat niet geetst moet worden goed bedekt is, bv schilderstape\
+![sticker plakken]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/glas_etsen07.jpg)
+![etspasta aanbrengen]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/glas_etsen08.jpg)
+3. laat de etspasta 5 tot 10 minuten inwerken\
+![etspasta aanbrengen]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/glas_etsen09.jpg)
 4. schep met een spatel of een bankpasje de pasta eraf en doe deze terug in de pot
 5. verwijder de resten etspasta met doekjes of spoel het af met water
 6. verwijder het sjabloon en gooi dit weg in een plastic bak
 7. maak het glas weer schoon, spoel het af onder de kraan
 8. Om er zeker van te zijn dat het glas helemaal schoon is kun je het nog in de vaatwasser doen voor gebruik.
 
-De etssjablonen en de gebruikte doekjes zijn nu chemisch afval! Ga hier zorgvuldig mee om. Ruim alle materiaal op en bewaar de etspasta buiten het bereik van kinderen!
+Je geëtste glas is af!
+
+![etspasta aanbrengen]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/glas_etsen02.jpg)
+
+De etssjablonen en de gebruikte doekjes zijn nu __chemisch afval!__ Ga hier zorgvuldig mee om. Ruim alle materiaal op en bewaar de etspasta buiten het bereik van kinderen!
 
 ## Voorbeelden
 Heb je een foto van je glasversiering? Stuur hem ons!
