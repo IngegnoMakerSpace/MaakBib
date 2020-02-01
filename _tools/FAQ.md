@@ -6,7 +6,7 @@ featured: false
 lowtech: false
 midtech: false
 hightech: true
-categories: [ tutorial, medium ]
+categories: [ ]
 image: assets/tools/faq.jpg
 
 ---

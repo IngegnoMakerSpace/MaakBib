@@ -104,9 +104,11 @@ Verspreid [onze pdf flyer]({{site.baseurl}}/assets/downloads/202001_makersgezoch
 
 <h5>Downloads</h5>
 
-<a target="_blank" href="{{site.baseurl}}/assets/downloads/202001_makersgezocht/Maker voor maker sjabloon.pptx">Activiteiten Sjabloon</a>
-
 <a target="_blank" href="{{site.baseurl}}/assets/downloads/202001_makersgezocht/Flyer_makersvoormakers_finaal.pdf">Flyer Makers Gezocht</a>
+
+<!--a target="_blank" href="{{site.baseurl}}/assets/downloads/202001_makersgezocht/Maker voor maker sjabloon.pptx">Activiteiten Sjabloon</a-->
+
+Eind Februari: Sjabloon voor je activiteit
 
 <h5>Sponsors</h5>
 
