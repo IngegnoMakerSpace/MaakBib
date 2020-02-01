@@ -19,7 +19,13 @@ Download Inkscape van de website [inkscape.org](https://inkscape.org/) voor jou 
 
 ## Leren werken met Inkscape
 
-Een handleiding van een figuur die je op het internet vindt overtekenen vind je in de [activiteit Sleutelhanger maken met Inkscape en de Lasercutter]({{ site.baseurl}}/sleutelhanger-maken-met-inkscape/)
+* Overzichtleijk Basis Handleiding Inskscape [Inkscape by Jes]({{ site.baseurl}}/assets/tools/inkscape/LaserSnijden_JES_Astrid.pdf)
+* Korte handleiding inkscape  [Inskscape_kort]({{ site.baseurl}}/assets/tools/inkscape/Hip_HandleidingInkscape.pdf)
+* Bitmap overtrace: een figuur (.jpg, .png, .bmp) vectorizeren, dat is door de compouter laten overtekenen alsvector tekening. [Bitmap Overtrace]({{ site.baseurl}}/assets/tools/inkscape/BitMap Overtrace.pdf)
+* [Activiteit Sleutelhanger maken met Inkscape en de Lasercutter]({{ site.baseurl}}/sleutelhanger-maken-met-inkscape/)
+* Snel figuurtjes maken door bewerkingen op paden toe te passen
+[Bewerkingen_Paden]({{ site.baseurl}}/assets/tools/inkscape/Bewerkingen op Paden_inkscape.pdf)
+
 
 ## Activiteiten
 
