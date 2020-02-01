@@ -62,9 +62,11 @@ Geen tijd om een sjabloon te maken? Of inspiratie nodig? Download een van onze v
 
 ## Snij je digitale glasets sjabloon
 
-Plotter gebruiken. link naar plotter handleiding
+Je tekening is klaar om uit te snijden. Laat deze op een snijplotter uitsnijden. Vraag het aan de lab verantwoordelijke, of volg [de handleiding voor de Brother Scan 'n cut snijplotter]({{ site.baseurl }}/tools/Brother_snijplotter)
 
-Je sjabloon is klaar! __Was__ het __glas__ en plak het stickersjabloon op het glas
+Je sjabloon is klaar! __Was__ het __glas__ en plak het stickersjabloon op je Nutella pot.
+
+![nutella pot]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen01.png)
 
 ## Fiche glas etsen
 Je vindt een overzicht van de stappen en leuke weetjes in [deze handige fiche]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf).
@@ -74,15 +76,23 @@ Voor onze toepassing gebruiken we een glasbokaal.
 Een overzicht:
 
 1. trek rubber handschoenen aan
-2. smeer de etspasta op het sjabloon in een dun laagje, zorg dat alles dat niet geetst moet worden goed bedekt is, bv schilderstape
+2. smeer de etspasta op het sjabloon in een dun laagje, zorg dat alles dat niet geetst moet worden goed bedekt is, bv schilderstape\
+![nutella pot]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen02.png)
 3. laat de etspasta 5 tot 10 minuten inwerken
-4. schep met een spatel of een bankpasje de pasta eraf en doe deze terug in de pot
-5. verwijder de resten etspasta met doekjes of spoel het af met water
-6. verwijder het sjabloon en gooi dit weg in een plastic bak
+4. schep met een spatel of een bankpasje de pasta eraf en doe deze terug in de pot\
+![nutella pot]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen03.png)
+5. verwijder de resten etspasta met doekjes of spoel het af met water\
+![nutella pot]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen04.png)
+6. verwijder het sjabloon en gooi dit weg in een plastic bak\
+![nutella pot]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen05.png)
 7. maak het glas weer schoon, spoel het af onder de kraan
 8. Om er zeker van te zijn dat het glas helemaal schoon is kun je het nog in de vaatwasser doen voor gebruik.
 
 De etssjablonen en de gebruikte doekjes zijn nu chemisch afval! Ga hier zorgvuldig mee om. Ruim alle materiaal op en bewaar de etspasta buiten het bereik van kinderen!
+
+Je post is af, nu nog het circuit
+
+![nutella pot]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen07.png)
 
 ## Licht circuit maken voor in je pot
 Je pot is klaar, nu nog deze omtoveren in een lampje ingewerkt in het deksel.
