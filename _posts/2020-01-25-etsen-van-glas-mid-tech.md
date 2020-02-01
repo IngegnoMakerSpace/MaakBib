@@ -33,7 +33,7 @@ benodigdheden:  [
   Water en afwasmiddel (zonder citroen),
   Keukenpapier,
   Keukenhanddoek,
-  tiltsensor (TODO LINK),
+  tiltswitch,
   coincell batterij 3V en batterijhouder,
   Space tape (conductieve plakband) of geleidende draad,
   LED lampje
@@ -58,11 +58,11 @@ Zie onze [Inkscape tool fiche]({{site.baseurl}}/tools/Inkscape ) om te leren hoe
 
 Geen tijd om een sjabloon te maken? Of inspiratie nodig? Download een van onze voorbeeld sjablonen of zoek een 2D svg file op internet geschikt voor een sjabloon (zoekterm: silhouette, sjabloon)
 
-TODO: hier links naar download svgs
+[Voorbeeld sjablonen]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/etsen_snijplotten.svg)
 
 ## Snij je digitale glasets sjabloon
 
-TODO: plotter gebruiken. link naar plotter handleiding
+Plotter gebruiken. link naar plotter handleiding
 
 Je sjabloon is klaar! __Was__ het __glas__ en plak het stickersjabloon op het glas
 
@@ -96,9 +96,12 @@ Opgelet, de positieve pool van de LED moet je verbinden met de positieve pool va
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Hoe werkt een tilt switch?
 
-Een kantelschakelaar of _tilt switch_ laat ons toe de stroom te onderbreken of te laten vloeien afhankelijk van de positie van de switch. Kantelschakelaars zijn gemakkelijk te gebruiken omdat het mechanisme heel eenvoudig is. Binnenin een buisje is een holte met een metalen balletje. In deze holte zal de bal de geleidende pool raken en de schakelaar inschakelen enkel als de zwaartekracht ervoor zorgt dat heb balletje tegen de pool rolt. Dit schema is van toepassing op de meeste type kantelschakelaars. Ook al hangt de gevoeligheid af van de lengte en materialen van de sensoren.
+Een kantelschakelaar of _tilt switch_ laat ons toe de stroom te onderbreken of te laten vloeien afhankelijk van de positie van de switch. Kantelschakelaars zijn gemakkelijk te gebruiken omdat het mechanisme heel eenvoudig is. 
 
 ![circuit 01]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/tilt_scheme.gif)
+
+Binnenin het buisje is een holte met een metalen balletje. In deze holte zal de bal de geleidende pool raken en de schakelaar inschakelen enkel als de zwaartekracht ervoor zorgt dat heb balletje tegen de pool rolt. 
+Dit schema is van toepassing op de meeste type kantelschakelaars. Ook al hangt de gevoeligheid af van de lengte en materialen van de sensoren.
 </div>
 
 Snij nu een karton zodat het in het deksel van de Nutella pot past. Bevestig hierop je circuit zodat je licht hebt als het deksel op de grond ligt. In volgende figuur zie je de __onderkant__ van de LED (die nu __aan__ is).
