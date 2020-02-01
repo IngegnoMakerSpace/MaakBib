@@ -13,7 +13,7 @@ pagination:
 
     <div class="section-title">
 
-        <h2><span>Wist je dat... Wij leggen het uit!</span></h2>
+        <h2><span>Wist je dat?</span></h2>
         <p>
         Hier verzamelen we allerlei extra informatie. Van achtergrondinfo bij technieken tot draaiboeken voor hoe een workshop begeleiden 
         </p>

@@ -52,9 +52,9 @@ Wist je dat de mogelijkheid om glas met zuur te etsen werd in 1670 bij toeval in
 
 ## Maak je digitale glasets sjabloon
 
-We maken eerst een sjabloon van de figuur die we op ons glas willen. We maken deze op de computer met het programma Inkscape.
+We maken eerst een sjabloon van de figuur die we op ons glas willen. We maken deze op de computer met het programma __Inkscape__.
 
-TODO: hoe vb tekenen. link naar inkscape handleiding
+Zie onze [Inkscape tool fiche]({{site.baseurl}}/tools/Inkscape ) om te leren hoe je met Inkscape figuren maakt die kunnen uitgesneden worden.
 
 Geen tijd om een sjabloon te maken? Of inspiratie nodig? Download een van onze voorbeeld sjablonen of zoek een 2D svg file op internet geschikt voor een sjabloon (zoekterm: silhouette, sjabloon)
 
@@ -87,7 +87,40 @@ De etssjablonen en de gebruikte doekjes zijn nu chemisch afval! Ga hier zorgvuld
 ## Licht circuit maken voor in je pot
 Je pot is klaar, nu nog deze omtoveren in een lampje ingewerkt in het deksel.
 
-TODO
+Maak volgend circuit met een LED, 3V knoopbatterij, batterijhouder, draadjes en een tilt switch (kantelschakelaar):
+
+![circuit 01]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_01.jpg)
+
+Opgelet, de positieve pool van de LED moet je verbinden met de positieve pool van de batterij! Gebruik een LED die met een 3V batterij kan gebruikt worden, andere LED zullen een extra weerstand nodig hebben van 20 tot 50 Ohm!
+
+<div class="border_boxmaakbib03_img" markdown="1">
+#### Hoe werkt een tilt switch?
+
+Een kantelschakelaar of _tilt switch_ laat ons toe de stroom te onderbreken of te laten vloeien afhankelijk van de positie van de switch. Kantelschakelaars zijn gemakkelijk te gebruiken omdat het mechanisme heel eenvoudig is. Binnenin een buisje is een holte met een metalen balletje. In deze holte zal de bal de geleidende pool raken en de schakelaar inschakelen enkel als de zwaartekracht ervoor zorgt dat heb balletje tegen de pool rolt. Dit schema is van toepassing op de meeste type kantelschakelaars. Ook al hangt de gevoeligheid af van de lengte en materialen van de sensoren.
+
+![circuit 01]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/tilt_scheme.gif)
+</div>
+
+Snij nu een karton zodat het in het deksel van de Nutella pot past. Bevestig hierop je circuit zodat je licht hebt als het deksel op de grond ligt. In volgende figuur zie je de __onderkant__ van de LED (die nu __aan__ is).
+
+![circuit 02]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_02.jpg)
+
+De andere zijde van het karton (met LED nu __uit__ want kantelschakelaar is geroteerd):
+
+![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_03.jpg)
+
+Plaats nu het karton in het deksel:
+
+![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_04.jpg)
+
+Test je circuit, je deksel rechtop zou je lichtje aan moeten doen, omgekeerd uit. 
+
+![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_05.jpg)
+
+## Eindresultaat
+
+Schroef je deksel op je pot, en bewonder je creatie!
+
 
 ## Voorbeelden
 Heb je een foto van je glasversiering? Stuur hem ons!
