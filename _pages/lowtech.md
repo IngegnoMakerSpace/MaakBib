@@ -24,7 +24,7 @@ pagination:
 
     <div class="section-title">
 
-        <h2><span>Low tech Activiteiten</span></h2>
+        <h2><span>Low Tech Activiteiten</span></h2>
 
     </div>
 
