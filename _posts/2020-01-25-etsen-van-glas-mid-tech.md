@@ -13,7 +13,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : false
 categories: [ chemie, snijplotter, 2D-tekenen ]
-image: assets/images/2020-01-25-etsen-van-glas-low-tech/workshop-glas-ets-vosje.jpg
+image: assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen05.png
 print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
 downloads:
   - name: 'Stappenplan glas etsen met etspasta'

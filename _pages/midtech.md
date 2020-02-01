@@ -24,7 +24,7 @@ pagination:
 
     <div class="section-title">
 
-        <h2><span>Low tech Activiteiten</span></h2>
+        <h2><span>Middle Tech Activiteiten</span></h2>
 
     </div>
 
@@ -32,7 +32,7 @@ pagination:
 
         {% for post in site.posts %}
         
-        {% if post.medtech%}
+        {% if post.midtech%}
 
           {% include postbox.html %}
           
