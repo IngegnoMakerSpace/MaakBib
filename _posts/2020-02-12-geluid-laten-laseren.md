@@ -16,7 +16,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : false
 categories: [ lasercutter,2d-tekenen]
-image: assets/images/2020-02-12-geluid-laten-laseren.png
+image: assets/images/2020-02-12-geluid-laten-laseren/geluid05.png
 print: 
 downloads:
 benodigdheden:  [
