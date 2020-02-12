@@ -27,7 +27,7 @@ Deze achtergrondinformatie zal helpen om mogelijke vragen van deelnemers te bean
 
 3D printen is een productieproces waarbij succesvol verschillende lagen materiaal op elkaar worden gehecht.
 
-![3D kegel]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint01.png)
+![3D kegel]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint01.jpg)
 
 Dit is een techniek die vaak als nieuw wordt beschouwd maar ze bestaat al 30 jaar. 
 
