@@ -68,19 +68,6 @@ pagination:
 <div class="pointerup"><i class="fa fa-caret-up"></i></div>
 <span class="navigation" role="navigation">
 
-<!-- Fix pagination bug https://github.com/sverrirs/jekyll-paginate-v2/issues/140 -->
-    
-<!-- Set the trail for every page -->
-{% assign trail_begin = paginator.page | minus: site.pagination.trail.before %}
-{% assign trail_end = paginator.page | plus: site.pagination.trail.after %}
-<!-- In case there are not enough pages before the current one -->
-{% if trail_begin < 1 %}
-    {% assign trail_begin = 1 %}
-{% endif %}
-<!-- In case there are not enough pages after the current one -->
-{% if trail_end > paginator.total_pages %}
-    {% assign trail_end = paginator.total_pages %}
-{% endif %}
 
   
 <div class="pagination">
@@ -97,15 +84,7 @@ pagination:
         <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}" {% if page.url == trail.path %}class="active"{% endif %}>{{ trail.num }}</a>
       {% endfor %}
     {% else %}
-      <!-- Fix pagination bug https://github.com/sverrirs/jekyll-paginate-v2/issues/140 -->
-      {% for pagenum in (trail_begin..trail_end) %}
-        {% if pagenum == 1 %}
-          <a href="/" title="{{trail.title}}" {% if paginator.page == pagenum %}class="active"{% endif %}>{{ pagenum }}</a>
-        {% else % }
-          {% assign pagenumpath = "page/" | append: pagenum %}
-          <a href="/page/{{ pagenum }}" title="{{trail.title}}" {% if paginator.page == pagenum %}class="active"{% endif %}>{{ pagenum }}</a>
-        {% endif %}
-      {% endfor %}
+        Not working page trail.
     {% endif %}
     
     {% if paginator.next_page %}
