@@ -116,15 +116,15 @@ Dit schema is van toepassing op de meeste type kantelschakelaars. Ook al hangt d
 
 Snij nu een karton zodat het in het deksel van de Nutella pot past. Bevestig hierop je circuit zodat je licht hebt als het deksel op de grond ligt. In volgende figuur zie je de __onderkant__ van de LED (die nu __aan__ is).
 
-![circuit 02]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_02.jpg)
+![circuit 02]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_002.png)
 
 De andere zijde van het karton (met LED nu __uit__ want kantelschakelaar is geroteerd):
 
-![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_03.jpg)
+![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_003.png)
 
 Plaats nu het karton in het deksel:
 
-![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_04.jpg)
+![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_004.png)
 
 Test je circuit, je deksel rechtop zou je lichtje aan moeten doen, omgekeerd uit. 
 
