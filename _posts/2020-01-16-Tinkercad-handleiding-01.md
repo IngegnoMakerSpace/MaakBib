@@ -44,7 +44,7 @@ Met de meest eenvoudige printers zijn al heel veel dingen mogelijk. Je kunt bijv
 
 Opgelet: hoe groter je object, hoe langer het duurt om te printen! 
 
-![3D pritner]({{ site.baseurl }}/assets/images/2020-01-16-Tinkercad-handleiding-01/tinkercad_01.png)
+![3D printer]({{ site.baseurl }}/assets/images/2020-01-16-Tinkercad-handleiding-01/tinkercad_01.png)
 
 Er bestaan veel verschillende soorten 3D printers en veel verschillende prijsklasses. De goedkoopste zijn al verkrijgbaar vanaf 200 euro, de duurste zijn enkel voor grote bedrijven betaalbaar! 
 
