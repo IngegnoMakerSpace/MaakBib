@@ -12,6 +12,11 @@ google_analytics: ''
 include: ["_pages"]
 permalink: /:title/
 
+# activate following to debug liquid
+#strict_front_matter: true
+#liquid:
+#  error_mode: strict
+
 # Authors
 authors:
   cri:
