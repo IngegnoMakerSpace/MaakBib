@@ -7,16 +7,19 @@ pagination:
 <!-- Tech Selector
 ================================================== -->
 <div class="filterbutton">
-  <a href="/lowtech"
+  <a href="{{ site.baseurl }}/lowtech"
     >Low Tech</a>
-  <a href="/midtech"
+  <a href="{{ site.baseurl }}/midtech"
     >Middle Tech</a>
-  <a href="/hightech"
+  <a href="{{ site.baseurl }}/hightech"
     >High Tech</a>
-  <a class="btnactive" href="/">Alle</a>
+  <a class="btnactive" href="{{ site.baseurl }}/">Alle</a>
 </div>
 
-{% if page.url == "/" %}
+<!-- avoid liquid error with escape character / and id char . -->
+{% assign pagebased = site.baseurl | append: "/" | append: "index.html" %}
+
+{% if page.url == "/" or pagebased == page.url  %}
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">

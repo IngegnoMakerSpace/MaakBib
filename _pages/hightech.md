@@ -8,13 +8,13 @@ pagination:
 <!-- Tech Selector
 ================================================== -->
 <div class="filterbutton">
-  <a href="/lowtech"
+  <a href="{{ site.baseurl }}/lowtech"
     >Low Tech</a>
-  <a href="/midtech"
+  <a href="{{ site.baseurl }}/midtech"
     >Middle Tech</a>
-  <a class="btnactive" href="/hightech"
+  <a class="btnactive" href="{{ site.baseurl }}/hightech"
     >High Tech</a>
-  <a href="/">Alle</a>
+  <a href="{{ site.baseurl }}/">Alle</a>
 </div>
 
 
