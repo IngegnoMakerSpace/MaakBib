@@ -16,11 +16,13 @@ materialen:
     
 ---
 
+Binnenkort Beschikbaar - Nog even geduld! 
 Onze materialenlijst wordt regelmatig up to date gehouden
 
-
+<!-- WAIT
     <ul>
       {% for item in page.materialen %}
         <li>{{ item.name }}, links: {{ item.links }}</li>
       {% endfor %}
     </ul>
+-->
