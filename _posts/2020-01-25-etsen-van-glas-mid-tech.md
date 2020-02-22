@@ -44,7 +44,7 @@ Ga aan de slag met glas ets om een __tilt-licht__ te maken voor in je kamer. Met
 
 Glas etsen met etspasta is niet moeilijk maar je moet wel heel zorgvuldig te werk gaan want je werkt met een bijtend middeltje. 
 
-Wist je dat de mogelijkheid om glas met zuur te etsen werd in 1670 bij toeval in Duitsland ontdekt? De kunst van het glas etsen bereikte vervolgens haar hoogtepunt in de negentiende en twintigste eeuw.
+Wist je dat de mogelijkheid om glas met zuur te etsen in 1670 bij toeval in Duitsland werd ontdekt? De kunst van het glas etsen bereikte vervolgens haar hoogtepunt in de negentiende en twintigste eeuw.
 
 ## Benodigdheden
 
@@ -76,9 +76,12 @@ Voor onze toepassing gebruiken we een glasbokaal.
 Een overzicht:
 
 1. trek rubber handschoenen aan
-2. smeer de etspasta op het sjabloon in een dun laagje, zorg dat alles dat niet geetst moet worden goed bedekt is, bv schilderstape\
+2. smeer de etspasta op het sjabloon in een dun laagje, zorg dat alles dat niet geetst moet worden goed bedekt is, bv schilderstape  
+![tapen]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen09.png)  
+![spatel]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen10.png)  
 ![nutella pot]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen02.png)
 3. laat de etspasta 5 tot 10 minuten inwerken
+![laten inwerken]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen08.png)
 4. schep met een spatel of een bankpasje de pasta eraf en doe deze terug in de pot\
 ![nutella pot]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen03.png)
 5. verwijder de resten etspasta met doekjes of spoel het af met water\
@@ -90,18 +93,42 @@ Een overzicht:
 
 De etssjablonen en de gebruikte doekjes zijn nu chemisch afval! Ga hier zorgvuldig mee om. Ruim alle materiaal op en bewaar de etspasta buiten het bereik van kinderen!
 
-Je post is af, nu nog het circuit
+Je pot is af, nu nog het circuit
 
 ![nutella pot]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/pot_etsen07.png)
 
 ## Licht circuit maken voor in je pot
-Je pot is klaar, nu nog deze omtoveren in een lampje ingewerkt in het deksel.
+Je pot is klaar, nu nog deze omtoveren in een lampje ingewerkt in het deksel. We voegen een lamp toe op zo'n manier dat we de lamp aan en uitdoen door de pot om te draaien! 
 
-Maak volgend circuit met een LED, 3V knoopbatterij, batterijhouder, draadjes en een tilt switch (kantelschakelaar):
+Lasercut op een mdf plaat 3mm of in karton volgend ontwerp uit. Opgelet, pas de afmetingen aan aan de grootte van het deksel waarin je het circuit wilt inbouwen.
 
-![circuit 01]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_01.jpg)
+![circuit svg]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/Glasetsen_tiltschakelaar_v3.svg)
+
+In mdf uitgelaserd via de lasercutter samen met de elektronische componenten:  tiltswitch, coincell batterij 3V, batterijhouder en LED:
+![circuit 01]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_005.png)
 
 Opgelet, de positieve pool van de LED moet je verbinden met de positieve pool van de batterij! Gebruik een LED die met een 3V batterij kan gebruikt worden, andere LED zullen een extra weerstand nodig hebben van 20 tot 50 Ohm!
+
+Bevestig je circuit op de vorm (in mdf of karton), en soldeer de verbindingen samen. In volgende figuur zie je de __onderkant__ van de LED (die nu __aan__ is).
+
+![circuit 02]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_002.png)
+
+De andere zijde van het karton (met LED nu __uit__ want kantelschakelaar is geroteerd):
+
+![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_003.png) ![circuit 06]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_006.png)
+
+Gebruik een lijmpistool om alles proper vast te maken. 
+
+![circuit 07]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_007.png)
+
+Plaats nu het karton in het deksel:
+
+![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_004.png)
+
+Test je circuit, je deksel rechtop zou je lichtje aan moeten doen, omgekeerd uit. 
+
+![circuit 08]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_008.png)
+
 
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Hoe werkt een tilt switch?
@@ -113,22 +140,6 @@ Een kantelschakelaar of _tilt switch_ laat ons toe de stroom te onderbreken of t
 Binnenin het buisje is een holte met een metalen balletje. In deze holte zal de bal de geleidende pool raken en de schakelaar inschakelen enkel als de zwaartekracht ervoor zorgt dat heb balletje tegen de pool rolt. 
 Dit schema is van toepassing op de meeste type kantelschakelaars. Ook al hangt de gevoeligheid af van de lengte en materialen van de sensoren.
 </div>
-
-Snij nu een karton zodat het in het deksel van de Nutella pot past. Bevestig hierop je circuit zodat je licht hebt als het deksel op de grond ligt. In volgende figuur zie je de __onderkant__ van de LED (die nu __aan__ is).
-
-![circuit 02]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_002.png)
-
-De andere zijde van het karton (met LED nu __uit__ want kantelschakelaar is geroteerd):
-
-![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_003.png)
-
-Plaats nu het karton in het deksel:
-
-![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_004.png)
-
-Test je circuit, je deksel rechtop zou je lichtje aan moeten doen, omgekeerd uit. 
-
-![circuit 03]({{ site.baseurl }}/assets/images/2020-01-25-etsen-van-glas-mid-tech/constructie_05.jpg)
 
 ## Eindresultaat
 
