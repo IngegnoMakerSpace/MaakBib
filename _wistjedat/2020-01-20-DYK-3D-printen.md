@@ -187,3 +187,163 @@ We hebben een gebruiksvriendelijk handleiding in drie delen, te raadplegen hier:
 * [Tinkercad handleiding 3]({{site.baseurl}}//Tinkercad-handleiding-03/)
 
 ![tinkercad]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint10.png)
+
+#### Fusion 360 
+[Fusion 360](http://fusion360.autodesk.com) is een technisch tekenprogramma dat gebruikt wordt om complexere stukken te ontwerpen die technisch correct moeten zijn. Het is een uitstekend programma om onderdelen te maken voor bepaalde ontwerpen. Het leerproces van dit programma vergt aanzienlijk meer tijd dan bij tinkercad maar de mogelijkheden zijn ook veel  uitgebreider. 
+
+Fusion 360  is een volwaardig CAD programma, ideaal voor meer geavanceerde tekeningen in 3D en maatwerk voor op de lasercutter. Een handleiding in het Nederlands is beschikbaar op [cadstunter](https://autocad.cadstunter.nl/)
+
+In [dit mooi filmpje](https://youtu.be/ouvf-4wciak) wordt heel kort, maar duidelijk, de basisprincipes van 3D-tekenen gedemonstreerd aan de hand van Fusion 360.
+
+![fusion]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint11.png)
+
+#### Meshmixer 
+Meshmixer is een state of the art software die werkt met driehoekige meshes. Het is een ideaal programma voor het schoonmaken van 3D scans en kent op dit vlak geen gelijken. 
+Volledig gratis af te halen hier [www.meshmixer.com](http://www.meshmixer.com/). 
+ 
+Enkele kenmerken: 
+
+* software van Autodesk
+* analyse- en reparatiegereedschappen
+* sculpting
+* mogelijkheid om 3D-modellen te bewerken
+* tekengereedschap aanwezig
+* objecten kunnen voorzien worden van patronen en structuren
+* mogelijkheid om supportmaterialen aan te brengen
+* mogelijheid om te bewaren als afbeeldingen (met o.a. diverse shaders)
+
+Er zijn talloze handleidingen terug te vinden, hier enkel links: 
+
+* [weareprintlab.com](https://weareprintlab.com/blog/10-steps-to-getting-started-with-meshmixer-for-3d-printing)
+* [all3dp.com](https://all3dp.com/meshmixer-tutorial/)
+* [formlabs.com](https://formlabs.com/eu/blog/meshmixer-tutorial-tips-to-edit-stl-files-for-3d-printing/) 
+
+![meshmixer]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint12.png)
+
+#### Onshape 
+[Onshape](https://www.onshape.com/) is een webgebaseerd programma waarvoor je geen zware laptop nodig hebt om het te kunnen gebruiken. 
+
+Het heeft veel gelijkenissen met Fusion 360 maar met minder functies. Dit maakt het iets eenvoudiger in gebruik. Het grootste voordeel is dat je het op gelijk welke pc kan gebruiken en geen installatie nodig hebt. 
+
+## 3D files tekenen. 
+
+Tijdens het ontwerp van 3D files zijn er een aantal zaken waarmee er rekening moeten gehouden worden. Er wordt vaak gezegd dat alles kan geprint worden als je het kan tekenen. Dit is in zekere zin waar maar er zijn beperkingen. Zeker bij het gebruik van een FDM printer zijn er ontwerpregels die moeten in acht genomen worden. 
+
+### Overhanging. 
+FDM printen is een opbouwende techniek waarbij een nieuwe laag wordt gelegd op de laag eronder. Hierdoor moet er altijd contact zijn tussen de twee lagen. Als het contact te klein is zullen er problemen ontstaan. Dit komt het vaakst voor als men steile hoeken wil printen. De regel die men hier moet onthouden is dat de hoek nooit groter is dan 45 graden. (We nemen bij voorkeur 30 graden)
+
+![Overhanging]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint13.png)
+
+### Overbrugging 
+Een overbrugging gebeurt tussen 2 punten. De printer is in staat om deze te verbinden zonder dat deze laag ondersteund is. Hou er rekening mee dat hoe groter de opening tussen de twee punten is hoe meer deze laag zal doorhangen en hoe slechter het eindresultaat zal zijn. 
+
+![Overbrugging]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint14.png)
+
+![Overbrugging]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint15.png)
+
+### Ondersteuning 
+Indien de overhangende hoek te groot wordt of de afstand bij een overbrugging te veel is kan men ondersteuning gaan toevoegen. Hierbij zal de printer de zwevende onderdelen gaan ondersteunen door er een constructie onder te printen. Deze ondersteuning wordt berekend door de slice software dus hoef je niet zelf te tekenen. Dit brengt echter enkele nadelen met zich mee. De print duurt langer en verbruikt meer filament. Als de print klaar is moet deze ondersteuning afgebroken worden, hierdoor zal de nabewerking langer duren en ziet de print er vaak minder goed uit. 
+
+![Ondersteuning]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint16.png)
+
+We proberen er altijd voor te zorgen dat we zo weinig mogelijk met ondersteuning moeten gaan printen. Dit begint bij de ontwerpfase, hier moet al nagedacht worden over de printbaarheid van je file. 
+
+
+<div class="border_boxmaakbib03_img" markdown="1">
+#### YHT-regel
+Een vuistregel om met het hierboven besproken rekening te houden en andere kleinheden is de zogenaamde YHT-regel.
+
+Omdat het kunststof is dat vloeibaar uit de de printkop komt, zakt het naar beneden als er niks onder ligt om het kunststof op te printen (denk aan een spuitzak voor slagroom). 
+Vraag jezelf het volgende als je iets getekend hebt: Zou je model blijven staan als het gemaakt is van zand? Indien ja, dan is het waarschijnlijk goed te printen. Anders ga je moeten ingrijpen. 
+
+Om bepaalde lastigere eigenschappen toch te kunnen printen zijn er 3 mogelijkheden. Daarvoor maken we gebruik van de **YHT-regel**, welke zijn naam krijgt omwille van de vorm van de letters Y, H en T.
+
+![YHT regel]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint17.png)
+
+`Y`: Oppervlaktes die onder een hoek staan van 0° tot 45º (gezien vanaf een verticale lijn), kunnen zonder ondersteuning geprint worden.
+
+`H`: Horizontale eigenschappen die hoger dan de onderkant van het 3D model liggen én die geklemd zijn tussen twee andere delen, kunnen geprint worden zonder ondersteuningsmateriaal. Dit kan tot een overbrugging van 50mm. Dit wordt *bridging* genoemd.
+
+`T`: We gebruiken zogenoemd *support* materiaal om overhangende geometrie te printen. Een soort steiger die later weer wordt verwijderd. Dit geeft helaas altijd lichte afdrukken op de print. Mocht dit ongewenst zijn, probeer alle hoeken in het model als een Y te ontwerpen. We gebruiken support materiaal wanneer:
+
+* Horizontale tweezijdig ingeklemde overbruggingen groter zijn dan 50mm,
+* Oppervlaktes die onder een hoek staan van 45º tot 90° (gezien vanaf een verticale lijn),
+* Horizontale eigenschappen die aan één kant zijn ingeklemd.
+
+</div>
+
+## Files klaarmaken om te printen. 
+
+Als de files klaar zijn om te printen , moeten deze geïmporteerd worden in het slice programma. In dit programma worden alle parameters juist gezet ( snelheid , laagdikte , temperatuur ,...). Deze parameters zijn voor elke printer anders dus worden hier nu niet besproken. Er zijn een aantal zaken waar we moeten op letten. 
+
+### Oriëntatie van je file 
+
+De manier waarop je file georiënteerd is op het printbed  kan veel problemen voorkomen. Door je file te gaan heroriënteren kan het gebruik van ondersteuning vermeden worden.  
+
+![Oriëntatie]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint18.png)
+![Oriëntatie]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint19.png)
+
+Zet ook altijd de print met de brede basis naar beneden. Dit zorgt voor een betere hechting met het printbed en minder kans op loskomen.  
+
+![Oriëntatie]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint20.png)
+
+De manier waarop de lagen liggen heeft ook te maken met de sterkte van je geprint stuk. In de volgende illustratie creëer je links een ‘zwak’ hoekpunt, terwijl rechts dat probleem opgelost door het stuk op een andere positie te printen. 
+
+![Oriëntatie]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint21.png)
+
+###  Printbed adhesion 
+
+Het zal af en toe gebeuren dat je print loskomt van het printbed. Dit heeft te maken met de krimp van het materiaal tijdens het afkoelen. Er bestaan een aantal hulpmiddelen die dit probleem kunnen verhelpen.
+
+**Raft**
+
+Een raft is een tijdelijk oppervlakte dat ervoor zorgt dat de print blijft kleven op het printbed. Dit is een laagje dat onder de print wordt geprint. Dit kan automatisch gegenereerd worden in de slicing software. Als de print klaar is moet dit laagje afgepeld worden.
+
+![Raft]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint22.png)
+
+**Brim**
+
+Een brim lijkt op het eerste zicht heel hard op een raft. Het grote verschil is dat het een dunnere laag is die rond je model geprint wordt in plaats van onder je model. 
+
+![Brim]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint23.png)
+
+**Schildersplakband op je bed kleven**
+
+Dit helpt vaak bij bepaalde plasticsoorten die niet goed hechten aan het printbed. 
+
+**Lijmstick**
+
+Dit kan een hulp zijn bij sommige DIY printers. Let hierbij zeer goed op, het kan daardoor gebeuren dat de print te hard vastkleeft aan het printbed. Bij het lostrekken van de print is er gevaar dat de printer ontregeld geraakt en opnieuw gekalibreerd moet worden. Gebruik dit enkel als allerlaatste redmiddel.  
+
+### Parameters instellen 
+Een printer heeft verschillende parameters die aangepast kunnen worden voor het printen. Dit is grotendeels afhankelijk van het materiaal waarmee je zal printen. Het is aan te raden 1 materiaal te kiezen waarmee er geprint zal worden en daarvoor de ideale parameters te zoeken. Hieronder de belangrijkste parameters die te onderzoeken vallen. 
+
+**Laaghoogte**
+
+Dit spreekt voor zich, dit is de hoogte van de laagjes die op elkaar gelegd worden. Het is zeer duidelijk zichtbaar als deze waardes veranderd worden. Voor prints die er clean moeten uitzien kan men een laaghoogte van 0.1mm gebruiken, het nadeel van een dunne laag hoogte is dat de print lang kan duren. In de klas of met een groep is het aan te raden om de laaghoogte op 0.25 tot 0.3mm te zetten.  
+
+![Laaghoogte]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint24.png) 
+
+**Temperatuur**
+
+Dit is materiaalafhankelijk. Iedere type kunststof heeft zijn eigen temperatuur waarbij het smelt. Bekijk de technische fiche van elk nieuw materiaal dat gebruikt wordt. Dit staat in de meeste gevallen op de verpakking van de kunststof. 
+
+**Vulling**
+
+De vulling of infill is afhankelijk van het doel van je print stuk. De prints die gemaakt worden met een 3D printen zijn geen massieve blok kunststof. De binnenkant bestaat uit een gatenpatroon. Dit zorgt ervoor dat de prints geen uren duren maar toch stevig genoeg zijn. Indien het stuk een functioneel doel heeft kan de invulling hoger gezet worden waardoor het steviger wordt. 
+
+![Vulling]({{site.baseurl}}/assets/wistjedat/DYK-3D-printen/3dprint25.png)
+
+## Nuttige links
+
+1. Handleidingen
+    * Toolcard 3D-printen: [bit.ly/toolcard_3Dprinten](http://bit.ly/toolcard_3Dprinten)
+    * 3D-ontwerpen met tinkercad: [bit.ly/tinkercad_tutorial](http://bit.ly/tinkercad_tutorial)
+2. Inspiratie fiches 
+    * [bit.ly/koelkast_magnete](http://bit.ly/koelkast_magnete)
+    * [bit.ly/rietjes_connector](http://bit.ly/rietjes_connector)
+3. Info 3D-technieken: [www.fablabplus.be/3d-printen/](http://www.fablabplus.be/3d-printen/)
+4. Belgisch netwerk 3d-printen en 3d: [onderwijs.flam3d.be](https://onderwijs.flam3d.be/)
+5. Ideeën voor lessen: 
+    * [weareprintlab.com](https://weareprintlab.com/)
+    * [leerkrachten.kunstcentraal.nl/lesmateriaal/doodle3dlab/](https://leerkrachten.kunstcentraal.nl/lesmateriaal/doodle3dlab/)
