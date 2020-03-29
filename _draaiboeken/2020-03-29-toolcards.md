@@ -8,7 +8,7 @@ midtech: true
 hightech: true
 categories: [ 3D-printer, lasercutter, warmtepers, snijplotter]
 image: assets/draaiboeken/toolcard-3dprint.png
-imgdir: /assets/draaiboeken/
+imgdir: /assets/draaiboeken/toolcards/
 downloads: 
 
 ---
@@ -26,9 +26,5 @@ Ze zijn zo gemaakt om rectoverso geprint te worden of landscape met de twee dele
 * [Toolcard Lijmpistool]({{ site.baseurl }}{{ page.imgdir }}Toolcards_Lijmpistool.pdf)
 * [Toolcard Soldeerbout]({{ site.baseurl }}{{ page.imgdir }}Toolcards_soldeerbout.pdf)
 * [Toolcard Elektrisch circuit]({{ site.baseurl }}{{ page.imgdir }}Toolcards_electrisch_circuit.pdf)
-
-
-
-
 
 
