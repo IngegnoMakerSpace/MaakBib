@@ -8,8 +8,10 @@ midtech: true
 hightech: true
 categories: [ 3D-printer, lasercutter, warmtepers, snijplotter]
 image: assets/draaiboeken/toolcard-3dprint.png
-imgdir: /assets/draaiboeken/
+imgdir: /assets/draaiboeken/toolcards/
 downloads: 
+  - name: 'zip van alle toolcards samen'
+    file: https://github.com/IngegnoMakerSpace/MaakBib/raw/master/assets/draaiboeken/toolcards/toolcards.zip
 
 ---
 We hebben toolcards samengesteld waarin de tools worden geïntroduceerd die gebruikelijk zijn in een makerspace/fablab en wat je ermee kunt doen. 
@@ -27,9 +29,5 @@ Ze zijn zo gemaakt om rectoverso geprint te worden of landscape met de twee dele
 * [Toolcard Lijmpistool]({{ site.baseurl }}{{ page.imgdir }}Toolcards_Lijmpistool.pdf)
 * [Toolcard Soldeerbout]({{ site.baseurl }}{{ page.imgdir }}Toolcards_soldeerbout.pdf)
 * [Toolcard Elektrisch circuit]({{ site.baseurl }}{{ page.imgdir }}Toolcards_electrisch_circuit.pdf)
-
-
-
-
 
 
