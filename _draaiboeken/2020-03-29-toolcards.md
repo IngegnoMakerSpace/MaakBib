@@ -10,6 +10,8 @@ categories: [ 3D-printer, lasercutter, warmtepers, snijplotter]
 image: assets/draaiboeken/toolcard-3dprint.png
 imgdir: /assets/draaiboeken/toolcards/
 downloads: 
+  - name: 'zip van alle toolcards samen'
+    file: https://github.com/IngegnoMakerSpace/MaakBib/raw/master/assets/draaiboeken/toolcards/toolcards.zip
 
 ---
 
