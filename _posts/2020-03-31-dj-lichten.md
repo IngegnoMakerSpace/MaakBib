@@ -23,8 +23,10 @@ downloads:
     file: assets/images/2020-03-31-dj-lichten/geluid_visualizer_finaal.zip
   - name: 'svg doos voor de Arduino en LED strip'
     file: assets/images/2020-03-31-dj-lichten/doosjeDJlichtgeluidv02.svg
-  - name: 'plexi glas bloemen voor op de doos'
+  - name: 'plexi glas bloemen - motief Metaquip'
     file: assets/images/2020-03-31-dj-lichten/Plexi_bloem_metaquip.svg
+  - name: 'plexi glas bloemen - motief FSL'
+    file: assets/images/2020-03-31-dj-lichten/PLEXI bloem full spectrum.svg
   - name: 'Staander voor de Micro'
     file: assets/images/2020-03-31-dj-lichten/lightSoundStander_Cri.svg
 video_front: dGZyWqdZWbA
