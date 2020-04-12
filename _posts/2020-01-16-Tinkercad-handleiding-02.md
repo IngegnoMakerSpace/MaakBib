@@ -8,7 +8,7 @@ hightech: false
 DIT: true
 DIY: false
 CHALLENGE: false
-featured: true
+featured: false
 duurtijd: "1u"
 moeilijkheidsgraad_1_3: 1
 prijs_1_3: 0

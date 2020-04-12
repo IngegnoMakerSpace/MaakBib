@@ -24,39 +24,98 @@ comments: false
    <li><a target="_blank" href="https://daskunst.be/"> Das Kunst</a> <a target="_blank" href="https://daskunst.be/"><br> <img src="assets/images/sponsors/daskunst-logo.png" height="100" width="100"/></a>
      <p>das Kunst leert kinderen en jongeren kijken naar en nadenken over hun stedelijke omgeving in verandering en hierbij hun verbeeldingskracht te gebruiken en te uiten. das Kunst hanteert hierbij diverse kunsttalen. We maken samen met de kinderen en jongeren een creatief en artistiek verhaal gelinkt aan hun leven in de stad. De artistieke begeleiders ondersteunen de kinderen en jongeren om, in diezelfde omgeving, dat verhaal zichtbaar te maken.</p>
   </li>
-  <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"><br> <img src="assets/images/sponsors/rhizo-logo.png" height="100" width="200"/></a>
+  <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"><br> <img src="assets/images/sponsors/rhizo-logo.png" width="200"/></a>
   </li><br>
+  <li><a target="_blank" href="http://www.dig-it.brussels/"> Dig-IT</a> <a target="_blank" href="http://www.dig-it.brussels/"><br> <img src="assets/images/sponsors/dig-it.png" width="200"/></a>
+  </li>
+</ul>
   
-  <h4>Members</h4>
+<h4>Members</h4>
   
-  <p>Zijn dit de leden die we gedurende het project gaan samenwerken: </p>
-  <li><a target="_blank" href="https://ieper.bibliotheek.be/"> Bibliotheek Ieper</a> <a target="_blank" href="https://ieper.bibliotheek.be/"><br> <img src="assets/images/sponsors/logodebib.jpg" height="100" width="100"/></a>
-  </li>
-  <li><a target="_blank" href="https://zonnebeke.bibliotheek.be/"> Bibliotheek Zonnebeke</a> <a target="_blank" href="https://zonnebeke.bibliotheek.be/"><br> <img src="assets/images/sponsors/zonnebeke-biblotheek-logo.jpg" height="100" width="150"/></a>
-  </li>
-  <li><a target="_blank" href="https://poperinge.bibliotheek.be/"> Bibliotheek Poperinge</a> <a target="_blank" href="https://poperinge.bibliotheek.be/"><br> <img src="assets/images/sponsors/poperinge-bibliotheek-logo.png" height="100" width="100"/></a>
-  </li>
-  <li><a target="_blank" href="https://kortrijk.bibliotheek.be/"> Bibliotheek Kortrijk</a> <a target="_blank" href="https://kortrijk.bibliotheek.be/"><br> <img src="assets/images/sponsors/kortrijk-biblotheek-logo.jpg" height="180" width="180"/></a>
-  </li>
-  <li><a target="_blank" href="https://stad.gent/nl/bibliotheek/"> Bibliotheek Gent</a> <a target="_blank" href="https://stad.gent/nl/bibliotheek/"><br> <img src="assets/images/sponsors/gent-bibliotheek-logo.png" height="180" width="130"/></a>
-  </li>
+<p>Zijn dit de leden die we gedurende het project gaan samenwerken: </p>
+<ul>
+  <li>Cluster CO7 (Westhoek)</li>
+    <ul>
+      <li><a target="_blank" href="https://ieper.bibliotheek.be/"> Bibliotheek Ieper</a> <a target="_blank" href="https://ieper.bibliotheek.be/"><br> <img src="assets/images/sponsors/logodebib.jpg" width="100"/></a>
+      </li>
+      <li><a target="_blank" href="https://zonnebeke.bibliotheek.be/"> Bibliotheek Zonnebeke</a> <a target="_blank" href="https://zonnebeke.bibliotheek.be/"><br> <img src="assets/images/sponsors/zonnebeke-biblotheek-logo.jpg" width="150"/></a>
+      </li>
+      <li><a target="_blank" href="https://poperinge.bibliotheek.be/"> Bibliotheek Poperinge</a> <a target="_blank" href="https://poperinge.bibliotheek.be/"><br> <img src="assets/images/sponsors/poperinge-bibliotheek-logo.png" width="100"/></a>
+      </li>
+      <li>Bibliotheek Langemark-Poelkapelle</li>
+    </ul>
+  <li>Bibliotheken Regio Kortrijk</li>
+  <ul>
+    <li>
+      <a target="_blank" href="https://kortrijk.bibliotheek.be/"> Bibliotheek Kortrijk</a> <a target="_blank" href="https://kortrijk.bibliotheek.be/"><br> <img src="assets/images/sponsors/kortrijk-biblotheek-logo.jpg"  width="180"/></a>
+    </li>
+    <li>Bibliotheek Rollegem
+    </li>
+  </ul>
+  <li><a target="_blank" href="https://stad.gent/nl/bibliotheek/"> Bibliotheken Gent</a> <a target="_blank" href="https://stad.gent/nl/bibliotheek/"><br> <img src="assets/images/sponsors/gent-bibliotheek-logo.png"  width="130"/></a>
   <p>Bibliotheek De Krook is er voor iedereen die wil lezen, leren en (be) leven. Net als de stad en het gebouw Weergave ze gehuisvest is, wil de bibliotheek met haar netwerk op een open, moderne en wijze manier mensen verbinden.De Bibliotheek heeft altijd al tot doel gehad om mensen te helpen de wereld beter te begrijpen.</p>
-  <li><a target="_blank" href="https://www.maldegem.be/bibliotheek/"> Bibliotheek Maldegem</a> <a target="_blank" href="https://www.maldegem.be/bibliotheek/"><br> <img src="assets/images/sponsors/maldegem-bibliotheek-logo.jpg" height="100" width="100"/></a>
+  </li>
+  <li><a target="_blank" href="https://www.maldegem.be/bibliotheek/"> Bibliotheek Maldegem</a> <a target="_blank" href="https://www.maldegem.be/bibliotheek/"><br> <img src="assets/images/sponsors/maldegem-bibliotheek-logo.jpg"  width="100"/></a>
   <p>De snelheid waarmee de huidige economie evolueert is enorm.  Ook in Maldegem denken we op verschillende niveaus na over hoe we ervoor kunnen zorgen dat we ons onderwijs, onze burgers en ondernemers klaarstomen en weerbaar maken voor de voortschrijdende technologische transformaties. De uitrol van het Maldegemse  FabLab in de bib is daar een eerste concreet resultaat van.</p>
   </li>
-  <li><a target="_blank" href="https://sint-niklaas.bibliotheek.be/"> Bibliotheek Sint-Niklaas</a> <a target="_blank" href="https://sint-niklaas.bibliotheek.be/"><br> <img src="assets/images/sponsors/sintniklaas-bibliotheek-logo.png" height="100" width="100"/></a>
-  </li>
-  <li><a target="_blank" href="https://www.minus-one.be/"> Minus One</a> <a target="_blank" href="https://www.minus-one.be/"><br> <img src="assets/images/sponsors/minusone-logo.png" height="100" width="100"/></a>
+  <li>Bibliotheken Waasland</li>
+  <ul>
+    <li><a target="_blank" href="https://sint-niklaas.bibliotheek.be/"> Bibliotheek Sint-Niklaas</a> <a target="_blank" href="https://sint-niklaas.bibliotheek.be/"><br> <img src="assets/images/sponsors/sintniklaas-bibliotheek-logo.png" width="100"/></a>
+    </li>
+    <li>Bibliotheek Stekene</li>
+    <li>Bibliotheek Kruibeke</li>
+    <li>Bibliotheek Temse</li>
+    <li>Bibliotheek Waasmunster</li>
+    <li>Bibliotheek Lokeren</li>
+    <li>Bibliotheek Moerbeke</li>
+    <li>Bibliotheek Beveren</li>
+    <li>Bibliotheek Zwijndrecht</li>
+    <li>Bibliotheek Sint-Gillis-Waas</li>
+  </ul>
+  <li><a target="_blank" href="https://www.minus-one.be/"> Minus One</a> <a target="_blank" href="https://www.minus-one.be/"><br> <img src="assets/images/sponsors/minusone-logo.png" width="100"/></a>
   <p>Minus One is een jongerencultuurcentrum in de prachtige Gentse Rabotwijk, net buiten het stadscentrum. We prikkelen en inspireren jongeren met een gevarieerd programma. Je kan bij ons dansen, feesten, concerten bijwonen, evenementen organiseren, workshops volgen, quizzen, hangen, en verschillende ateliers volgen, maar ook je project uitwerken tijdens een residentie, meedoen met creatieve interventies in de openbare ruimte, je ondernemingsidee uitwerken of advies vragen over een projectidee of businessplan. Wij zorgen voor ondersteuning op maat.</p>
   </li>
-  <li><a target="_blank" href="https://www.technopolis.be/en/"> Technopolis</a> <a target="_blank" href="https://www.technopolis.be/en/"><br> <img src="assets/images/sponsors/technopolis-logo.png" height="100" width="150"/></a>
-  <p>Technopolis is een plek waar curieuzeneuzemosterdpotten van 4 tot 104 van alles over wetenschap en technologie komen ontdekken.
-Technopolis is géén museum, maar een doe-centrum! Je steekt er de handen uit de mouwen tijdens allerlei workshops, geeft je ogen de kost tijdens te gekke demo's en shows en je gaat er aan de slag met talloze interactieve opstellingen.</p>
+  <li><a target="_blank" href="https://www.technopolis.be/en/"> Technopolis</a> <a target="_blank" href="https://www.technopolis.be/en/"><br> <img src="assets/images/sponsors/technopolis-logo.png"  width="150"/></a>
+  <p>Technopolis is een plek waar curieuzeneuzemosterdpotten van 4 tot 104 van alles over wetenschap en technologie komen ontdekken. Technopolis is géén museum, maar een doe-centrum! Je steekt er de handen uit de mouwen tijdens allerlei workshops, geeft je ogen de kost tijdens te gekke demo's en shows en je gaat er aan de slag met talloze interactieve opstellingen.</p>
   </li>
-  
 </ul>
 
-<h4>Vragen, opmerkingen, of verbeteringen,?</h4>
+<h4>STEM-academie in de Bib?</h4>
+<h5>Wat is een STEM-academie?</h5>
+Een STEM-academie geeft kansen om rond STEM (*Science, Technologie, Engineering, Mathematics*) te creëren, te ervaren, te leren en samen te werken.
+
+Een STEM-academie heeft als doel curiositeit en zin naar meer aan te wakkeren.
+
+<h5>Wat beogen we met STEM in de MaakBib?</h5>
+
+* De MaakBib heeft een expertise in STEM disciplines en didactiek.
+* De MaakBib heeft een open aanbod met een leertraject.
+* De MaakBib staat open voor iedereen.
+* De MaakBib communiceert zijn activiteiten op een afgesproken platform. 
+
+<h5>De specifieke STEM activiteiten in de MaakBib</h5>
+
+In de MaakBibs ligt de focus op **digitale fabricatie** en **physical computing**. 
+
+STEM activiteiten in het algemeen ...
+
+* Hebben een focus op prikkeling of verdieping van STEM
+* Hebben een informeel leerkarakter
+* Spelen in op ontwerpend en onderzoekend leren.
+* Stimuleren de 21 ste eeuwse vaardigheden
+* Streven naar een geïntegreerde STEM aanpak.
+* Vormen een leertraject
+* Geven inzichten in de relevantie van STEM op zich en voor de maatschappij
+
+We ondersteunen ook de algemene aanbevelingen voor STEM-academies:
+
+* De STEM academie heeft aandacht voor het bereiken van moeilijk bereikbare doelgroepen.
+* De STEM academie werkt hiervoor samen met middenveldorganisaties.
+* De STEM academies hebben oog voor wisselwerking met ondernemingen.
+* De STEM academie maakt bij voorkeur een communicatieplan op.
+* De STEM academie vertrekt bij zijn activiteiten van maatschappelijke uitdagingen en van de leefwereld van de doelgroep.
+
+<h4>Vragen, opmerkingen, of verbeteringen?</h4>
 
 <p>Laat het ons weten via volgend formulier: TODO</p>
 
@@ -74,6 +133,9 @@ Technopolis is géén museum, maar een doe-centrum! Je steekt er de handen uit d
 <br />
 <a target="_blank" href="http://stem-academie.be"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/logoSTEMAcademie.png" alt="stem-academie logo" /></a>
 
+<br />
+<br />
+<a target="_blank" href="https://www.cultuurconnect.be/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/cultuurconnect.svg" alt="cultuurconnect logo" /></a>
 </div>
 </div>
 </div>
