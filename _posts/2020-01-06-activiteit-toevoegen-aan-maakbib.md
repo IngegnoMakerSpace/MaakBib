@@ -63,17 +63,17 @@ paragraaf1 bla bla
 
 paragraaf 2 bla bla
 
-Wil je gewoon een nieuwe lijn, dan kan dat met het symbool \\ op het einde van de lijn, bv
+Wil je gewoon een nieuwe lijn, dan kan dat door **twee** spaties op het einde van de lijn toe te voegen , bv
 
 ```md
-tekst in een paragraaf\
+tekst in een paragraaf␣␣  
 dit op nieuwe lijn
 }
 ```
 wordt:
 
 
-tekst in een paragraaf\
+tekst in een paragraaf  
 dit op nieuwe lijn
 
 Lijstjes maak je door nummers of sterretjes te plaatsen aan het begin van een lijn, terwijl je 4 spaties kunt gebruiken voor indents. Bevoorbeeld:
@@ -86,7 +86,7 @@ tekst
 * bullet2
 
 1. lijst
-2. lijst\
+2. lijst␣␣  
     nieuwe lijn in lijst met 4 spaties ervoor.
     1. sublijst
     2. sublijst
@@ -106,7 +106,7 @@ tekst
 * bullet2
 
 1. lijst
-2. lijst\
+2. lijst  
     nieuwe lijn in lijst met 4 spaties ervoor.
     1. sublijst
     2. sublijst

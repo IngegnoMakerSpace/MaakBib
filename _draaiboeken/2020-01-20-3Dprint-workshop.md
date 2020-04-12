@@ -8,7 +8,7 @@ midtech: true
 hightech: true
 categories: [ 3D print]
 image: assets/draaiboeken/3D-Print-Workshop.png
-downloads: []
+downloads: 
 
 ---
 
