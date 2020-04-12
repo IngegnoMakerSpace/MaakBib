@@ -30,7 +30,7 @@ pagination:
 
     {% for post in site.posts %}
 
-        {% if post.featured == true %}
+        {% if post.featured == true and post.hide != true %}
 
             {% include featuredbox.html %}
 
@@ -56,8 +56,12 @@ pagination:
     <div class="row listrecent">
 
         {% for post in paginator.posts %}
+      
+          {% if post.hide != true %}
 
-        {% include postbox.html %}
+            {% include postbox.html %}
+      
+          {% endif %}
 
         {% endfor %}
 

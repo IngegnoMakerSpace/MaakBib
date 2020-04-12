@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "DJ Licht-Geluid"
+hide: true
+published: false
 featured: true
 authors: [cri, ben]
 lowtech: false
