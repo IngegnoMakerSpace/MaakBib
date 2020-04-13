@@ -14,9 +14,9 @@ comments: false
 
 <!--p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p-->
 
-<h4>Partners</h4>
+<h4>Trekkers</h4>
 
-<p>Volgende partners zetten hun schouders onder het MaakBib project:</p>
+<p>Volgende organisaties zetten hun schouders onder het MaakBib project:</p>
 <ul>
   <li><a target="_blank" href="http://decreatievestem.be/">vzw De Creatieve STEM</a> <a target="_blank" href="http://decreatievestem.be/"><br> <img src="{{site.baseurl}}/assets/images/sponsors/CreatieveSTEMLogo.png"></a>
     <p>De Creatieve STEM heeft als educatief doel het bevorderen van de ontwikkeling van (talenten van) jongeren. De vereniging wenst een kader te creëren waarbinnen kinderen hun talenten in techniek, wetenschap en talen ontwikkelen. Met vrije inloopmomenten, cursussen, workshops, speciale vakantieprogramma’s en activiteiten voor scholen en groepen brengt de vereniging dit in de praktijk. De vereniging biedt toegang tot gereedschappen die men thuis niet heeft en tot minder bekende materialen en technieken. Doel is steeds weer het stimuleren van creativiteit, interesse, ontwikkeling en ondernemerschap, met aandacht voor gelijke kansen voor alle kinderen.</p>
@@ -32,7 +32,7 @@ comments: false
   
 <h4>Members</h4>
   
-<p>Zijn dit de leden die we gedurende het project gaan samenwerken: </p>
+<p>Zijn dit de leden die het project mee uitvoeren: </p>
 <ul>
   <li>Cluster CO7 (Westhoek)</li>
     <ul>
@@ -124,7 +124,7 @@ We ondersteunen ook de algemene aanbevelingen voor STEM-academies:
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Sponsors</h5>
+<h5>Partners</h5>
 
 <p>Bedankt voor alle steun! Dit laat ons toe MaakBib verder uit te bouwen in bibliotheken en jeugdverenigingen.
   <!--a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a--> </p>
@@ -135,7 +135,29 @@ We ondersteunen ook de algemene aanbevelingen voor STEM-academies:
 
 <br />
 <br />
+<a target="_blank" href="https://www.ingegno.be/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/IngegnoLogo.png" alt="Ingegno logo" /></a>
+
+<br />
+<br />
 <a target="_blank" href="https://www.cultuurconnect.be/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/cultuurconnect.svg" alt="cultuurconnect logo" /></a>
+
+<br />
+<br />
+<a target="_blank" href="https://www.feeerieke.be/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/feeerieke.png" alt="Feeerieke logo" /></a>
+
+<br />
+<br />
+<a target="_blank" href="https://missioncontrollab.com/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/logo_orange_Feb_295x_MCL.jpg" alt="Mission Controll Lab logo" /></a>
+
+<br />
+<br />
+<a target="_blank" href="https://www.fablabfactory.com/nl/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/fablabfactory.jpg" alt="Fablab Factory logo" /></a>
+
+<br />
+<br />
+<a target="_blank" href="https://www.trideus.be/nl/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/trideus.png" alt="Trideus logo" /></a>
+
+
 </div>
 </div>
 </div>
