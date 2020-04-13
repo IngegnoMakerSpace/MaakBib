@@ -14,6 +14,7 @@ pijler_tinkering : true
 pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
+licence: CCBY-NC-SA 
 categories: [ chemie, 2D-tekenen  ]
 image: assets/images/2020-04-10-etsen-van-metaal-low-tech/resultaat.png
 tijd: 60 min
@@ -34,8 +35,8 @@ benodigdheden:  [
   Lijmstick,
   Oude handdoek of keukenpapier,
   Schuurpapier, 
-  Gekleurde of transparante folie
-  Een glas of schaaltje
+  Gekleurde of transparante kleeffolie,
+  Een glas of schaaltje,
   Zout,
   2-3 wattenstaafjes,
 ]

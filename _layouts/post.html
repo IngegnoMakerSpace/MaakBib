@@ -3,6 +3,7 @@ layout: default
 disqus: false
 archive: false
 post_class: post-template
+licence: CCBY-NC-SA 
 ---
 
 <!-- Begin Article
@@ -35,8 +36,8 @@ post_class: post-template
             </div>
           {% endfor %}
           
-          {% if page.DIT or page.DIY or page.CHALLENGE %}
           <div class="share sticky-top sticky-top-offset">
+          {% if page.DIT or page.DIY or page.CHALLENGE %}
             {% if page.DIT %}
               <p>
               <span title="Do It Together: we geven je een handleiding in deze activiteit welke je stap voor stap kunt volgen om hetzelfde resultaat te bekomen als ons!"><strong>DIT</strong><span class="sidebar-strong"> &#10004;</span>
@@ -52,59 +53,71 @@ post_class: post-template
               <p>
               <span title="Challenge: Deze activiteit bevat een uitdaging of opdracht. Iedereen kan op zijn eigen unieke manier dit uitwerken."><strong>CHALLANGE</strong><span class="sidebar-strong"> &#10004;</span>
               </span></p>
-            {% endif%}
-            {% if page.duurtijd %}
-            <p><strong>Duur:</strong><span class="sidebar-strong"> {{page.duurtijd}}</span></p>
-            {% endif%}
-            {% if page.moeilijkheidsgraad_1_3 %}
-            <span title="We werken met 3 mogelijke niveaus: Beginner, Half-gevorderde of Gevorderde">
-              {% if  page.moeilijkheidsgraad_1_3 == 1 %}
-                <p><strong>Beginner</strong><span class="sidebar-strong"> &#10004;</span></p>
-              {% elsif  page.moeilijkheidsgraad_1_3 == 2 %}
-                <p><strong>Half-gevorderden</strong><span class="sidebar-strong"> &#10004;</span></p>
-              {% elsif  page.moeilijkheidsgraad_1_3 == 3 %}
-                <p><strong>Gevorderden</strong><span class="sidebar-strong"> &#10004;</span></p>
-              {% endif %}
-            </span>
             {% endif %}
+          {% endif %}
             
-            {% if page.prijs_1_3 > 0 %}
-            <span title="3 prijsniveaus: € = basismateriaal volstaat, €€ = extra materiaal nodig, €€€ = ook enkele duurdere componenten">
-            <p><strong>Prijs:</strong> 
-              {% if page.prijs_1_3 == 1  %}
-              <span class="sidebar-strong">€</span>€€
-              {% elsif page.prijs_1_3 == 2  %}
-              <span class="sidebar-strong">€€</span>€
-              {% elsif page.prijs_1_3 == 3  %}
-              <span class="sidebar-strong">€€€</span>
-              {% endif %}
-            </p>
-            </span>
-            {% endif %}
+          {% if page.duurtijd %}
+          <p><strong>Duur:</strong><span class="sidebar-strong"> {{page.duurtijd}}</span></p>
+          {% endif%}
             
-            <!-- iconen voor pijler van activiteit -->
-            {% if page.pijler_tinkering %}
-            <span class="sidebar-strong" title="Tinkering">TK </span>
-            {% else %}
-            TK  
+          {% if page.moeilijkheidsgraad_1_3 %}
+          <span title="We werken met 3 mogelijke niveaus: Beginner, Half-gevorderde of Gevorderde">
+            {% if  page.moeilijkheidsgraad_1_3 == 1 %}
+              <p><strong>Beginner</strong><span class="sidebar-strong"> &#10004;</span></p>
+            {% elsif  page.moeilijkheidsgraad_1_3 == 2 %}
+              <p><strong>Half-gevorderden</strong><span class="sidebar-strong"> &#10004;</span></p>
+            {% elsif  page.moeilijkheidsgraad_1_3 == 3 %}
+              <p><strong>Gevorderden</strong><span class="sidebar-strong"> &#10004;</span></p>
             {% endif %}
-            {% if page.pijler_design_thinking %}
-            <span class="sidebar-strong" title="Design Thinking">DT </span>
-            {% else %}
-            DT  
+          </span>
+          {% endif %}
+            
+          {% if page.prijs_1_3 and page.prijs_1_3 > 0 %}
+          <span title="3 prijsniveaus: € = basismateriaal volstaat, €€ = extra materiaal nodig, €€€ = ook enkele duurdere componenten">
+          <p><strong>Prijs:</strong> 
+            {% if page.prijs_1_3 == 1  %}
+            <span class="sidebar-strong">€</span>€€
+            {% elsif page.prijs_1_3 == 2  %}
+            <span class="sidebar-strong">€€</span>€
+            {% elsif page.prijs_1_3 == 3  %}
+            <span class="sidebar-strong">€€€</span>
             {% endif %}
-            {% if page.pijler_digitale_fabricatie %}
-            <span class="sidebar-strong" title="Digitale  Fabricatie">DF </span>
-            {% else %}
-            DF  
-            {% endif %}
-            {% if page.pijler_physical_computing %}
-            <span class="sidebar-strong" title="Physical  Computing">PC </span>
-            {% else %}
-            PC  
-            {% endif %}
+          </p>
+          </span>
+          {% endif %}
+            
+          <!-- iconen voor pijler van activiteit -->
+          {% if page.pijler_tinkering %}
+          <span class="sidebar-strong" title="Tinkering">TK </span>
+          {% else %}
+          TK  
+          {% endif %}
+          {% if page.pijler_design_thinking %}
+          <span class="sidebar-strong" title="Design Thinking">DT </span>
+          {% else %}
+          DT  
+          {% endif %}
+          {% if page.pijler_digitale_fabricatie %}
+          <span class="sidebar-strong" title="Digitale  Fabricatie">DF </span>
+          {% else %}
+          DF  
+          {% endif %}
+          {% if page.pijler_physical_computing %}
+          <span class="sidebar-strong" title="Physical  Computing">PC </span>
+          {% else %}
+          PC  
+          {% endif %}
+            
+          {% if page.licence %}
+          <div class="share sticky-top sticky-top-offset">
+            <a href="https://creativecommons.org/licenses/?lang=nl"><img src="{{site.baseurl}}/assets/images/licences/{{ page.licence }}.png" alt="licence {{ page.licence }}" style="margin-right: 0px;margin-top: 15px"></a>
+          </div>
+          {% else %}
+          <div class="share sticky-top sticky-top-offset">
+            <a href="https://creativecommons.org/licenses/?lang=nl"><img src="{{site.baseurl}}/assets/images/licences/{{ layout.licence }}.png" alt="licence {{ layout.licence }}" style="margin-right: 0px;margin-top: 15px"></a>
           </div>
           {% endif %}
+          </div>
           
         </div>
 
