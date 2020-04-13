@@ -23,24 +23,27 @@ downloads:
   - name: 'Handleiding Etsen Metaal'
     file: assets/images/2020-04-10-etsen-van-metaal-low-tech/Handleiding_etsen_metaal.pdf
 video_front: kVEmITEVLbk
-benodigdheden:  [
-  Metalen pot of doos,
-  Kniptang,
-  Striptang,
-  Schaar/cuttermes en snijmat,
-  9V batterij,
-  Twee elektrische kabels,
-  Isolatietape,
-  Papiertape,
-  Lijmstick,
-  Oude handdoek of keukenpapier,
-  Schuurpapier, 
-  Gekleurde of transparante kleeffolie,
-  Een glas of schaaltje,
-  Zout,
-  2-3 wattenstaafjes,
-]
-
+materialen: [
+      Metalen pot of doos,
+      9V batterij,
+      Twee elektrische kabels,
+      Isolatietape,
+      Oude handdoek of keukenpapier,
+      Schuurpapier, 
+      Gekleurde of transparante kleeffolie,
+      Een glas of schaaltje,
+      Zout,
+      2-3 wattenstaafjes,
+      ]
+tools: [
+      Kniptang,
+      Striptang,
+      Schaar/cuttermes en snijmat,
+      ]
+benodigdheden_opt: [
+      Papiertape,
+      Lijmstick,
+      ]
 ---
 
 Upcyclen met wetenschap? Met een redoxreactie je ontwerpen op metaal etsen en in een mum van tijd heb je gepersonaliseerde objecten. Ga aan de slag met een batterij, een zoutoplossing en een stalen pot. Versnel oxidatie en je mooie ontwerpen doen de rest.  

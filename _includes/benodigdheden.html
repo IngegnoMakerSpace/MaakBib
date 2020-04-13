@@ -26,9 +26,67 @@
 </div>
 {% endif %}
 
-{% if page.benodigdheden_opt %}
-<strong>Optioneel:</strong>
 
+{% if page.materialen %}
+<p style="margin: 0 0 0 0;"><strong>Materialen:</strong></p>
+<div class="row">
+  <div class="col-xs-12 col-md-6 col-lg-6 text-left text-md-left benodigdheden">
+    <ul>
+    {% assign halfval = page.materialen.size | plus: 1 | divided_by: 2 | plus: -1 %}
+    {% for itemnr in (0..halfval) %}
+      {% assign item = page.materialen[itemnr] %}
+      {% if item %}
+      <li> {{item}}
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+  <div class="col-xs-12 col-md-6 col-lg-6 text-left text-md-left benodigdheden">
+    {% assign halfval = page.materialen.size | plus: 1 | divided_by: 2  | plus: -1  %}
+    {% assign halfval = halfval | plus:1 %}
+    {% for itemnr in (halfval..page.materialen.size) %}
+      {% assign item = page.materialen[itemnr] %}
+      {% if item %}
+      <li> {{item}}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if page.tools %}
+<p style="margin: 0 0 0 0;"><strong>Gereedschap:</strong></p>
+<div class="row">
+  <div class="col-xs-12 col-md-6 col-lg-6 text-left text-md-left benodigdheden">
+    <ul>
+    {% assign halfval = page.tools.size | plus: 1 | divided_by: 2 | plus: -1 %}
+    {% for itemnr in (0..halfval) %}
+      {% assign item = page.tools[itemnr] %}
+      {% if item %}
+      <li> {{item}}
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+  <div class="col-xs-12 col-md-6 col-lg-6 text-left text-md-left benodigdheden">
+    {% assign halfval = page.tools.size | plus: 1 | divided_by: 2  | plus: -1  %}
+    {% assign halfval = halfval | plus:1 %}
+    {% for itemnr in (halfval..page.tools.size) %}
+      {% assign item = page.tools[itemnr] %}
+      {% if item %}
+      <li> {{item}}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if page.benodigdheden_opt %}
+<p style="margin: 0 0 0 0;"><strong>Optioneel:</strong></p>
 <div class="row">
   <div class="col-xs-12 col-md-6 col-lg-6 text-left text-md-left benodigdheden">
     <ul>
