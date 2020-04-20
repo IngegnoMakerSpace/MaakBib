@@ -1,7 +1,7 @@
 ---
 layout: tools 
 title:  "Werken met de Full Spectrum Laser Cutter"
-authors: [Cri]
+authors: [cri]
 featured: false
 lowtech: false
 midtech: false
@@ -45,5 +45,5 @@ Download hier de onderstaande set: [FabLab Fonts]({{ site.baseurl}}/assets/tools
     
 ## Activiteiten
 
-Bij alle activiteiten waarbij 2D tekenen aan bod komt kun je Inkscape gebruiken als tool. Zie een overzicht bij de [categorie 2D-tekenen]({{ site.baseurl}}/categories#2D-tekenen)
+Bij alle activiteiten waarbij 2D tekenen aan bod komt kun je waarschijnlijk de lasercutter gebruiken als tool. Zie een overzicht bij de [categorie 2D-tekenen]({{ site.baseurl}}/categories#2D-tekenen)
 
