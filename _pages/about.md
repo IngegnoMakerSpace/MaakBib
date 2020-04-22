@@ -27,6 +27,10 @@ comments: false
   <li><a target="_blank" href="https://www.rhizo.be/"> RHIZO</a> <a target="_blank" href="https://www.rhizo.be/"><br> <img src="assets/images/sponsors/rhizo-logo.png" width="200"/></a>
   </li><br>
   <li><a target="_blank" href="http://www.dig-it.brussels/"> Dig-IT</a> <a target="_blank" href="http://www.dig-it.brussels/"><br> <img src="assets/images/sponsors/dig-it.png" width="200"/></a>
+    <p>DIG-IT-vzw heeft tot doel alle mogelijke STEM (Science, Technology, Engineering and Mathematics) en STEAM (Science, Technology, Engineering, Arts and Mathematics) projecten en diensten en producten te ontwerpen, te promoten, te ontwikkelen en uit te voeren die ze interessant acht in binnen- en buitenland.
+    </p>
+    <p>DIG-IT-vzw kan partner zijn van een project of projectleider. Als partner stellen wij ons netwerk ter beschikking in de Brusselse regio voor de uitrol van een project. Als projectleider selecteren wij voor elk specifiek project complementaire partners die samen over de nodige expertise beschikken om de doelstellingen te bereiken.
+    </p>
   </li>
 </ul>
   
