@@ -160,7 +160,7 @@ Denk hierbij maar aan de traditionele plastiek modelbouwkits. Dit was dan ook de
 
 
 ## STEM
-In deze mid tech activiteit komt heel wat STEM (Science Technologie Engineering Mathematics) aan bod! Volgende talenten heb je bij de bouw nodig: planmatig werken, nauwkeurig geduld, logisch nadenken. 
+In deze mid tech activiteit komt heel wat STEM (Science Technologie Engineering Mathematics) aan bod! Volgende talenten heb je bij de bouw nodig: planmatig werken, nauwkeurig werken, logisch nadenken. 
 En als je de werking gaat onderzoeken ontdek je heel wat natuurkunde. 
 
 <div class="border_boxmaakbib02_img" markdown="1">
