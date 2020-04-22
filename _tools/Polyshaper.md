@@ -11,7 +11,6 @@ image: assets/tools/Polyshaper/image5_title.jpg
     
 ---
 
- 
 De PolyShaper is een computergestuurde snijmachine voor polystyreenschuim en soortgelijke materialen. Het is een digitale Hot Wire Foam Cutter. 
 
 Het apparaat bestaat uit een dunne, strakke metalen draad, die wordt verwarmd tot ongeveer 200 ° C.  
