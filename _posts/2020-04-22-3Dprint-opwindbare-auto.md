@@ -63,7 +63,7 @@ En het beste van al is dat `alles volledig 3D-printbaar` is, er zijn geen extra 
 
 ## Alvorens men begint te printen
 
-Alvoorens men de 2 kaarten gaat printen zijn er enkele cruciale instellingen en weetjes waarmee men rekening moet houden om het best mogelijke resultaat te bekomen. Als de 2 kaarten al voor je uitgeprint zijn kan je dit stuk overslaan. 
+Alvorens men de 2 kaarten gaat printen zijn er enkele cruciale instellingen en weetjes waarmee men rekening moet houden om het best mogelijke resultaat te bekomen. Als de 2 kaarten al voor je uitgeprint zijn kan je dit stuk overslaan. 
 
 #### Waar kan ik de 3D-bestanden terugvinden?
 Download de stl bestanden: 
@@ -96,7 +96,7 @@ Een overzicht van de stappen voor assemblage
 
 De eerste stap bestaat erin om alle onderdelen los te maken van de “lopers” (verbindingen tussen de onderdelen). De beste manier hiervoor is om eerst alle onderdelen los te knippen met een kniptang en vervolgens de restanten van de lopers te verwijderen met een fijn precisie snijmes. 
 
-**OPGELET** Om een goede werking van het autootje te garanderen is het zeer belangrijk dat alle onderdelen zo proper mogelijk gemaakt worden en dat eventueel overtollige plastic verwijdert wordt. Hierop dient vooral gelet te worden bij de tandwielen.
+**OPGELET** Om een goede werking van het autootje te garanderen is het zeer belangrijk dat alle onderdelen zo proper mogelijk gemaakt worden en dat eventueel overtollige plastic verwijderd wordt. Hierop dient vooral gelet te worden bij de tandwielen.
 
 
 #### Stap 2
@@ -115,7 +115,7 @@ In het ontwerp van het autootje zijn enkele 3D-print trucjes gebruikt om te comp
 #### Stap 3
 ![stap 1]({{ site.baseurl }}/assets/images/2020-04-22-3Dprint-opwindbare-auto/stap3.png)
 
-In de derde stap worden de 3 tandwielen met hun rondellen op hun assen geschoven . Merk op dat 2 tandwielen exact hetzelfde zijn en dat het andere tandwiel aangepast is om een ratel/click mechanisme in te passen. De aandrijfas (die gebruikt wordt om het autootje op te winden) wordt door het rechterframe, de ratel, het tandwiel, de rondel en de veer geschoven tot in het rechterframe.   Het rechterframe kan nu op zijn plaats geklikt worden.
+In de derde stap worden de 3 tandwielen met hun rondellen op hun assen geschoven. Merk op dat 2 tandwielen exact hetzelfde zijn en dat het andere tandwiel aangepast is om een ratel/click mechanisme in te passen. De aandrijfas (die gebruikt wordt om het autootje op te winden) wordt door het rechterframe, de ratel, het tandwiel, de rondel en de veer geschoven tot in het rechterframe.   Het rechterframe kan nu op zijn plaats geklikt worden.
 
 **OPGELET** Let bij deze stap goed op welke rondel waar gebruikt wordt voor u begint. Dit om te vermijden dat het autootje terug uit elkaar gehaald moet worden aangezien dit meestal fataal kan aflopen voor het autootje.
 
@@ -165,7 +165,7 @@ En als je de werking gaat onderzoeken ontdek je heel wat natuurkunde.
 
 <div class="border_boxmaakbib02_img" markdown="1">
 #### Opwindbare autotjes en natuurkunde
-De opwindbare auto heeft een metalen of plastic buitenschaal waarin een chassis met een systeem van tandwielen, assen en wielen is ondergebracht. De as en achterwielen zijn bevestigd aan de tandwielen, die met de veer verbonden zijn. Wanneer de gebruiker de wielen draait, windt de as de veer op, waardoor energie opgeslagen wordt die dan omgezet wort in beweging.  
+De opwindbare auto heeft een metalen of plastic buitenschaal waarin een chassis met een systeem van tandwielen, assen en wielen is ondergebracht. De as en achterwielen zijn bevestigd aan de tandwielen, die met de veer verbonden zijn. Wanneer de gebruiker de wielen draait, windt de as de veer op, waardoor energie opgeslagen wordt die dan omgezet wordt in beweging.  
 
 Een mooie uitleg is te zien [op deze video](https://youtu.be/QdvfiVebb_s?t=23)
 
