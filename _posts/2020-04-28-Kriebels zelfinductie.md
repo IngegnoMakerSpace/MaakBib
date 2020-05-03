@@ -16,18 +16,18 @@ pijler_digitale_fabricatie : true
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
 categories: [ solderen, elektronica, experimenteren, wetenschap ]
-image: assets/images/20200428-kriebels-zelfinductie/afgewerktproject.jpg
+image: assets/images/2020-04-28-kriebels-zelfinductie/afgewerktproject.jpg
 tijd: + 3 uur
-print: assets/images/20200428-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf
+print: assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf
 downloads: 
   - name: 'Bouw-Handleiding'
-    file: assets/images/20200428-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf
+    file: assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf
   - name: 'Gebruikshandleiding' 
-    file: assets/images/20200428-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf
+    file: assets/images/2020-04-28-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf
   - name: 'Lasercut file' 
-    file: assets/images/220200428-kriebels-zelfinductie/Maakbib kriebels zelfinductie v1.01.svg
+    file: assets/images/22020-04-28-kriebels-zelfinductie/Maakbib kriebels zelfinductie v1.01.svg
   - name: 'Weetjes' 
-    file: assets/images/20200428-kriebels-zelfinductie/weetjes.pdf
+    file: assets/images/2020-04-28-kriebels-zelfinductie/weetjes.pdf
 materialen: [
     MDF 3mm x 43cm x 22cm,
     4x banaan stekker niet geïsoleerd 4 mm, 
@@ -98,7 +98,7 @@ In dit project maak je een opstelling om te leren over en experimenteren met het
 ## Benodigdheden en bouwinstructies
 
 Alle details over de nodige componenten, waar ze kopen, nodige gereedschap en alle stappen van de constructie vind je in het document 
-[Bouwhandleiding]({{ site.baseurl }}/assets/images/20200428-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf) 
+[Bouwhandleiding]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf) 
 
 
 ## Kriebels zelfinductie de praktijk
@@ -107,7 +107,7 @@ De spanning van 1,5 Volt batterij kan je niet voelen. Maar met deze opstelling g
 Onthou dat dit  experiment NIET gevaarlijk is want je werkt met een batterij van 1,5V. Daarom, 
 **verbind deze opstelling `NOOIT` met een andere voedingsbron**
 
-Details voor correct gebruik kan je terugvinden in dit document: [Gebruikshandleiding]({{ site.baseurl }}/assets/images/20200428-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf) 
+Details voor correct gebruik kan je terugvinden in dit document: [Gebruikshandleiding]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf) 
 
 Hier samengevat
 
@@ -134,7 +134,7 @@ Een constante stroom door een spoel wekt een constant magnetisch veld op; een co
 
 Als de stroomkring geopend wordt, zal de stroom willen dalen maar de spoel werkt dit tegen. De opgewekte inductiespanning tracht de stroom in stand te houden. De inductiespanning kan zeer groot zijn. De inductiespanning heeft de omgekeerde polariteit als de batterijspanning; de spoel wordt immers generator in plaats van verbruiker.
 
-![theorie]({{ site.baseurl }}/assets/images/20200428-kriebels-zelfinductie/theorie.png)
+![theorie]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/theorie.png)
 </div>
 
 ## Weetjes
@@ -173,12 +173,12 @@ Hier enkele interessante links.
 Men bekomt een spoel met bepaalde eigenschappen door een geleider spiraalvormig op te rollen. 
 Een voorbeeld hiervan is te zien in de figuur hieronder. De stroom door de opgerolde geleider produceert een elektromagnetisch veld. Rond iedere gemaakte lus (winding) ontstaat een elektromagnetisch veld.
 
-![theorie]({{ site.baseurl }}/assets/images/20200428-kriebels-zelfinductie/spoel_batt.png)
+![theorie]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/spoel_batt.png)
 
 Een spoel kan gewikkeld worden rondom een materiaal, de kern, genoemd. 
 Het aantal windingen van de draad, het type kern, de lengte en de dwarsdoorsnede van de kern zijn allemaal factoren bij het instellen van de waarde van inductie.
 
-![theorie]({{ site.baseurl }}/assets/images/20200428-kriebels-zelfinductie/spoel.png)
+![theorie]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/spoel.png)
 
 </div>
 
