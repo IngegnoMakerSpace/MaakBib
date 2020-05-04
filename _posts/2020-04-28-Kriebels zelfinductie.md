@@ -87,11 +87,9 @@ Opgelet voor elektrocutie!
 
 Ooit geprobeerd om 18 LED's aan te doen met een batterijtje van 1.5V?  
 
-Lichte kriebles om te ervaren hoe je met een heel lage spanning een veel hogere spanning kan creëeren die je kan voelen. 
+Lichte kriebels om te ervaren hoe je met een heel lage spanning een veel hogere spanning kan creëren die je kan voelen?
 
-
-In dit project maak je een opstelling om te leren over en experimenteren met het begrip **zelfinductie**. 
-
+In dit project maak je een opstelling om te leren over, en experimenteren met, het begrip **zelfinductie**. 
 
 *Deze handleiding werd ontwikkeld door **Hans Caluwaerts** voor Maakbib.*
 
@@ -101,13 +99,13 @@ Alle details over de nodige componenten, waar ze kopen, nodige gereedschap en al
 [Bouwhandleiding]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf) 
 
 
-## Kriebels zelfinductie de praktijk
-De spanning van 1,5 Volt batterij kan je niet voelen. Maar met deze opstelling ga je vaststellen dat je met een spoel en een 1,5 Volt batterij je een vrij hoge inductiespanning kan opwekken.
+## Kriebels zelfinductie: praktisch
+De spanning van een 1,5 Volt batterij kan je niet voelen. Maar met deze opstelling ga je vaststellen dat je met een spoel en een 1,5 Volt batterij toch een vrij hoge inductiespanning kan opwekken.
 
-Onthou dat dit  experiment NIET gevaarlijk is want je werkt met een batterij van 1,5V. Daarom, 
+Onthou dat dit  experiment **NIET** gevaarlijk is want je werkt met een batterij van 1,5V. Maar, 
 **verbind deze opstelling `NOOIT` met een andere voedingsbron**
 
-Details voor correct gebruik kan je terugvinden in dit document: [Gebruikshandleiding]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf) 
+Details voor correct gebruik kan je terugvinden in dit document: [Gebruikershandleiding]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf) 
 
 Hier samengevat
 
@@ -132,7 +130,7 @@ Een spoel heeft de eigenschap om stroomverandering door de spoel tegen te werken
 Het tegenwerken van de veranderende stroom gebeurt door het opwekken van een inductiespanning, die (theoretisch) zo hoog zal zijn om de verandering te neutraliseren.
 Een constante stroom door een spoel wekt een constant magnetisch veld op; een constant magnetisch veld wekt geen inductiespanning op in een vaste spoel.
 
-Als de stroomkring geopend wordt, zal de stroom willen dalen maar de spoel werkt dit tegen. De opgewekte inductiespanning tracht de stroom in stand te houden. De inductiespanning kan zeer groot zijn. De inductiespanning heeft de omgekeerde polariteit als de batterijspanning; de spoel wordt immers generator in plaats van verbruiker.
+Als de stroomkring geopend wordt, zal de stroom willen dalen maar de spoel werkt dit tegen. De opgewekte inductiespanning probeert de stroom in stand te houden. De inductiespanning kan zeer groot zijn. De inductiespanning heeft de omgekeerde polariteit als de batterijspanning; de spoel wordt immers generator in plaats van verbruiker.
 
 ![theorie]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/theorie.png)
 </div>
@@ -143,25 +141,25 @@ Hier enkele interessante links.
 
 #### Filmpjes over spoelen en zelfinductie
 
-*[video 1](https://www.youtube.com/watch?v=NgwXkUt3XxQ)
+* [video 1](https://www.youtube.com/watch?v=NgwXkUt3XxQ)
 
-*[video 2](https://www.youtube.com/watch?v=LXGtE3X2k7Y)
+* [video 2](https://www.youtube.com/watch?v=LXGtE3X2k7Y)
 
 #### Informatie over elektriciteit en experimenten
 
-*[spoel op gelijk stroom](https://patrickvanhoutven.gitbook.io/electric-fundamentals/spoelen/het_gedrag_van_een_spoel_op_gelijkstroom)
+* [spoel op gelijk stroom](https://patrickvanhoutven.gitbook.io/electric-fundamentals/spoelen/het_gedrag_van_een_spoel_op_gelijkstroom)
 
-*[inductie](https://nl.wikipedia.org/wiki/Inductie_(elektriciteit))
+* [inductie](https://nl.wikipedia.org/wiki/Inductie_(elektriciteit))
 
-*[werkingsprincipe van een spoel](https://patrickvanhoutven.gitbook.io/electric-fundamentals/spoelen/het_werkingsprincipe_van_een_spoel)
+* [werkingsprincipe van een spoel](https://patrickvanhoutven.gitbook.io/electric-fundamentals/spoelen/het_werkingsprincipe_van_een_spoel)
 
-*[diode](https://nl.wikipedia.org/wiki/Diode)
+* [diode](https://nl.wikipedia.org/wiki/Diode)
 
-*[inductiespanning](http://www.thuisexperimenteren.nl/science/inductiespanning/inductiespanning.htm)
+* [inductiespanning](http://www.thuisexperimenteren.nl/science/inductiespanning/inductiespanning.htm)
 
 #### Simulator (java of html5)
 
-[simulator](https://phet.colorado.edu/en/simulations/category/physics/electricity-magnets-and-circuits)
+[Simulator van phet.colorado.edu](https://phet.colorado.edu/en/simulations/category/physics/electricity-magnets-and-circuits)
 
 #### Alles wat je wil weten over het aansluiten van LEDs
 
@@ -171,7 +169,7 @@ Hier enkele interessante links.
 #### Hoe bekom je een spoel? 
     
 Men bekomt een spoel met bepaalde eigenschappen door een geleider spiraalvormig op te rollen. 
-Een voorbeeld hiervan is te zien in de figuur hieronder. De stroom door de opgerolde geleider produceert een elektromagnetisch veld. Rond iedere gemaakte lus (winding) ontstaat een elektromagnetisch veld.
+Een voorbeeld hiervan is te zien in de figuur hieronder waar I de stroomrichting van de elektronen weergeeft. De door de opgerolde geleider bewegende negatief geladen elektronen produceren een elektromagnetisch veld. Rond iedere gemaakte lus (winding) ontstaat een elektromagnetisch veld.
 
 ![theorie]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/spoel_batt.png)
 

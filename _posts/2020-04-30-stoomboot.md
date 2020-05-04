@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Stoomboot"
-featured: true
-published: true
+featured: false
+published: false
 authors: [guest]
 lowtech: true
 midtech: false
