@@ -20,12 +20,12 @@ image: assets/images/2020-04-28-kriebels-zelfinductie/afgewerktproject.jpg
 tijd: + 3 uur
 print: assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf
 downloads: 
-  - name: 'Bouw-Handleiding'
+  - name: 'Bouwhandleiding'
     file: assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf
   - name: 'Gebruikshandleiding' 
     file: assets/images/2020-04-28-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf
   - name: 'Lasercut file' 
-    file: assets/images/22020-04-28-kriebels-zelfinductie/Maakbib kriebels zelfinductie v1.01.svg
+    file: assets/images/2020-04-28-kriebels-zelfinductie/Maakbib kriebels zelfinductie v1.01.svg
   - name: 'Weetjes' 
     file: assets/images/2020-04-28-kriebels-zelfinductie/weetjes.pdf
 materialen: [
@@ -85,7 +85,7 @@ Heteluchtblazer
 ---
 Opgelet voor elektrocutie!
 
-Ooit geprobeerd om 18 LED's aan te doen met een batterijtje van 1.5V?  
+Ooit geprobeerd om 18 LEDs aan te doen met een batterijtje van 1,5 Volt?  
 
 Lichte kriebels om te ervaren hoe je met een heel lage spanning een veel hogere spanning kan creëren die je kan voelen?
 
@@ -95,7 +95,7 @@ In dit project maak je een opstelling om te leren over, en experimenteren met, h
 
 ## Benodigdheden en bouwinstructies
 
-Alle details over de nodige componenten, waar ze kopen, nodige gereedschap en alle stappen van de constructie vind je in het document 
+Alle details over de nodige componenten, waar je ze kan kopen, nodige gereedschap en alle stappen van de constructie vind je in het document 
 [Bouwhandleiding]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf) 
 
 
@@ -103,7 +103,7 @@ Alle details over de nodige componenten, waar ze kopen, nodige gereedschap en al
 De spanning van een 1,5 Volt batterij kan je niet voelen. Maar met deze opstelling ga je vaststellen dat je met een spoel en een 1,5 Volt batterij toch een vrij hoge inductiespanning kan opwekken.
 
 Onthou dat dit  experiment **NIET** gevaarlijk is want je werkt met een batterij van 1,5V. Maar, 
-**verbind deze opstelling `NOOIT` met een andere voedingsbron**
+**verbind deze opstelling `NOOIT` met een andere voedingsbron**.
 
 Details voor correct gebruik kan je terugvinden in dit document: [Gebruikershandleiding]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf) 
 
@@ -174,9 +174,14 @@ Een voorbeeld hiervan is te zien in de figuur hieronder waar I de stroomrichting
 ![theorie]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/spoel_batt.png)
 
 Een spoel kan gewikkeld worden rondom een materiaal, de kern, genoemd. 
-Het aantal windingen van de draad, het type kern, de lengte en de dwarsdoorsnede van de kern zijn allemaal factoren bij het instellen van de waarde van inductie.
+Het aantal windingen van de draad, het materiaal van de kern, de lengte en de dwarsdoorsnede van de kern zijn allemaal factoren die de grootte van de zelfinductie bepalen.
 
 ![theorie]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/spoel.png)
 
 </div>
 
+## Lasercut ontwerp
+
+In deze activiteit maken we gebruik van mdf 3mm plaat en de lasercutter om een mooi resultaat te bekomen van het toestel. Dit ontwerp is een mooi voorbeeld van hoe plat materiaal snijden op een intelligente manier om een testopstelling te maken.
+
+![Lasercut file]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/Maakbib kriebels zelfinductie v1.01.svg)
