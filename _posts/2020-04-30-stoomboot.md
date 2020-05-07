@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pop-pop boot"
+title:  "Pop-pop de stoomboot!"
 featured: false
 published: true
 authors: [guest]
@@ -51,19 +51,16 @@ benodigdheden_opt: [
       plakband
       ]
 ---
-## Pop-pop de stoomboot!
 
-Maak een schattige bootje met een super eenvoudige stoommotor zonder bewegende onderdelen. Ontdek zo de wondere wereld van de fysica.
+Maak een schattig bootje met een super eenvoudige stoommotor zonder bewegende onderdelen. Ontdek zo de wondere wereld van de fysica.
 
-Dit bootje wordt voortgestuwd met een stoommotor. Een spiraal verhit door een vlam blaast afwisselend stoom en zuigt terug water op. Dit wordt ook wel een pop pop of putt putt motor genoemd. Deze versie kan gemaakt worden zonder solderen of temperatuursbestendig lijmen, maar met slim buigen en plooien. Het wikkelen van de motor gebeurt met een buiggereedschap die je eerst zelf kan maken. 
+Dit bootje wordt voortgestuwd met een stoommotor. Een spiraal verhit door een vlam blaast afwisselend stoom uit en zuigt daarna terug water op. Dit wordt ook wel een pop pop of putt putt motor genoemd. Deze versie kan gemaakt worden zonder solderen of temperatuursbestendig lijmen, maar met slim buigen en plooien. Het wikkelen van de motor gebeurt met een buiggereedschap die je eerst zelf kan maken. 
 
-Maaktijd: ½ uur voor het buiggereedschap, 1uur voor het maken en testen van de boot. 
+Maaktijd: ½ uur voor het buiggereedschap, 1 uur voor het maken en testen van de boot. 
 
-Materiaalkost onder de 5EUR.
+Materiaalkost onder de 5 EUR.
  
-
 Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib
-
 
 
 ## Benodigdheden
@@ -90,15 +87,15 @@ Afmetingen en mogelijke aankoopplaatsen voor de materialen vind je hier terug.
 
 
 ## Brandstof en veiligheid!
-De bouw van dit stoombootje is eenvoudig genoeg voor kinderen vanaf 6 jaar, maar bij het gebruik komt vuur te pas, dus is begeleiding van een volwassene vereist. Vergeet ook niet dat de stoom die er uit komt gevaarlijk heet is.
+De bouw van dit stoombootje is eenvoudig genoeg voor kinderen vanaf 6 jaar, maar bij het gebruik komt vuur te pas, dus is `begeleiding van een volwassene vereist`. Vergeet ook niet dat de stoom die er uit komt `gevaarlijk heet` is.
 
 Gebruik een Esbit brandstoftablet voor het aandrijven van dit bootje. Gebruik geen kaarsen voor de aandrijving. Het roet dat ze afgeven, zorgt voor een mindere werking van de motor.
 
-Lees de verpakking van de Esbit brandstoffen voor gebruik. Vermijd inademing en contact met de huid. Zorg voor goede ventilatie of gebruik ze enkel buiten.
+Lees de verpakking van de Esbit brandstoffen voor gebruik. **Vermijd inademing en contact met de huid**. Zorg voor **goede ventilatie** of gebruik ze **enkel buiten**.
 
 Voorzie je boot van brandstof met een tang of pincet, dit om brandwonden te vermijden.
 
-Laat het bootje volledig afkoelen voor je het uit het water haalt.
+`Laat` het bootje `volledig afkoelen` voor je het uit het water haalt.
 
 Eén Esbit tablet brandt ongeveer 10 minuten. Een halve tablet geeft iets meer dan 5 minuten. Twee tabletten resulteren niet in 20 minuten brandtijd.
 
@@ -212,7 +209,7 @@ Open de papierklem een klein beetje en schuif het roer tussen de vouw in de sche
 
 Ook hierover een oud [filmpje](https://youtu.be/cZlI8QkF6LI).
 
-#### Decoreren
+#### Decoratie
 Je kunt de boot versieren zolang je materialen gebruikt die bestand zijn tegen water en tegen hitte. Je mag geen decoratie dicht bij de vlam plaatsen, maar zelfs dan kan je best materialen gebruiken die niet smelten of verbranden wanneer ze per ongeluk in de buurt van de hitte komen. Je kunt poppetjes maken met gewone aluminiumfolie en met dunne dubbelzijdige plakband aan de romp vastplakken. Je kan de romp versieren met permanent markers. 
 
 ![Boot]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto23.jpg)
@@ -249,13 +246,13 @@ En hier een [filmpje](https://youtu.be/vUIrFMorg7s) met voedingskleurstof.
 <div class="border_boxmaakbib01_img" markdown="1">
 ## Weetjes
  * **`Waar komt de naam pop-pop boot vandaan?`** 
- De naam komt van het geluid van sommige versies van deze boten maken als ze ronddjes in het water varen. Andere namen zijn: Can-Can-boot, Knatterboot, toc-toc, Puf-Puf boat …
+ De naam komt van het geluid van sommige versies van deze boten maken als ze rondjes in het water varen. Andere namen zijn: Can-Can-boot, Knatterboot, toc-toc, Puf-Puf boat …
  
  * **` Wie heeft het uitgevonden?`**
- Putt-putt boats have been around for over a century, originating with a design patented in 1891 by a British inventor, Thomas Piot.  They became popular as toys in the early 1900's. 
+ Putt-putt-boten bestaan al meer dan een eeuw en zijn oorsprongkelijk een ontwerp dat in 1891 is gepatenteerd door de Britse uitvinder Thomas Piot. Ze werden begin 1900 populair als speelgoed.
  
- * **` Een filmster`**  Heb je de tekenfilm Ponyo on the Cliff by the Sea gezien? 
- De pop-popboot speelde een prominente rol in deze Japanse animatiefilm, Ponyo uit 2008.
+ * **` Een filmster`**  Heb je de tekenfilm *Ponyo on the Cliff by the Sea* gezien? 
+ De pop-popboot speelde een prominente rol in [deze Japanse animatiefilm uit 2008](https://www.youtube.com/watch?v=4e7IbO-FZK0).
 
 #### Wil je meer weten over deze schattige bootjes?
 Surf zeker naar [sciencetoymaker.org](https://sciencetoymaker.org/putt-putt-boat/)
@@ -266,17 +263,17 @@ en
 
 ## STEM
 
-In deze low tech activiteit komt heel wat `STEM` (**S**cience **T**echnologie **E**ngineering **M**athematics) aan bod! We hebben in deze handleiding een mogelijk oplossing gegeven voor de uitdaging: kan je een vaartuigje maken dat voortgestuwd met een stoommotor zonder bewegende onderdelen? 
+In deze low tech activiteit komt heel wat `STEM` (**S**cience **T**echnologie **E**ngineering **M**athematics) aan bod! We hebben in deze handleiding een mogelijk oplossing gegeven voor de uitdaging: kun je een vaartuigje maken dat voortgestuwd wordt met een stoommotor zonder bewegende onderdelen? 
 
 **`Kan je een ander systeem bedenken?`**  
 
 Op wetenschappelijk vlak staat hier natuurkunde centraal, om de werking van dit bootje te begrijpen ga je alle bewegingswetten van Newton nodig hebben. Lees meer verder in het blauw kadertje. 
 
-OP vlak van training heb je bij dit project heel wat talenten waarop je kan focussen: planmatig werken, nauwkeurig werken, veilig werken, analystisch denken, handigheid.  
+Je hebt ook voor dit project heel wat talenten getraind: planmatig werken, nauwkeurig werken, veilig werken, analytisch denken, handigheid.  
 
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Hoe werkt het? 
-Alles, dat je nodig hebt, is een kaarsje, een beetje water en een beetje simpele wetenschap!
+Alles dat je nodig hebt, is een kaarsje, een beetje water en een beetje simpele wetenschap!
 
 Hoewel het een relatief eenvoudige constructie is, gebruikt een putt putt-motor op ingenieuze wijze verschillende natuurkundige principes om de boot voort te duwen. Inzicht in de cyclus maakt gebruik van alle bewegingswetten van Newton. 
 
@@ -290,15 +287,22 @@ Maar hier de korte uitleg.
  * Zodra het water de binnenkant van de ketel raakt, verandert het weer in stoom en begint het proces opnieuw.
 
 Deze cyclus is niet uniek voor de putt-putt. Het is in wezen hetzelfde als dat wat verticaal in een geiser plaatsvindt, en het is analoog aan de werking van een kleploze pulsstraal waarbij de pulsenergie afkomstig is van brandende brandstof in plaats van flitsend water tot stoom.
+![geiser]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/800px-Beehive_geyser_yellowstone_groot.jpg)
 
 Een geïllustreerde website die de drie bewegingswetten van Sir Isaac Newton uitlegt kan je [hier](http://teachertech.rice.edu/Participants/louviere/Newton/index.html) vinden.
+
+#### Waarom twee uiteindes?
+
+De put-put boot werkt enkel als de ketel gevuld is met water. Is die gevuld met lucht, dan zet lucht bij opwarmen niet genoeg uit om het water weg te duwen en dus vooruit te bewegen. Stoom neemt wel veel meer plaats in dan water, en verandert bij afkoelen terug in water (condensatie). 
+
+Om de lucht uit de ketel te halen hebben we dus twee uiteindes nodig. We vullen met water aan de lange kant, en die komt eruit aan de korte kant. Dan vlug in het water onderdompelen zodat geen lucht in de ketel kan komen! 
 
 </div>
 
 #### Maak het je eigen
- * Kan je het sneller maken? 
- * Kan je een lijst van factoren geven die de werking van het bootje beivloeden? 
- * Kan je een waterpomp ontwerpen, aangedreven door een putt-putt-warmtemotor, die water van een lager naar een hoger reservoir kan tillen?
+ * Kun je het sneller maken? 
+ * Kun je een lijst van factoren geven die de werking van het bootje beïnvloeden? 
+ * Kun je een waterpomp ontwerpen, aangedreven door een putt-putt-warmtemotor, die water van een lager naar een hoger reservoir kan tillen?
 
 
 ## Voorbeelden
