@@ -7,4 +7,5 @@ vendor
 .jekyll-cache
 _site.zip
 .directory
+GPUCache*
 *~
