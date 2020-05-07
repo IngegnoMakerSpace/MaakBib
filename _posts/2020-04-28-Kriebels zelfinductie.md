@@ -16,18 +16,18 @@ pijler_digitale_fabricatie : true
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
 categories: [ solderen, elektronica, experimenteren, wetenschap ]
-image: assets/images/20200428-kriebels-zelfinductie/afgewerktproject.jpg
+image: assets/images/2020-04-28-kriebels-zelfinductie/afgewerktproject.jpg
 tijd: + 3 uur
-print: assets/images/20200428-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf
+print: assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf
 downloads: 
-  - name: 'Bouw-Handleiding'
-    file: assets/images/20200428-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf
+  - name: 'Bouwhandleiding'
+    file: assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf
   - name: 'Gebruikshandleiding' 
-    file: assets/images/20200428-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf
+    file: assets/images/2020-04-28-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf
   - name: 'Lasercut file' 
-    file: assets/images/220200428-kriebels-zelfinductie/Maakbib kriebels zelfinductie v1.01.svg
+    file: assets/images/2020-04-28-kriebels-zelfinductie/Maakbib kriebels zelfinductie v1.01.svg
   - name: 'Weetjes' 
-    file: assets/images/20200428-kriebels-zelfinductie/weetjes.pdf
+    file: assets/images/2020-04-28-kriebels-zelfinductie/weetjes.pdf
 materialen: [
     MDF 3mm x 43cm x 22cm,
     4x banaan stekker niet geïsoleerd 4 mm, 
@@ -85,29 +85,27 @@ Heteluchtblazer
 ---
 Opgelet voor elektrocutie!
 
-Ooit geprobeerd om 18 LED's aan te doen met een batterijtje van 1.5V?  
+Ooit geprobeerd om 18 LEDs aan te doen met een batterijtje van 1,5 Volt?  
 
-Lichte kriebles om te ervaren hoe je met een heel lage spanning een veel hogere spanning kan creëeren die je kan voelen. 
+Lichte kriebels om te ervaren hoe je met een heel lage spanning een veel hogere spanning kan creëren die je kan voelen?
 
-
-In dit project maak je een opstelling om te leren over en experimenteren met het begrip **zelfinductie**. 
-
+In dit project maak je een opstelling om te leren over, en experimenteren met, het begrip **zelfinductie**. 
 
 *Deze handleiding werd ontwikkeld door **Hans Caluwaerts** voor Maakbib.*
 
 ## Benodigdheden en bouwinstructies
 
-Alle details over de nodige componenten, waar ze kopen, nodige gereedschap en alle stappen van de constructie vind je in het document 
-[Bouwhandleiding]({{ site.baseurl }}/assets/images/20200428-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf) 
+Alle details over de nodige componenten, waar je ze kan kopen, nodige gereedschap en alle stappen van de constructie vind je in het document 
+[Bouwhandleiding]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf) 
 
 
-## Kriebels zelfinductie de praktijk
-De spanning van 1,5 Volt batterij kan je niet voelen. Maar met deze opstelling ga je vaststellen dat je met een spoel en een 1,5 Volt batterij je een vrij hoge inductiespanning kan opwekken.
+## Kriebels zelfinductie: praktisch
+De spanning van een 1,5 Volt batterij kan je niet voelen. Maar met deze opstelling ga je vaststellen dat je met een spoel en een 1,5 Volt batterij toch een vrij hoge inductiespanning kan opwekken.
 
-Onthou dat dit  experiment NIET gevaarlijk is want je werkt met een batterij van 1,5V. Daarom, 
-**verbind deze opstelling `NOOIT` met een andere voedingsbron**
+Onthou dat dit  experiment **NIET** gevaarlijk is want je werkt met een batterij van 1,5V. Maar, 
+**verbind deze opstelling `NOOIT` met een andere voedingsbron**.
 
-Details voor correct gebruik kan je terugvinden in dit document: [Gebruikshandleiding]({{ site.baseurl }}/assets/images/20200428-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf) 
+Details voor correct gebruik kan je terugvinden in dit document: [Gebruikershandleiding]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/MvM Kriebels zelfinductie bedieningshandleiding v1_01.pdf) 
 
 Hier samengevat
 
@@ -132,9 +130,9 @@ Een spoel heeft de eigenschap om stroomverandering door de spoel tegen te werken
 Het tegenwerken van de veranderende stroom gebeurt door het opwekken van een inductiespanning, die (theoretisch) zo hoog zal zijn om de verandering te neutraliseren.
 Een constante stroom door een spoel wekt een constant magnetisch veld op; een constant magnetisch veld wekt geen inductiespanning op in een vaste spoel.
 
-Als de stroomkring geopend wordt, zal de stroom willen dalen maar de spoel werkt dit tegen. De opgewekte inductiespanning tracht de stroom in stand te houden. De inductiespanning kan zeer groot zijn. De inductiespanning heeft de omgekeerde polariteit als de batterijspanning; de spoel wordt immers generator in plaats van verbruiker.
+Als de stroomkring geopend wordt, zal de stroom willen dalen maar de spoel werkt dit tegen. De opgewekte inductiespanning probeert de stroom in stand te houden. De inductiespanning kan zeer groot zijn. De inductiespanning heeft de omgekeerde polariteit als de batterijspanning; de spoel wordt immers generator in plaats van verbruiker.
 
-![theorie]({{ site.baseurl }}/assets/images/20200428-kriebels-zelfinductie/theorie.png)
+![theorie]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/theorie.png)
 </div>
 
 ## Weetjes
@@ -143,25 +141,25 @@ Hier enkele interessante links.
 
 #### Filmpjes over spoelen en zelfinductie
 
-*[video 1](https://www.youtube.com/watch?v=NgwXkUt3XxQ)
+* [video 1](https://www.youtube.com/watch?v=NgwXkUt3XxQ)
 
-*[video 2](https://www.youtube.com/watch?v=LXGtE3X2k7Y)
+* [video 2](https://www.youtube.com/watch?v=LXGtE3X2k7Y)
 
 #### Informatie over elektriciteit en experimenten
 
-*[spoel op gelijk stroom](https://patrickvanhoutven.gitbook.io/electric-fundamentals/spoelen/het_gedrag_van_een_spoel_op_gelijkstroom)
+* [spoel op gelijk stroom](https://patrickvanhoutven.gitbook.io/electric-fundamentals/spoelen/het_gedrag_van_een_spoel_op_gelijkstroom)
 
-*[inductie](https://nl.wikipedia.org/wiki/Inductie_(elektriciteit))
+* [inductie](https://nl.wikipedia.org/wiki/Inductie_(elektriciteit))
 
-*[werkingsprincipe van een spoel](https://patrickvanhoutven.gitbook.io/electric-fundamentals/spoelen/het_werkingsprincipe_van_een_spoel)
+* [werkingsprincipe van een spoel](https://patrickvanhoutven.gitbook.io/electric-fundamentals/spoelen/het_werkingsprincipe_van_een_spoel)
 
-*[diode](https://nl.wikipedia.org/wiki/Diode)
+* [diode](https://nl.wikipedia.org/wiki/Diode)
 
-*[inductiespanning](http://www.thuisexperimenteren.nl/science/inductiespanning/inductiespanning.htm)
+* [inductiespanning](http://www.thuisexperimenteren.nl/science/inductiespanning/inductiespanning.htm)
 
 #### Simulator (java of html5)
 
-[simulator](https://phet.colorado.edu/en/simulations/category/physics/electricity-magnets-and-circuits)
+[Simulator van phet.colorado.edu](https://phet.colorado.edu/en/simulations/category/physics/electricity-magnets-and-circuits)
 
 #### Alles wat je wil weten over het aansluiten van LEDs
 
@@ -171,14 +169,19 @@ Hier enkele interessante links.
 #### Hoe bekom je een spoel? 
     
 Men bekomt een spoel met bepaalde eigenschappen door een geleider spiraalvormig op te rollen. 
-Een voorbeeld hiervan is te zien in de figuur hieronder. De stroom door de opgerolde geleider produceert een elektromagnetisch veld. Rond iedere gemaakte lus (winding) ontstaat een elektromagnetisch veld.
+Een voorbeeld hiervan is te zien in de figuur hieronder waar I de stroomrichting van de elektronen weergeeft. De door de opgerolde geleider bewegende negatief geladen elektronen produceren een elektromagnetisch veld. Rond iedere gemaakte lus (winding) ontstaat een elektromagnetisch veld.
 
-![theorie]({{ site.baseurl }}/assets/images/20200428-kriebels-zelfinductie/spoel_batt.png)
+![theorie]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/spoel_batt.png)
 
 Een spoel kan gewikkeld worden rondom een materiaal, de kern, genoemd. 
-Het aantal windingen van de draad, het type kern, de lengte en de dwarsdoorsnede van de kern zijn allemaal factoren bij het instellen van de waarde van inductie.
+Het aantal windingen van de draad, het materiaal van de kern, de lengte en de dwarsdoorsnede van de kern zijn allemaal factoren die de grootte van de zelfinductie bepalen.
 
-![theorie]({{ site.baseurl }}/assets/images/20200428-kriebels-zelfinductie/spoel.png)
+![theorie]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/spoel.png)
 
 </div>
 
+## Lasercut ontwerp
+
+In deze activiteit maken we gebruik van mdf 3mm plaat en de lasercutter om een mooi resultaat te bekomen van het toestel. Dit ontwerp is een mooi voorbeeld van hoe plat materiaal snijden op een intelligente manier om een testopstelling te maken.
+
+![Lasercut file]({{ site.baseurl }}/assets/images/2020-04-28-kriebels-zelfinductie/Maakbib kriebels zelfinductie v1.01.svg)

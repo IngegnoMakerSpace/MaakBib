@@ -80,7 +80,7 @@ Plaats de `2.5V LDO` en de `schakelaar` in de print en soldeer deze beide alvast
 ![stap1]({{ site.baseurl }}/assets/images/2020-04-22_soldeerexperiment/step1.png) 
 
 #### Stap 2
-Plaats `de motor` op de print. Hiervoor moet je voorzichtig de beentje rechtbuigen van de motor.
+Plaats `de motor` op de print. Hiervoor moet je voorzichtig de beentjes van de motor rechtbuigen.
 
 ![stap2]({{ site.baseurl }}/assets/images/2020-04-22_soldeerexperiment/step2a.jpg)
 
@@ -118,7 +118,7 @@ Tijd om de trilrobot voor de eerste keer op te laden in een USB poort.
 Als hij onmiddellijk begint te trillen, moet je de schakelaar eerst in de **`uit`** stand zetten. 
 
 #### Stap 6
-Laat nu je fantasie vrij en tover deze printplaat om in een grappige robotje. 
+Laat nu je fantasie vrij en tover deze printplaat om in een grappig robotje. 
 Zo kan je hier een tandenborstel op vastkleven om zo een *bristlebot* te maken. 
 Of kan je met dik papier of dun karton een model van [CubeeCraft](http://www.cubeecraft.com/) maken. 
 
@@ -126,7 +126,7 @@ Laat dan verschillende trilbots tegen elkaar racen.
 ## STEM 
 In deze activiteit ga je de volgende talenten trainen: planmatig werken, nauwkeurig werken, veilig werken en handigheid. 
 
-Als je dan de werking onderzoekt ontdek je heel wat **wiskunde** en **natuurkunde**. 
+Als je dan de werking onderzoekt, ontdek je heel wat **wiskunde** en **natuurkunde**. 
 #### Hoe werkt dit circuit?
 De condensator van dit project ga je opladen via een USB-poort. Eens deze volledig vol is en je de schakelaar omklikt, zal deze de motor doen draaien en leeglopen.
 
