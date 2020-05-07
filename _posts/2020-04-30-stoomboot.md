@@ -263,9 +263,10 @@ en
 
 ## STEM
 
-In deze low tech activiteit komt heel wat `STEM` (**S**cience **T**echnologie **E**ngineering **M**athematics) aan bod! We hebben in deze handleiding een mogelijk oplossing gegeven voor de uitdaging: kun je een vaartuigje maken dat voortgestuwd wordt met een stoommotor zonder bewegende onderdelen? 
+In deze low tech activiteit komt heel wat `STEM` (**S**cience **T**echnologie **E**ngineering **M**athematics) aan bod! We hebben in deze handleiding een mogelijk oplossing gegeven voor de uitdaging: kun je een vaartuigje maken dat voortgestuwd wordt met een motor zonder bewegende onderdelen? 
 
-**`Kan je een ander systeem bedenken?`**  
+**`Kan je een ander systeem bedenken?`**    
+(Tip: denk aan oppervlaktespanning, chemie en zoek op: zeep en boot.)
 
 Op wetenschappelijk vlak staat hier natuurkunde centraal, om de werking van dit bootje te begrijpen ga je alle bewegingswetten van Newton nodig hebben. Lees meer verder in het blauw kadertje. 
 
@@ -281,13 +282,33 @@ Maar hier de korte uitleg.
 
  * Een kleine hoeveelheid water bevindt zich in een ondiepe metalen "keteltje" (in onze constructie, het buisje)
  * Een vlam verhit het.
+ 
+ ![boot1]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/uitlegboot_1.png)
+ 
  * Het water warmt snel op en flitst tot stoom.
- * De stoom ontsnapt uit twee buizen die van de ketel naar de achterkant van de boot naar het water leiden.
- * Er vormt zich dan een vacuüm in de ketel en dit zuigt vers water via dezelfde buizen weer naar binnen.
+ * De stoom ontsnapt uit de twee buizen aan de achterkant van de boot. 
+ 
+ ![boot2]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/uitlegboot_2.png)
+ 
+ * Er vormt zich dan een onderdruk in de ketel en dit zuigt vers water via dezelfde buizen weer naar binnen.
+ 
+ ![boot3]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/uitlegboot_3.png)
+ 
  * Zodra het water de binnenkant van de ketel raakt, verandert het weer in stoom en begint het proces opnieuw.
 
 Deze cyclus is niet uniek voor de putt-putt. Het is in wezen hetzelfde als dat wat verticaal in een geiser plaatsvindt, en het is analoog aan de werking van een kleploze pulsstraal waarbij de pulsenergie afkomstig is van brandende brandstof in plaats van flitsend water tot stoom.
+
 ![geiser]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/800px-Beehive_geyser_yellowstone_groot.jpg)
+
+Hiermee begrijpen we het principe, maar weten we nog niet waarom de boot beweegt. Ze blaast en ze zuigt, dus netto zou ze moeten stilstaan, niet? Dit is niet zo om het enerzijds stoom is die we blazen via druk, en water die we zuigen welke een vloeistof is met deeltjes die rechtlijnig bewegen.
+
+Eerst blazen we stoom waardoor we voorwaarts bewegen.
+
+ ![beweging1]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/uitlegBewegingBoot_1.png)
+ 
+ Daarna zuigen we water door onderdruk, wat betekent dat het water binnenstroomt en tegen de ketelwand botst.
+ 
+ ![beweging1]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/uitlegBewegingBoot_2.png)
 
 Een geïllustreerde website die de drie bewegingswetten van Sir Isaac Newton uitlegt kan je [hier](http://teachertech.rice.edu/Participants/louviere/Newton/index.html) vinden.
 
