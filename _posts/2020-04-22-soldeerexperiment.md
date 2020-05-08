@@ -15,7 +15,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [ solderen, tinkering ]
+categories: [ solderen, tinkering, pcb ]
 image: assets/images/2020-04-22_soldeerexperiment/step5.jpg
 tijd: 30 min
 print: assets/images/2020-04-22_soldeerexperiment/Herlaadbare Trilbot Soldeer Experiment.pdf  
