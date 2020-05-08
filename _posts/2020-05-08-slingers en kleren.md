@@ -26,16 +26,16 @@ downloads:
 materialen: [
      rol wc papier, 
      2m plakband of schilderstape,
-     optioneel: zes vellen krantenpapier,
       ]
 tools: [
       schaar,
       potlood,
       meetlat en meetlint,
-      schroevendraaier,
+      pins, 
       lijmstick
       ]
 benodigdheden_opt: [
+      zes vellen krantenpapier,
       LED,
       paperclips,
       knoopcel batterij,
@@ -43,7 +43,7 @@ benodigdheden_opt: [
       ]
 ---
 
-Maak kledij van papier! De Expressieve Kledingstuk Challenge. Dit is een DIY opdracht: jij en je creativiteit, en daarmee aan de slag gaan. We geven je enkele ideeën, en tips.
+Maak kledij van papier! De Heksige Kledingstuk Challenge. Dit is een DIY opdracht: jij en je creativiteit, en daarmee aan de slag gaan. We geven je enkele ideeën, en tips.
 
 
 ## Benodigdheden
@@ -59,7 +59,7 @@ Hennie de Heks woont in een huis dat pikzwart is, zowel vanbinnen als vanbuiten.
  
 O, o, tijd voor kleur: heksige slingers en feestelijke heksige kleren voor een heus feest met haar vrienden en haar hele familie. 
 
-## Expressieve Kledingstuk Challenge
+## Heksige Kledingstuk Challenge
 
 Twee opties
 
