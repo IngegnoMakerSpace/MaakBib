@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pop-pop de stoomboot!"
-featured: false
+featured: true
 published: true
 authors: [guest]
 lowtech: true

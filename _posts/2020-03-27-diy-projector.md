@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DIY Projector"
-featured: true
+featured: false
 authors: [cri]
 lowtech: true
 midtech: false
