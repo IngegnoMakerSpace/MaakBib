@@ -2,7 +2,7 @@
 layout: post
 title:  "Bord-hovercraft"
 featured: true
-published: false
+published: true
 authors: [guest]
 lowtech: true
 midtech: false
@@ -18,10 +18,10 @@ licence: CCBY-NC-SA
 categories: [tinkering, wetenschappen, natuurkunde ]
 image: assets/images/2020-05-15-bord hovercraft/eehovercraft - 12.jpg
 tijd: 90 min
-print: assets/images/2020-04-30-stoomboot/Handleiding_Stoomboot.pdf
+print: assets/images/2020-05-15-bord hovercraft/handleiding-bord-hovercraft.pdf
 downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020-04-30-stoomboot/Handleiding_Stoomboot.pdf
+    file: assets/images/2020-05-15-bord hovercraft/handleiding-bord-hovercraft.pdf
 
 materialen: [
       wegwerpbord,
@@ -137,7 +137,7 @@ Je kan experimenteren met vinnen die het ronddraaien afremmen. Hou het licht en 
 
 <div class="border_boxmaakbib01_img" markdown="1">
 ## Weetjes
- * **` Waar komt het woord "hovercraft" vandaan?**
+ * **` Waar komt het woord "hovercraft" vandaan?`**
  Het woord “hovercraft” is een leenwoord uit het Engels. Het is een samentrekking van de woorden “to hover” (zweven) en “craft” (tuig), dus “zweeftuig”. Het juiste Nederlandse woord is echter "luchtkussenvoertuig".
 
 #### Wil je meer weten over hovercrafts?
@@ -155,25 +155,30 @@ Je hebt ook voor dit project heel wat talenten getraind: planmatig werken, nauwk
 
 <div class="border_boxmaakbib03_img" markdown="1">
 
-#### Hoe werkt het? 
+#### Hoe werkt het?
+
 Alles dat je nodig hebt, is een motor, een propeller, een kartonnen bord en een beetje simpele wetenschap!
 
 Hoewel het een relatief eenvoudige constructie is, gebruikt een hovercraft op ingenieuze wijze verschillende natuurkundige principes om het voertuig omhoog en voort te duwen. Inzicht in de cyclus maakt gebruik van de bewegingswetten van Newton en de wet van Pascal. 
 
 Maar hier de korte uitleg.
 
+![Schema]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 17.jpg)
+
  * Het bord dat omgekeerd op tafel ligt, vormt een gesloten vat.
  * De propellor blaast lucht in het vat.
  
- 
- * De lucht die in het vat opbouwt, duwt in alle richtingen, zowel op de tafel, als op het bord.
- 
- 
+![Uitleg1]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 15.png)
+  
+ * De lucht die in het vat opbouwt, duwt in alle richtingen, zowel op de tafel, als op het bord.  
  * Eens de druk hoog genoeg is, zal de lucht harder op het bord duwen dan dat de zwaartekracht aan het bord trekt en gaat het bord omhoog
  
- * Doordat het bord nu de tafel niet meer raakt, zal er lucht kunnen ontsnappen.
+![Uitleg2]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 16.png)
  
+ * Doordat het bord nu de tafel niet meer raakt, zal er lucht kunnen ontsnappen.
  * De hovercraft zal een evenwichtspositie bereiken 
+ 
+![Uitleg3]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 18.jpg)
  
 
 </div>
