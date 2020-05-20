@@ -2,7 +2,7 @@
 layout: post
 title:  "Nylon kouzen, lijm en zeefdrukken!"
 featured: true
-published: false
+published: true
 authors: [guest]
 lowtech: true
 midtech: false
@@ -20,8 +20,8 @@ image: assets/images/2020-05-18-zeefdruk-met-lijm/cover.png
 tijd: 90 min
 print: assets/images/2020-05-18-zeefdruk-met-lijm/Makers voor Makers - zeefdruk met lijm.pdf
 downloads: 
-    name: 'Handleiding'
-    file: assets/images/2020-05-18-zeefdruk-met-lijm/Makers voor Makers - zeefdruk met lijm.pdf
+   - name: 'Handleiding'
+     file: assets/images/2020-05-18-zeefdruk-met-lijm/Makers voor Makers - zeefdruk met lijm.pdf
   
 materialen: [
     Nylon kousen, 
@@ -65,12 +65,12 @@ Inspiratie nodig? Leuke gratis templates kan je bv. hier vinden [template](https
 ## Stap 2: Ring KLaar Maken
 Verzamel je materialen: Nylon kouzen, borduurringen, witte lijm, verf borstel, permanente stift, papier, schaar. 
 
-![ring1]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto2.png) ![ring2]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto3.png) 
+![ring1]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto2-3.png) 
 
 Trek de nylonkous over de binnenste ring van de borduurring. 
 Steek de buitenste ring over de binnenste zodat de kous vast zit. 
 
-![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto4.png) ![ring4]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto5.png) 
+![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto4-5.png) 
 
 Knip 1 laag (de bovenste) weg. Nu heb je een borduurring met één laag nylon. 
 Zorg dat het goed aangetrokken is! 
@@ -148,6 +148,7 @@ Let wel op dat je een stuk karton tussen twee lagen textiel plaatst om te vermij
 ![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto21.png)
 
 <div class="border_boxmaakbib01_img" markdown="1">
+## Weetjes
 #### Wat is zeefdruk eigenlijk? 
 Zeefdruk is een doordruktechniek dat gebruikt wordt bij affiches, kunstwerken en textielbedrukking. 
 Doordruktechniek wil zeggen dat je door iets drukt of duwt. In dit geval duwen we de verf door de gaas (nylon). 
@@ -155,32 +156,52 @@ Het werd vroeger vooral gebruikt voor massaproductie. Dat wil zeggen dat je veel
 Een eenvoudige overzicht van deze techniek vind je [hier](https://zeefdrukland.nl/Wat-is-zeefdruk)
 
 #### Geschiedenis van de zeefdruk. 
-Oorsprong komt uit Azië waar het gebruikt werd om op zijde te drukken. Deze techniek werd dan meegenomen naar Europa waar we in Europa zijn begonnen met machines te maken om de druktechniek te gebruiken voor massaproductie. 
+Oorsprong komt uit Azië (Japan) waar het gebruikt werd om op zijde te drukken. Deze techniek werd dan meegenomen naar Europa waar we in Europa zijn begonnen met machines te maken om de druktechniek te gebruiken voor massaproductie. 
+Het eerste patent op de zeefdruktechniek werd op 11 juli 1907 verleend aan Samuel Simon uit Manchester (Verenigd Koninkrijk).
+
+#### Versierde stoffen ook voor het volk
+De Japanse keizer liet geborduurde kleding alleen toe aan hoger geplaatsten. Gewone mensen mochten alleen eenvoudige kleding dragen. De Japanner Yuzensai Miyasaki (1654-1736) heeft hier met de zeefdruktechniek een einde aan gemaakt.
+Hij wordt samen met Zisukeo Hirose (1822-1890) de uitvinder van zeefdruk   beschouwd.
+
+![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/japan1-2.png)
 
 #### Wist je dat ...
 Kunstenaar Andy Warhol zijn kunst in zijn ‘fabriek’ produceerde? Hij wou een boodschap uitzenden over de massaproductie van materialen. Hij heeft niet één kunstwerk van een bepaald onderwerp, maar kon zijn kunst zo vaak reproduceren als hij wou door de zeefdruk techniek. 
 
-
 </div>
 
 
-
 ## STEM
-In deze mid tech activiteit komt heel wat STEM (Science Technologie Engineering Mathematics) aan bod! Volgende talenten heb je bij de bouw nodig: planmatig werken, nauwkeurig werken, logisch nadenken. 
-En als je de werking gaat onderzoeken ontdek je heel wat natuurkunde. 
+In deze low tech activiteit focust het STEM gebeuren op het creeren van een geschikt sjabloon voor zeefdruktoepassingen.  
+
+Volgende talenten heb je hiermee zeker getarind: planmatig werken, zorgvuldig werken, creatief denken. 
+
+Als me dan onderzoek doet naar de geschiedenis en moderne toepassingen van zeefdruk ontdekt men dan hoveel wetenschappelijk en technische kennis van pas komt bij deze techniek.  
+Bijvoorbeeld, als je de verschillende materialen die voor zeefdruk op industrieel niveau gebruikt worden gaat onderzoeken, ontdek je heel wat chemie. 
 
 <div class="border_boxmaakbib02_img" markdown="1">
-#### Opwindbare autotjes en natuurkunde
+#### Laat je inspireren door Andy Warhol
+Op deze [site](https://www.warhol.org/) vind je interessante informaties over deze kunstenaar en als je op zoek bent naar ideen om te experimenteren met kunst, neem een kijkje naar het lesmateriaals die daar te vinden is. 
 
+#### Belichting en het maken van een drukvorm
 
-#### Experimenteer
+Het overbrengen van het te drukken beeld op het drukraam  gebeurt in de industrie door middel van **belichting**. 
 
- 
+Eerst wordt er een **lichtgevoelige emulsie** op het raam aangebracht. Dit wordt in een warmtekast gedroogd. Daarna wordt de film (met het beeld) erop gemonteerd. Het raam wordt dan in het kopieerraam gelegd. Dit wordt vacuümgezogen en rechtop gezet. Dan wordt het geheel belicht door een **UV-lamp** (kwikdamplamp). De delen van de emulsie die in aanraking zijn gekomen met licht worden hard, de delen die afgedekt zijn (door de film), blijven zacht. Als je het raam daarna uitspuit met de hogedrukspuit, lossen de zachte delen op in water. Zo ontstaat het drukbeeld.
+
+![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/belichting.png)
+
+Zonder wetenschap zou men dit nooit hebben kunnen doen! 
+
+#### Technische toepassingen
+Druktechnieken zoals vlakdruk, hoogdruk en diepdruk stellen speciale eisen aan de fysische eigenschappen van de te gebruiken inkt. Zo moet de inkt beter hechten aan het te bedrukken materiaal dan aan de drukvorm, omdat hij anders niet of niet voldoende wordt overgedragen. Bij zeefdruk is dit probleem niet aan de orde; de inkt wordt door het zeefraster heen op het materiaal gedrukt. Daardoor is zeefdruk geschikt om anders moeilijk bedrukbare materialen te bedrukken, zoals bepaalde kunststoffen. 
+Deze techniek wordt veel gebruikt voor het maken van zonnecellen en printplaten, waarbij men in plaats van gekleurde inkten andere emulsies gebruikt zoals bijvoorbeeld soldeerpasta.
 </div>
 
 
 ## Maak het je eigen. 
 Onderzoek hoe zeefdrukramen klaargemaakt worden. Zou je een eigen belichting installaties kunnen maken? 
+
 Wat heb je daarvoor allmeaal nodig? Probeer het! 
 
 ## Nog weetjes
@@ -199,9 +220,6 @@ Dankzijn chemie kan de bedrukking aan speciale eisen voldoen, zoals: wasbestendi
 
 Zeefdruk heel geschikt is voor kleine oplagen. 
 
-#### Het maken van een drukvorm
-![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/proces1.png)![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/proces2.png)![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/proces3.png)
 
-Om met een drukraam te kunnen drukken, moet eerst het te drukken beeld (sjabloon/design/template) worden overgebracht. Dit gebeurt in de industrie door middel van **belichting**. Eerst wordt er een **lichtgevoelige emulsie** op het raam aangebracht. Dit wordt in een warmtekast gedroogd. Daarna wordt de film (met het beeld) erop gemonteerd. Het raam wordt dan in het kopieerraam gelegd. Dit wordt vacuŸmgezogen en rechtop gezet. Dan wordt het geheel belicht door een UV-lamp (kwikdamplamp). De delen van de emulsie die in aanraking zijn gekomen met licht worden hard, de delen die afgedekt zijn (door de film), blijven zacht. Als je het raam daarna uitspuit met de hogedrukspuit, lossen de zachte delen op in water. Zo ontstaat het drukbeeld.
 
 
