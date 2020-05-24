@@ -10,6 +10,8 @@ hightech: false
 DIT: true
 DIY: true
 CHALLENGE: false
+moeilijkheidsgraad_1_3: 2
+prijs_1_3: 1
 pijler_tinkering : true
 pijler_design_thinking : false
 pijler_digitale_fabricatie : false
@@ -17,7 +19,7 @@ pijler_physical_computing : false
 licence: CCBY-NC-SA 
 categories: [tinkering, wetenschappen, natuurkunde ]
 image: assets/images/2020-05-15-bord hovercraft/eehovercraft - 12.jpg
-tijd: 90 min
+tijd: 60 min
 print: assets/images/2020-05-15-bord hovercraft/handleiding-bord-hovercraft.pdf
 downloads: 
   - name: 'Handleiding'
@@ -77,7 +79,7 @@ Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib.
  * 2 [houten latjes](https://www.opitec.be/creatieve-inspiraties/houten-artikelen-kurk/grootverpakkingen/houten-spatels-150-x-18-mm-100-stuks.html?listtype=search&searchparam=spatels) minimum 15mm x 100mm
 
 
-## Stap 1:Kwestie van evenwicht!
+## Stap 1: Een kwestie van evenwicht!
 Voor een goede werking moet de hovercraft in evenwicht zijn, alle gewicht verdeel je symmetrisch: zware dingen plaats je op het middelpunt of op gelijke afstand aan beide kanten van het middelpunt. 
 Nauwkeurig meten is hier dus een must. Maar kleine fouten/afwijkingen kunnen geen kwaad.
 
@@ -87,14 +89,14 @@ Bepaal eerst het middelpunt van het bord: kies een ring op het bord waar je gema
 
 ![Constructie1]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 1.jpg)
 
-Op minstens 3 punten op de gekozen ring van het bord en ver van elkaar, plaats je de punt van de passer en je trekt een boogje in het midden van het bord. Als je de straal van de ring perfect afgemeten hebt, kruisen de boogjes in het middelpunt. Vaak zullen ze niet perfect kruisen, maar een kleine zone afbakenen. Het midden hiervan kan je dan op het zicht nauwkeurig genoeg inschatten. 
+Op minstens 3 punten op de gekozen ring van het bord, en ver van elkaar, plaats je de punt van de passer en je trekt een boogje in het midden van het bord. Als je de straal van de ring perfect afgemeten hebt, kruisen de boogjes in het middelpunt. Vaak zullen ze niet perfect kruisen, maar een kleine zone afbakenen. Het midden hiervan kan je dan op het zicht nauwkeurig genoeg inschatten. 
 
 ![Constructie2]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 2.jpg)
 
 ## Stap 2: Opening voor de propeller
-We maken een opening voor de propeller in het midden van het bord. Ga zoals volgt te werk. 
+We maken een opening voor de propeller in het midden van het bord. Ga als volgt te werk. 
 
-Bepaal de diameter van de propeller: meet de afstand van het midden van de propeller tot het verste uiteinde van één van de  bladen (de straal van de propeller). Ze dan de passer 1mm extra open.  
+Bepaal de straal van de propeller: meet de afstand van het midden van de propeller tot het verste uiteinde van één van de  bladen (de straal van de propeller). Zet dan de passer **1 mm** extra open.  
 
 ![Constructie3]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 3.jpg)
 
@@ -119,12 +121,14 @@ Plak het tweede latje op de motor en monteer de propeller op de as. Ga na dat di
 
 ![Constructie8]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 8.jpg)
 
-Leg het bord ondersteboven en lijm de latjes er met smeltlijm op, zodanig dat de propeller mooi in de opening past. Blijkt na het uitharden van de lijm dat de propeller toch tegen de rand van het gat aanloopt, knip het gat dan een heel klein beetje groter.
+Leg het bord __ondersteboven__ en lijm de latjes er met smeltlijm op, zodanig dat de propeller mooi in de opening past. Blijkt na het uitharden van de lijm dat de propeller toch tegen de rand van het gat aanloopt, knip het gat dan een heel klein beetje groter.
 
 ![Constructie9]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 9.jpg)
 
+In deze foto ligt het bord `ondersteboven` en is de schroef zo gemonteerd dat de rand van het bord de tafel nog raakt ondanks het feit dat de schroef aanwezig is.
+
 ## Stap 4: Elektrische verbindingen
-Lijm elk van de batterijhouders met wat smeltlijm op hun plaats, dat is symmetrisch, tegenover elkaar, op gelijke afstand van met middelpunt of de rand. Laat de lijm uitharden.
+Lijm elk van de batterijhouders met wat smeltlijm op hun plaats, dat is symmetrisch, tegenover elkaar, op gelijke afstand van zowel het middelpunt als de rand. Laat de lijm uitharden.
 
 ![Constructie10]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 10.jpg)
 
@@ -158,15 +162,16 @@ Hou het licht en verdeel het gewicht gelijk.
  Het woord “hovercraft” is een leenwoord uit het Engels. Het is een samentrekking van de woorden “to hover” (zweven) en “craft” (tuig), dus “zweeftuig”. Het juiste Nederlandse woord is echter "luchtkussenvoertuig".
  
  * **`Wie heeft het uitgevonden?`**
- De Zweedse ontwerper Emanuel Swedenborg bedacht in **1716** het eerste ontwerp. Maar het ontwerp was niet goed!   
- Zijn hovercraft was niet krachtig genoeg om te zweven. Ongeveer 200 jaar ontwierp Christopher Cockerell een krachtige en werkende model. Diezelfde hovercraft heeft Het kanaal tussen Calais, in Frankrijk, en Dover, in Engeland, in **123 min** overgestoken.   
- ![Constructie12]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/300px-SRN1_General_Arrangement.jpg)
+ De Zweedse ontwerper *Emanuel Swedenborg* bedacht in **1716** het eerste ontwerp. Maar het ontwerp was niet goed!   
+ Zijn hovercraft was niet krachtig genoeg om te zweven. Ongeveer 200 jaar later ontwierp [*Christopher Cockerell*](https://nl.wikipedia.org/wiki/Christopher_Cockerell) een krachtiger en werkende model. Een prototype van deze hovercraft heeft het Kanaal overgestoken in 1959, dat is de zee tussen Calais, in Frankrijk, en Dover, in Engeland. Het duurde **123 minuten** om de afstand, ongeveer 33,1 km, af te leggen.
  
- * **`Hovercraft en de militairen?`** De eerste toepassingen van de hovercraft in militair gebruik startden in de jaren '60. De Sovjet-Unie was 'swerelds grootste ontwikkelaar van militaire hovercrafts. Hun ontwerpen variëren van kleine tot de monsterlijke Zubr-klasse LCAC, 's werelds grootste hovercraft. 
+   ![Constructie12]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/300px-SRN1_General_Arrangement.jpg)
  
- ![Constructie12]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/warHover.png)
+ * **`Hovercraft en de militairen?`** De eerste toepassingen van de hovercraft in militair gebruik startten in de jaren '60. De Sovjet-Unie was 's werelds grootste ontwikkelaar van militaire hovercrafts. Hun ontwerpen variëren van kleine tot de monsterlijke Zubr-klasse LCAC, 's werelds grootste hovercraft. 
  
- Onlangs is de moderne Russische marine begonnen met het bouwen van nieuwe klassen van militaire hovercrafts.
+   ![Constructie12]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/warHover.png)
+ 
+   Onlangs is de moderne Russische marine begonnen met het bouwen van nieuwe klassen van militaire hovercrafts.
 
 
 #### Wil je meer weten over hovercrafts?
@@ -181,7 +186,7 @@ Hou het licht en verdeel het gewicht gelijk.
 In deze low tech activiteit komt heel wat `STEM` (**S**cience **T**echnologie **E**ngineering **M**athematics) aan bod! We hebben in deze handleiding een mogelijk oplossing gegeven voor de uitdaging: kun je een voertuig maken dat voortbeweegt zonder de grond te raken? 
 Kan je uitvinding op vlak water voortbewegen? 
 
-Op wetenschappelijk vlak staat hier natuurkunde centraal, om de werking van deze hovercraft te begrijpen ga je de bewegingswetten van Newton en de wet van Pascal nodig hebben. Lees meer verder in het blauw kadertje. 
+Op wetenschappelijk vlak staat hier natuurkunde centraal, om de werking van deze hovercraft te begrijpen ga je de bewegingswetten van Newton en de wet van Pascal nodig hebben. Lees meer in het blauw kadertje hieronder. 
 
 Je hebt ook voor dit project heel wat talenten getraind: planmatig werken, nauwkeurig werken, veilig werken, analytisch denken, handigheid.  
 
@@ -193,33 +198,32 @@ Alles dat je nodig hebt, is een motor, een propeller, een kartonnen bord en een 
 
 Hoewel het een relatief eenvoudige constructie is, gebruikt een hovercraft op ingenieuze wijze verschillende natuurkundige principes om het voertuig omhoog en voort te duwen. Inzicht in de cyclus maakt gebruik van de bewegingswetten van Newton en de wet van Pascal. 
 
-Maar hier de korte uitleg.
+Hier de korte uitleg.
 
 ![Schema]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 17.jpg)
 
- * Het bord dat omgekeerd op tafel ligt, vormt een gesloten vat.
- * De propellor blaast lucht in het vat.
+* Het bord dat omgekeerd op tafel ligt, vormt een gesloten vat.
+* De propellor blaast lucht in het vat.
  
-![Uitleg1]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 15.png)
+   ![Uitleg1]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 15.png)
   
- * De lucht die in het vat opbouwt, duwt in alle richtingen, zowel op de tafel, als op het bord.  
+* De lucht die in het vat opbouwt, duwt in alle richtingen, zowel op de tafel, als op het bord.  
  * Eens de druk hoog genoeg is, zal de lucht harder op het bord duwen dan dat de zwaartekracht aan het bord trekt en gaat het bord omhoog
  
-![Uitleg2]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 16.png)
+   ![Uitleg2]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 16.png)
  
- * Doordat het bord nu de tafel niet meer raakt, zal er lucht kunnen ontsnappen.
- * De hovercraft zal een evenwichtspositie bereiken 
+* Doordat het bord nu de tafel niet meer raakt, zal er lucht kunnen ontsnappen.
+* De hovercraft zal een evenwichtspositie bereiken 
  
-![Uitleg3]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 18.jpg)
+   ![Uitleg3]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 18.jpg)
 
 * De luchtkussen tussen tafel en hovercraft zorgt voor een verlaagde vrijwing en zo kan een zachte tik de constructie lang vorruit doen bewegen. 
- 
-
 </div>
 
 #### Maak het je eigen
  * Kun je het sneller maken? 
  * Kun je een lijst van factoren geven die de werking van de hovercraft beïnvloeden? 
+ 
 <div class="border_boxmaakbib01_img" markdown="1">
 #### Het is een raadsel ...
 Als je op een tafel aan het spelen bent, waarom stopt de hovercraft vanzelf aan de tafelrand?
@@ -230,25 +234,21 @@ Maak een ballon aangedreven hovercraft!
 Hou deze vragen in je je achterhoofd: 
 
 * Kan je kenmerken van oppervlakken voorspellen die de wrijving kunnen beïnvloeden?
-
 * Kan je uitleggen hoe wrijving werkt?
-
 * Hoe beïnvloedt de dwarsdoorsnede of de straal van de pijp de zweef-tijd van de ballon hovercraft?
 
-![Uitleg3]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/crosssection.png)
-
-* Ooit gehoord van Poiseuille's wet?
+   ![Uitleg3]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/crosssection.png)
  
 </div>
 
 ## Om af te sluiten
-De hovercrafts die als voertuig ingezet werden/worden zijn een klein beetje anders opgebouwd dan ons bord hovercraft. Ze bevatten 4 essentiele onderdelen:  
+De hovercrafts die als voertuig ingezet werden/worden zijn een klein beetje anders opgebouwd dan onze bord hovercraft. Ze bevatten 4 essentiele onderdelen:  
 ![Uitleg3]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/echethovercraft.png)
 
-* 2 propellors
-* Lucht
-* 2 motors
-* rok
+1. 2 propellors om vooruit te bewegen
+2. Lucht die naar luchtgaten geleid wordt
+3. Minstens 2 motoren om lucht uit te blazen. Deze draaien verschillend (1 kloksgewijs en 1 tegenkloksgewijs) zodat het probleem van rond de as draaien van onze hovercraft niet voorkomt
+4. rok om de uitgestuwde lucht naar de buitenrand te geleiden
 
 Dankzij de rok werden hovercrafts mogelijk die golven van 3 meter konden weerstaan.
 

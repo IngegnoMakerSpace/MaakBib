@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3D print een opwindbare-auto!"
-featured: true
+featured: false
 published: true
 authors: [guest]
 lowtech: false

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Nylon kouzen, lijm en zeefdrukken!"
-featured: true
+title:  "Nylon kousen, lijm en zeefdrukken!"
+featured: false
 published: true
 authors: [guest]
 lowtech: true
@@ -10,6 +10,8 @@ hightech: false
 DIT: false
 DIY: true
 CHALLENGE: false
+moeilijkheidsgraad_1_3: 1
+prijs_1_3: 1
 pijler_tinkering : true
 pijler_design_thinking : false
 pijler_digitale_fabricatie : false
@@ -31,7 +33,7 @@ materialen: [
     Karton, 
    ]
 tools: [
-    schraapertje,
+    schrapertje,
     Borduurring, 
     Verfborstels,
     Permanente stift,
@@ -39,7 +41,7 @@ tools: [
       ]
 
 ---
-Benieuwd naar hoe Andy Warhol zijn kunstwerken kopieerde? Ontdek en experimenteer met zeefdruk, je hebt maar een paar nylon kouzen nodig! 
+Benieuwd naar hoe Andy Warhol zijn kunstwerken kopieerde? Ontdek en experimenteer met zeefdruk, je hebt maar een paar nylon kousen nodig! 
 
 Doel van deze activiteiten is om te ontdekken hoe men kan zeefdrukken met gemakkelijk beschikbare materialen zoals lijm en nylonkousen. 
 
@@ -58,12 +60,12 @@ Teken je design op een blad.
 
 ![design]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto1.png) 
 
-Ik ga twee keer zeefdrukken dus deel één is de boomstam, deel twee is de kruin. 
+In deze handleiding gaan we twee keer zeefdrukken, deel één is de boomstam, deel twee is de kruin van een boom. 
 
 Inspiratie nodig? Leuke gratis templates kan je bv. hier vinden [template](https://www.bobbinhood.com/free-downloads/free-templates/)
 
 ## Stap 2: Ring KLaar Maken
-Verzamel je materialen: Nylon kouzen, borduurringen, witte lijm, verf borstel, permanente stift, papier, schaar. 
+Verzamel je materialen: Nylon kousen, borduurringen, witte lijm, verf borstel, permanente stift, papier, schaar. 
 
 ![ring1]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto2-3.png) 
 
@@ -85,8 +87,8 @@ Herhaal dit dan ook voor je tweede ring, het tweede deel van je design.
 ## Stap 4: Lijm Toevoegen
 ![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto8.png) ![ring4]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto9.png) 
 
-Breng de lijm overal aan ROND de tekening, dus NIET OP DE TEKENING. 
-Je kan zien dat de tekening op het papier enkel zichtbaar is door de boomstronk, waar er GEEN lijm is. 
+Breng de lijm overal aan **ROND** de tekening, dus **NIET OP DE TEKENING**.  
+Je kan zien op de vorige foto dat de tekening op het papier enkel zichtbaar is door het boomstronk gedeelde, dus het deel waar er GEEN lijm is.  
 De lijm zorgt dat de gaatjes in de nylon dicht zijn. Zo komt er enkel verf door de nylon waar er geen lijm is!
 
 Gebruik hiervoor PVA / witte lijm. 
@@ -103,7 +105,7 @@ Dit kan even duren. Je kan het versnellen door een haardroger te gebruiken om he
 Is een tweede laag lijm nodig? 
 
 Wanneer de lijm droog is, houd de ring voor het raam om te zien of er nog gaatjes zijn die niet goed dicht gemaakt zijn door de lijm. 
-Indien ja, breng een extar laag lijm aan. Enkel de tekening moet straks verf doorlaten. 
+Indien ja, breng een extra laag lijm aan. Enkel de tekening moet straks verf doorlaten. 
 
 ![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto11.png)
 
@@ -130,7 +132,7 @@ Wil je een andere kleur proberen? Is je nylon te vuil? Was het gewoon af!
 **Opgelet!** Je lijm kan loskomen, dus zeker controleren of je geen gaatjes hebt die je terug moet opvullen met lijm. 
 
 ## Stap 7: Experimenteer
-Experimenteer met drukken van meerkeluerige ontwerpen of met serie productie 
+Experimenteer met drukken van meerkleurige ontwerpen of met serie productie 
 
 ![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto17.png)![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/foto18.png)
 
@@ -150,38 +152,39 @@ Let wel op dat je een stuk karton tussen twee lagen textiel plaatst om te vermij
 <div class="border_boxmaakbib01_img" markdown="1">
 ## Weetjes
 #### Wat is zeefdruk eigenlijk? 
-Zeefdruk is een doordruktechniek dat gebruikt wordt bij affiches, kunstwerken en textielbedrukking. 
+Zeefdruk is een doordruktechniek die gebruikt wordt bij affiches, kunstwerken en textielbedrukking. 
 Doordruktechniek wil zeggen dat je door iets drukt of duwt. In dit geval duwen we de verf door de gaas (nylon). 
-Het werd vroeger vooral gebruikt voor massaproductie. Dat wil zeggen dat je veel maakt van één iets. 
+Het werd vroeger vooral gebruikt voor massaproductie. Dat wil zeggen dat je veel kopieen maakt van één object. 
 Een eenvoudige overzicht van deze techniek vind je [hier](https://zeefdrukland.nl/Wat-is-zeefdruk)
 
 #### Geschiedenis van de zeefdruk. 
-Oorsprong komt uit Azië (Japan) waar het gebruikt werd om op zijde te drukken. Deze techniek werd dan meegenomen naar Europa waar we in Europa zijn begonnen met machines te maken om de druktechniek te gebruiken voor massaproductie. 
-Het eerste patent op de zeefdruktechniek werd op 11 juli 1907 verleend aan Samuel Simon uit Manchester (Verenigd Koninkrijk).
+De oorsprong komt uit Azië (Japan) waar het gebruikt werd om op zijde te drukken. Deze techniek werd meegenomen naar Europa waar men begon met machines maken om de druktechniek te gebruiken voor massaproductie. 
+Het eerste patent op de zeefdruktechniek werd op 11 juli 1907 verleend aan Samuel Simon uit Manchester (in het Verenigd Koninkrijk).
 
-#### Versierde stoffen ook voor het volk
+#### Versierde stoffen, ook voor het volk!
 De Japanse keizer liet geborduurde kleding alleen toe aan hoger geplaatsten. Gewone mensen mochten alleen eenvoudige kleding dragen. De Japanner Yuzensai Miyasaki (1654-1736) heeft hier met de zeefdruktechniek een einde aan gemaakt.
-Hij wordt samen met Zisukeo Hirose (1822-1890) de uitvinder van zeefdruk   beschouwd.
+Hij wordt samen met Zisukeo Hirose (1822-1890) als de uitvinder van zeefdruk beschouwd.
 
 ![ring3]({{ site.baseurl }}/assets/images/2020-05-18-zeefdruk-met-lijm/japan1-2.png)
 
 #### Wist je dat ...
-Kunstenaar Andy Warhol zijn kunst in zijn ‘fabriek’ produceerde? Hij wou een boodschap uitzenden over de massaproductie van materialen. Hij heeft niet één kunstwerk van een bepaald onderwerp, maar kon zijn kunst zo vaak reproduceren als hij wou door de zeefdruk techniek. 
+... kunstenaar [Andy Warhol](https://www.artsalonholland.nl/grote-meesters-kunstgeschiedenis/andy-warhol) zijn kunst in zijn ‘fabriek’ produceerde? Hij wou een boodschap uitzenden over de massaproductie van materialen. Hij heeft niet één kunstwerk van een bepaald onderwerp, maar kon zijn kunst zo vaak reproduceren als hij wou door de zeefdruk techniek. 
 
+<a id='caOjiYv7RWhrbgCT-pZwYQ' class='gie-single' href='http://www.gettyimages.be/detail/505364486' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'caOjiYv7RWhrbgCT-pZwYQ',sig:'_CMZhhr4qlrCOGWS_9aXvmgBXjM0jRY821CviapwtQo=',w:'410px',h:'420px',items:'505364486',caption: true ,tld:'be',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 </div>
 
 
 ## STEM
-In deze low tech activiteit focust het STEM gebeuren op het creeren van een geschikt sjabloon voor zeefdruktoepassingen.  
+In deze low tech activiteit focust het STEM gebeuren op het creëren van een geschikt sjabloon voor zeefdruktoepassingen.  
 
-Volgende talenten heb je hiermee zeker getarind: planmatig werken, zorgvuldig werken, creatief denken. 
+Volgende talenten heb je hiermee zeker getraind: planmatig werken, zorgvuldig werken, creatief denken. 
 
-Als me dan onderzoek doet naar de geschiedenis en moderne toepassingen van zeefdruk ontdekt men dan hoveel wetenschappelijk en technische kennis van pas komt bij deze techniek.  
+Als men dan onderzoek doet naar de geschiedenis en de moderne toepassingen van zeefdruk, ontdekt men hoeveel wetenschappelijke en technische kennis van pas komt bij deze techniek.  
 Bijvoorbeeld, als je de verschillende materialen die voor zeefdruk op industrieel niveau gebruikt worden gaat onderzoeken, ontdek je heel wat chemie. 
 
 <div class="border_boxmaakbib02_img" markdown="1">
 #### Laat je inspireren door Andy Warhol
-Op deze [site](https://www.warhol.org/) vind je interessante informaties over deze kunstenaar en als je op zoek bent naar ideen om te experimenteren met kunst, neem een kijkje naar het lesmateriaals die daar te vinden is. 
+Op [warhol.org](https://www.warhol.org/) vind je interessante informatie over deze kunstenaar, en als je op zoek bent naar ideeën om te experimenteren met kunst, neem een kijkje naar het lesmateriaal dat daar te vinden is. 
 
 #### Belichting en het maken van een drukvorm
 
@@ -200,25 +203,23 @@ Deze techniek wordt veel gebruikt voor het maken van zonnecellen en printplaten,
 
 
 ## Maak het je eigen. 
-Onderzoek hoe zeefdrukramen klaargemaakt worden. Zou je een eigen belichting installaties kunnen maken? 
+Onderzoek hoe zeefdrukramen klaargemaakt worden. Zou je een eigen belichting installatie kunnen maken? 
 
-Wat heb je daarvoor allmeaal nodig? Probeer het! 
+Wat heb je daarvoor allemaal nodig? Probeer het! 
 
 ## Nog weetjes
-Enkelel referenties geruikt voor deze handleiding:
+Enkele referenties gebruikt voor deze handleiding:
 
-* https://zeefdrukland.nl/Wat-is-zeefdruk
-* [history](https://everpress.com/creator-toolkit/a-brief-history-of-t-shirt-screen-printing/)
+* [zeefdrukland.nl](https://zeefdrukland.nl/Wat-is-zeefdruk)
+* [Geschiedenis van T-shirt zeefdruk](https://everpress.com/creator-toolkit/a-brief-history-of-t-shirt-screen-printing/)
 * [druktechnieken](https://www.industriemuseum.be/nl/collectie-item/druktechnieken)
-* [project](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d1f9db31448543.5651cdc24896d.jpg)
-
-
 
 #### Voordelen van Zeefdruk
-Met zeefdrukken kan men in principe elk materiaal, elk oppervlak en elke structuur bedrukken. Ook elke materiaalvorm is bedrukbaar: bol, hol, rond. Je drukt met een relatief dikke laag inkt, hierdoor kun je dekkend en kleurecht drukken. **Dekkend** wil zeggen dat je de de ondergrond niet meer door de aangebrachte inktlaag heen kunt zien. **Kleurechtheid** wil zeggen: de mate waarin de inktlaag onder invloed van licht verandert. 
-Dankzijn chemie kan de bedrukking aan speciale eisen voldoen, zoals: wasbestendig, weerbestendig, temperatuurbestendig ...
+Met zeefdrukken kan men in principe elk materiaal, elk oppervlak en elke structuur bedrukken. Ook elke materiaalvorm is bedrukbaar: bol, hol, rond, ... .   
+Je drukt met een relatief dikke laag inkt, hierdoor kun je dekkend en kleurecht drukken. **Dekkend** wil zeggen dat je de ondergrond niet meer door de aangebrachte inktlaag heen kunt zien. **Kleurechtheid** wil zeggen: de mate waarin de inktlaag onder invloed van licht verandert. 
+Dankzij chemie kan de bedrukking aan speciale eisen voldoen, zoals: wasbestendig, weerbestendig, temperatuurbestendig ...
 
-Zeefdruk heel geschikt is voor kleine oplagen. 
+Zeefdruk is heel geschikt is voor kleine oplagen. 
 
 
 

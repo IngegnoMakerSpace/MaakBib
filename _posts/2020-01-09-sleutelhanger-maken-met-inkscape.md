@@ -2,7 +2,7 @@
 layout: post
 title:  "Sleutelhanger maken met Inkscape en de Lasercutter"
 authors: [amy]
-featured: true
+featured: false
 lowtech: false
 midtech: false
 hightech: true
