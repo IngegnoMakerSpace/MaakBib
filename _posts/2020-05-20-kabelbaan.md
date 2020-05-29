@@ -16,7 +16,7 @@ pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
 categories: [tinkering, wetenschappen, natuurkunde ]
-image: assets/images/2020-05-20-kabelbaan/kabelbaanbasic–0.jpg
+image: assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 0.jpg
 tijd: 90 min
 print: assets/images/2020-04-30-stoomboot/Handleiding_Stoomboot.pdf
 downloads: 
@@ -24,31 +24,33 @@ downloads:
     file: assets/images/2020-04-30-stoomboot/Handleiding_Stoomboot.pdf
 
 materialen: [
-    koperen buis van 3 mm  buitendiameter 2 mm binnendiameter 50 cm lengte,
-    aluminium cakevorm,
-    dubbelzijdig plakband,
-    leeg theelichtje,
-    papierklem,
-    Esbit brandstoftablet,
-    stuk hout,
-    schroef 2-3 cm lang,
-    stevige buis,
-    stuk rondhout 2 cm diameter
+    2 katrolwielen,
+    motor met reductie,
+    5 bouten M3 x 40mm,
+    6 moeren M3,
+    7 ringetjes M3,
+    schroefje ø2.2mm lengte 16mm,
+    AA batterijhouder,
+    batterijclip,
+    2 AA batterijen,
+    touw ø1.5 à 3mm,
+    4 houten latjes
       ]
 tools: [
-      lucifers of aansteker,
-      knijptang of pincet,
-      boormachine of handboor,
-      schroevendraaier
+      (kolom-)boormachine,
+      veiligheidsbril,
+      houtboor 3mm en 5mm,
+      schroevendraaier,
+      moersleutel M3,
+      smeltlijmpistool,
+      lijmpistool
       ]
 benodigdheden_opt: [
-      lijmpistool,
-      schroefklem,
-      injectiespuit,
-      voedingskleurstof,
-      printer,
-      schaar,
-      plakband
+      plakband,
+      staaldraad ø1mm,
+      combinatietang,
+      sergeanten,
+      soldeerbout en -tin
       ]
 ---
 
@@ -65,8 +67,10 @@ Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib
 ## Benodigdheden
 
 {% include benodigdheden.html %}
-![Materialen]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto2.jpg)
-#### Materialen voor het bootje in detail
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 00.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 000.jpg)
+
+#### Materialen voor de kabelbaan in detail
 Afmetingen en mogelijke aankoopplaatsen voor de materialen vind je hier terug. 
  * 2 grote houten katrolwielen 
  bijv. [Opitec art.nr. 601113](https://www.opitec.be/hout/houten-vormen/wielen-/katrolwielen-60-x-15-mm-met-gat-10-stuks.html)
@@ -84,7 +88,7 @@ Afmetingen en mogelijke aankoopplaatsen voor de materialen vind je hier terug.
  bijv. [Opitec art.nr  205189](https://www.opitec.be/technische-toebehoren/energiebronnen-opslag/batterijhouders/batterijhouder-voor-2-x-penlite-um3-aa.html)
  * batterijclip, bedraad 
  bijv. [Opitec art.nr. 207058](https://www.opitec.be/technische-toebehoren/energiebronnen-opslag/batterijen-/batterijclip-9-v.html?pgNr=2)
- * 2 AA baterijen
+ * 2 AA batterijen
  bijv. [Opitec art.nr.206864](https://www.opitec.be/sale/camelion-batterijen-lr06-aa-24-stuks.html)
  * touw, diameter 1,5 à 3mm en lengte 2 x de gewenste overspanning + 3m
  bijv. [Opitec art.nr. 537090](https://www.opitec.be/nl/creatieve-inspiraties/jute-draden-koorden-banden-raffia/decoratie-draad-koord/vliegertouw-2-mm-x-80-m-natuurvezel.html)
@@ -100,177 +104,175 @@ Afmetingen en mogelijke aankoopplaatsen voor de materialen vind je hier terug.
 
  Sommige onderdelen zijn alleen verkrijgbaar in 10- tot 100-tallen, maar als je omrekent is de totale materiaalkost minder dan 6EUR per kabelbaan.
 
- 
- 
-#### Details van de materialen om het buiggereedschap te maken
- * een stuk hout minimaal 4 cm x 15 cm x 1 cm
- * een schroef met een lengte die ongeveer gelijk is aan de dikte van het stuk hout
- * een schroef 2 tot 3 cm langer.
- * een stevige buis die vlot over de messing of koperen buis past, maar het werkt best als de diameter niet veel groter is dan de messing of koperen buis.
- * een stevige cilindervorm met diameter 2 cm en ongeveer 3 à 4 cm lengte: rondhout of elektriciteitsbuis (die je later opvult met smeltlijm).
+## Vaardigheden en veiligheid
 
+Lees en bekijk eerst dit volledige stappenplan. Zo begrijp je beter waar elke stap voor dient.
+De bouw vereist het nauwkeurig boren van gaten in hout. Boren zijn scherp! Bescherm je ogen met een veiligheidsbril. Zorg dat de te boren delen stevig op hun plaats blijven tijdens het boren.  Een kolomboormachine is aanbevolen.
+Voor een onervaren publiek kunnen de gaten vooraf geboord worden door ervaren uitvoerders, of kan dit project een gelegenheid zijn om het veilig omgaan met een boormachine aan te leren.
+Het stappenplan gaat uit van het gebruik van een smeltlijmpistool, maar andere bevestigingsmethodes zijn mogelijk. Wees voorzichtig met de hete punt en de hete lijm.
+Solderen is optioneel en niet beschreven.  Er zijn slechts 2 eenvoudige elektrische verbindingen die eventueel gesoldeerd kunnen worden. Dit verondersteld dat je vertrouwd bent met veilig solderen of dat de begeleiders veilig solderen aanleren aan de hand van dit project.
 
-## Brandstof en veiligheid!
-De bouw van dit stoombootje is eenvoudig genoeg voor kinderen vanaf 6 jaar, maar bij het gebruik komt vuur te pas, dus is `begeleiding van een volwassene vereist`. Vergeet ook niet dat de stoom die er uit komt `gevaarlijk heet` is.
-
-Gebruik een Esbit brandstoftablet voor het aandrijven van dit bootje. Gebruik geen kaarsen voor de aandrijving. Het roet dat ze afgeven, zorgt voor een mindere werking van de motor.
-
-Lees de verpakking van de Esbit brandstoffen voor gebruik. **Vermijd inademing en contact met de huid**. Zorg voor **goede ventilatie** of gebruik ze **enkel buiten**.
-
-Voorzie je boot van brandstof met een tang of pincet, dit om brandwonden te vermijden.
-
-`Laat` het bootje `volledig afkoelen` voor je het uit het water haalt.
-
-Eén Esbit tablet brandt ongeveer 10 minuten. Een halve tablet geeft iets meer dan 5 minuten. Twee tabletten resulteren niet in 20 minuten brandtijd.
 
 ## Aan de slag
-#### Buiggereedschap maken
-Het bootje gebruikt een spiraalvormig buisje als stoommotor. Om die spiraal te maken heb je een gereedschap nodig dat je eerst zelf maakt.
 
-Je bevestigt eerst de 2cm dikke cilinder rechtopstaand, dicht bij het uiteinde van het stuk hout. Boor gaten voor in het hout en de cilinder en schroef ze stevig aan elkaar met de langste schroef. Er mag geen opening tussen de cilinder en het stuk hout zitten.
+#### Gaten boren
 
-Je kan ook een stuk buis als cilinder gebruiken, bijv. een stuk elektriciteitsbuis met diameter 20 mm. In dat geval schroef je de grote schroef in het hout en je plaatst het stuk buis erover heen. Vervolgens vul je de cilinder helemaal met smeltlijm. Laat die hard worden voor je verder gaat. Verderop in dit stappenplan worden ook foto’s van deze andere versie gebruikt.
+De motor wordt bevestigd op het houten latje, met 2 boutjes. Boor daartoe 2 gaatjes met diameter 3mm, met de juiste tussenafstand. De plaats hoeft niet nauwkeurig te zijn, maar de tussenafstand wel. Gebruik de motor zelf om die tussenafstand af te passen.  
+Leg je de motorbehuizing met een vlakke kant op het latje (dat is nog niet de positie waarin je zal monteren). Duid het eerste gat aan met de 3mm boor en boor dat gat. 
 
-Je kan het buiggereedschap ook maken door in het stuk hout een gat te maken waar de cilinder in spant, bijv. met lasersnijden of CNC frezen. Dan kan je tegelijk ook het gaatje maken voor de korte schroef.
-![Buigtool]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto3.jpg)
-Boor een gaatje voor de korte schroef, dicht bij de cilinder, op de lijn zoals op de foto en zo dat de te buigen buis er nog net tussen kan.
-![Buigtool]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto4.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 0000.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 1.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 2.jpg)
 
-![Buigtool]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto5.jpg)
-Draai de schroef zo diep dat de buis net onder de kop van de schroef past.
+Steek een bout door het geboorde gat en door de motorbehuizing om het tweede gat aan te duiden. Haal de motor en bout weg en boor het tweede gat.
 
-Als een punt van een schroef door hout komt, zorg er dan voor dat niemand er zich kan aan bezeren: gebruik een kortere schroef, vijl de punt weg of lijm er een extra laag hout over.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 3.jpg)
 
-![Buigtool]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto6.jpg)
+Aan de andere kant van het houten latje en in de dwarse richting boor je ook een paar 3mm gaten. Boor er meerdere, bijv. aan het uiteinde  en in het midden om later meerder montagemogelijkheden te hebben (zie verder bij de montage aan stoelen of tafels).
 
-Markeer een lijn op het stuk hout op 9,5 cm vanaf de cilinder als "startpositie" voor het buigen.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 4.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 5.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 6.jpg)
 
-![Buigtool]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto7.jpg)
+Omdat de bouten meestal net iets te kort zijn om later de latjes te verbinden, maak je het gat  over een beperkte diepte (0,5 cm à 1 cm diep, tenzij je latjes dikker zijn dan het voorbeeld) groter met de 5mm boor. 
 
-#### De stoomspiraal buigen
-Het kan helpen het buiggereedschap vast te klemmen op een tafel, maar stevig vasthouden gaat ook. 
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 7.jpg)
 
-Plaats de messing of koperen buis in het gereedschap, met het ene uiteinde tot aan de markering op 9,5 cm, zoals getoond in de vorige foto.
+In 3 andere latjes boor je telkens een 3mm gat in de buurt van één uiteinde. In één daarvan boor je ook dwarse gaten (3mm en een stukje 5mm) zoals hierboven beschreven voor het eerste latje.
 
-Schuif een stevige buis over het andere uiteinde als buighulp, waarbij je het uiteinde van die buis minimaal 1 of 2 cm van de cilinder houdt. Zo buig je de buis beetje bij beetje rond de cilinder. Het is belangrijk om de buis steeds een beetje opschuift en op een paar cm van de cilinder houdt. 
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 8.jpg)
 
-Belangrijk is dat je de buis hierbij niet plat plooit (niet laten knikken heet dat). Werk traag en als je ziet dat de buis op één plaats teveel plooit in plaats van mooi rond te buigen, plooi dan een beetje terug, verschuif de hulpbuis een beetje en buig verder.
+In één van de katrolwielen maak je het gat groter met de 5mm boor. Dat hoeft niet doorheen de hele dikte van het wiel. Je beperken tot een diepte van 1cm maakt de montage straks gemakkelijker, maar dieper of er helemaal doorheen boren werkt ook.
 
-Probeer de wikkelingen zo dicht mogelijk bij elkaar te houden, maar openingen tot ongeveer een halve cm zijn nog steeds goed. Maak **vier wikkelingen**, eindigend met de twee uiteinden van de buis loodrecht op elkaar (zie foto).
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 20.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 21.jpg)
 
-![Spiraal]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto8.jpg)
+#### Elektrische verbinding en bevestiging motor
+Zoek de contactoogjes van de motor. Steek de draden van de batterijclip eerst onder het doorzichtige plastic door, vlakbij de contactoogjes (zie foto). Steek in elk van de contactoogjes het vrijgemaakte metalen uiteinde van één van  de draden en plooi dat uiteinde om zodat het contact maakt en blijft zitten. Welke draad aan welk oog je maakt voor dit project niet uit. Trek de draden voorzichtig aan. Je kan het elektrische contact robuuster maken door te solderen, maar dat is voor dit project niet strikt nodig.
 
-Verwijder de hulpbuis en schuif deze over het andere uiteinde, tot ongeveer 1 cm vanaf waar de buis de schroef passeert. Buig het buisuiteinde 45 graden naar de andere kant.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 9.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 10.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 11.jpg)
 
-![Spiraal]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto9.png)
+Na het aanbrengen van de draden monteer je de motor zoals getoond op de foto’s. Omdat de motorbehuizing niet vlak is, steek je op elke bout eerst 3 ringetje. Dit geeft straks de juiste afstand tussen de motorbehuizing en het latje. Om de bouten helemaal door de motorbehuizing en het latje te krijgen, kan een schroevendraaier nodig zijn. Maak vast met moeren, maar draai die enkel met de hand vast, niet met gereedschap. De moeren te hard aandraaien kan de motorbehuizing vervormen en de tandwielen daarin stroef laten lopen.
 
-Verwijder de hulpbuis en de complete spiraal van het buiggereedschap. Draai de spoel om en schuif hem terug op de cilinder, waarbij nu het andere uiteinde tussen de cilinder en de schroef komt. 
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 12.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 13.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 14.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 15.jpg)
 
-![Spiraal]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto10.jpg)
+Steek de batterijen in de batterijhouder (let op de + en - aangeduid op de batterijen en de batterijhouder) en lijm de houder met de vlakke kant op het latje, aan de andere kant dan de motor.
 
-Schuif de hulpbuis over dit uiteinde en buig deze ook 45 graden, zodat deze evenwijdig loopt  met het eerste uiteinde.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 16.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 17.jpg)
 
-![Spiraal]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto11.jpg)
+Klik slechts één kant van de batterijclip vast en maak contact door te verdraaien tot de andere kant contact maakt. Dit is de aan/uit schakelaar. Opdat het contact aan blijft, kan het nodig zijn de contacten een beetje over elkaar schuiven. Om gemakkelijk weer uit te schakelen klik je het tweede contact beter niet vast. Als je de motor voor het eerst inschakelt kan het nodig zijn de witte as een beetje met de hand te verdraaien om de motor te laten starten.
 
-Je stoomspiraal is klaar. Hieronder een paar voorbeelden. De ene is minder perfect dan de andere, maar ze werken beide.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 18.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 19.jpg)
 
-![Spiraal]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto12.jpg)
+#### Montage van het aangedreven wiel
 
-Hier is een oud [filmpje](https://youtu.be/DM-EJbI7GWs) dat het buigen toont
+Duw het katrolwiel met het uitgeboorde 5mm gat op de witte as van de motor. Dat hoort te spannen. Hoe diep het wiel komt, bepaal je in de volgende stap.
 
-#### Spiraal plaatsen
-Strek eerst beide uiteinden van de bakvorm uit. Trekken aan de uiteinden werkt beter dan duwen op de zijkanten.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 22.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 23.jpg)
 
-![Bootje]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto13.jpg)
+Steek een ringetje over het 2,2mm diameter schroefje en draai het schroefje doorheen het gat van het katrolwiel, in het gaatje in de witte as. Span zo ver aan dat het wiel net niet op de koppen van de bouten en het gele uitsteeksel op de motorbehuizing duwt. Het wiel mag ze zacht raken, maar moet soepel blijven draaien. Indien het stroef loopt, draai het schroefje een beetje terug en trek het wiel terug.
 
-Het ene uiteinde vormt de boeg, de voorkant van een boot. De ander kant buig je terug naar binnen. Zorg ervoor dat de vouw niet te diep komt om te voorkomen dat er water naar binnen stroomt wanneer de boot in gebruik is.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 24.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 25.jpg)
 
-![Bootje]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto14.jpg)
+#### Montage van het niet-aangedreven wiel
 
-Plaats de stoomspiraal in de vouw, zodanig dat de buisuiteinden achteraan uitsteken en even laag komen als de bodem van de boot. Als de twee uiteinden van de buis niet even lang zijn, plaats dan de langste aan de bovenkant. Op deze manier is het later gemakkelijker om straks beide uiteinden in het water te houden.
+Steek één van de bouten door het gat van het overgebleven katrolwiel en draai een moer op de andere kant, maar met enkele mm speling. Steek het uiteinde vervolgens in een gat van het latje met dwarsgaten en zet vast met nog een moer. De bout hoort stevig vast te zitten in het latje, maar het wiel moet soepel kunnen draaien rond de bout.
 
-![Bootje]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto15.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 26.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 27.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 28.jpg)
 
-Met de papierklem zet je de twee stukjes rechte buis vast tussen de naar binnen geplooide aluminium wanden. Zorg ervoor dat je mooi alles samenklemt, zodat de spiraal op zijn plaatst blijft. Laat de hendeltjes van de papierklem rechtop staan. Dit zal ook het later aanbrengen van het eventuele roer gemakkelijker maken. Zodra alles stevig is vastgeklemd, buig je de boot terug in vorm.
+#### Bevestiging
 
-![Bootje]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto16.jpg)
+Steek een bout in één van de dwarse gaten, zodanig dat de kop in het 5mm gat komt.
 
-Onder de spiraal zet je een lege aluminium cup van een theelichtje of een aluminium pasvorm voor kaarsen vast met een beetje dunne dubbelzijdige plakband. Omdat de bodem van de boot door het water koel wordt gehouden en de warmte voornamelijk naar boven gericht is, zal dunne dubbelzijdige plakband niet verbranden.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 29.jpg)
 
-![Bootje]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto17.jpg)
+Steek één van de latjes zonder wiel over de bout.
 
-Hier is een oud [filmpje](https://youtu.be/nBvvCwmPdZk) dat het inbouwen van de spiraal toont.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 30.jpg)
 
-#### Roer toevoegen
-In deze stap gaan we een aluminium cakevorm in stukken knippen. 
-Let op! Dit geeft scherpe randen, dus zorg dat je jezelf niet snijdt.
+Zet vast met een moer. Draai stevig aan met een sleutel.
 
-Een roer is niet noodzakelijk om de boot uit testen, maar is vooral belangrijk om korte bochten te maken als je maar een klein wateroppervlak hebt. Je kan altijd later beslissen een roer toe te voegen. Laat wel je boot volledig afkoelen voordat je een roer toevoegt, opdat je je niet verbrand.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 31.jpg)
 
-Druk het onderstaande sjabloon af. Schaal het zo dat de vormen 12 cm lang zijn. Dit is normaal het geval als je de tekening op een volledig A4-blad afdrukt. Er staan meerdere vormen op de tekening om papier te besparen als je dit met een grotere groep doet. Je kan de vorm van het roer veranderen. Eén lange zijde is recht gemaakt om overeen te komen met de gevouwen zijde van het roer (zie verder). De rest van de vorm is gekozen om het roer in het midden makkelijk buigbaar te maken. Ten slotte is het belangrijk alles af te ronden om te voorkomen dat iemand zich bezeert aan scherpe punten.
+Doe hetzelfde voor het latje met het andere katrolwiel. Je kan een andere plaats van dwarsgat kiezen naargelang de montage op een tafel of een stoel.
 
-![Roer]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_roersjabloon.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 32.jpg)
 
-Knip het gewenste aantal papieren roersjablonen uit. Snij uit een extra aluminium bakvorm een stuk van minimaal 12 cm x 5 cm. Normaal kan je 3 van die stukjes uit één vorm halen.
+Je kan vastmaken aan een stoel , tafel,… met touw. Zorg er voor dat er genoeg plaats is opdat de gondels kunnen passeren.
 
-![Roer]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto18.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 33.jpg)
 
-Vouw het stuk dubbel langs de lange kant. Druk de vouw goed aan.
+Of een sergeant (schroefklem) gebruiken, vooral bij tafels handig.
 
-![Roer]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto19.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 34.jpg)
 
-Leg er een papieren sjabloon op en zorg ervoor dat de rechte rand gelijk ligt met de vouw. Bevestig het door er wat doorzichtig plakband overheen te plakken.
 
-![Roer]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto20.jpg)
+#### Kabel en gondels
 
-Knip de vorm uit. De rechte kant (de vouw dus) knip je natuurlijk niet. Verwijder het papier en het deel dat je los geknipt hebt.
+Knoop het touw in een lange lus. Breng het aan in de groef van elk wiel en span op door de stoel of tafel op te schuiven. Span niet te veel op, gewoon genoeg tot het touw niet te veel doorhangt en mooi op de wielen blijft lopen.
 
-![Roer]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto21.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 35.jpg)
 
-Open de papierklem een klein beetje en schuif het roer tussen de vouw in de scheepsromp, met de rechte kant naar beneden. Laat het roer net boven en voorbij de buisuiteindes uitkomen.
+Je kan de gondels eenvoudig met een touwtje aan het hoofdtouw, de “kabel”, vastmaken, of met een geplooide staaldraad (zie volgende stap)
 
-![Roer]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto22.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 36.jpg)
 
-Ook hierover een oud [filmpje](https://youtu.be/cZlI8QkF6LI).
+Bredere gondels kunne elkaar raken. Je kan dat al een beetje opvangen door ze met touwtjes met verschillende lengte op verschillende hoogtes te hangen
 
-#### Decoratie
-Je kunt de boot versieren zolang je materialen gebruikt die bestand zijn tegen water en tegen hitte. Je mag geen decoratie dicht bij de vlam plaatsen, maar zelfs dan kan je best materialen gebruiken die niet smelten of verbranden wanneer ze per ongeluk in de buurt van de hitte komen. Je kunt poppetjes maken met gewone aluminiumfolie en met dunne dubbelzijdige plakband aan de romp vastplakken. Je kan de romp versieren met permanent markers. 
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 37.jpg)
 
-![Boot]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto23.jpg)
+Maak en decoreer gondels naar eigen smaak.
 
-![Boot]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto24.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 38.jpg)
 
-#### Op stoom brengen en varen maar
-De bootjes zijn zeer licht, dus kan je ze niet gebruiken als er wind is. Werk binnen, of goed afgeschermd van de wind.
+#### Meer realistische gondel bevestiging
 
-Zorg eerst en vooral voor het vaarwater: het bootje haalt het water voor de stoom uit het vaarwater, dus je hebt schoon water nodig. Een diepte van 3cm is genoeg. Je kan een vinyl plonsbadje gebruiken, maar zorg ervoor dat de wand niet naar binnen overhangt, om uit de vlammen van de bootjes te blijven.
+Met een stukje staaldraad kan je een meer realistische gondelbevestiging maken die de gondel minder doet wiebelen. Plooi een stukje van ongeveer 15mm in een hoek, iets scherper dan een rechte hoek.
 
-Zet het bootje in het water en controleer of beide buisuiteinden onder water uitkomen. Zo niet, schuif de buisjes en plooi het bootje bij tot dat zo is.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 39.jpg)
 
-Haal het bootje uit het water en vul de spiraalbuis eerst helemaal met water. Dat kan je doen onder de kraan. Hou één uiteinde onder een lopende kraan, tot het water uit de andere kant komt. Als alternatief kan je ook een injectiespuit (zonder naald natuurlijk) gebruiken om de  spiraal te vullen. Met zo’n spuit kan je de spiraal ook vullen terwijl het bootje in het water ligt. Je kan ook voedingskleurstof in de buis doen om straks beter te zien hoe het werkt.
+15mm verder plooi dwars op de eerste plooi,  opnieuw een hoek iets scherper dan een rechte hoek.
 
-![Boot]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto25.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 40.jpg)
 
-Hou de uiteinden van de buis zo goed mogelijk dicht en zet het bootje snel in het water, zodanig dat beide uiteinden onder water uitkomen.
+Bevestig op de gondel, in dit voorbeeld door een klein stukje recht te plooien en vast te lijmen. Plooi alles bij tot de gondel mooi recht hangt.
 
-Pas dan, leg je een Esbit tablet (of een halve) in het cupje onder de spiraal. Steek een lucifer aan en laat hem gewoon in het cupje vallen. Het is niet nodig om de lucifer vast te houden. Het is beter om het indien nodig opnieuw te proberen, dan de lucifer te lang vast te houden en je vingers te verbranden. Je kan de resten van de lucifer verwijderen zodra alles is verbrand en is afgekoeld. Je kan ook een lange aansteker (zoals voor kaarsen) gebruiken.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 41.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 42.jpg)
 
-Geef de Esbit tablet even de tijd om volledig te ontbranden. Na een tijdje begint het bootje voort te bewegen. Houd de twee buisuiteinden altijd in het water, anders stopt het. Het zal niet terug op gang komen zonder dat de spiraal terug met water kan gevuld worden. Als de brandstof nog brand, kan dat natuurlijk niet onder de kraan. Eventueel kan je het heel voorzichtig doen met een spuit. 
+Maak het bovenste rechte stuk vast aan de “kabel” door er een beetje plakband rond te wikkelen.
 
-Je kan een tweede Esbit tablet toevoegen wanneer de eerste bijna volledig is verbrand. Doe dit met een metalen tang of pincet om te voorkomen dat je je vingers verbrandt. Twee Esbit tabletten tegelijk geeft een feller vlam, maar geen langere brandduur en geen extra snelheid. Hou er rekening mee dat de Esbit tabletten tijdens het branden gedeeltelijk vloeibaar kunnen worden, dus wees steeds voorzichtig met de boot.
 
-Als je een roer gemaakt hebt, probeer het te buigen tot de boot de gewenste bocht maakt.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 43.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 44.jpg)
 
-![Boot]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/stoomboot_foto26.jpg)
+#### Verder bouwen
 
-Ziehier een oud [filmpje](https://youtu.be/b8p5J5Xwsg8) over het klaarmaken van het bootje.
+Je kan bij één aangedreven wiel ook meerdere niet-aangedreven wielen toevoegen. Zo kan je bredere gondels elkaar zonder probleem laten passeren of een kabelbaan maken die de hele kamer rond gaat. 
 
-En hier een [filmpje](https://youtu.be/vUIrFMorg7s) met voedingskleurstof.
+![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 45.jpg)
+
+
+
+
+
+
+
 
 <div class="border_boxmaakbib01_img" markdown="1">
 ## Weetjes
- * **`Waar komt de naam pop-pop boot vandaan?`** 
- De naam komt van het geluid van sommige versies van deze boten maken als ze rondjes in het water varen. Andere namen zijn: Can-Can-boot, Knatterboot, toc-toc, Puf-Puf boat …
+
  
  * **` Wie heeft het uitgevonden?`**
  Putt-putt-boten bestaan al meer dan een eeuw en zijn oorsprongkelijk een ontwerp dat in 1891 is gepatenteerd door de Britse uitvinder Thomas Piot. Ze werden begin 1900 populair als speelgoed.
