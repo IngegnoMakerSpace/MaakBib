@@ -107,9 +107,13 @@ Afmetingen en mogelijke aankoopplaatsen voor de materialen vind je hier terug.
 ## Vaardigheden en veiligheid
 
 Lees en bekijk eerst dit volledige stappenplan. Zo begrijp je beter waar elke stap voor dient.
+
 De bouw vereist het nauwkeurig boren van gaten in hout. Boren zijn scherp! Bescherm je ogen met een veiligheidsbril. Zorg dat de te boren delen stevig op hun plaats blijven tijdens het boren.  Een kolomboormachine is aanbevolen.
+
 Voor een onervaren publiek kunnen de gaten vooraf geboord worden door ervaren uitvoerders, of kan dit project een gelegenheid zijn om het veilig omgaan met een boormachine aan te leren.
+
 Het stappenplan gaat uit van het gebruik van een smeltlijmpistool, maar andere bevestigingsmethodes zijn mogelijk. Wees voorzichtig met de hete punt en de hete lijm.
+
 Solderen is optioneel en niet beschreven.  Er zijn slechts 2 eenvoudige elektrische verbindingen die eventueel gesoldeerd kunnen worden. Dit verondersteld dat je vertrouwd bent met veilig solderen of dat de begeleiders veilig solderen aanleren aan de hand van dit project.
 
 
@@ -267,90 +271,88 @@ Je kan bij één aangedreven wiel ook meerdere niet-aangedreven wielen toevoegen
 
 
 
-
-
-
 <div class="border_boxmaakbib01_img" markdown="1">
 ## Weetjes
 
  
- * **` Wie heeft het uitgevonden?`**
- Putt-putt-boten bestaan al meer dan een eeuw en zijn oorsprongkelijk een ontwerp dat in 1891 is gepatenteerd door de Britse uitvinder Thomas Piot. Ze werden begin 1900 populair als speelgoed.
+ * **` De eerste kabelbanen`**
  
- * **` Een filmster`**  Heb je de tekenfilm *Ponyo on the Cliff by the Sea* gezien? 
- De pop-popboot speelde een prominente rol in [deze Japanse animatiefilm uit 2008](https://www.youtube.com/watch?v=4e7IbO-FZK0).
+ Kabelbanen bestaan in vele vormen, de oudste werden 2000 jaar geleden al gebruikt. Deze waren gemaakt uit gevlochten lianen en een korf voor de passagier. Deze werden voornamelijk gebruikt om een vallei of rivier over te steken.
+ 
+ * **` Technologische vooruitgang`**
+ 
+ Voor het ontstaan van de staalkabel in 1844 werden kabels van kabelbanen voornamelijk gemaakt uit henneptouw. Door de staalkabel konden de kabelbanen meer gewicht dragen en hadden ze een langere levensduur.
+ Vanaf 1867 doken er overal in Europa kabelbanen op met staalkabels, aangedreven door stoom.
 
-#### Wil je meer weten over deze schattige bootjes?
-Surf zeker naar [sciencetoymaker.org](https://sciencetoymaker.org/putt-putt-boat/)
+ * **` Verschillende kabelbanen`**
+ 
+ Er bestaan veel verschillende soorten kabelbanen. Zo zijn nagenoeg alle skiliften kabelbanen: van pannenkoeklift tot stoeltjeslift en gondellift. Verder bestaan er ook nog kabelspoorwegen, deze kunnen bergtreintjes langs zeer steile hellingen omhoog trekken.
+ 
+ 
+ * **` Grootste langste hoogste meeste`**
+
+De Vanoise Express, die La Plagne en Les Arcs (Frankrijk) met elkaar verbindt, kan 201 passagiers tegelijk vervoeren in 1 cabine.
+
+De Téléphérique de l’Aiguille du Midi (Frankrijk) overbrugt het grootste hoogteverschil, van 1038m naar 3777m hoogte.
+
+De 3 Vallées Express (Frankrijk) is met z’n 4.66 km de langste gondelbaan ter wereld zonder tussenstation.
+
+De Teleférico in Mérida, Venezuela is de hoogste en langste kabelbaan in de wereld. Ze brengt passagiers naar de de top van de 4765m hoge berg Pico Espejo.
+
+
+#### Wil je meer weten over kabelbanen?
+Surf zeker naar [bergundbahn.com](https://www.bergundbahn.com/bergbahnen/kabelbanen/info/kabelbanen-geschiedenis)
 en
-[poppopboats.net](https://www.poppopboats.net/whatisapoppopboat.html)
+[lift-world.info](https://www.lift-world.info/)
 
 </div>
 
+
 ## STEM
 
-In deze low tech activiteit komt heel wat `STEM` (**S**cience **T**echnologie **E**ngineering **M**athematics) aan bod! We hebben in deze handleiding een mogelijk oplossing gegeven voor de uitdaging: kun je een vaartuigje maken dat voortgestuwd wordt met een motor zonder bewegende onderdelen? 
+In deze low tech activiteit komt heel wat `STEM` (**S**cience **T**echnologie **E**ngineering **M**athematics) aan bod! We hebben in deze handleiding een eeuwenoude techniek leren kennen waarmee ravijnen en rivieren overgestoken en bergen beklommen worden. 
 
-**`Kan je een ander systeem bedenken?`**    
-(Tip: denk aan oppervlaktespanning, chemie en zoek op: zeep en boot.)
 
-Op wetenschappelijk vlak staat hier natuurkunde centraal, om de werking van dit bootje te begrijpen ga je alle bewegingswetten van Newton nodig hebben. Lees meer verder in het blauw kadertje. 
+Op wetenschappelijk vlak staat hier mechanica centraal, om de werking van deze kabelbaan te begrijpen, hebben we wrijving, spankracht en de 3e wet van Newton nodig. Lees meer verder in het blauw kadertje. 
 
 Je hebt ook voor dit project heel wat talenten getraind: planmatig werken, nauwkeurig werken, veilig werken, analytisch denken, handigheid.  
 
+
+
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Hoe werkt het? 
-Alles dat je nodig hebt, is een kaarsje, een beetje water en een beetje simpele wetenschap!
+Alles dat je nodig hebt, is een kabel, een motor, wielen en een beetje simpele wetenschap!
 
-Hoewel het een relatief eenvoudige constructie is, gebruikt een putt putt-motor op ingenieuze wijze verschillende natuurkundige principes om de boot voort te duwen. Inzicht in de cyclus maakt gebruik van alle bewegingswetten van Newton. 
+Hoewel het een relatief eenvoudige constructie is, gebruikt een kabelbaan op ingenieuze wijze verschillende mechanische principes om de gondels voort te bewegen.
 
 Maar hier de korte uitleg.
 
- * Een kleine hoeveelheid water bevindt zich in een ondiepe metalen "keteltje" (in onze constructie, het buisje)
- * Een vlam verhit het.
+ * Twee wielen, het aandrijfwiel en het volgwiel, bevinden zich in een verankerde positie, waar ze enkel rond hun eigen as kunnen draaien.
  
- ![boot1]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/uitlegboot_1.png)
+ * Een kabel wordt rond de 2 wielen gespannen. De kabel bezit dus een spankracht (of trekkracht), die er voor zorgt dat de kabel tegen de wielen getrokken wordt.
  
- * Het water warmt snel op en flitst tot stoom.
- * De stoom ontsnapt uit de twee buizen aan de achterkant van de boot. 
+![Werking]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/Werking.jpg)
  
- ![boot2]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/uitlegboot_2.png)
+ * Als het aandrijfwiel begint te draaien, ontstaat er een wrijving tussen het aandrijfwiel en de kabel. Een lage spankracht zorgt voor een lage wrijving. Een hoge spankracht zorgt voor een hoge wrijving.
  
- * Er vormt zich dan een onderdruk in de ketel en dit zuigt vers water via dezelfde buizen weer naar binnen.
+ * Zolang de wrijving groter blijft dan de kracht van de motor, zal de kabel meebewegen met het wiel.
  
- ![boot3]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/uitlegboot_3.png)
+De motor moet echter wel een minimum kracht leveren. We moeten hierbij rekening houden met het gewicht dat de kabel meedraagt. Als de motor te weinig kracht levert, zal de kabel niet in beweging komen. Omgekeerd geldt dit ook: teveel gewicht kan leiden tot het stilvallen van de kabel of motor.
  
- * Zodra het water de binnenkant van de ketel raakt, verandert het weer in stoom en begint het proces opnieuw.
 
-Deze cyclus is niet uniek voor de putt-putt. Het is in wezen hetzelfde als dat wat verticaal in een geiser plaatsvindt, en het is analoog aan de werking van een kleploze pulsstraal waarbij de pulsenergie afkomstig is van brandende brandstof in plaats van flitsend water tot stoom.
 
-![geiser]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/800px-Beehive_geyser_yellowstone_groot.jpg)
+#### Veiligheid bij kabelbanen.
 
-Hiermee begrijpen we het principe, maar weten we nog niet waarom de boot beweegt. Ze blaast en ze zuigt, dus netto zou ze moeten stilstaan, niet? Dit is niet zo om het enerzijds stoom is die we blazen via druk, en water die we zuigen welke een vloeistof is met deeltjes die rechtlijnig bewegen.
+Teveel gewicht kan leiden tot het uitrekken van de kabel of zelfs breuk. Om dit te voorkomen wordt de maximumcapaciteit van kabelbanen begrensd op minder dan 10% van het maximum gewicht dat de kabel kan dragen.
 
-Eerst blazen we stoom waardoor we voorwaarts bewegen.
-
- ![beweging1]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/uitlegBewegingBoot_1.png)
- 
- Daarna zuigen we water door onderdruk, wat betekent dat het water binnenstroomt en tegen de ketelwand botst.
- 
- ![beweging1]({{ site.baseurl }}/assets/images/2020-04-30-stoomboot/uitlegBewegingBoot_2.png)
-
-Een geïllustreerde website die de drie bewegingswetten van Sir Isaac Newton uitlegt kan je [hier](http://teachertech.rice.edu/Participants/louviere/Newton/index.html) vinden.
-
-#### Waarom twee uiteindes?
-
-De put-put boot werkt enkel als de ketel gevuld is met water. Is die gevuld met lucht, dan zet lucht bij opwarmen niet genoeg uit om het water weg te duwen en dus vooruit te bewegen. Stoom neemt wel veel meer plaats in dan water, en verandert bij afkoelen terug in water (condensatie). 
-
-Om de lucht uit de ketel te halen hebben we dus twee uiteindes nodig. We vullen met water aan de lange kant, en die komt eruit aan de korte kant. Dan vlug in het water onderdompelen zodat geen lucht in de ketel kan komen! 
 
 </div>
 
 #### Maak het je eigen
  * Kun je het sneller maken? 
- * Kun je een lijst van factoren geven die de werking van het bootje beïnvloeden? 
- * Kun je een waterpomp ontwerpen, aangedreven door een putt-putt-warmtemotor, die water van een lager naar een hoger reservoir kan tillen?
+ * Kun je een lijst van factoren geven die de werking van de kabelbaan beïnvloeden?
+ * Gebruik je vergaarde kennis om een andere kabelbaan te bouwen.
 
 
 ## Voorbeelden
-Heb je een foto van je eigen stoombootje? Stuur hem ons!
+Heb je een foto van je eigen kabelbaan? Stuur hem ons!
