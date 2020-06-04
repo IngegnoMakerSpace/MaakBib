@@ -25,6 +25,7 @@ downloads:
   - name: 'Handleiding'
     file: assets/images/2020-05-15-bord hovercraft/handleiding-bord-hovercraft.pdf
 
+materialen_dontshow: true
 materialen: [
       wegwerpbord,
       DC-motor,
@@ -36,9 +37,10 @@ materialen: [
       ]
 tools: [
       passer,
-      schaar; breekmes of cirkelsnijder,
-      snijmat,
-      lijmpistool
+      kromme (nagel)schaar,
+      of cirkelsnijder en snijmat,
+      of breekmes en snijmat,
+      smeltlijmpistool (lage temperatuur)
       ]
 benodigdheden_opt: [
       soldeerbout en soldeertin
@@ -58,26 +60,26 @@ Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib.
 
 ## Benodigdheden
 
+<p style="margin: 0 0 0 0;"><strong>Materialen:</strong></p>
+
+<div class="benodigdheden">
+  <ul>
+    <li>Een <a href="https://www.ava.be/nl/bio-borden-o-26cm-suikerriet-25-stuks-00562979?colour=81428">groot wegwerpbord</a> met vlakke rand (kartonnen borden met gekartelde rand zijn minder geschikt)</li>
+    <li>Een <a href="https://www.opitec.be/technische-toebehoren/aandrijving/motoren/motor-fa-130r.html?listtype=search&searchparam=dc%20motor">elektromotor</a> op 3V</li>
+    <li>Een <a href="https://www.opitec.be/bouwpakketten/bouwpakketten-van-hout/diversen---/propeller-4-bladen-60-mm-gat-2-mm.html?listtype=search&searchparam=oxartnum%3A115947">kleine propeller</a>, passend op de motor-as</li>
+    <li>2 <a href="https://www.opitec.be/sale/batterijhouder-aa-voor-1-penlite.html?listtype=search&searchparam=batterijhouder">batterijhouders</a> voor AA batterijen, met draad</li>
+    <li>2 alkaline <a href="https://www.ikea.com/be/nl/p/alkalisk-alkaline-batterij-50240502/">AA batterijen</a></li>
+    <li>Een <a href="https://www.opitec.be/technische-toebehoren/bekabeling/schakelaars/mini-schuifschakelaar-10-stuks.html?listtype=search&searchparam=lamp&pgNr=10">kleine schakelaar met soldeeroogjes</a></li>
+    <li>2 <a href="https://www.opitec.be/creatieve-inspiraties/houten-artikelen-kurk/grootverpakkingen/houten-spatels-150-x-18-mm-100-stuks.html?listtype=search&searchparam=spatels">houten latjes</a> minimum 15mm x 100mm</li>
+ </ul>
+
+</div>
+
 {% include benodigdheden.html %}
+
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 13.jpg)
 
 ![Materialen2]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 14.jpg)
-
-#### Materialen voor de hovercraft in detail
- * Een [groot wegwerpbord](https://www.ava.be/nl/bio-borden-o-26cm-suikerriet-25-stuks-00562979?colour=81428) met vlakke rand (kartonnen borden met gekartelde rand zijn minder geschikt)
-
- * Een [elektromotor](https://www.opitec.be/technische-toebehoren/aandrijving/motoren/motor-fa-130r.html?listtype=search&searchparam=dc%20motor) op 3V
-
- * Een [kleine propeller](https://www.opitec.be/bouwpakketten/bouwpakketten-van-hout/diversen---/propeller-4-bladen-60-mm-gat-2-mm.html?listtype=search&searchparam=oxartnum%3A115947), passend op de motor-as
-
- * 2 [batterijhouders](https://www.opitec.be/sale/batterijhouder-aa-voor-1-penlite.html?listtype=search&searchparam=batterijhouder) voor AA batterijen, met draad
-
- * 2 alkaline [AA batterijen](https://www.ikea.com/be/nl/p/alkalisk-alkaline-batterij-50240502/)
-
- * Een [kleine schakelaar met soldeeroogjes](https://www.opitec.be/technische-toebehoren/bekabeling/schakelaars/mini-schuifschakelaar-10-stuks.html?listtype=search&searchparam=lamp&pgNr=10)
-
- * 2 [houten latjes](https://www.opitec.be/creatieve-inspiraties/houten-artikelen-kurk/grootverpakkingen/houten-spatels-150-x-18-mm-100-stuks.html?listtype=search&searchparam=spatels) minimum 15mm x 100mm
-
 
 ## Stap 1: Een kwestie van evenwicht!
 Voor een goede werking moet de hovercraft in evenwicht zijn, alle gewicht verdeel je symmetrisch: zware dingen plaats je op het middelpunt of op gelijke afstand aan beide kanten van het middelpunt. 
@@ -85,13 +87,13 @@ Nauwkeurig meten is hier dus een must. Maar kleine fouten/afwijkingen kunnen gee
 
 Bepaal eerst het middelpunt van het bord: kies een ring op het bord waar je gemakkelijk de punt van de passer op kunt  zetten (op de buitenrand is dat meestal niet zo gemakkelijk) en meet de grootste breedte van het bord (de diameter van de cirkel). Zet de passer open op de helft hiervan (de straal van de cirkel).
 
-**`Kan je een andere methode bedenken om het middelpunt te bepalen?`**
-
 ![Constructie1]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 1.jpg)
 
 Op minstens 3 punten op de gekozen ring van het bord, en ver van elkaar, plaats je de punt van de passer en je trekt een boogje in het midden van het bord. Als je de straal van de ring perfect afgemeten hebt, kruisen de boogjes in het middelpunt. Vaak zullen ze niet perfect kruisen, maar een kleine zone afbakenen. Het midden hiervan kan je dan op het zicht nauwkeurig genoeg inschatten. 
 
 ![Constructie2]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 2.jpg)
+
+**`Kan je een andere methode bedenken om het middelpunt te bepalen?`**
 
 ## Stap 2: Opening voor de propeller
 We maken een opening voor de propeller in het midden van het bord. Ga als volgt te werk. 
@@ -125,7 +127,9 @@ Leg het bord __ondersteboven__ en lijm de latjes er met smeltlijm op, zodanig da
 
 ![Constructie9]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eehovercraft - 9.jpg)
 
-In deze foto ligt het bord `ondersteboven` en is de schroef zo gemonteerd dat de rand van het bord de tafel nog raakt ondanks het feit dat de schroef aanwezig is.
+In deze foto ligt het bord ondersteboven en is er dus genoeg rumte onder om de schroef door het gat te steken zonder dat die de tafel raakt. Op volgende foto van opzij zie je dat duidelijk:
+
+![Constructie zijzicht]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/zijzicht.jpg)
 
 ## Stap 4: Elektrische verbindingen
 Lijm elk van de batterijhouders met wat smeltlijm op hun plaats, dat is symmetrisch, tegenover elkaar, op gelijke afstand van zowel het middelpunt als de rand. Laat de lijm uitharden.
@@ -176,7 +180,7 @@ Hou het licht en verdeel het gewicht gelijk.
 
 #### Wil je meer weten over hovercrafts?
 * Surf zeker naar [discoverhover.org](https://www.discoverhover.org/abouthovercraft/works.htm)
-* Zin een strip? Ontdek de eenvoudige maar ingenieuze [ballon hovercrafts]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/balloon-powered-hovercraft.pdf)
+* Zin in een strip? Ontdek de eenvoudige maar ingenieuze [ballon hovercrafts]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/balloon-powered-hovercraft.pdf)
 
 
 </div>
@@ -245,12 +249,14 @@ Hou deze vragen in je je achterhoofd:
 De hovercrafts die als voertuig ingezet werden/worden zijn een klein beetje anders opgebouwd dan onze bord hovercraft. Ze bevatten 4 essentiele onderdelen:  
 ![Uitleg3]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/echethovercraft.png)
 
-1. 2 propellors om vooruit te bewegen
+1. 1 of 2 propellors om vooruit te bewegen
 2. Lucht die naar luchtgaten geleid wordt
-3. Minstens 2 motoren om lucht uit te blazen. Deze draaien verschillend (1 kloksgewijs en 1 tegenkloksgewijs) zodat het probleem van rond de as draaien van onze hovercraft niet voorkomt
-4. rok om de uitgestuwde lucht naar de buitenrand te geleiden
+3. Vaak 2 motoren om lucht uit te blazen. Deze draaien verschillend (1 kloksgewijs en 1 tegenkloksgewijs) zodat het probleem van rond de as draaien van onze hovercraft niet voorkomt
+4. Rok om de uitgestuwde lucht naar de buitenrand te geleiden
 
 Dankzij de rok werden hovercrafts mogelijk die golven van 3 meter konden weerstaan.
 
 ## Voorbeelden
 Heb je een foto van je eigen hovercraft? Stuur hem ons!
+
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/lsg-7ps_U5A?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>

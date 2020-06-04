@@ -161,6 +161,9 @@ We ondersteunen ook de algemene aanbevelingen voor STEM-academies:
 <br />
 <a target="_blank" href="https://www.trideus.be/nl/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/trideus.png" alt="Trideus logo" /></a>
 
+<br />
+<br />
+<a target="_blank" href="https://cricut.com/nl_nl/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/cricut.svg" alt="Trideus logo" /></a>
 
 </div>
 </div>
