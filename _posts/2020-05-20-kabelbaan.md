@@ -113,7 +113,7 @@ Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib
 #### Materialen voor de kabelbaan in detail
  Met extra katrolwielen, bouten, moeren en latjes kan dezelfde kabelbaan ook verder uitgebreid worden.
 
-Sommige onderdelen zijn alleen verkrijgbaar in 10- tot 100-tallen, maar als je omrekent is de totale materiaalkost minder dan 6EUR per kabelbaan.
+Sommige onderdelen zijn alleen verkrijgbaar in 10- tot 100-tallen, maar als je omrekent is de totale materiaalkost minder dan 6 EUR per kabelbaan.
 
 ## Vaardigheden en veiligheid
 
@@ -132,8 +132,8 @@ Solderen is optioneel en niet beschreven.  Er zijn slechts 2 eenvoudige elektris
 
 #### Gaten boren
 
-De motor wordt bevestigd op het houten latje, met 2 boutjes. Boor daartoe 2 gaatjes met diameter 3mm, met de juiste tussenafstand. De plaats hoeft niet nauwkeurig te zijn, maar de tussenafstand wel. Gebruik de motor zelf om die tussenafstand af te passen.  
-Leg je de motorbehuizing met een vlakke kant op het latje (dat is nog niet de positie waarin je zal monteren). Duid het eerste gat aan met de 3mm boor en boor dat gat. 
+De motor wordt bevestigd op het houten latje, met 2 boutjes. Boor daartoe 2 gaatjes met diameter **3mm**, met de juiste tussenafstand. De plaats hoeft niet nauwkeurig te zijn, maar de tussenafstand wel. Gebruik de motor zelf om die tussenafstand af te passen.  
+Leg je de motorbehuizing met een vlakke kant op het latje (dat is nog niet de positie waarin je zal monteren). Duid het eerste gat aan met de **3mm** boor en boor dat gat. 
 
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 0000.jpg)
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 1.jpg)
@@ -143,13 +143,13 @@ Steek een bout door het geboorde gat en door de motorbehuizing om het tweede gat
 
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 3.jpg)
 
-Aan de andere kant van het houten latje en in de dwarse richting boor je ook een paar 3mm gaten. Boor er meerdere, bijv. aan het uiteinde  en in het midden om later meerder montagemogelijkheden te hebben (zie verder bij de montage aan stoelen of tafels).
+Aan de andere kant van het houten latje en in de dwarse richting boor je ook een paar **3mm** gaten. Boor er meerdere, bijv. aan het uiteinde  en in het midden om later meerder montagemogelijkheden te hebben (zie verder bij de montage aan stoelen of tafels).
 
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 4.jpg)
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 5.jpg)
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 6.jpg)
 
-Omdat de bouten meestal net iets te kort zijn om later de latjes te verbinden, maak je het gat  over een beperkte diepte (0,5 cm à 1 cm diep, tenzij je latjes dikker zijn dan het voorbeeld) groter met de 5mm boor. 
+Omdat de bouten meestal net iets te kort zijn om later de latjes te verbinden, maak je het gat  over een beperkte diepte (0,5 cm à 1 cm diep, tenzij je latjes dikker zijn dan het voorbeeld) groter met de **5mm** boor. 
 
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 7.jpg)
 
@@ -196,7 +196,7 @@ Als je de motor voor het eerst inschakelt kan het nodig zijn de witte as een bee
 
 #### Montage van het aangedreven wiel
 
-Duw het katrolwiel met het uitgeboorde 5mm gat op de witte as van de motor. Dat hoort te spannen. 
+Duw het katrolwiel met het uitgeboorde 5mm gat op de witte as van de motor. Dat **hoort te spannen**. 
 
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 22.jpg)
 
@@ -204,7 +204,7 @@ Hoe diep het wiel komt, bepaal je in de volgende stap.
 
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 23.jpg)
 
-Steek een ringetje over het 2,2mm diameter schroefje en draai het schroefje doorheen het gat van het katrolwiel, in het gaatje in de witte as. 
+Steek een ringetje over het **2,2mm diameter schroefje** en draai het schroefje doorheen het gat van het katrolwiel, in het gaatje in de witte as. 
 
 Span zo ver aan dat het wiel **net niet** op de koppen van de bouten en het gele uitsteeksel op de motorbehuizing duwt. Het wiel mag ze zacht raken, maar het moet soepel blijven draaien. 
 
@@ -250,7 +250,7 @@ Je kan vastmaken aan een stoel , tafel,… met touw. Zorg er voor dat er genoeg 
 
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 33.jpg)
 
-Of een sergeant (schroefklem) gebruiken, vooral bij tafels handig.
+Of een sergeant (schroefklem) gebruiken, vooral bij tafels is dat handig.
 
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 34.jpg)
 
@@ -265,7 +265,7 @@ Je kan de gondels eenvoudig met een touwtje aan het hoofdtouw, de “kabel”, v
 
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 36.jpg)
 
-Bredere gondels kunne elkaar raken. Je kan dat al een beetje opvangen door ze met touwtjes met verschillende lengte op verschillende hoogtes te hangen
+Bredere gondels kunnen elkaar raken. Je kan dat al een beetje opvangen door ze met touwtjes met verschillende lengte op verschillende hoogtes te hangen.
 
 ![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 37.jpg)
 
@@ -355,7 +355,8 @@ De Teleférico in Mérida, Venezuela is de hoogste en langste kabelbaan in de we
 
 
 #### Wil je meer weten over kabelbanen?
-Surf zeker naar 
+Uit volgende sites, en [wikipedia](https://www.wikipedia.org/), komen de foto's die we hier gebruikt hebben.
+
  - [bergundbahn.com](https://www.bergundbahn.com/bergbahnen/kabelbanen/info/kabelbanen-geschiedenis)
  - [lift-world.info](https://www.lift-world.info/)
  - [Van kabelbaan tot RopeCon](https://www.lowtechmagazine.be/2011/01/kabelbaan-kan-alle-vrachtwagens-van-de-weg-halen.html)
@@ -368,11 +369,11 @@ Surf zeker naar
 In deze low tech activiteit komt heel wat techniek aan bod! We hebben in deze handleiding een eeuwenoude techniek leren kennen waarmee ravijnen en rivieren overgestoken kunnen worden en bergen beklommen worden. 
 En je hebt vooral getraind op het veilig en nauwkeurig werken. 
 
-Wat je hier geleerd hebt kan je gebruiken bij STEM uitdagingen in het thema transoprt. 
+Wat je hier geleerd hebt kan je gebruiken bij STEM uitdagingen in het thema transport. 
 
 *`Weet je dat een met elektriciteit aangedreven kabelbaan één van de zuinigste transportmiddelen die er bestaan is? Ook op vlak terrein!`*
 
-Op wetenschappelijk vlak staat hier mechanica centraal, om de werking van deze kabelbaan te begrijpen, hebben we wrijving, spankracht en de 3e wet van Newton nodig. Lees meer verder in het blauw kadertje. 
+Op wetenschappelijk vlak staat hier mechanica centraal, om de werking van deze kabelbaan te begrijpen, hebben we wrijving, spankracht en de 3e wet van Newton nodig. Lees meer hieronder in het blauw kadertje. 
  
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Hoe werkt het? 
@@ -398,15 +399,14 @@ De motor moet echter wel een minimum kracht leveren. We moeten hierbij rekening 
 
 #### Veiligheid bij kabelbanen.
 
-Teveel gewicht kan leiden tot het uitrekken van de kabel of zelfs breuk. Om dit te voorkomen wordt de maximumcapaciteit van kabelbanen begrensd op minder dan 10% van het maximum gewicht dat de kabel kan dragen.
-
+Teveel gewicht kan leiden tot het uitrekken van de kabel of zelfs breuk. Om dit te voorkomen wordt de maximumcapaciteit van kabelbanen begrensd op minder dan 10% van het maximum gewicht dat de kabel kan dragen! Dat is een grote veiligheidsmarge!
 
 </div>
 
 #### Maak het je eigen
  * Kun je het sneller maken? 
  * Kun je een lijst van factoren geven die de werking van de kabelbaan beïnvloeden?
- * Gebruik je vergaarde kennis om een andere kabelbaan te bouwen.
+ * Gebruik je vergaarde kennis om een ander type kabelbaan te bouwen.
 
 
 ## Voorbeelden
