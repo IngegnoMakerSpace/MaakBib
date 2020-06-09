@@ -125,7 +125,7 @@ Voor een onervaren publiek kunnen de gaten vooraf geboord worden door ervaren ui
 
 Het stappenplan gaat uit van het gebruik van een smeltlijmpistool, maar andere bevestigingsmethodes zijn mogelijk. Wees voorzichtig met de hete punt en de hete lijm.
 
-Solderen is optioneel en niet beschreven.  Er zijn slechts 2 eenvoudige elektrische verbindingen die eventueel gesoldeerd kunnen worden. Dit verondersteld dat je vertrouwd bent met veilig solderen of dat de begeleiders veilig solderen aanleren aan de hand van dit project.
+Solderen is optioneel en niet beschreven.  Er zijn slechts 2 eenvoudige elektrische verbindingen die eventueel gesoldeerd kunnen worden. Dit veronderstelt dat je vertrouwd bent met veilig solderen of dat de begeleiders veilig solderen aanleren aan de hand van dit project.
 
 
 ## Aan de slag
