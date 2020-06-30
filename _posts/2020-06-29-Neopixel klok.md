@@ -12,10 +12,10 @@ DIY: true
 CHALLENGE: false
 moeilijkheidsgraad_1_3: 2
 prijs_1_3: 2
-pijler_tinkering : true
+pijler_tinkering : false
 pijler_design_thinking : false
-pijler_digitale_fabricatie : false
-pijler_physical_computing : false
+pijler_digitale_fabricatie : true
+pijler_physical_computing : true
 licence: CCBY-NC-SA 
 categories: [lasercutter, arduino, physical computing]
 image: assets/images/2020-06-29-Neopixel-klok/Foto1.jpeg
@@ -323,13 +323,11 @@ De WiFi LED klok is zo geprogrammeerd dat de Neopixels nooit allemaal samen op v
 In deze high tech activiteit komt heel wat techniek aan bod! We hebben in deze handleiding tenslotte zelf ons eigen klok gemaakt! 
 En je hebt vooral getraind op het veilig en nauwkeurig werken. 
 
-De STEM nadruk ligt hier bij technologie. Er wordt gebruik gemaakt van een lasercutter en er wordt gewerkt met Arduino en coderen.
-
  
 <div class="border_boxmaakbib03_img" markdown="1">
-#### Hoe werkt het? 
+#### Challenge!
 
-
+Kan je een binaire klok maken?
 
  
 
@@ -337,7 +335,7 @@ De STEM nadruk ligt hier bij technologie. Er wordt gebruik gemaakt van een laser
 
 #### Maak het je eigen
  * Kies je eigen kleuren voor de verschillende 'wijzers'.
- * Versier de klok zoals jij maar wil
+ * Versier de klok zoals jij maar wil.
 
 
 ## Voorbeelden
