@@ -14,7 +14,7 @@ comments: false
 
 
 <div class="border_boxmaakbib02_img" markdown="1">
-#### Studiedag Skills4Smartex?
+## Studiedag Skills4Smartex?
 
 Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“Skills4Smartex”** in Technopolis Mechelen. Het wordt een inspirerende dag met hands-on sessies en keynote spreker Jasna Rokegem, in samenwerking met Universiteit Gent. Naast haar keynote zal Jasna ook helpen bij de Makeathon in de namiddag. 
 </div>
