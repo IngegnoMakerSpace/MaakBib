@@ -11,11 +11,7 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5" markdown="1">
 
-{% if site.lazyimages == "enabled" %}
-<img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
-{% else %}
-<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
-{% endif %}
+
 
 <div class="border_boxmaakbib02_img" markdown="1">
 #### Studiedag Skills4Smartex?
@@ -53,8 +49,7 @@ Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“S
 
 
 <p>Met steun van.
-  <!--a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a--> </p>
-<a target="_blank" href="http://vlaio.be"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/studiedag/image.png" alt="vlaio logo" /></a>
+![partners](assets/images/studiedag/image.png
 <br />
 <br />
 
