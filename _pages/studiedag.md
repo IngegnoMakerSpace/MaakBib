@@ -2,7 +2,6 @@
 layout: page
 title: Studiedag 14 oktober
 permalink: /studiedag
-image: assets/images/studiedag/Skills4Smartex.png
 submission: https://forms.gle/uTxr8UCSJh7R9JYz6
 comments: false
 ---
@@ -34,18 +33,17 @@ Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“S
 - 10u45-11u00 koffie 
 - 11u00-11u30 **Keynote** door Jasna Rokegem: [title](https://www.jasnarok.com/)
 - 11u30-12u30: Workshops Hands-on 
-            Workshop 1: Skills4smartex - prototypes ( UGent CTSE ) 
-            Workshop 2: Smartex for kids (in samenwerking met Mission Control Lab) 
+   - Workshop 1: Skills4smartex - prototypes ( UGent CTSE )          
+   - Workshop 2: Smartex for kids (in samenwerking met Mission Control Lab) 
 
 #### Broodjeslunch
 12u30-13u30
 
 #### Namiddag Sessie
 13u30-16u00 
-            **Voor en met jongerengroep van STEK - met interventie van Jasna**
+ - **Voor en met jongerengroep van STEK - met interventie van Jasna**
             **Makeathon** (van idee tot prototype): 1⁄2 dag makeathon waarin we een allereerste werkend prototype bouwen van een wearable rond privéruimte. Deze makeathon zal de deelnemers toelaten immersief te werken met slim textiel terwijl ze een training krijgen in ontwerp van slimme kledij. 
-            
-            **Voor de bibliotheken en jeugdcentra medewerkers**
+- **Voor de bibliotheken en jeugdcentra medewerkers**
             Reflectiekamer MaakBib 
             Netwerking 
             Demo tools en materialen 
