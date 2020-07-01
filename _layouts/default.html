@@ -88,23 +88,14 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/wistjedat">Ontdekken</a>
                 </li>
-              <!-- deactivate Makers gezocht
-                {% if page.url == "/makersgezocht" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link callout" href="{{ site.baseurl }}/makersgezocht">Makers Gezocht!</a>
-                </li>
-               -->
               
               <!-- activate studiedag -->
                 {% if page.url == "/studiedag" %}
                 <li class="nav-item active">
                 {% else %}
-                <li class="nav-item">
+                <li class="nav-item" >
                 {% endif %}
-                <a class="nav-link callout" href="{{ site.baseurl }}/studiedag">Studiedag 14/10</a>
+                <a class="callout nav-link" style="color:white" href="{{ site.baseurl }}/studiedag">Studiedag 14/10</a>
                 </li>
                <!-- -->
               

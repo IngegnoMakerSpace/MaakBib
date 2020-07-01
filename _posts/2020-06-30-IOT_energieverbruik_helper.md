@@ -2,7 +2,7 @@
 layout: post
 title:  "IOT Energieverbruik helper"
 featured: true
-published: true
+published: false
 authors: [guest]
 lowtech: false
 midtech: false
