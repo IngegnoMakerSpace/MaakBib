@@ -55,4 +55,4 @@ __Hightech__: Physical computing heeft (bijna) geen geheimen meer voor mij. Ik g
 <a target="_blank" href="http://stem-academie.be"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/logoSTEMAcademie.png" alt="stem-academie logo" /></a>
 
 </div>
-</div>-</div>
+</div>
