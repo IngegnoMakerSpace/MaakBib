@@ -38,10 +38,10 @@ materialen: [
     1 Krimpkous lengte 33 mm diameter 2.5 mm,
     1 Krimpkous lengte 23 mm diameter 2.5 mm,
     1 Micro USB kabel 1 meter,
-    10 cm geïsoleerde draad rood soepel 0.2m^2,
-    10 cm geïsoleerde draad zwart soepel 0.2m^2,
-    10 cm geïsoleerde draad groen soepel 0.2m^2,
-    11x 4 mm geïsoleerde draad stijf 0.2m^2,
+    10 cm geïsoleerde draad rood soepel 0.2m²,
+    10 cm geïsoleerde draad zwart soepel 0.2m²,
+    10 cm geïsoleerde draad groen soepel 0.2m²,
+    11x 4 mm geïsoleerde draad stijf 0.2m²,
     MDF 3 mm,
       ]
 tools: [
@@ -67,11 +67,6 @@ Deze elektronische klok is de perfecte mix tussen een digitale en een analoge kl
 
 Maaktijd: 1 tot 2u.
 
-
-
-Materiaalkost 
-
-
  
 Deze handleiding werd ontwikkeld door **Hans Caluwaerts** voor Maakbib
 
@@ -94,7 +89,7 @@ Je kan de klok voeden via een USB aansluiting, het stroomverbruik bedraagt maxim
 Voor het solderen van de vier NeoPixel ¼ cirkel printjes is het aangeraden om een mal te gebruiken.
 Het gebruik van de mal verhoogt aanzienlijk de kans om een “ronde cirkel” te bekomen na het solderen van de vier NeoPixel ¼ cirkel printjes.
 
-Alvorens je de mal kan monteren, moet deze eerst uitgelaserd worden. Dit kan je doen bij een [FabLab in je buurt](https://fablab.nl/).
+Alvorens je de mal kan monteren, moet deze eerst uitgelaserd worden. Dit kan je doen bij [Ingegno Maker Space](https://www.facebook.com/IngegnoMakerSpace) in Drongen of een ander [FabLab in je buurt](https://fablabs.io) of vraag bij een bibliotheek in je buurt.
 
 ![Lasercutfile]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Neopixel_klok_maakbib_v1.0.svg)
 
@@ -241,8 +236,14 @@ Indien je niet over de mal beschikt kan de vier neopixel ¼ cirkel printjes op e
  70. Soldeer de draad aan de GND soldeereilandjes.  
 ![Materialen]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Foto25.jpg)
 
+#### Programmeren en instellen van de arduino
 
+Om de klok te laten werken, kan je volgende handleidingen volgen:  
+[Handleiding werken met Arduino]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/ESP8266_installatie_in_de_Arduino_IDE.pdf)  
+[Bedieningshandleiding]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/MvM_Neopixel_klok_bedieningshandleiding.pdf)
 
+Vergeet zeker niet om je eigen wifi te connecteren in de code:
+![WiFi]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Eigenwifi.png)
 
 
 

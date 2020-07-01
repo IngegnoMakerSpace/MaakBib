@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kabelbaan!"
+title:  "IOT Energieverbruik helper"
 featured: false
 published: false
 authors: [guest]
@@ -18,15 +18,15 @@ pijler_digitale_fabricatie : true
 pijler_physical_computing : true
 licence: CCBY-NC-SA 
 categories: [tinkering, wetenschappen, natuurkunde ]
-image: assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 0.jpg
+image: assets/images/2020-06-30-IOT-Energieverbruikhulp/image6.jpeg
 tijd: + 3 uur
-print: assets/images/2020-04-30-stoomboot/kabelbaan.pdf
+print: assets/images/2020-06-30-IOT-Energieverbruikhulp/IOT_energieverbruik_helper.pdf
 downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020-04-30-stoomboot/kabelbaan.pdf
+    file: assets/images/2020-06-30-IOT-Energieverbruikhulp/IOT_energieverbruik_helper.pdf
 materialen_dontshow: true
 materialen: [
-    
+
       ]
 tools: [
       Computer,
@@ -51,7 +51,7 @@ Maaktijd: langer dan 3u.
 
 Materiaalkost onder de 6 EUR.
  
-Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib
+Deze handleiding werd ontwikkeld door **Stijn Liekens** voor Maakbib
 
 
 ## Benodigdheden
@@ -59,52 +59,29 @@ Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib
 
 <div class="benodigdheden">
   <ul>
- * [PIR sensor](https://www.kiwi-electronics.nl/pir-bewegingssensor)
-      
-*KY-013 temperatuur  sensor
-https://www.cheaptech.nl/myxl-ky-13-analog-temperature-sensor-module-voor-a.html
-Photoresistor
-https://nl.banggood.com/20Pcs-5MM-Light-Dependent-Resistor-Photoresistor-GL5528-LDR-p-943459.html?gpla=1&gmcCountry=BE&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgcs&utm_content=xibei&utm_campaign=xibei-pla-beg-pc-nl-all-0314&gclid=CjwKCAjw_LL2BRAkEiwAv2Y3SdOlPEAAnN2u16GF3x10iapwzTBTNUGWogxzv3UXWETyHte3GWtUWRoCeOwQAvD_BwE&cur_warehouse=CN
-Mini Breadboard
-Draden
-Weerstenden (10k OHM en 220 OHM)
-LED’s
-https://nl.banggood.com/Basic-Starter-Kit-UNO-R3-Mini-Breadboard-LED-Jumper-Wire-Button-With-Box-For-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1161006.html?gpla=1&gmcCountry=BE&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgcs&utm_content=xibei&utm_campaign=xibei-ssc-beg-nl-ele-1221&gclid=CjwKCAjw_LL2BRAkEiwAv2Y3SWfGPpbN1Vc-jm9PcLict3B1BX1qEFMdl5EISaTiZtk60txfWzG6jhoC7UsQAvD_BwE&cur_warehouse=CN
-ESP-WROOM-32
-https://www.bol.com/nl/p/esp-wroom-32-esp32-esp-32s-ontwikkelbord-development-board-2-4-ghz-dual-mode-wifi-bluetooth-dual-cores-microcontroller-processor-geintegreerd-met-antenne-rf-amp-filter-ap-sta-voor-arduino-ide/9200000114634593/?country=BE
-
-
-      
+    <li><a href="https://www.kiwi-electronics.nl/pir-bewegingssensor)</li>PIR sensor(https://www.kiwi-electronics.nl/pir-bewegingssensor">PIR sensor</a></li>
+    <li><a href="https://www.cheaptech.nl/myxl-ky-13-analog-temperature-sensor-module-voor-a.html">KY-013 temperatuur  sensor</a></li>  
+    <li><a href="https://nl.banggood.com/20Pcs-5MM-Light-Dependent-Resistor-Photoresistor-GL5528-LDR-p-943459.html?gpla=1&gmcCountry=BE&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgcs&utm_content=xibei&utm_campaign=xibei-pla-beg-pc-nl-all-0314&gclid=CjwKCAjw_LL2BRAkEiwAv2Y3SdOlPEAAnN2u16GF3x10iapwzTBTNUGWogxzv3UXWETyHte3GWtUWRoCeOwQAvD_BwE&cur_warehouse=CN">Photoresistor</a></li>
+    <li>Mini Breadboard</li>
+    <li>Draden</li>
+    <li>Weerstenden (10k OHM en 220 OHM)</li>
+    <li><a href="https://nl.banggood.com/Basic-Starter-Kit-UNO-R3-Mini-Breadboard-LED-Jumper-Wire-Button-With-Box-For-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1161006.html?gpla=1&gmcCountry=BE&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgcs&utm_content=xibei&utm_campaign=xibei-ssc-beg-nl-ele-1221&gclid=CjwKCAjw_LL2BRAkEiwAv2Y3SWfGPpbN1Vc-jm9PcLict3B1BX1qEFMdl5EISaTiZtk60txfWzG6jhoC7UsQAvD_BwE&cur_warehouse=CN">LED’s</a></li> 
+    <li><a href="https://www.bol.com/nl/p/esp-wroom-32-esp32-esp-32s-ontwikkelbord-development-board-2-4-ghz-dual-mode-wifi-bluetooth-dual-cores-microcontroller-processor-geintegreerd-met-antenne-rf-amp-filter-ap-sta-voor-arduino-ide/9200000114634593/?country=BE">ESP-WROOM-32</a></li> 
  </ul>
 </div>
 
-![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 00.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image7.png)
 
 {% include benodigdheden.html %}
-
-![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 000.jpg)
-
-#### Materialen voor de kabelbaan in detail
- Met extra katrolwielen, bouten, moeren en latjes kan dezelfde kabelbaan ook verder uitgebreid worden.
-
-Sommige onderdelen zijn alleen verkrijgbaar in 10- tot 100-tallen, maar als je omrekent is de totale materiaalkost minder dan 6 EUR per kabelbaan.
-
-
 
 
 ## Aan de slag
 
-#### Gaten boren
+#### Arduino software configureren
 
-De motor wordt bevestigd op het houten latje, met 2 boutjes. Boor daartoe 2 gaatjes met diameter **3mm**, met de juiste tussenafstand. De plaats hoeft niet nauwkeurig te zijn, maar de tussenafstand wel. Gebruik de motor zelf om die tussenafstand af te passen.  
-Leg je de motorbehuizing met een vlakke kant op het latje (dat is nog niet de positie waarin je zal monteren). Duid het eerste gat aan met de **3mm** boor en boor dat gat. 
-
-![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 0000.jpg)
-![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 1.jpg)
-![Materialen]({{ site.baseurl }}/assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 2.jpg)
-
-
-
+Start Arduino IDE op, Dit is het programma om de Arduino Code in te schrijven. En ziet er zo uit:  
+![Materialen]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image8.png)  
+Als de Arduino IDE nog niet op je computer geïnstalleerd is, kan je het [hier](https://www.arduino.cc/en/Main/Software) gratis downloaden
 
 
 
