@@ -50,7 +50,7 @@ Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“S
 
 
 <p>Met steun van.
-![partners](assets/images/studiedag/image.png)
+![partners]({{ site.baseurl }}/assets/images/studiedag/image.png)
    
 <br />
 <br />
