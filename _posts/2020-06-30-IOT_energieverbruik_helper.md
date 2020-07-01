@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "IOT Energieverbruik helper"
-featured: false
-published: false
+featured: true
+published: true
 authors: [guest]
 lowtech: false
 midtech: false
@@ -40,12 +40,10 @@ benodigdheden_opt: [
       
       ]
 ---
+Maak je eigen IOT energieverbruik hulp, en krijg een melding op je smartphone als het licht of de verwarming nog aan staat wanneer er tussen een bepaald tijdsinterval niemand meer in de kamer is.
 
-
-Deze elektrische mini kabelbaan kan je binnen of buiten ophangen tussen tafels, stoelen enz. Je kan ze voorzien van kleine gondeltjes naar eigen smaak. De bouw vereist het boren van gaten in hout, een eenvoudig elektrisch circuit (kan zonder solderen), schroeven, lijmen en knopen.
-
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/QMkbfF3HVwI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+Leer hoe de ESP32 programmeert met de Arduino IDE
+Ontdekt hoe je meldingen kan sturen naar je smartphone met Arduino.
 
 Maaktijd: langer dan 3u.
 
