@@ -39,13 +39,13 @@ Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“S
 
 #### Namiddag Sessie
 13u30-16u00 
-   - **Voor en met jongerengroep van STEK - met interventie van Jasna**
+- **Voor en met jongerengroep van STEK - met interventie van Jasna**
    **Makeathon** (van idee tot prototype): 1⁄2 dag makeathon waarin we een allereerste werkend prototype bouwen van een wearable rond privéruimte. Deze makeathon zal de deelnemers toelaten immersief te werken met slim textiel terwijl ze een training krijgen in ontwerp van slimme kledij. 
-   - **Voor de bibliotheken en jeugdcentra medewerkers**
-            Reflectiekamer MaakBib 
-            Netwerking 
-            Demo tools en materialen 
-            Bezoek aan de Makeathon 
+- **Voor de bibliotheken en jeugdcentra medewerkers**
+   - Reflectiekamer MaakBib 
+   - Netwerking 
+   - Demo tools en materialen 
+   - Bezoek aan de Makeathon 
 
 
 
