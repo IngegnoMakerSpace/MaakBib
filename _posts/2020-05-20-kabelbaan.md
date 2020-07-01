@@ -20,10 +20,10 @@ licence: CCBY-NC-SA
 categories: [tinkering, wetenschappen, natuurkunde ]
 image: assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 0.jpg
 tijd: 1 uur tot 3 uur
-print: assets/images/2020-04-30-stoomboot/kabelbaan.pdf
+print: assets/images/2020-05-20-kabelbaan/kabelbaan.pdf
 downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020-04-30-stoomboot/kabelbaan.pdf
+    file: assets/images/2020-05-20-kabelbaan/kabelbaan.pdf
 materialen_dontshow: true
 materialen: [
     2 katrolwielen,
