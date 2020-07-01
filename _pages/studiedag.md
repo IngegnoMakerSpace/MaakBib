@@ -19,7 +19,7 @@ comments: false
 <div class="border_boxmaakbib02_img" markdown="1">
 #### Studiedag Skills4Smartex?
 
-Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“Skills4Smartex”** in Technopolis Mechelen. Het wordt een inspirerende dag met hands-on sessies en keynote spreker Jasna Rokegem, in samenwerking met Universiteit Gent. Naast haar keynote zal Jasna ook helpen bij de Makeathon in de namiddag.roject Maakbib zijn we op zoek naar de echte makers onder ons, meer specifiek naar hun eigenzinnige projecten geschikt voor activiteiten binnen makerspaces en FabLabs. 
+Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“Skills4Smartex”** in Technopolis Mechelen. Het wordt een inspirerende dag met hands-on sessies en keynote spreker Jasna Rokegem, in samenwerking met Universiteit Gent. Naast haar keynote zal Jasna ook helpen bij de Makeathon in de namiddag. 
 </div>
 
 <div style="text-align: center">
@@ -41,9 +41,9 @@ Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“S
 
 #### Namiddag Sessie
 13u30-16u00 
- - **Voor en met jongerengroep van STEK - met interventie van Jasna**
-            **Makeathon** (van idee tot prototype): 1⁄2 dag makeathon waarin we een allereerste werkend prototype bouwen van een wearable rond privéruimte. Deze makeathon zal de deelnemers toelaten immersief te werken met slim textiel terwijl ze een training krijgen in ontwerp van slimme kledij. 
-- **Voor de bibliotheken en jeugdcentra medewerkers**
+   - **Voor en met jongerengroep van STEK - met interventie van Jasna**
+   **Makeathon** (van idee tot prototype): 1⁄2 dag makeathon waarin we een allereerste werkend prototype bouwen van een wearable rond privéruimte. Deze makeathon zal de deelnemers toelaten immersief te werken met slim textiel terwijl ze een training krijgen in ontwerp van slimme kledij. 
+   - **Voor de bibliotheken en jeugdcentra medewerkers**
             Reflectiekamer MaakBib 
             Netwerking 
             Demo tools en materialen 
@@ -51,7 +51,7 @@ Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“S
 
 
 
-<p>MaakBib is mogelijk gemaakt door steun van volgende partners.
+<p>Met steun van.
   <!--a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a--> </p>
 <a target="_blank" href="http://vlaio.be"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/vlaio.png" alt="vlaio logo" /></a>
 <br />
