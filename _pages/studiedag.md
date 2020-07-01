@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Studiedag 14 oktober
+image: 
 permalink: /studiedag
 submission: https://forms.gle/uTxr8UCSJh7R9JYz6
 comments: false
@@ -31,7 +32,7 @@ Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“S
 - 9u30-10u00 **Inleiding**: The world of fablabs: innovation & new materials 
 - 10u00-10u45 **Lezing**: Project Skills4Smartex: Smart textiles for STEM training - e-learning instruments 
 - 10u45-11u00 koffie 
-- 11u00-11u30 **Keynote** door Jasna Rokegem: [title](https://www.jasnarok.com/)
+- 11u00-11u30 **Keynote** door Jasna Rokegem: [klik hier voor meer informatie](https://www.jasnarok.com/)
 - 11u30-12u30: Workshops Hands-on 
    - Workshop 1: Skills4smartex - prototypes ( UGent CTSE )          
    - Workshop 2: Smartex for kids (in samenwerking met Mission Control Lab) 
@@ -53,10 +54,9 @@ Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“S
 
 <p>Met steun van.
   <!--a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a--> </p>
-<a target="_blank" href="http://vlaio.be"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/vlaio.png" alt="vlaio logo" /></a>
+<a target="_blank" href="http://vlaio.be"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/studiedag/image.png" alt="vlaio logo" /></a>
 <br />
 <br />
-<a target="_blank" href="http://stem-academie.be"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/logoSTEMAcademie.png" alt="stem-academie logo" /></a>
 
 </div>
 </div>
