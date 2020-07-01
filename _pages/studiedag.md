@@ -21,7 +21,7 @@ Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“S
 </div>
 
 <div style="text-align: center">
-<a href="https://forms.gle/uTxr8UCSJh7R9JYz6"><img src="{{ site.baseurl }}/assets/images/studiedag/inschrijven.png"></a>
+<a href="https://forms.gle/uTxr8UCSJh7R9JYz6"><img src="{{ site.baseurl }}/assets/images/studiedag/inschrijfbutton.png"></a>
 </div>
 
 ### Programma:
@@ -51,6 +51,7 @@ Op 14 oktober 2020  organiseert de STEM-partnerschap MaakBib de studiedag **“S
 
 <p>Met steun van.
 ![partners](assets/images/studiedag/image.png)
+   
 <br />
 <br />
 
