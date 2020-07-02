@@ -37,7 +37,6 @@ tools: [
       Lijmpistool,
       ]
 benodigdheden_opt: [
-      
       ]
 ---
 Maak je eigen IOT energieverbruik hulp, en krijg een melding op je smartphone als het licht of de verwarming nog aan staat wanneer er tussen een bepaald tijdsinterval niemand meer in de kamer is.
@@ -77,10 +76,20 @@ Deze handleiding werd ontwikkeld door **Stijn Liekens** voor Maakbib
 
 #### Arduino software configureren
 
-Start Arduino IDE op, Dit is het programma om de Arduino Code in te schrijven. En ziet er zo uit:  
-![Materialen]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image8.png)  
-Als de Arduino IDE nog niet op je computer geïnstalleerd is, kan je het [hier](https://www.arduino.cc/en/Main/Software) gratis downloaden
+ 1. Start Arduino IDE op, Dit is het programma om de Arduino Code in te schrijven. En ziet er zo uit:  
+![Arduino software]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image8.png)  
+Als de Arduino IDE nog niet op je computer geïnstalleerd is, kan je het [hier](https://www.arduino.cc/en/Main/Software) gratis downloaden.
 
+ 2. Ga naar de Preferences, onder FILE → PREFERENCES  
+![Arduino software]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image9.png)
+
+ 3. Copy Paste het volgende in het “Additional Boards Manager URLs” vak.  
+    https://dl.espressif.com/dl/package_esp32_index.json  
+    En druk op "OK".  
+![Arduino software]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image10.png)  
+
+ 4. Open de Board Manager, onder TOOLS → BOARD: “….” → Boards Manager  
+![Arduino software]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image11.png) 
 
 
 
