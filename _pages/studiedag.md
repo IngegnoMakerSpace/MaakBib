@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Studiedag 14 oktober
+image: 
 permalink: /studiedag
-image: assets/downloads/202001_makersgezocht/Makersvoormakers.png
-submission: https://forms.gle/c1jHoQw2zLkM4CCD9tt
+submission: https://forms.gle/uTxr8UCSJh7R9JYz6
 comments: false
 ---
 
@@ -11,48 +11,41 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5" markdown="1">
 
-<div style="text-align: center">
-<a href="https://forms.gle/c1jHoQw2zLkM4CCD9tt"><img src="{{ site.baseurl }}/assets/images/submit.svg"></a>
-</div>
-
-Voor het project Maakbib zijn we op zoek naar de echte makers onder ons, meer specifiek naar hun eigenzinnige projecten geschikt voor activiteiten binnen makerspaces en FabLabs. 
-
-{% if site.lazyimages == "enabled" %}
-<img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
-{% else %}
-<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
-{% endif %}
-            
-
-Maakbib is een initiatief waarbij een bestaande bibliotheek niet enkel nog dient als een uitleendienst voor boeken, maar ook een uitleendienst aan kennis en maakvaardigheden. Hiertoe vervelt de bibliotheek naar een instituut met ook verschillend fablab tools die aangeboden worden. We streven ernaar ook binnen diverse jeugdorganisaties zo’n MaakBib in te richten.
-
-
-#### Wat is nu de bedoeling?
-
-Na uren zwoegen heb je eindelijk je ontwerp werkend en klaar voor de buitenwereld. Hoe leuk zou het zijn om jouw denk- en ontwerpwerk te delen met andere makers? 
-
-We zijn op zoek naar concrete stappenplannen volgens een bepaald niveau. Spreek ik nu Chinees? Neem dan zeker een kijkje bij het voorbeeld ‘Glas Etsen. Een activiteit is gericht op een van 3 niveaus: lowtech, middletech of hightech. 
-
-De stappenplannen worden beschikbaar gesteld aan MaakBib onder een Creative Commons licentie.
-
 <div class="border_boxmaakbib02_img" markdown="1">
-#### Wat Doen we? 
+## Studiedag Skills4Smartex?
 
-__Lowtech__: Ik kan iets openschroeven en ga aan de slag met de onderdelen binnenin. Ik maak bijvoorbeeld een _useless machine_ of gewoon een simpele stroomkring. 
-
-__Middletech__: Met een minimum aan digitale wijsheid ga ik aan de slag. Ik gebruik enkele digitale applicaties om bijvoorbeeld de snijplotter te gaan bedienen. 
-
-__Hightech__: Physical computing heeft (bijna) geen geheimen meer voor mij. Ik gebruik voor mijn projecten vooral digitale maaktechnieken. Denk maar aan een lasercutter, CNC-router, functioneel 3D-printen.
+Op 14 oktober 2020  organiseert het STEM-partnerschap `MaakBib` de studiedag **“Skills4Smartex”** in Technopolis Mechelen. Het wordt een inspirerende dag met hands-on sessies en keynote spreker `Jasna Rokegem`, in samenwerking met Universiteit Gent. Naast haar keynote zal Jasna ook helpen bij de Makeathon in de namiddag. 
 </div>
 
-<h5>Sponsors</h5>
-
-<p>MaakBib is mogelijk gemaakt door steun van volgende partners.
-  <!--a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a--> </p>
-<a target="_blank" href="http://vlaio.be"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/vlaio.png" alt="vlaio logo" /></a>
-<br />
-<br />
-<a target="_blank" href="http://stem-academie.be"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/logoSTEMAcademie.png" alt="stem-academie logo" /></a>
-
+<div style="text-align: center">
+<a href="https://forms.gle/uTxr8UCSJh7R9JYz6"><img src="{{ site.baseurl }}/assets/images/studiedag/inschrijfbutton.png"></a>
 </div>
-</div>
+
+### Programma:
+#### Voormiddag Sessie
+- 9u30-10u00 **Inleiding**: The world of fablabs: innovation & new materials 
+- 10u00-10u45 **Lezing**: Project Skills4Smartex: Smart textiles for STEM training - e-learning instruments 
+- 10u45-11u00 koffie 
+- 11u00-11u30 **Keynote** door [Jasna Rokegem](https://www.jasnarok.com/)
+- 11u30-12u30: Workshops Hands-on 
+   - Workshop 1: Skills4smartex - prototypes ( UGent CTSE )          
+   - Workshop 2: Smartex for kids (in samenwerking met Mission Control Lab) 
+
+#### Broodjeslunch
+12u30-13u30
+
+#### Namiddag Sessie
+13u30-16u00 
+- **Voor en met jongerengroep van STEK - met interventie van Jasna**
+   **Makeathon** (van idee tot prototype): 1⁄2 dag makeathon waarin we een allereerste werkend prototype bouwen van een wearable rond privéruimte. Deze makeathon zal de deelnemers toelaten immersief te werken met slim textiel terwijl ze een training krijgen in ontwerp van slimme kledij. 
+- **Voor de bibliotheken en jeugdcentra medewerkers**
+   - Reflectiekamer MaakBib 
+   - Netwerking 
+   - Demo tools en materialen 
+   - Bezoek aan de Makeathon 
+
+
+Met steun van
+    
+![partners]({{ site.baseurl }}/assets/images/studiedag/image.png)
+   
