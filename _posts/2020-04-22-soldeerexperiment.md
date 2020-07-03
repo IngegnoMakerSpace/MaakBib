@@ -4,6 +4,7 @@ title:  "Mini USB-gevoede trilrobot!"
 featured: false
 published: true
 authors: [guest]
+author_name: "Wim Van Gool"
 lowtech: true
 midtech: false
 hightech: false

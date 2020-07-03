@@ -4,6 +4,7 @@ title:  "IOT Energieverbruik helper"
 featured: true
 published: true
 authors: [guest]
+author_name: "Stijn Liekens"
 lowtech: false
 midtech: false
 hightech: true

@@ -4,6 +4,7 @@ title:  "NeoPixel klok"
 featured: false
 published: true
 authors: [guest]
+author_name: "Hans Caluwaerts"
 lowtech: false
 midtech: false
 hightech: true

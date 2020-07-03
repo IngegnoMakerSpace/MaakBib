@@ -4,6 +4,7 @@ title:  "Bord-hovercraft"
 featured: true
 published: true
 authors: [guest]
+author_name: "Yvon Masyn"
 lowtech: true
 midtech: false
 hightech: false

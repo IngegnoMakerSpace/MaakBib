@@ -4,6 +4,7 @@ title:  "Pop-pop de stoomboot!"
 featured: false
 published: true
 authors: [guest]
+author_name: "Yvon Masyn"
 lowtech: true
 midtech: false
 hightech: false

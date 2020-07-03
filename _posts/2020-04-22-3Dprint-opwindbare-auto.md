@@ -4,6 +4,7 @@ title:  "3D print een opwindbare-auto!"
 featured: false
 published: true
 authors: [guest]
+author_name: "Brian Brocken"
 lowtech: false
 midtech: true
 hightech: false

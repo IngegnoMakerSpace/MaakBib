@@ -4,6 +4,7 @@ title:  "Kriebels zelfinductie"
 featured: false
 published: true
 authors: [guest]
+author_name: "Hans Caluwaerts"
 lowtech: true
 midtech: false
 hightech: false

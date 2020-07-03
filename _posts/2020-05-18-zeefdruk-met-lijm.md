@@ -4,6 +4,7 @@ title:  "Nylon kousen, lijm en zeefdrukken!"
 featured: false
 published: true
 authors: [guest]
+author_name: "Lies Warlop"
 lowtech: true
 midtech: false
 hightech: false
