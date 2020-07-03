@@ -2,7 +2,7 @@
 layout: post
 title:  "NeoPixel klok"
 featured: false
-published: false
+published: true
 authors: [guest]
 lowtech: false
 midtech: false
@@ -30,6 +30,8 @@ downloads:
     file: assets/images/2020-06-29-Neopixel-klok/ESP8266_installatie_in_de_Arduino_IDE.pdf
   - name: 'Lasercutfile'
     file: assets/images/2020-06-29-Neopixel-klok/Neopixel_klok_maakbib_v1.0.svg
+  - name: 'Time Arduino bibliotheek '
+    file: assets/images/2020-06-29-Neopixel-klok/Time-master.zip
 materialen_dontshow: false
 materialen: [
     1 WEMOS D1 ESP8266 microcontroller,
@@ -217,13 +219,17 @@ Indien je niet over de mal beschikt kan de vier neopixel ¼ cirkel printjes op e
 
         **DETAIL A**
 
+     ![Materialen]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Foto25.jpg)
+
  60. Verbind de soldeereilandjes VCC met een stukje ongeïsoleerde stijve draad van 4 mm.
  61. Verbind de soldeereilandjes IN en OUT met elkaar met een stukje ongeïsoleerde stijve draad van 4 mm.
  62. Verbind de soldeereilandjes GND met een stukje ongeïsoleerde stijve draad van 4 mm.
  63. Verbind nog op 2 ander plaatsen de soldeereilandjes met elkaar zoals hierboven beschreven.  
 
         **DETAIL B** 
-   
+     
+     ![Materialen]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Foto25.jpg)
+
  64. Verbind de soldeereilandjes VCC met een stukje ongeïsoleerde stijve draad van 4 mm.
  65. Strip 2 mm isolatie aan beide uiteinden van een soepele rode, roze of paarse draad met lengte 58 mm.
  66. Soldeer de draad aan de VCC soldeereilandjes.
@@ -242,7 +248,7 @@ Om de klok te laten werken, kan je volgende handleidingen volgen:
 [Handleiding werken met Arduino]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/ESP8266_installatie_in_de_Arduino_IDE.pdf)  
 [Bedieningshandleiding]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/MvM_Neopixel_klok_bedieningshandleiding.pdf)
 
-Vergeet zeker niet om je eigen wifi te connecteren in de code:
+Vergeet zeker niet om je eigen wifi te connecteren in de code door `ssid` en `wachtwoord` aan te passen in de code:
 ![WiFi]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Eigenwifi.png)
 
 
@@ -254,7 +260,7 @@ Vergeet zeker niet om je eigen wifi te connecteren in de code:
  
  David L. Mills is de uitvinder van het [Network Time Protocol](https://nl.wikipedia.org/wiki/Network_Time_Protocol).
  Het Network Time Protocol of Netwerktijdprotocol (NTP) is een protocol waarmee computers die onderling met elkaar in verbinding staan, hun interne klok kunnen synchroniseren met andere computers.
- Het is een van de oudste internetprotocollen dat nog in gebruik.
+ Het is een van de oudste internetprotocollen dat nog in gebruik is.
  
   ![David L. Mills]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Weetjes1.jpg)
   
@@ -267,19 +273,20 @@ Vergeet zeker niet om je eigen wifi te connecteren in de code:
 
  * **` Epoch (= tijdstip) time is niet zo simpel als je zou denken`**
  
- Epoch (= tijdstip) time is niet zo simpel als je zou denken.  
+ Epoch (= tijdstip) time is niet zo simpel als je zou denken.
  NTP servers gebruiken 1 januari 1900 als epoch (referentietijdstip). Dit wil zeggen dat de ontvangen tijd overeenstemt met het aantal seconden sinds 1 januari 1900. Dit is niet gemakkelijk te lezen of te interpreteren.  
  De ontvangen tijd is de UTC tijd, deze tijd moet je nog aanpassen aan je lokale tijdzone.  
  UTC tijd houdt geen rekening met de lokale gewoontes voor zomer- en winteruur.
 
- Computers werken met UNIX tijd; UNIX tijd gebruikt als epoch 1 januari 1970. 
+ Computers werken met UNIX tijd; UNIX tijd gebruikt als epoch 1 januari 1970. Een voorbeeld van de nummers die je doorkrijgt en wat deze betekenen: 
 
- UTC = 3797841198  
- = donderdag 7/05/2020 11:53:19 GMT  
- = donderdag 7/5/2020 13:53:19 lokale tijd (Brussel = GMT + 2 (tijdens zomeruur))  
- = 3797840660 – 2208988800 = 1588852398 UNIX tijd
+    UTC waarde van 3797841198  
+    = donderdag 7/05/2020 11:53:19 GMT  
+    = donderdag 7/5/2020 13:53:19 
+        lokale tijd (Brussel=GMT+2 (tijdens zomeruur))  
+    = 1588852398 UNIX tijd (3797840660 – 2208988800)
 
- De UNIX tijd wordt bewaard in een 32 bit variabele, op 19 januari 2038 zal er overflow optreden.
+ De UNIX tijd wordt bewaard in een 32 bit variabele, op [19 januari 2038](https://en.wikipedia.org/wiki/Year_2038_problem) zal er overflow optreden, computercodes worden daar nu voor .
 
  Voor eenvoudige toepassingen totaal onbelangrijk maar leuk om te weten is dat de UTC tijd aangepast wordt met schrikkelseconden om het verschil in lengte tussen de gemiddelde zonnedag en de op de klok gebaseerde periode van precies 24 uur te corrigeren.
  
@@ -308,10 +315,8 @@ DIN is verbonden met de microcontroller en DOUT gaat naar DIN van de volgende Ne
  
 De WiFi LED klok wordt gevoed via de USB kabel.  
 Bij maximum helderheid (= wit) verbruikt een 1 Neopixel 60 mA (3 x 0,02 = 0,06 Ampère).  
-Dit lijkt weinig maar als je 60 Neopixels gebruikt zoals in de WiFi LED klok dan kan de stroom stijgen tot 3,6 Ampère, dit is te veel voor een klassieke USB voeding.  
-De WiFi LED klok is zo geprogrammeerd dat de Neopixels nooit allemaal samen op volle intensiteit zullen oplichten. De WiFi LED klok verbruikt maximum 0,2 Ampère.
-
-
+Dit lijkt weinig maar als je 60 Neopixels gebruikt zoals in de WiFi LED klok dan kan de stroom stijgen tot 3,6 Ampère, **dit is te veel** voor een klassieke USB voeding.  
+De WiFi LED klok is zo geprogrammeerd dat de Neopixels **nooit allemaal samen op volle intensiteit** zullen oplichten. De WiFi LED klok verbruikt daardoor maximum 0,2 Ampère.
 
 #### Wil je meer weten over NeoPixels?
  Je kan (bijna) alles over NeoPixels leren in [dit document](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-neopixel-uberguide.pdf?timestamp=1588458250).
