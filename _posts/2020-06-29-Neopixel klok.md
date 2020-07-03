@@ -31,8 +31,10 @@ downloads:
     file: assets/images/2020-06-29-Neopixel-klok/ESP8266_installatie_in_de_Arduino_IDE.pdf
   - name: 'Lasercutfile'
     file: assets/images/2020-06-29-Neopixel-klok/Neopixel_klok_maakbib_v1.0.svg
-  - name: 'Time Arduino bibliotheek '
+  - name: 'zip Time Arduino bibliotheek'
     file: assets/images/2020-06-29-Neopixel-klok/Time-master.zip
+  - name: 'zip Arduino code'
+    file: assets/images/2020-06-29-Neopixel-klok/Maakbib_neopix_klok_FINAL_V1.0_met_SSID.zip
 materialen_dontshow: false
 materialen: [
     1 WEMOS D1 ESP8266 microcontroller,
@@ -44,7 +46,7 @@ materialen: [
     10 cm geïsoleerde draad rood soepel 0.2m²,
     10 cm geïsoleerde draad zwart soepel 0.2m²,
     10 cm geïsoleerde draad groen soepel 0.2m²,
-    11x 4 mm geïsoleerde draad stijf 0.2m²,
+    4 mm geïsoleerde draad stijf 0.2m²,
     MDF 3 mm,
       ]
 tools: [
@@ -68,7 +70,7 @@ Een supergave klok die je zelf gemaakt hebt? Wie wil dat nou niet.
 
 Deze elektronische klok is de perfecte mix tussen een digitale en een analoge klok. Bij de bouw van de klok leer je precies werken, programmeren en solderen.
 
-Maaktijd: 1 tot 2u.
+Maaktijd: 1 tot 4u.
 
  
 Deze handleiding werd ontwikkeld door **Hans Caluwaerts** voor Maakbib
@@ -214,7 +216,7 @@ Indien je niet over de mal beschikt kan de vier neopixel ¼ cirkel printjes op e
  56. Plaats de 4 Neopixel ¼ cirkel printjes in de mal.
  57. Als de 4 Neopixel ¼ cirkel printjes niet goed passen in de mal moet je hier en daar nog wat bijvijlen.
  58. Zorg ervoor dat de soldeereilandjes niet samenvallen met de gaten  
-![Materialen]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Foto24.jpg)
+![Materialen]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Foto24.png)
 
  59. Knip 11 stukjes ongeïsoleerde stijve draad van 4 mm lengte. Je kan hiervoor ook aansluitdraad van een weerstand, LED,… gebruiken.  
 
@@ -246,8 +248,11 @@ Indien je niet over de mal beschikt kan de vier neopixel ¼ cirkel printjes op e
 #### Programmeren en instellen van de arduino
 
 Om de klok te laten werken, kan je volgende handleidingen volgen:  
-[Handleiding werken met Arduino]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/ESP8266_installatie_in_de_Arduino_IDE.pdf)  
-[Bedieningshandleiding]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/MvM_Neopixel_klok_bedieningshandleiding.pdf)
+
+* [Handleiding werken met Arduino]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/ESP8266_installatie_in_de_Arduino_IDE.pdf)
+* [Bedieningshandleiding]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/MvM_Neopixel_klok_bedieningshandleiding.pdf)
+
+Op de WeMos dien je met de Arduino IDE de code te zetten. Je kan de code als [een zip downloaden]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Maakbib_neopix_klok_FINAL_V1.0_met_SSID.zip). Unzip deze, en open met de Arduino IDE. Volg bovenstaande handleiding om de code op de WeMos te plaatsen.
 
 Vergeet zeker niet om je eigen wifi te connecteren in de code door `ssid` en `wachtwoord` aan te passen in de code:
 ![WiFi]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Eigenwifi.png)
@@ -281,13 +286,13 @@ Vergeet zeker niet om je eigen wifi te connecteren in de code door `ssid` en `wa
 
  Computers werken met UNIX tijd; UNIX tijd gebruikt als epoch 1 januari 1970. Een voorbeeld van de nummers die je doorkrijgt en wat deze betekenen: 
 
-    UTC waarde van 3797841198  
-    = donderdag 7/05/2020 11:53:19 GMT  
-    = donderdag 7/5/2020 13:53:19 
-        lokale tijd (Brussel=GMT+2 (tijdens zomeruur))  
-    = 1588852398 UNIX tijd (3797840660 – 2208988800)
+    NTP tijd: 3797841198 (= seconden sinds 1/1/1900)
+    UNIX tijd: 3797840660 – 2208988800 = 1588851860 (UNIX tijd = seconden sinds 1/1/1970)
+    = donderdag 07/05/2020 11:44:20 GMT
+    = donderdag 07/05/2020 13:44:20 
+        lokale tijd (Brussel = GMT+2 (zomeruur)
 
- De UNIX tijd wordt bewaard in een 32 bit variabele, op [19 januari 2038](https://en.wikipedia.org/wiki/Year_2038_problem) zal er overflow optreden, computercodes worden daar nu voor .
+ De UNIX tijd wordt bewaard in een 32 bit variabele, op [19 januari 2038](https://en.wikipedia.org/wiki/Year_2038_problem) zal er overflow optreden, computercodes worden daar nu voor aangepast.
 
  Voor eenvoudige toepassingen totaal onbelangrijk maar leuk om te weten is dat de UTC tijd aangepast wordt met schrikkelseconden om het verschil in lengte tussen de gemiddelde zonnedag en de op de klok gebaseerde periode van precies 24 uur te corrigeren.
  
@@ -335,8 +340,6 @@ En je hebt vooral getraind op het veilig en nauwkeurig werken.
 #### Challenge!
 
 Kan je een binaire klok maken?
-
- 
 
 </div>
 
