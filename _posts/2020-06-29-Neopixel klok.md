@@ -66,9 +66,9 @@ tools: [
       
 ---
 
-Een supergave klok die je zelf gemaakt hebt? Wie wil dat nou niet.
+Een supergave WiFi klok die je zelf gemaakt hebt? Wie wil dat nou niet.
 
-Deze elektronische klok is de perfecte mix tussen een digitale en een analoge klok. Bij de bouw van de klok leer je precies werken, programmeren en solderen.
+Deze elektronische klok is de perfecte mix tussen een digitale en een analoge klok. Bij de bouw van de klok leer je precies werken, programmeren en solderen. De tijd wordt bekomen via het internet, de klok loopt dus altijd juist.
 
 Maaktijd: 1 tot 4u.
 
