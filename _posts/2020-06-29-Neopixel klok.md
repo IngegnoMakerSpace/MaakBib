@@ -19,7 +19,7 @@ pijler_digitale_fabricatie : true
 pijler_physical_computing : true
 licence: CCBY-NC-SA 
 categories: [lasercutter, arduino, physical computing]
-image: assets/images/2020-06-29-Neopixel-klok/Foto1.jpeg
+image: assets/images/2020-06-29-Neopixel-klok/WEMOSWIFIKLOK500px.jpg
 tijd: 1 uur tot 2 uur
 print: assets/images/2020-06-29-Neopixel-klok/MvM_Neopixel_klok_montagehandleiding.pdf
 downloads: 
@@ -243,7 +243,10 @@ Indien je niet over de mal beschikt kan de vier neopixel ¼ cirkel printjes op e
 
  69. Strip 2 mm isolatie aan beide uiteinden van een soepele witte, gele of groene draad met lengte 55 mm.
  70. Soldeer de draad aan de GND soldeereilandjes.  
-![Materialen]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Foto25.jpg)
+ 
+Je bent klaar met de constructie!
+
+![Materialen]({{ site.baseurl }}/assets/images/2020-06-29-Neopixel-klok/Foto1.jpeg)
 
 #### Programmeren en instellen van de arduino
 
