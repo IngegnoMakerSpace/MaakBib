@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ontwerp een labojas"
-authors: [cri, sanne] 
+authors: [cri, sanne]
 lowtech: true
 midtech: true
 hightech: true
