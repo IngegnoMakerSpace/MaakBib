@@ -252,7 +252,7 @@ De testcode (op de foto hieronder) is terug te vinden in de [zip bijlage]({{ sit
      ![Finale Code]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image42.png)  
 
     2. sync_tijd() commando  
- Deze module synchroniseerd te interne klok van de Arduino met het internet door een Google tijd server te contacteren.  
+ Deze module synchroniseert de interne klok van de Arduino met het internet door een Google tijd server te contacteren.  
  Ook hier weer gaat de rode LED branden zolang de module bezig is en switcht deze naar de groene LED als alles succesvol is verlopen.  
 ![Finale Code]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image43.png)
 
@@ -295,7 +295,7 @@ Om de helper nuttig te kunnen gebruiken is het best dat je hem dicht bij een ver
 
  1. Zet de helper op de gekozen plaats.  
 
- 2. Zorg ervoor dat **het buiten donker is**, de **binnenverlichting uit is** en dat **de kachel uit** staat. Onze energieverbruiker calibreert immers met de waarden tijdens de opstart, en beschouwd deze startwaarden als de goede waarden. Je zou dit in de code kunnen wijzigen in voorgedefinieerde waarden.
+ 2. Zorg ervoor dat **het buiten donker is**, de **binnenverlichting uit is** en dat **de kachel uit** staat. Onze energieverbruiker calibreert immers met de waarden tijdens de opstart, en beschouwt deze startwaarden als de goede waarden. Je zou dit in de code kunnen wijzigen in voorgedefinieerde waarden.
 
  3. Steek de stekker van de helper in het stopcontact. Voor het optimale resultaat doe je dit best ’s avonds.  
 Wanneer je de stekker in steekt zal de helper na enkele seconden beginnen zijn sensoren te kalibreren, dus het is best om wat afstand te nemen voor een accurate kalibratie.  
