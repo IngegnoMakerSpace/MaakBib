@@ -24,7 +24,11 @@ tijd: 3u+
 print: /assets/images/2020-07-13-Mastersword/Makers-voor-Makers-Master-Sword.pdf
 downloads: 
   - name: 'Handleiding'
-    file: /assets/images/2020-07-13-Mastersword/Makers-voor-Makers-Master-Sword.pdf
+    file: /assets/downloads/2020-07-13-Mastersword/Makers-voor-Makers-Master-Sword.pdf
+  - name: 'Arduino Code'
+    file: /assets/downloads/2020-07-13-Mastersword/Mastersword/Mastersword.ino
+  - name: '3D Bestanden'
+    file: https://www.thingiverse.com/thing:4414570
 
 materialen_dontshow: true
 materialen: [
@@ -465,12 +469,193 @@ we de zijkanten aan het kopppelstuk.
 Ten Slotte lijmen we deze 2 combinaties samen.
 
 ## Solderen Deel 1
+Voor het solderen van dit project volgen we onderstaand schema.
+
+![Solderen1]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen1.png)
+
+**Knoppen**
+
+(Als het lukt om de kleine knoppen te 3D printen, moet je deze knoppen afknippen op maat
+voordat je verder gaat)
+We starten hiervoor met de knoppen.
+
+![Solderen2]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen2.jpg)
+
+Eerst moeten we van alle knoppen de beentjes plat maken. Dit kan je makkelijke met de
+knijptang doen.
+
+![Solderen3]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen3.jpg)
+![Solderen4]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen4.jpg)
+
+We lijmen dan 3 knoppen naast elkaar op de 2de balk van de onderkant van de greep.
+deze komen overeen met de gaten in de bovenkant.
+
+Knip daarna 2 beentjes van elke knop zoals getoond in de afbeelding hierboven.
+Op deze manier maken we het ons gemakkelijker om de grounds aan elkaar te solderen.
+
+![Solderen5]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen5.jpg)
+
+Dit mag je dan ook doen met een heel klein stukje van de zwarte kabel.
+(Je kan dit ook doen met een breakout breadboard, neemt dan wel extra plaats van de
+greep in beslag.)
+
+![Solderen6]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen6.jpg)
+
+Als alle pinnen langs deze kant vast zitten, kunnen we de laatste knop afknippen tot de juiste
+maat. De knop in de foto is ongeveer op de juiste maat afgeknipt.
+
+Je kan deze maat uittesten door de ge-3D-printte knop in de bovenkant van de greep te
+leggen en deze op de onderkant van de greep te leggen. Als je de knop zonder probleem
+kan indrukken, is het in orde.
+
+![Solderen7]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen7.jpg)
+
+Deze mag je dan met 1 beentje solderen aan de andere knoppen. Dan knip je net zoals bij
+de andere knoppen het beentje dat niet meer op de foto staat af..
+
+Nu kunnen we aan het overige beentje een gekleurde kabel solderen die iets langer is dan
+de greep. Deze kabels gaan uiteindelijk in de Trinket komen die helemaal onderaan in het
+zwaard gaat zitten. Probeer de kabel dus niet te kort te maken.
+
+Je kan de knoppen nu uittesten door de trinket te verbinden met een computer en de zwarte
+kabel te verbinden (nog niet solderen) met 1 van de GND poorten. Dan kan je elke knop
+verbinden met de RST poort (rechts onderaan). De Trinket zou moeten resetten als je de
+knop indrukt, dat kan je zien doordat het rode ledje op de trinket knippert voor een aantal
+secondes.
+
+**Switch**
+
+![Solderen8]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen8.jpg)
+
+Het volgende dat we gaan monteren en solderen is de schakelaar. Deze mag je door het gat
+in de onderkant van de greep duwen. Deze hoeft niet gelijmd te worden.
+
+![Solderen9]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen9.jpg)
+
+Hier mag je dan ook 2 kabels aan solderen.
+
+**Ledstrips**
+
+![Solderen10]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen10.jpg)
+![Solderen11]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen11.jpg)
+
+Voordat we de ledstrips kunnen solderen, moeten we de pinnen zichtbaar maken. Hiervoor
+knip je het begin van de omhulsel weg en maak je de pinnen schoon.
+Of je knipt 1 LED van de ledstrip af.
+
+Voordat we de ledstrip knippen, laat ik je weten dat er op elke ledstrip een lijntje (soms ook
+een schaar) staat waar je die ledstrip mag knippen)
+
+Leg de ledstrip daarna op 1 van de helften van het blad van het zwaard en knip de ledstrip af
+zodat je zoveel mogelijk leds in het blad krijgt. (Voor mij was dit 41 LEDS).
+
+Knip dan 1 identieke ledstrip.
+
+![Solderen12]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen12.jpg)
+
+Nu kunnen we aan beiden ledstrips de kabels solderen.
+
+Let op dat je soldeert aan de andere kant van waar de pijltjes naar toe wijzen.
 
 ## Montage Deel 2
+**Blad**
+
+![Montage13]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/montage13.jpg)
+
+We beginnen hiervoor met Het vastlijmen van de ledstrips op de helften van het blad.
+
+Zorg dat de LEDs naar de buitenkant van het blad gericht zijn.
+
+![Montage14]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/montage14.jpg)
+
+Hierna kan je het blad afwerken door de 2 helften tegen elkaar te lijmen.
+
+![Montage15]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/montage15.jpg)
+
+Ik raad het aan om nog eens overal waar nodig lijm toe te voegen en deze delen tegen
+elkaar aan te duwen.
+
+**Koppelstuk gevest**
+
+![Montage16]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/montage16.jpg)
+
+We kunnen nu het blad in het koppelstuk schuiven en vastlijmen.
+De kabels kunnen door het gat van het koppelstuk.
+
+![Montage17]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/montage17.jpg)
+
+Nu kunnen we de gouden details vastlijmen.
+
+![Montage18]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/montage18.jpg)
+
+We halen nu de greep met de knoppen erbij. Hier kunnen de kabels onder de 2 balkjes door.
+
+**Greep**
+
+![Montage19]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/montage19.jpg)
+
+Nu kunnen we de batterij in zijn vakje leggen en zijn deksel erop leggen en toedoen. (het
+deksel is optioneel zodat de batterij vast zit)
+
+Daarna kunnen we het koppelstuk van de knop erbij nemen en de kabels erdoor trekken.
 
 ## Solderen Deel 2
 
+![Solderen1]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen1.png)
+
+Alle kabels lopen nu door naar de knop van het zwaard. Dit betekend dat we alle kabels
+kunnen solderen op de trinket. Zoals op bovenstaande afbeelding.
+
+**Knoppen**
+Soldeer de Linkse Knop met Pin 8, de knop die we afgeknipt (enkele knop) hebben met Pin
+4, de Rechtse knop met Pin 12 en de Reset Knop met RST.
+
+**Ledstrips**
+Daarna solderen we de Rode (5V) kabels van de ledstrips samen op de 5V die het dichtst bij
+de USB micro poort zit (op de andere 5V Pin werken de ledstrips niet op de batterij).
+
+Dan kunnen we de Din kabels solderen op Pin 9 en 10, de volgorde maakt hiervoor niet uit.
+
+Eens dat alle inputs gesoldeerd zijn, kan je alles nog eens voor een laatste keer testen met
+de code.
+
+**Lipoly Backpack**
+
+![Solderen13]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen13.jpg)
+
+Het enigste wat nu nog te solderen valt is de Lipoly backpack. Deze komt vlak op de trinket
+te liggen. (Ik heb deze eerder gesoldeerd waardoor het lastiger was om de kabels van de
+knoppen te solderen)
+
+![Solderen14]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen14.jpg)
+
+Let op dat de backpack niet tegen de micro USB poort gedrukt mag worden. Deze kan dan
+kortsluiting veroorzaken.
+
+**Switch**
+
+Je kan op de backpack 2 Pins zien die verbonden zijn. Snij deze verbinding kapot met een
+kniptang of een breekmes en soldeer daarna de kabels van de schakelaar op deze pinnen.
+
+Om de schakelaar te testen, kan je de batterij in de backpack duwen en de schakelaar aan
+en uit zetten. Hierdoor zou de trinket en de backpack ook moeten aan en uit gaan.
+
 ## De laatste Stappen
+Alles zou nu moeten werken. Als dat zo is, dan kunnen we de laatste stukken toevoegen en
+het zwaard sluiten.
+
+![Laatstestappen1]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Laatstestappen1.jpg)
+
+Pak het bovenste deel van de greep en leg de ge-3D-printe knop(pen) in het/de
+overeenkomende gat(en). Leg deze op het onderste deel en schuif deze in het gevest.
+
+Dit kan gelijmd worden, maar het is mogelijk dat de greep er door de druk al stevig in zit
+
+![Laatstestappen2]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Laatstestappen2.jpg)
+
+Doe nu hetzelfde met de knop.
+
+Monteer daarna de trinket in de knop met een paar M2 boutjes en lijm de knop toe.
 
 ## Gefeliciteerd
 Je hebt nu je Master Sword gemaakt. Je kan deze nog wat afwerken door een groene lint
@@ -481,10 +666,17 @@ verschillende patronen en effecten toevoegen in de code.
 
 <div class="border_boxmaakbib01_img" markdown="1">
 ## Weetjes
-</div>
+* **Van waar komt het zwaard?** Het legendarische zwaard "Mastersword" komt uit de game "Legends of Zelda" en heeft verschillenden namen zoals "Blade of Evil's Bane", "Sword of Legend", "Sword that Seals the Darkness", ...
 
-## STEM
+* **Link met "Mastersword":**<br><br>
+![linkmastersword]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/link-master-sword.png)
+</div>
 
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Hoe werkt het?
-</div> 
+* **Reverse Engenering** Als we iets gaan namaken dat al bestaad noemt dit reverse engenering. Als we het zwaard willen namaken moeten we eesrt zien hoe het in elkaar zit en het originele zwaard onderzoeken. Zo kan je de verschillende stukken van het zwaard krijgen door naar het design van het zwaard te kijken en de opbouw van de verschillende stukken.
+
+* **3D Printen** Als we het ontwerp klaar hebben mag de 3D printeren aan de slag.<br>**`Maar hoe werkt die?`**<br>
+Voor de 3D Printer heb je een programma nodig die je 3D Tekening gaat opsplitsen in verschillende lagen. Dit bestand kan je 3D Printer printen door laag per laag te werken en zo lagen op elkaar gaan leggen.<br><br>
+![3DPrinterlagen]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/3dprinterlagen.jpeg)
+</div>
