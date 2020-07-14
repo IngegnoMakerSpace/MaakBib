@@ -32,8 +32,8 @@ materialen_dontshow: true
 tools: [
     een 3D printer (niet getoond op de foto). Als je onderdelen in PET wilt printen heb je een printer met een verwarmd bed nodig.,
     een hamer(tje),
-    een soldeerbout en soldeer,
-    een smeltlijmpistool en een lijmstick, bij voorkeur van het lage temperatuur type, dat is veiliger
+    een soldeerbout en soldeersel,
+    "een smeltlijmpistool en een lijmstick, bij voorkeur van het lage temperatuur type, dat is veiliger",
     een schroevendraaier passend voor de schroeven,
     een mal die je ook 3D print,
       ]
@@ -44,6 +44,8 @@ elektronica of software ;-). De tafelrobot wordt gemaakt uit 3D-geprinte onderde
 aangevuld met tandwielen, assen, schroeven, een motortje, aan/uit-schakelaar en een
 batterij. De bouw vraagt wat eenvoudige soldeerverbindingen, samenschroeven en
 nauwkeurig tunen van de hoogte aan de hand van de schroeven.
+
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/EW5Oj5OZzFo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib.
 
@@ -60,7 +62,7 @@ het filament niet getoond, maar de 3D-geprinte onderdelen
     <li><a href="https://www.opitec.be/technische-toebehoren/bekabeling/schakelaars/micro-schuifschakelaars-10-stuks.html?listtype=search&amp;searchparam=micro%20schuifschakelaar">kleine schakelaar</a></li>
     <li><a href="https://www.opitec.be/technische-toebehoren/staaf-materialen/metalen-assen-afstandsbusjes-messing-hulzen/metalen-assen-3-x-70-mm-10-stuks.html?listtype=search&amp;searchparam=assen%203%2070">2 assen</a> 3mm diameter, 70mm lang</li>
     <li><a href="https://www.opitec.be/technische-toebehoren/aandrijving/toebehoren-------/wormwielen-10-stuks.html?listtype=search&amp;searchparam=wormwiel">wormwiel module</a> 1 passend op motor</li>
-    <li><a href="https://www.google.com/url?q=https://www.opitec.be/technische-toebehoren/aandrijving/tandwielen/tandwielen-20-mm-18-tanden-10-stuks-nr.html%3Flisttype%3Dsearch%26amp%3Bsearchparam%3Doxartnum%253A840125&ust=1594806660000000&usg=AOvVaw31FJTTlW7w9YKD9vX4plth&hl=nl">2 tandwielen</a> module 1, 18 tanden, passend op de assen:</li>
+    <li><a href="https://www.google.com/url?q=https://www.opitec.be/technische-toebehoren/aandrijving/tandwielen/tandwielen-20-mm-18-tanden-10-stuks-nr.html%3Flisttype%3Dsearch%26amp%3Bsearchparam%3Doxartnum%253A840125&ust=1594806660000000&usg=AOvVaw31FJTTlW7w9YKD9vX4plth&hl=nl">2 tandwielen</a> module 1, 18 tanden, passend op de assen</li>
     <li><a href="https://www.ijzerwaar.be/Webwinkel-Product-9476930/houtschroef-din96-messing-3x25-200-stuks.html">4 schroeven met gedeeltelijke schroefdraad</a> type DIN95 of DIN 96 3mm diameter 25mm lang. Andere schroeven zijn mogelijk, maar het is best dat ze een voldoende lang glad gedeelte, zonder schroefdraad hebben.</li>
     <li><a href="https://www.ijzerwaar.be/Webwinkel-Product-9470639/schroefoog-hout-verzinkt-3.50x25x10-100-stuks.html">3 schroefogen</a> 3,5mm dikte, 25mm lang. Andere schroeven zijn mogelijk, maar schroefogen kunnen gemakkelijk met de hand bijgeregeld worden.</li>
     <li>een stuk van een te recycleren fietsband, ongeveer 2 cm breed. Een stuk van een dikke
@@ -75,8 +77,8 @@ het filament niet getoond, maar de 3D-geprinte onderdelen
 ![Foto2]({{ site.baseurl }}/assets/images/2020-07-14-Tafelrobot/tafelrobot foto - 2.jpg)
 
 ## Stap 1: 3D printen van de onderdelen
-Voor alle onderdelen en de mal is een stl-bestand beschikbaar. Van de kegelwielen en de
-kleine wielen heb je per robot telkens twee exemplaren nodig, van alle ander onderdelen
+Voor alle onderdelen en de mal is [een stl-bestand beschikbaar in het zip bestand]({{ site.baseurl }}/assets/downloads/2020-07-14-Tafelrobot/tafelrobot.zip). Van de kegelwielen en de
+kleine wielen heb je per robot telkens twee exemplaren nodig, van alle andere onderdelen
 één. De mal kan je hergebruiken en delen binnen een kleine groep.
 
 De onderdelen worden geprint met een wanddikte van ongeveer 1mm en een vulling van
@@ -90,7 +92,7 @@ Vaak zijn er na het printen nog draadjes of oneffenheden aan de onderdelen, voor
 Verwijderd die met wat schuurpapier of een mesje (voorzichtig!)
 
 ## Stap 2: Solderen
-Soldeer de schakelaar aan het contactoogje van de motor naast een cirkeltje (soms met een
+Soldeer de schakelaar aan het contactoogje van de motor dat met een cirkeltje (soms met een
 +) gemarkeerd is. Zorg dat het middelste contact van de schakelaar contact maakt met de
 motor. Eén van de andere contactjes mag ook contact maken. De rode draad van de
 batterijhouder soldeer je aan het overblijvende contact van de schakelaar. De zwarte draad
@@ -138,7 +140,7 @@ neer dat de as met het grote wiel ongeveer halverwege deze as komt.
 
 ![Foto10]({{ site.baseurl }}/assets/images/2020-07-14-Tafelrobot/tafelrobot foto - 10.jpg)
 
-Kontroleer of alles goed vast zit en de assen vlot kunnen draaien.
+Controleer of alles goed vast zit en de assen vlot kunnen draaien.
 
 ![Foto11]({{ site.baseurl }}/assets/images/2020-07-14-Tafelrobot/tafelrobot foto - 11.jpg)
 
@@ -152,7 +154,7 @@ Steek de motor in de opening. En schuif de batterijhouder op zijn plaats.
 
 ![Foto13]({{ site.baseurl }}/assets/images/2020-07-14-Tafelrobot/tafelrobot foto - 13.jpg)
 
-Kontroleer of alles vlot draait. Het wormwiel moet voldoende dicht bij de tandwielen komen,
+Controleer of alles vlot draait. Het wormwiel moet voldoende dicht bij de tandwielen komen,
 maar mag er ook niet te hard tegen duwen.
 
 ![Foto14]({{ site.baseurl }}/assets/images/2020-07-14-Tafelrobot/tafelrobot foto - 14.jpg)
@@ -182,9 +184,9 @@ te regelen.
 
 ## Stap 7: testen en afregelen
 Met het voorste schroefoog regel je nauwkeurig de hoogte van de robot, zodanig dat het
-grote wiel de tafel net niet raakt wanneer de robot helemaal op de tafel raakt. Het is een
+grote wiel de tafel **net niet raakt** wanneer de robot helemaal op de tafel staat. Het is een
 goed idee de robot te testen op een stuk karton of een plank die je op de grond legt. Zo valt
-de robot niet meteen van de tafel als ie nog niet goed afgeregeld is.
+de robot niet meteen van de tafel als zij nog niet goed afgeregeld is.
 
 ![Foto19]({{ site.baseurl }}/assets/images/2020-07-14-Tafelrobot/tafelrobot foto - 19.jpg)
 
@@ -198,21 +200,15 @@ de vooras steeds in de juiste zin kantelt wanneer die over de tafelrand komt.
 
 ![Foto21]({{ site.baseurl }}/assets/images/2020-07-14-Tafelrobot/tafelrobot foto - 21.jpg)
 
-Zie ook het filmpje.
-
-<video width="100%" height="360" controls>
-<source src="/assets/images/2020-07-14-Tafelrobot/tafelrobot%20-%201.m4v" type="video/mv4">
-</video>
-
 <div class="border_boxmaakbib01_img" markdown="1">
 ## Weetjes
-Er bestaan verschillende definities van “robot”, maar de technisch definitie is dat een robot
+Er bestaan verschillende definities van `robot`, maar de technische definitie is dat een robot
 een machine is die reageert op de omgeving. De zogenaamde robots in een fabriek
 bewegen volgens een voorgeprogrammeerd pad, vaak zonder dat ze iets waarnemen. Het
 zijn dus vaak technisch gezien geen echte robots.
 
-De meeste robots hebben elektrisch of elektronische sensoren en een elektronisch “brein”
+De meeste robots hebben elektrische of elektronische sensoren en een elektronisch “brein”
 dat de robot laat reageren op de waarnemingen via de sensoren. De tafelrobot werkt
 volledig mechanisch en heeft maar één reactie, maar is technisch gezien wel een echte
-robot.
+robot!
 </div>
