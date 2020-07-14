@@ -18,7 +18,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [ robotica, wetenschappen ]
+categories: [ robotica, wetenschappen, elektronica ]
 image: assets/images/2020_07-14-KleiRobot/FIG0.jpg
 tijd: 1 uur
 print: assets/images/2020_07-14-KleiRobot/Makers voor Makers Lichtgevende kleirobot.docx 
@@ -29,7 +29,7 @@ downloads:
 materialen: [
     Geleidende klei (bv. Play-doh), 
     Niet-geleidende klei (bv. Foam clay), 
-    Batterij,
+    Batterij 4.5V (of 2x AA),
     2 kabels met krokodillenbekken,
     LED lampjes
       ]
@@ -115,7 +115,9 @@ Hieronder geven we nog wat tips:
 We zullen je nu stap voor stap uitleggen hoe je een robot uit klei maakt. In de plaatjes is de rode klei geleidend en de blauwe klei niet-geleidend.
 
 #### Stap 1: Maak een stroomkring van de geleidende klei
-Eerst maken we een stroomkring. Plaats elk pootje van de LED in een verschillend bolletje geleidende klei. Verbind vervolgens een kabel aan de positieve pool en de andere kabel aan de negatieve pool. Klem dan elk van de uiteindes van de kabels in een bolletje klei. Als de LED brandt werkt je stroomkring. Zo niet, moet je de kabels omwisselen.
+Eerst maken we een stroomkring. Plaats elk pootje van de LED in een verschillend bolletje geleidende klei. Een LED heeft 1.8 tot 2.5 Volt nodig om licht te geven, en we gebruiken een 4.5 Volt batterij (of in geval van 2 AA baterijen 3 Volt). Onze batterij is dus te sterk voor de LED, wat normaal een probleem is. Onze geleidende klei is evenwel niet super goed geleidend, als we dus **voldoende** geleidende klei hebben tussen de LED beentjes en de batterij, dan zal er geen probleem zijn.
+
+Verbind vervolgens een kabel aan de positieve pool en de andere kabel aan de negatieve pool van de batterij. Klem dan elk van de uiteindes van de kabels in een bolletje klei. Als de LED brandt werkt je stroomkring. Zo niet, moet je de kabels omwisselen. Brand je LED te helder? Voeg dan extra klei toe tussen de kabel en het LED beentje. Brand je LED te zwak? Plaats dan je kabel dichter bij je LED, of gebruik een sterkere batterij. Opgelet, **niet** met meer dan 9V werken! 
 
 ![S1]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/FIG1.jpg)
 
@@ -124,7 +126,7 @@ De bolletjes zullen later de ogen voorstellen en de LED de neus van onze robot.
 #### Stap 2: Voeg de niet-geleidende klei toe
 Het lampje brandt enkel als de bolletjes elkaar niet raken. Als ze elkaar wel raken is er sprake van een kortsluiting en zal de LED niet branden. Om toch de bolletjes in dezelfde robot te verwerken maken we gebruik van de niet-geleidende klei. 
 
-Voeg een bolletje niet-geleidende klei toe tussen de ogen van de robot. Door dit stukje toe te voegen, voorkomen we dat er stroom direct tussen de bolltjes zou vloeien en dus voor een kortsluiting zou zorgen.
+Voeg een bolletje niet-geleidende klei toe tussen de ogen van de robot. Door dit stukje toe te voegen, voorkomen we dat er stroom direct tussen de bolletjes zou vloeien en dus voor een kortsluiting zou zorgen.
 
 ![S2]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/FIG2.jpg)
 
@@ -144,7 +146,7 @@ Je mag er van alles van maken, maar je moet wel oppassen:
 #### Maak het je eigen!
 Als de vorige stappen gelukt zijn, kan je nu aan de slag om je eigen robot te maken!
 
-Maak je eigen figuur. Dit hoeft natuurlijk geen een robot te zijn. Probeer uit en maak wat je zelf mooi vindt!
+Maak je eigen figuur. Dit hoeft natuurlijk geen robot te zijn. Probeer uit en maak wat je zelf mooi vindt!
 
 ![S4.1]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Lichtgevende kleirobot_maak het je eigen 2.jpg)
 
