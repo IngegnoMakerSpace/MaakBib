@@ -11,8 +11,8 @@ hightech: true
 DIT: true
 DIY: false
 CHALLENGE: false
-moeilijkheidsgraad_1_3: 3
-prijs_1_3: 3
+moeilijkheidsgraad_1_3: 2
+prijs_1_3: 2
 pijler_tinkering : false
 pijler_design_thinking : false
 pijler_digitale_fabricatie : true
@@ -24,9 +24,9 @@ tijd: 3u+
 print: /assets/images/2020-07-13-Mastersword/Makers-voor-Makers-Master-Sword.pdf
 downloads: 
   - name: 'Handleiding'
-    file: /assets/downloads/2020-07-13-Mastersword/Makers-voor-Makers-Master-Sword.pdf
+    file: assets/downloads/2020-07-13-Mastersword/Makers-voor-Makers-Master-Sword.pdf
   - name: 'Arduino Code'
-    file: /assets/downloads/2020-07-13-Mastersword/Mastersword/Mastersword.ino
+    file: assets/downloads/2020-07-13-Mastersword/Mastersword/Mastersword.ino
   - name: '3D Bestanden'
     file: https://www.thingiverse.com/thing:4414570
 
