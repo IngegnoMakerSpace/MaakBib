@@ -94,7 +94,7 @@ Bepaal welke spier en welke hoek je wil meten. Wij nemen als voorbeeld de biceps
 #### Stap 2: Verbind de Myoware spiersensor
 Neem de myoware sensor. Maak de rode draad vast aan het + contact en soldeer het vast. Maak de zwarte draad vast aan het – contact en soldeer vast. Meer info over solderen vind je <a href="https://maakbib.be/assets/images/2020-04-22_soldeerexperiment/Solderen%20is%20simpel_by_%20Mitch%20Altman.pdf">hier</a> en <a href="https://maakbib.be/assets/images/2020-04-22_soldeerexperiment/4%20stappen_solderen.pdf">hier</a>. 
 
-De witte draad zet je vast aan het RAW signaal aan de andere kant van de sensor. Knip de overschot af aan de kant van de sensor. Soldeer een krokodillenklem aan het andere uiteinde.
+De witte draad zet je vast aan het RAW signaal aan de andere kant van de sensor. Knip het overschot af aan de kant van de sensor. Soldeer een krokodillenklem aan het andere uiteinde.
 
 Je resultaat zou er als volgt moeten uitzien:
 
@@ -112,13 +112,13 @@ Je resultaat ziet er dan als volgt uit:
 ![SS3]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig6.png)
 
 #### Stap 4: Sluit de microbit aan
-Verbind de kabels via de krokodillenklemmetjes de rode draad (+) van de sensor met de 3V uitgang van de microbit, de zwarte draad (-) met de GND van de microbit en de witte draad (RAW) met kanaal 1 van de microbit. Gebruik je een tweede sensor, sluit deze dan op dezelfde manier aan maar breng het signaal over naar kanaal 2.
+Verbind de kabels via de krokodillenklemmetjes: de rode draad (+) van de sensor met de 3V uitgang van de microbit, de zwarte draad (-) met de GND van de microbit en de witte draad (RAW) met kanaal 1 van de microbit. Gebruik je een tweede sensor, sluit deze dan op dezelfde manier aan maar breng het signaal over naar kanaal 2.
 
 ![SS4]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig7.png)
 
 ## Metingen Uitvoeren
 #### Stap 1: Microbit programmeren
-In de makecode software, maak je een forever loop die drie variabelen wegschrijft (indien je 2 EMG sensoren gebruikt): twee variabelen waarin de EMG signalen worden opgeslagen en een variabele die de beweging van je segment registreert. 
+In de [makecode software](https://makecode.microbit.org/) (beschikbaar ook [offline](https://makecode.microbit.org/offline-app)), maak je een nieuw project met een forever loop die drie variabelen wegschrijft (indien je 2 EMG sensoren gebruikt): twee variabelen waarin de EMG signalen worden opgeslagen en een variabele die de beweging van je segment registreert. 
 
 In onderstaand voorbeeld, zit er een sensor op de biceps en een op de triceps van de bovenarm en meten we tegelijkertijd de ellebooghoek door de microbit zelf.
 
@@ -140,7 +140,7 @@ Plaats de microbit tegen de huid, parallel met de arm. Wees voorzichtig dat de d
 ![MS3]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig10.png)
 
 #### Stap 4: Opstelling testen
-Download het programma naar de microbit. Van zodra de microbit verbonden is met de laptop, verscheen ook de knop “show console device” in de MakeCode Editor. Klik op deze knop en een grafiek met de real time data verschijnt op het scherm.
+Download het programma naar de microbit. Van zodra de microbit verbonden is met de laptop, verscheen ook de knop `show console device` in de MakeCode Editor. Klik op deze knop en een grafiek met de real time data verschijnt op het scherm.
 
 ![MS4.1]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig11.png)
 
@@ -151,12 +151,12 @@ Test eerst de hoek. Buig en strek de arm zonder de schouder te bewegen. De hoek 
 Test daarna de spiersensor. Vraag je testpersoon de spieren krachtig op te spannen en te ontspannen. De amplitude (uitwijking) van het EMG signaal zou duidelijk zichtbaar moeten zijn. Is er heel veel ruis, ook bij het niet aanspannen van de spier en het bewegen van de arm, zorg er dan voor dat de laptop op de batterij werkt en niet in het stopcontact zit. Werkt de sensor nog steeds niet, kijk dan goed na of je correct gesoldeerd hebt.
 
 #### Stap 5: Spieractiviteit meten
-Als alles werkt, herstart je de meting door op "Go Back" te klikken en daarna opnieuw op "Show Console Device". Dit maakt de opnamegrafiek leeg. Normaal gezien begint de opname vanzelf, tenzij je op de pauzeknop gedrukt hebt. Ben je tevreden over je meting, download deze dan via de knoppen rechtsboven.
+Als alles werkt, herstart je de meting door op `Go Back` te klikken en daarna opnieuw op `Show Console Device`. Dit maakt de opnamegrafiek leeg. Normaal gezien begint de opname vanzelf, tenzij je op de pauzeknop gedrukt hebt. Ben je tevreden over je meting, download deze dan als een csv file via de knoppen rechtsboven.
 
 ![MS5]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig13.png)
 
 #### Stap 6: Data analyseren
-Open het gedownload cvs bestand in excel. Maak een grafiek met de EMG patronen op de primaire Y-as en de hoek op een secondair Y-as. Zo worden beide signalen maximaal verspreid over de grafiek. Kijk naar de timing van de spieractiviteit en de armhoek.
+Open het gedownload cvs bestand in een spreadsheet tool zoals Excel, Google Spreadsheet, of LibreOffice Calc. Maak een grafiek met de EMG patronen op de primaire Y-as en de hoek op een secondair Y-as. Zo worden beide signalen maximaal verspreid over de grafiek. Kijk naar de timing van de spieractiviteit en de armhoek.
 
 ![MS6]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig14.png)
 
