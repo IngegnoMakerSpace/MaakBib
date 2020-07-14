@@ -2,7 +2,7 @@
 layout: post
 title:  "Giet je eigen zeepjes"
 featured: false
-published: false
+published: true
 authors: [guest]
 author_name: "Gertjan Ameryckx"
 lowtech: false
@@ -25,6 +25,14 @@ print: assets/images/2020_07-13-3DPrint_Zeepjes/Zeepjes maken.pdf
 downloads: 
   - name: 'Handleiding'
     file: assets/images/2020_07-13-3DPrint_Zeepjes/Zeepjes maken.pdf
+  - name: 'STL Bestanden'
+    file: assets/images/2020_07-13-3DPrint_Zeepjes/stl
+  - name: 'IGS Bestanden'
+    file: assets/images/2020_07-13-3DPrint_Zeepjes/iges
+  - name: 'STEP Bestanden'
+    file: assets/images/2020_07-13-3DPrint_Zeepjes/step
+  - name: 'SLDR Bestanden'
+    file: assets/images/2020_07-13-3DPrint_Zeepjes/sldr
 materialen_dontshow: true
 materialen: [
     PLA filament, 
@@ -42,18 +50,21 @@ tools: [
     Kookvuur,
     Grote en kleine kom,
     Lepels,
+    Breekmes,
       ]
 benodigdheden_opt: [
       Schuurpapier,
+      Wattenstaafjes,
+      Isopropyl alcohol,
+      Verpakking,
       ]
 ---
 Ontwerp en giet je eigen zeepjes!  
 
 In dit project wordt uitgelegd hoe je zelf gepersonalisserde zeepje kan maken. 
-We starten met het 3D-printen van een door de maker ontworpen vorm. Vanuit deze vorm gaan we over tot het maken van een siliconemal. Eens de siliconemallen klaar zijn, kan er overgegaan worden naar het maken van de zeepjes. Het smelten en het toevoegen van geuradditieven en kleurstoffen. Eens de zeep voldoende vloeibaar is, wordt overgegaan tot het gieten in de siliconemallen.
+We starten met het 3D-printen van een door de maker ontworpen vorm. Vanuit deze vorm gaan we over tot het maken van een siliconen mal. Eens de siliconen mallen klaar zijn, kan er overgegaan worden naar het maken van de zeepjes. Het smelten en het toevoegen van geuradditieven en kleurstoffen. Eens de zeep voldoende vloeibaar is, wordt overgegaan tot het gieten in de siliconen mallen.
 
 *Deze handleiding werd ontwikkeld door **Gertjan Ameryckx** voor Maakbib*.
-
 
 ## Benodigdheden
 
@@ -79,7 +90,7 @@ We starten met het 3D-printen van een door de maker ontworpen vorm. Vanuit deze 
 
 We kunnen dit project opdelen in drie fasen. 
 We beginnen in fase A met een ontwerp te maken van de mal voor de zeepjes. 
-Vervolgens vormen we in fase B de 3D-geprinte mal om naar een siliconemal.
+Vervolgens vormen we in fase B de 3D-geprinte mal om naar een siliconen mal.
 Tenslotte in fase C smelten en gieten we de zeep in de silionemal.
 
 We werken in deze handleiding met een vogeltje als voorbeeld, maar je mag zelf natuurlijk je eigen vorm kiezen.
@@ -87,7 +98,7 @@ We werken in deze handleiding met een vogeltje als voorbeeld, maar je mag zelf n
 ## Fase A: Ontwerp je 3D-geprinte mal
 In deze fase gaan we ervan uit dat je reeds ervaring hebt met een tekenprogramma naar keuze. Hier focussen we op de nodige regeltjes om een goede mal te bekomen.
 
-Na de eerste vier stappen heb je het ontwerp van je zeepje. De mal ontwerp je in de stappen nadien.
+Na de eerste vier stappen heb je het ontwerp van je zeepje. De mal ontwerp je in de laatste zes stappen.
 
 ![A0]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/3D mal + VIDEO/3D-mal.png)
 
@@ -107,7 +118,6 @@ Zorg ervoor dat je vormpje een dikte heeft van 15mm. Details moeten een minimale
 #### Stap 3: Voeg tekst toe
 Je kan je vormpje personaliseren door er een tekstje op te plaatsen. 
 Je kiest voor je font het best Arial Rounded MT met een minimale grootte van 38. De tekst op het zeepje zal er precies uitzien zoals de tekst op je scherm. Je moet dus je tekst niet spiegelen.
-
 Je geeft je letters ook een dikte. Zorg ervoor dat ze ook minstens 2mm dik zijn. 
 
 ![A3]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG5.png)
@@ -123,14 +133,14 @@ Op de details passen we de afrondingen toe met een straal van minstens 0.60mm.
 #### Stap 5: Teken de omkasting
 Nu de vorm van het zeepje af is, kunnen we beginnen aan de omkasting van de mal. Herhaal hiervoor Stap 1 zodat je de tekening van de zeepvorm weer hebt.
 
-Teken vervolgens rond de vorm een willekeurige rand. Dit wordt later de vorm van je mal. De rand moet overal minstens 5mm van de vorm verwijderd zijn. Als je rand te dicht is, gaat de siliconemal minder stijf zijn. Als je rand te ver is, heb je meer silicone nodig.
+Teken vervolgens rond de vorm een willekeurige rand. Dit wordt later de vorm van je mal. De rand moet overal minstens 5mm van de vorm verwijderd zijn. Als je rand te dicht is, gaat de siliconen mal minder stijf zijn. Als je rand te ver is, heb je meer silicone nodig.
 
 Maak van de rand een offset van 2mm. Dit wordt de wand van je omkasting.
 
 ![A5]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG8.png)
 
 #### Stap 6: Maak de omkasting
-Geef de omkasting een minimale hoogte van 20mm. Aangezien onze vorm 15mm hoog is, houden we 5mm over. Dit is precies voldoende voor de siliconemal. 
+Geef de omkasting een minimale hoogte van 20mm. Aangezien onze vorm 15mm hoog is, houden we 5mm over. Dit is precies voldoende voor de siliconen mal. 
 Het onderste vlak moet minimaal 1.50mm dik zijn. 
 
 ![A6.1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG9.png)
@@ -145,22 +155,37 @@ We moeten ervoor zorgen dat de vorm op zijn plek blijft terwijl we de silicone i
 ![A7.1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG13.png)
 ![A7.2]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG14.png)
 
-De staafjes zorgen er ook voor dat de siliconemal voldoende dikte heeft.
+De staafjes zorgen er ook voor dat de siliconen mal voldoende dikte heeft.
 
 ![A7.3]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG12.png)
 
-#### Stap 8: Maak de staafjes
+#### Stap 8: Tijd om te printen
 Nu is het tijd om alles af te drukken met de 3D-printer. Hieronder staan een reeks instellingen waarmee je mogelijks meer succes hebt om een goede kwaliteit mal te bekomen.
 
 * Materiaal: PLA
 * Brim: Ja
-* Supports: No
+* Supports: Neen
 * Resolutie: 0.15mm
-* Infill: 40% 
-* Aantal Wandlijnen: 40mm/s
-* First layer extrusion width: 115%
-* Merk Filament: Esun of een ander hoog kwaliteits merk.
-![A7.1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG13.png)
+* Vulling: 40% 
+* Vulpatroon: Tri-hexagonaal
+* Aantal Wandlijnen: 4
+* Printsnelheid: 50mm/s
+* Printtemperatuur: 200°C
+* Platformtemperatuur: 60°C
+
+Als je meerdere zeepjes tegelijkertijd wil maken, kan je best meerdere vormpjes, staafjes en omkastingen maken. Met 1 mal kan je om de 15 minuten 1 zeepje maken.
+
+#### Stap 9: Zacht zeepje
+Om een zacht zeepje te bekomen, moeten we de vorm opschuren met schuurpapier. Hoe groter de korrel van je schuurpapier, hoe gladder je zeepje uiteindelijk zal zijn. Start met een schuurpapier met korrel 800 ga zo geleidelijk aan hoger tot een korrel van 1500.
+
+#### Stap 10: Finaliseer de 3D-geprinte mal
+Om over te gaan naar fase B moeten we enkel de 3D-geprinte mal nog assembleren. Hiervoor positioneer je de vorm zodat er overal ongeveer evenveel plaats is. Boor vervolgens per staafje minimaal 2 gaatjes (2mm) en schroef er telkens een schroefje van M3x8 in. Je kan in plaats van schroefjes ook secondelijm gebruiken.
+
+Let op: Maak de staafjes enkel vast aan de vorm en niet aan de omkasting!
+
+Je resultaat zou er ongeveer zo moeten uitzien.
+
+![A10]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG17.png)
 
 #### Bestanden van het voorbeeld
 Hier kan je de verschillende soorten bestanden van het voorbeeld ontwerp en de bijbehorende mal terugvinden: 
@@ -169,110 +194,136 @@ Hier kan je de verschillende soorten bestanden van het voorbeeld ontwerp en de b
 <li>STEP bestanden van <a href="assets/images/2020_07-13-3DPrint_Zeepjes/step/Zeepvorm.STEP">het ontwerp</a> en <a href="assets/images/2020_07-13-3DPrint_Zeepjes/step/Omkasting.STEP">de mal</a></li>
 <li>SLDR bestanden van <a href="assets/images/2020_07-13-3DPrint_Zeepjes/sldr/Zeepvorm.SLDPRT">het ontwerp</a> en <a href="assets/images/2020_07-13-3DPrint_Zeepjes/sldr/Omkasting.SLDPRT">de mal</a></li>
 
-## Handleiding
-Een overzicht van de stappen voor assemblage  
 
-![assemblage overzicht]({{ site.baseurl }}/assets/images/2020-04-22-3Dprint-opwindbare-auto/2.png) 
-#### Stap 1
-![stap 1]({{ site.baseurl }}/assets/images/2020-04-22-3Dprint-opwindbare-auto/stap1.png) 
+## Fase B: Giet de siliconen mal
+In deze fase gaan we van onze 3D-geprinte mal over naar een siliconen mal. Hiervoor gaan we gebruik maken van de A en B-component van de silicone, maatbeker en lepels.
 
-De eerste stap bestaat erin om alle onderdelen los te maken van de “lopers” (verbindingen tussen de onderdelen). De beste manier hiervoor is om eerst alle onderdelen los te knippen met een kniptang en vervolgens de restanten van de lopers te verwijderen met een fijn precisie snijmes. 
+![B0]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG35.png)
 
-**OPGELET** Om een goede werking van het autootje te garanderen is het zeer belangrijk dat alle onderdelen zo proper mogelijk gemaakt worden en dat eventueel overtollige plastic verwijderd wordt. Hierop dient vooral gelet te worden bij de tandwielen.
+#### Stap 1: Meng de silicone
+Open de A-component met een schroevendraaier.
 
+![B1.1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG23.png)
 
-#### Stap 2
-![stap 1]({{ site.baseurl }}/assets/images/2020-04-22-3Dprint-opwindbare-auto/stap2.png) 
+Neem hieruit vijf volle soeplepels (75ml) en doe deze in de maatbeker.
 
-In deze stap worden enkele onderdelen gemonteerd op het linker frame van het autootje (verschil met het rechterframe is te zien aan de rechthoekige en ronde gaten)  zoals de veer, voor-en achterassen, de frame verbindingsstukken en het kleine tandwiel met rondel. Het autootje bevat in totaal 4 rondellen, welke waar gebruikt moet worden is te zien aan het aantal bultjes op de omtrek van de rondel (1 tot 4).
+![B1.2]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG25.png)
 
-De plaats van elke rondel is aangeduid in de foto.
+Sluit vervolgens de A-component goed af met een hamer zodat er de pot luchtdicht is.
+
+![B1.3]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG33.png)
+
+Open de B-component, neem hieruit een halve dessertlepel (5ml) en voeg deze toe bij de maatbeker.
+
+![B1.4]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG26.png)
+
+Meng de twee goed onder elkaar.
+
+#### Stap 2: Giet de silicone in de 3D-geprinte mal
+Giet een deel van de silicone in de omkasting van de mal.
+
+![B2.1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG30.png)
+
+Plaats nu de vorm met de staafjes op de omkasting. Zorg ervoor dat deze zo goed mogelijk in het midden staat. Hierdoor kan er voldoende silicone langs de zijkanten naar boven komen. Als de silicone niet hoog genoeg komt, voeg je extra silicone toe langs de randen.
+
+![B2.2]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG31.png)
+
+Plaats op deze constructie een gewicht, bijvoorbeeld een bokaal met water. Tik vervolgens langs de zijkant van de omkasting met een schroevendraaier om eventuele luchtbellen te laten ontsnappen.
+
+![B2.3]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG36.png)
+
+Laat deze opstelling 24u rusten zodat de silicone kan uitharden.
+
+#### Stap 3: Maak de siliconen mal vrij
+Neem een breekmes en maak de siliconen mal vrij. 
+
+![B3.1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG34.png)
+
+Je heb nu je eigen siliconen mal gemaakt! Op naar de volgende fase.
+
+![B3.2]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG35.png)
+
+## Fase C: Maak de zeepjes
+In deze laatste fase gaan we onze siliconen mal gebruiken om de zeep vorm te geven.
+
+![C0]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG49.png)
+
+#### Stap 1: Stel de au bain marie op
+Om de zeep te smelten, maken we gebruik van een au bain marie. Dit kan je opstellen door twee potten (een grote en een kleine) in elkaar te schuiven. 
+
+![C1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG52.jpg)
+
+Vul de onderste pot met water totdat het water tot in de helft van de bovenste pot komt. Er mag dus meer water in dan in de schets hierboven.
+Verwarm vervolgens het water tot een temperatuur van ong. 75°C. Als het water te warm wordt, zal er lucht in de zeep ontstaan.
+
+#### Stap 2: Smelt de zeep
+Snij kleine en fijne stukjes zeep af tot je ongeveer 100 gram hebt. 100 gram zou voldoende moeten zijn voor 4 zeepjes, maar dit is afhankelijk van je vorm natuurlijk. Smelt deze dan in de au bain marie.
+
+#### Stap 3: Voeg kleur en geur toe
+Als je zeep goed vloeibaar is, is het tijd om kleur- en geurstoffen toe te voegen. 
+
+Omdat de kleurstof geconcentreerd is, begin je best met maar een klein druppeltje. Vervolgens meng je het en breng je het verder op kleur.
+
+![C3]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG42.png)
+
+Een paar druppels geurstof volstaat voor onze zeepjes. Te veel geurstof laat de zeep zweten.
 
 <div class="border_boxmaakbib01_img" markdown="1">
-#### Weetje
+#### Wist je dat zeep ook kan "zweten"?
+ Soms kan het zijn dat je op het oppervlak van je zeep druppels ziet. Dit kan op twee manieren gebeuren. 
+ 
+ Enerzijds kan er water op je zeep condenseren. Hierbij komt het vocht van de druppels van buitenaf op je zeep terecht.
+ 
+ Anderzijds kan het ook zijn dat je zeep aan het "zweten" is. Dan komt het vocht vanuit je zeep naar het oppervlak! Je wilt dit zoveel mogelijk voorkomen dat je zeep zweet omdat je zeep daardoor sneller kleiner wordt. In ons project voorkomen we dit probleem door ervoor te zorgen dat we niet te veel geurstof toevoegen.
+ 
+ Als je zeep begint te zweten, kan je het met keukenpapier deppen en even wegleggen. Hierdoor zal het vanzelf stoppen met zweten.
 
-In het ontwerp van het autootje zijn enkele 3D-print trucjes gebruikt om te compenseren voor de verschillende toleranties waarmee verschillende 3D-printers printen. Zo bevatten de ronde gaten in het frame elk 2 kleine veertjes en bevat de veer een gleuf, dit om goed rond de assen aan te sluiten.
 </div>
 
-#### Stap 3
-![stap 1]({{ site.baseurl }}/assets/images/2020-04-22-3Dprint-opwindbare-auto/stap3.png)
+#### Stap 4: Giet de zeep in de siliconen mal
+Eenmaal alles goed gemengd is, kunnen we de zeep in de siliconen mal gieten. 
 
-In de derde stap worden de 3 tandwielen met hun rondellen op hun assen geschoven. Merk op dat 2 tandwielen exact hetzelfde zijn en dat het andere tandwiel aangepast is om een ratel/click mechanisme in te passen. De aandrijfas (die gebruikt wordt om het autootje op te winden) wordt door het rechterframe, de ratel, het tandwiel, de rondel en de veer geschoven tot in het rechterframe.   Het rechterframe kan nu op zijn plaats geklikt worden.
+![C4]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG44.png)
 
-**OPGELET** Let bij deze stap goed op welke rondel waar gebruikt wordt voor u begint. Dit om te vermijden dat het autootje terug uit elkaar gehaald moet worden aangezien dit meestal fataal kan aflopen voor het autootje.
+Laat elk zeepje 15 minuten uitharden.
 
-#### Stap 4 
-![stap 1]({{ site.baseurl }}/assets/images/2020-04-22-3Dprint-opwindbare-auto/stap4.png)
+#### Stap 5: Maak de zeepjes vrij
+Na 15 minuten wachten kan je nu de zeepjes uit de mal halen. 
 
-In de vierde en laatste stap worden de voor-en achterwielen gemonteerd. Merk hierbij op dat deze verschillende groottes hebben en dat de kleine wielen vooraan gemonteerd worden (Voorkant is links onderaan op bovenstaande foto) en de grotere wielen achteraan gemonteerd worden.
+![C5.1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG45.png)
 
-**Tip** Leg het wieltje aan de rand van een tafel (zo zit de aandrijfas niet in de weg) en klop de assen voorzichtig in de wieltjes met een kleine hamer.
+Hiervoor raden we je aan om eerst de siliconen mal uit de omkasting te halen. 
 
+![C5.2]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG46.png)
+
+Nu kan je de zeepjes makkelijker vrijmaken door eerst de zijkanten van de siliconen mal open te trekken. 
+
+![C5.3]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG47.png)
+
+Nadien draai je de mal om en duw je op verschillende plekken om je zeepvormpjes eruit te krijgen.
+
+![C5.4]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG48.png)
+
+Nu ben je klaar en heb je je zelfgemaakte zeepjes!
+
+#### Stap 6: Finale afwerkingen
+Je kan met een wattenstaafje en isopropyl alcohol eventuele foutjes bijwerken. Opgelet, wees hier wel zeer voorzichtig mee. Je zet hiervoor best een veiligheidsbril op. 
+
+![C6.1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG57.png)
+
+Je kan je zeepjes ook in een leuke verpakking steken.
+
+![C6.2]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG51.png)
+
+## Weetjes over zeep
 <div class="border_boxmaakbib01_img" markdown="1">
-#### Wist je dat ...
-In 1978 maakte een Japans bedrijf genaamd Takara de beroemdste opwindbare auto ter wereld.   
-
-![stap 1]({{ site.baseurl }}/assets/images/2020-04-22-3Dprint-opwindbare-auto/coroQ.jpg)  
-
-De **Choro-Q**, in de Verenigde Staten 'Penny Racers' genoemd, bestond uit geperste afbeeldingen van een echte auto. Het had ook een terugtrekmotor met schroefveren. Deze auto's werden al snel verzamelobjecten vanwege hun lage prijs en beschikbaarheid van speciale editie-modellen. 
-
+#### Weetjes
+* **`Hoe lang bestaat zeep al?`**  
+ Zeep wordt al minstens 4800 jaar gebruikt! Zelfs in de tijd van de Oude Egyptenaren gebruikten ze een middel dat op het hedendaagse zeep lijkt.
+ 
+* **`Waar komt de naam "zeep" vandaan?`**  
+ Volgens een oude Romeinse legende komt de naam voor zeep van de fictieve berg Sapo. Daarbij zouden de Romeinse plattelandsvrouwen zeep per toeval ontdekt hebben. De klei van de oevers van de Tiber was vermengd met dierlijk vet en as; dit hielp hen bij het wassen van hun kleding. 
+ 
 </div>
-
-#### Proficiat & Tips voor soepele werking.
-Proficiat, je bent nu in het bezit van een autootje dat volledig uitgeprint is. Het autootje zou normaal gezien volledig moeten werken vanaf dat deze in elkaar gestoken is. 
-
-De resultaten hangen natuurlijk af van de printkwaliteit van de gebruikte 3D-printer. Het kan dus best mogelijk zijn dat het autootje nog niet zo soepel draait. Daarom nog enkele **tips** om de kansen op succes zo hoog mogelijk te maken.
-
- * Zorg ervoor dat de 2 frames niet tegen de tandwielen gedrukt zijn en dat de tandwielen vrij kunnen ronddraaien
- * Kijk na of er geen overtollige plastic aanwezig is tussen de beweegbare onderdelen
- * Gebruik fijne machine olie om alle bewegende onderdelen te smeren
- * Gebruikt secondelijm in het geval dat bepaalde onderdelen niet vast willen blijven zitten zoals bv: de 2 frames en verbindingsstukken en de wielen op de assen
-
-![stap 1]({{ site.baseurl }}/assets/images/2020-04-22-3Dprint-opwindbare-auto/einde.png)
-
-<div class="border_boxmaakbib01_img" markdown="1">
-#### Weetje
-Hoewel dit autootje volledig ontworpen is met het oog op 3D-printing valt het op dat we gewerkt hebben met zogenaamde __*lopers*__, zie stap 1. 
-
-Dit hoeft hier niet, het zorgt enkel voor een mooie kit. Normaal zijn zo'n lopers te zien bij onderdelen die met een spuitgietmachine gemaakt worden. Hierbij vult plastiek een mal, en _moeten_ alle elementen verbonden zijn met elkaar zodat het plastiek er kan geraken.
-
-Denk hierbij maar aan de traditionele plastiek modelbouwkits. Dit was dan ook de reden dat wij ook de “lopers” verwerkt hebben in het ontwerp, om het gevoel van een heuse modelbouwkit te krijgen. Dit samen met de handleiding die op gelijkaardige manier opgebouwd is als die van een modelbouwkit. Maar weet, voor een 3D printer is dit niet nodig, zelfs overbodig! 
-
-</div>
-
-
-## STEM
-In deze mid tech activiteit komt heel wat STEM (Science Technologie Engineering Mathematics) aan bod! Volgende talenten heb je bij de bouw nodig: planmatig werken, nauwkeurig werken, logisch nadenken. 
-En als je de werking gaat onderzoeken ontdek je heel wat natuurkunde. 
-
-<div class="border_boxmaakbib02_img" markdown="1">
-#### Opwindbare autotjes en natuurkunde
-De opwindbare auto heeft een metalen of plastic buitenschaal waarin een chassis met een systeem van tandwielen, assen en wielen is ondergebracht. De as en achterwielen zijn bevestigd aan de tandwielen, die met de veer verbonden zijn. Wanneer de gebruiker de wielen draait, windt de as de veer op, waardoor energie opgeslagen wordt die dan omgezet wordt in beweging.  
-
-Een mooie uitleg is te zien [op deze video](https://youtu.be/QdvfiVebb_s?t=23)
-
-Het is belangrijk om het verschil tussen **snelheid** en **acceleratie/versnelling** te begrijpen, bij het werken met opwindbare autotjes. 
-
-Een object versnelt wanneer zijn snelheid verandert, maar er wordt ook rekening gehouden met de richting. Versnelling is wanneer de bewegingsrichting, snelheid of beide van een object veranderen. Een object kan versnellen als het met een veranderende snelheid in een rechte lijn beweegt of als het in een cirkel beweegt met een variabele of constante snelheid.
-
-Als je je ogen sluit terwijl je met een constante snelheid beweegt, kun je niet eens zien dat je in beweging bent. Dit is de reden waarom ontwerpers van amusementritten nooit ritten zouden maken die met constante snelheid bewegen. Je voelt de versnelling van kermisattracties, vooral bij ritten op achtbanen en schommels. Voor degenen die van deze ritten houden, hoe sneller de snelheid en richting veranderen, hoe beter. 
-
-Versnelling vindt plaats door de werking van een  kracht op een object. Dit valt onder de tweede bewegingswet van Newton, waarin staat dat versnelling in directe verhouding staat tot de kracht. De versnelling is omgekeerd evenredig met de massa van het object. Dit is logisch als je nadenkt over de massa van auto's en de kracht van hun motoren. 
-Twee auto's met dezelfde massa accelereren niet hetzelfde als ze verschillende motoren hebben. 
-
-#### Experimenteer
-
-Ontdek hoe massa en versnelling met elkaar in verband staan. 
-
-Plaats kleine voorwerpen op de voorkant van de auto en observeer hoe de auto beweegt bij verschillende gewichten startend met hetzelfde aantal opwindingen.  
-</div>
-
-
-## Maak het je eigen. 
-Kan je een manier bedenken om met eenvoudige recyclage materialen een autotje te maken die beweegt volgens gelijkaardige principes? 
-
-Ooit een `rubber-band car` gemaakt? Zoek het op!
-
-
 
 
