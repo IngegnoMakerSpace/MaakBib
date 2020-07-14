@@ -61,8 +61,8 @@ benodigdheden_opt: [
 ---
 Ontwerp je eigen zeepvorm en giet hier een mal van om je eigen zeepjes te maken!
 
-In dit project wordt uitgelegd hoe je zelf gepersonalisserde zeepje kan maken. 
-We starten met het 3D-printen van een door de maker ontworpen vorm. Vanuit deze vorm gaan we over tot het maken van een siliconen mal. Eens de siliconen mallen klaar zijn, kan er overgegaan worden naar het maken van de zeepjes. Het smelten en het toevoegen van geuradditieven en kleurstoffen. Eens de zeep voldoende vloeibaar is, wordt overgegaan tot het gieten in de siliconen mallen.
+In dit project wordt uitgelegd hoe je zelf gepersonaliseerde zeepjes kan maken. 
+We starten met het 3D-printen van een door de maker ontworpen vorm. Vanuit deze vorm gaan we over tot het maken van een siliconen mal. Eens de siliconen mallen klaar zijn, kan er overgegaan worden naar het maken van de zeepjes, het smelten en het toevoegen van geuradditieven en kleurstoffen. Eens de zeep voldoende vloeibaar is, wordt overgegaan tot het gieten in de siliconen mallen.
 
 *Deze handleiding werd ontwikkeld door **Gertjan Ameryckx** voor Maakbib*.
 
@@ -96,7 +96,7 @@ Tenslotte in fase C smelten en gieten we de zeep in de silionemal.
 We werken in deze handleiding met een vogeltje als voorbeeld, maar je mag zelf natuurlijk je eigen vorm kiezen.
 
 ## Fase A: Ontwerp je 3D-geprinte mal
-In deze fase gaan we ervan uit dat je reeds ervaring hebt met een tekenprogramma naar keuze. Hier focussen we op de nodige regeltjes om een goede mal te bekomen.
+In deze fase gaan we ervan uit dat je reeds ervaring hebt met een tekenprogramma naar keuze, bevoorbeeld [Tinkercad]({{ site.baseurl }}/Tinkercad-handleiding-01/). Hier focussen we op de nodige regeltjes om een goede mal te bekomen.
 
 Na de eerste vier stappen heb je het ontwerp van je zeepje. De mal ontwerp je in de laatste zes stappen.
 
@@ -104,7 +104,7 @@ Na de eerste vier stappen heb je het ontwerp van je zeepje. De mal ontwerp je in
 
 #### Stap 1: Teken je vorm
 Open je gekozen tekenprogramma en ontwerp hierin de vorm van je zeepjes.
-In de meeste programma's kan je afbeeldingen van het internet laten overtrekken. 
+In de meeste programma's kan je afbeeldingen van het internet laten overtrekken, zie bv voor Inkscape onze [activiteit sleutelhanger maken]({{ site.baseurl }}/sleutelhanger-maken-met-inkscape/). 
 Als je Fusion 360 gebruikt, kan je dit <a href="https://www.youtube.com/watch?v=twgAwrnEVNw">filmpje</a> bekijken.
 
 ![A1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG1.png)
@@ -183,16 +183,17 @@ Om over te gaan naar fase B moeten we enkel de 3D-geprinte mal nog assembleren. 
 
 Let op: Maak de staafjes enkel vast aan de vorm en niet aan de omkasting!
 
-Je resultaat zou er ongeveer zo moeten uitzien.
+Je resultaat zou er ongeveer zo moeten uitzien:
 
 ![A10]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG17.png)
 
 #### Bestanden van het voorbeeld
 Hier kan je de verschillende soorten bestanden van het voorbeeld ontwerp en de bijbehorende mal terugvinden: 
-<li>STL bestanden van <a href="assets/images/2020_07-13-3DPrint_Zeepjes/stl/Zeepvorm.STL">het ontwerp</a> en <a href="assets/images/2020_07-13-3DPrint_Zeepjes/stl/Omkasting.STL">de mal</a></li>
-<li>IGS bestanden van <a href="assets/images/2020_07-13-3DPrint_Zeepjes/iges/Zeepvorm.IGS">het ontwerp</a> en <a href="assets/images/2020_07-13-3DPrint_Zeepjes/iges/Omkasting.IGS">de mal</a></li>
-<li>STEP bestanden van <a href="assets/images/2020_07-13-3DPrint_Zeepjes/step/Zeepvorm.STEP">het ontwerp</a> en <a href="assets/images/2020_07-13-3DPrint_Zeepjes/step/Omkasting.STEP">de mal</a></li>
-<li>SLDR bestanden van <a href="assets/images/2020_07-13-3DPrint_Zeepjes/sldr/Zeepvorm.SLDPRT">het ontwerp</a> en <a href="assets/images/2020_07-13-3DPrint_Zeepjes/sldr/Omkasting.SLDPRT">de mal</a></li>
+
+* STL bestanden van [het ontwerp]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/stl/Zeepvorm.STL) en <a href="{{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/stl/Omkasting.STL">de mal</a>
+* IGS bestanden van <a href="{{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/iges/Zeepvorm.IGS">het ontwerp</a> en <a href="{{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/iges/Omkasting.IGS">de mal</a>
+* STEP bestanden van <a href="{{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/step/Zeepvorm.STEP">het ontwerp</a> en <a href="{{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/step/Omkasting.STEP">de mal</a>
+* SLDR bestanden van <a href="{{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/sldr/Zeepvorm.SLDPRT">het ontwerp</a> en <a href="{{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/sldr/Omkasting.SLDPRT">de mal</a>
 
 
 ## Fase B: Giet de siliconen mal
@@ -232,7 +233,7 @@ Plaats op deze constructie een gewicht, bijvoorbeeld een bokaal met water. Tik v
 
 ![B2.3]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG36.png)
 
-Laat deze opstelling 24u rusten zodat de silicone kan uitharden.
+Laat deze opstelling **24u rusten** zodat de silicone kan uitharden.
 
 #### Stap 3: Maak de siliconen mal vrij
 Neem een breekmes en maak de siliconen mal vrij. 
@@ -254,7 +255,7 @@ Om de zeep te smelten, maken we gebruik van een au bain marie. Dit kan je opstel
 ![C1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG52.jpg)
 
 Vul de onderste pot met water totdat het water tot in de helft van de bovenste pot komt. Er mag dus meer water in dan in de schets hierboven.
-Verwarm vervolgens het water tot een temperatuur van ong. 75°C. Als het water te warm wordt, zal er lucht in de zeep ontstaan.
+Verwarm vervolgens het water tot een temperatuur van ongeveer 75°C. Als het water te warm wordt, zal er lucht in de zeep ontstaan.
 
 #### Stap 2: Smelt de zeep
 Snij kleine en fijne stukjes zeep af tot je ongeveer 100 gram hebt. 100 gram zou voldoende moeten zijn voor 4 zeepjes, maar dit is afhankelijk van je vorm natuurlijk. Smelt deze dan in de au bain marie.
@@ -274,7 +275,7 @@ Een paar druppels geurstof volstaat voor onze zeepjes. Te veel geurstof laat de 
  
  Enerzijds kan er water op je zeep condenseren. Hierbij komt het vocht van de druppels van buitenaf op je zeep terecht.
  
- Anderzijds kan het ook zijn dat je zeep aan het "zweten" is. Dan komt het vocht vanuit je zeep naar het oppervlak! Je wilt dit zoveel mogelijk voorkomen dat je zeep zweet omdat je zeep daardoor sneller kleiner wordt. In ons project voorkomen we dit probleem door ervoor te zorgen dat we niet te veel geurstof toevoegen.
+ Anderzijds kan het ook zijn dat je zeep aan het "zweten" is. Dan komt het vocht vanuit je zeep naar het oppervlak! Je wil zoveel mogelijk voorkomen dat je zeep zweet omdat je zeep daardoor sneller kleiner wordt. In ons project voorkomen we dit probleem door ervoor te zorgen dat we niet te veel geurstof toevoegen.
  
  Als je zeep begint te zweten, kan je het met keukenpapier deppen en even wegleggen. Hierdoor zal het vanzelf stoppen met zweten.
 
@@ -288,7 +289,7 @@ Eenmaal alles goed gemengd is, kunnen we de zeep in de siliconen mal gieten.
 Laat elk zeepje 15 minuten uitharden.
 
 #### Stap 5: Maak de zeepjes vrij
-Na 15 minuten wachten kan je nu de zeepjes uit de mal halen. 
+Na 15 minuten wachten kan je de zeepjes uit de mal halen. 
 
 ![C5.1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG45.png)
 
@@ -307,7 +308,7 @@ Nadien draai je de mal om en duw je op verschillende plekken om je zeepvormpjes 
 Nu ben je klaar en heb je je zelfgemaakte zeepjes!
 
 #### Stap 6: Finale afwerkingen
-Je kan met een wattenstaafje en isopropyl alcohol eventuele foutjes bijwerken. Opgelet, wees hier wel zeer voorzichtig mee. Je zet hiervoor best een veiligheidsbril op. 
+Je kan met een wattenstaafje en isopropyl alcohol eventuele foutjes bijwerken. Opgelet, wees hier wel **zeer voorzichtig mee**. Je zet hiervoor **een veiligheidsbril op**. 
 
 ![C6.1]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG57.png)
 
@@ -316,13 +317,13 @@ Je kan je zeepjes ook in een leuke verpakking steken.
 ![C6.2]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG51.png)
 
 #### Maak je eigen zeep
-Als je geïntereseerd bent in chemie, kan je ook je eigen zeep maken met palmolie, olijfolie, natriumhydroxide en keukenzout. Je kan dat doen aan de hand van <a href="https://www.youtube.com/watch?v=UNCm60q_1Hk">dit filmpje</a>.
+Als je geïnteresseerd bent in chemie, kan je ook je eigen zeep maken met palmolie, olijfolie, natriumhydroxide en keukenzout. Je kan dat doen aan de hand van <a href="https://www.youtube.com/watch?v=UNCm60q_1Hk">dit filmpje</a>.
 
 ## Weetjes over zeep
 <div class="border_boxmaakbib01_img" markdown="1">
 #### Weetjes
 * **`Hoe lang bestaat zeep al?`**  
- Zeep wordt al minstens 4800 jaar gebruikt! Zelfs in de tijd van de Oude Egyptenaren gebruikten ze een middel dat op het hedendaagse zeep lijkt.
+ Zeep wordt al minstens 4800 jaar gebruikt! Zelfs in de tijd van de Oude Egyptenaren gebruikten ze een middel dat op de hedendaagse zeep lijkt.
  
 * **`Waar komt de naam "zeep" vandaan?`**  
  Volgens een oude Romeinse legende komt de naam voor zeep van de fictieve berg Sapo. Daarbij zouden de Romeinse plattelandsvrouwen zeep per toeval ontdekt hebben. De klei van de oevers van de Tiber was vermengd met dierlijk vet en as; dit hielp hen bij het wassen van hun kleding. 
