@@ -18,7 +18,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [tinkering, wetenschappen, natuurkunde ]
+categories: [tinkering, wetenschappen ]
 image: assets/images/2020-05-20-kabelbaan/kabelbaanbasic - 0.jpg
 tijd: 1 uur tot 3 uur
 print: assets/images/2020-05-20-kabelbaan/kabelbaan.pdf

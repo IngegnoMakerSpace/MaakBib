@@ -12,7 +12,7 @@ pijler_tinkering : true
 pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
-categories: [ chemie ]
+categories: [ wetenschappen ]
 image: assets/images/2020-01-25-etsen-van-glas-low-tech/glas_etsen00.jpg
 print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
 downloads:

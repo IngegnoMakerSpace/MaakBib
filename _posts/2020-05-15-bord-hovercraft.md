@@ -18,7 +18,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [tinkering, wetenschappen, natuurkunde ]
+categories: [tinkering, wetenschappen ]
 image: assets/images/2020-05-15-bord hovercraft/eehovercraft - 12.jpg
 tijd: 60 min
 print: assets/images/2020-05-15-bord hovercraft/handleiding-bord-hovercraft.pdf

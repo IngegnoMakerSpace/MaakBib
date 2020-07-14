@@ -18,7 +18,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [ Robotica, Chemie ]
+categories: [ robotica, wetenschappen ]
 image: assets/images/2020_07-14-KleiRobot/FIG0.jpg
 tijd: 1 uur
 print: assets/images/2020_07-14-KleiRobot/Makers voor Makers Lichtgevende kleirobot.docx 

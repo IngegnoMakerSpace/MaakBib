@@ -18,7 +18,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [ 2D tekenen, drukken, textiel bedrukken ]
+categories: [ 2D-tekenen, wetenschappen, textiel bedrukken ]
 image: assets/images/2020-05-18-zeefdruk-met-lijm/cover.png
 tijd: 90 min
 print: assets/images/2020-05-18-zeefdruk-met-lijm/Makers voor Makers - zeefdruk met lijm.pdf

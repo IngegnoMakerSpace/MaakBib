@@ -18,7 +18,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : true
 licence: CCBY-NC-SA 
-categories: [tinkering, wetenschappen, natuurkunde ]
+categories: [tinkering, wetenschappen, arduino]
 image: assets/images/2020-06-30-IOT-Energieverbruikhulp/image6.jpeg
 tijd: + 3 uur
 print: assets/images/2020-06-30-IOT-Energieverbruikhulp/IOT_energieverbruik_helper.pdf

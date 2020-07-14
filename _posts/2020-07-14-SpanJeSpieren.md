@@ -18,7 +18,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : true
 licence: CCBY-NC-SA 
-categories: [ Robotica, Biologie ]
+categories: [ robotica, wetenschappen ]
 image: assets/images/2020_07-14-SpanJeSpieren/Fig0.png
 tijd: 3 uur
 print: assets/images/2020_07-14-SpanJeSpieren/Makers voor Makers Span je spieren.pdf 

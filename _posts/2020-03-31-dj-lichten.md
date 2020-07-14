@@ -15,7 +15,7 @@ pijler_tinkering : true
 pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : true
-categories: [ design&hack, physical computing, lasercutter, 2d-tekenen ]
+categories: [ design&hack, physical computing, lasercutter, 2D-tekenen ]
 image: assets/images/2020-03-31-dj-lichten/dj-lichten.png
 imgdir: /assets/images/2020-03-31-dj-lichten/
 tijd: 60 min

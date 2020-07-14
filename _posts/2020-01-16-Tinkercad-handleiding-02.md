@@ -16,7 +16,7 @@ pijler_tinkering : false
 pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : false
-categories: [ software, 3D-printer]
+categories: [ software, 3D-printen]
 image: assets/images/2020-01-16-Tinkercad-handleiding-02/hoofding.png
 print: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
 downloads:

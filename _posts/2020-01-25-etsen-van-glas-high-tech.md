@@ -15,7 +15,7 @@ pijler_tinkering : false
 pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : true
-categories: [ chemie, snijplotter, 2D-tekenen, Physical Computing ]
+categories: [ wetenschappen, snijplotter, 2D-tekenen, physical computing, arduino ]
 image: assets/images/2020-01-25-etsen-van-glas-high-tech/in_werking.png
 print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
 downloads:

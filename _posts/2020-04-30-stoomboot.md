@@ -16,7 +16,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [tinkering, wetenschappen, natuurkunde ]
+categories: [tinkering, wetenschappen ]
 image: assets/images/2020-04-30-stoomboot/stoomboot_foto1.jpg
 tijd: 90 min
 print: assets/images/2020-04-30-stoomboot/Handleiding_Stoomboot.pdf

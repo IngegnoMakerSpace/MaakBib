@@ -6,7 +6,7 @@ featured: true
 lowtech: true
 midtech: true
 hightech: true
-categories: [ 3D-printer, lasercutter, warmtepers, snijplotter]
+categories: [ 3D-printen, lasercutter, warmtepers, snijplotter]
 image: assets/draaiboeken/toolcard-3dprint.png
 imgdir: /assets/draaiboeken/toolcards/
 downloads: 

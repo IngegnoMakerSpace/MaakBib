@@ -15,7 +15,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [ chemie, 2D-tekenen  ]
+categories: [ wetenschappen, 2D-tekenen  ]
 image: assets/images/2020-04-10-etsen-van-metaal-low-tech/resultaat.png
 tijd: 60 min
 print: assets/images/2020-04-10-etsen-van-metaal-low-tech/Handleiding_etsen_metaal.pdf  

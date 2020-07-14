@@ -16,7 +16,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [ solderen, elektronica, experimenteren, wetenschap ]
+categories: [ solderen, elektronica, wetenschappen ]
 image: assets/images/2020-04-28-kriebels-zelfinductie/afgewerktproject.jpg
 tijd: + 3 uur
 print: assets/images/2020-04-28-kriebels-zelfinductie/Makers voor Makers Kriebels zelfinductie.pdf

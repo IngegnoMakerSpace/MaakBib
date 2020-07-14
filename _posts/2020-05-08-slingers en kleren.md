@@ -15,7 +15,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [tinkering, ontwerp ]
+categories: [tinkering, prototyping ]
 image: assets/images/2020-05-08-slingers-en-kleren/wcrolkleed.png
 tijd: 90 min
 print: assets/images/2020-05-08-slingers-en-kleren/KledingChallenge_Feest_KinderBib_dekrook.pdf
