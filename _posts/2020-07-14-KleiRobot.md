@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maak een lichtgevende robot van klei"
+title:  "Robot van geleidende klei"
 featured: false
 published: true
 authors: [guest]
@@ -164,8 +164,7 @@ Een stof kan alleen stroom geleiden als er deeltjes aanwezig zijn die de elektro
 Metaal geleidt stroom in vaste én in vloeibare vorm. Dat komt omdat er vrij bewegende elektronen in metaal zitten. Deze vrije elektronen kunnen de stroom (eigenlijk ook gewoon elektronen!) gemakkelijk doorgeven. Kijk maar eens goed naar de kabeltjes met de krokodillenbekjes. In het plastic zit koperdraad. Daarom geleiden deze kabeltjes de stroom zo goed. 
 
 Zout geleid alleen stroom als het vloeibaar is of opgelost in water. De ionen in het zout zorgen dan voor de geleiding. Er bestaan twee soorten ionen: positief en negatief. De geladen ionen zitten op hun plaats vast als een zout in vaste vorm is. De ionen komen los van elkaar als het zout smelt of wordt opgelost in water. De geladen deeltjes kunnen dan vrij bewegen en hierdoor kan er lading verplaatst worden. Zoals je kunt zien in het recept van de geleidende klei hieronder, wordt het zout opgelost in water. Daarom kan deze klei de stroom geleiden!
- 
- 
+
 </div>
 
 
