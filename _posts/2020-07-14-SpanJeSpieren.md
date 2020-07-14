@@ -19,12 +19,12 @@ pijler_digitale_fabricatie : false
 pijler_physical_computing : true
 licence: CCBY-NC-SA 
 categories: [ robotica, wetenschappen ]
-image: assets/images/2020_07-14-SpanJeSpieren/Fig0.png
+image: assets/images/2020-07-14-SpanJeSpieren/Fig0.png
 tijd: 3 uur
-print: assets/images/2020_07-14-SpanJeSpieren/Makers voor Makers Span je spieren.pdf 
+print: assets/images/2020-07-14-SpanJeSpieren/Makers voor Makers Span je spieren.pdf 
 downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020_07-14-SpanJeSpieren/Makers voor Makers Span je spieren.pdf  
+    file: assets/images/2020-07-14-SpanJeSpieren/Makers voor Makers Span je spieren.pdf  
 materialen_dontshow: true
 tools_show: false
 
@@ -64,7 +64,7 @@ Dit stappenplan bouwt stap voor stap een eenvoudig EMG systeem. Dit is een instu
   </ul>
 </div>
 
-![B1]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig1.png)
+![B1]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig1.png)
 
 <div class="benodigdheden">
   <ul>
@@ -78,7 +78,7 @@ Dit stappenplan bouwt stap voor stap een eenvoudig EMG systeem. Dit is een instu
  </ul>
 </div>
 
-![B2]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig2.png)
+![B2]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig2.png)
 
 
 {% include benodigdheden.html %}
@@ -98,23 +98,23 @@ De witte draad zet je vast aan het RAW signaal aan de andere kant van de sensor.
 
 Je resultaat zou er als volgt moeten uitzien:
 
-![SS2.1]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig4.png)
+![SS2.1]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig4.png)
 
 Zet de kabels vast met twee druppeltjes lijm zodat de kabels parallel lopen en het contact beschermd is.
 
-![SS2.2]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig5.png)
+![SS2.2]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig5.png)
 
 #### Stap 3: Electrodes aan de sensor
 Maak de oppervlakte-electrodes vast aan de sensor. Twee electrodes klikken vast via de drukknop aan de onderzijde van de sensor; een derde wordt vastgemaakt aan de drukknop van de zwarte kabel.
 
 Je resultaat ziet er dan als volgt uit:
 
-![SS3]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig6.png)
+![SS3]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig6.png)
 
 #### Stap 4: Sluit de microbit aan
 Verbind de kabels via de krokodillenklemmetjes de rode draad (+) van de sensor met de 3V uitgang van de microbit, de zwarte draad (-) met de GND van de microbit en de witte draad (RAW) met kanaal 1 van de microbit. Gebruik je een tweede sensor, sluit deze dan op dezelfde manier aan maar breng het signaal over naar kanaal 2.
 
-![SS4]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig7.png)
+![SS4]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig7.png)
 
 ## Metingen Uitvoeren
 #### Stap 1: Microbit programmeren
@@ -122,7 +122,7 @@ In de makecode software, maak je een forever loop die drie variabelen wegschrijf
 
 In onderstaand voorbeeld, zit er een sensor op de biceps en een op de triceps van de bovenarm en meten we tegelijkertijd de ellebooghoek door de microbit zelf.
 
-![MS1]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig8.png)
+![MS1]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig8.png)
 
 
 #### Stap 2: Spiersensor aanbrengen
@@ -132,33 +132,33 @@ De myoware sensor breng je aan op de buik van de spier. De electrode die vasthan
 
 In het voorbeeld van de biceps, breng je de referentiekabel aan de elleboog aan, om vervolgens de twee spierelectrodes aan te brengen. Dit doe je door aan je testpersoon te vragen zijn spieren hard op te spannen. Voel waar de spier loopt en breng de sensor parallel aan op de looprichting van de spier. Vraag je testpersoon of hij/zij zijn arm nog goed kan strekken of buigen.
 
-![MS2]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig9.png)
+![MS2]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig9.png)
 
 #### Stap 3: Microbit aanbrengen
 Plaats de microbit tegen de huid, parallel met de arm. Wees voorzichtig dat de draden niet kruisen. Zet de microbit vast met een velcro kabelbinder of sporttape. Verbind de microbit met de kabel naar de laptop via de microUSB poort aan de bovenzijde van de microbit naar de USB poort van de laptop.
 
-![MS3]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig10.png)
+![MS3]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig10.png)
 
 #### Stap 4: Opstelling testen
 Download het programma naar de microbit. Van zodra de microbit verbonden is met de laptop, verscheen ook de knop “show console device” in de MakeCode Editor. Klik op deze knop en een grafiek met de real time data verschijnt op het scherm.
 
-![MS4.1]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig11.png)
+![MS4.1]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig11.png)
 
 Test eerst de hoek. Buig en strek de arm zonder de schouder te bewegen. De hoek die op de grafiek verschijnt zou moeten overeenkomen met de hoek van de onderarm met een horizontale. Is dit niet het geval, dan kan je ofwel de microbit zelf draaien of in het programma “roll” in plaats van “pitch” selecteren. Download het nieuwe programma naar de microbit en test de hoek opnieuw.
 
-![MS4.2]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig12.png)
+![MS4.2]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig12.png)
 
 Test daarna de spiersensor. Vraag je testpersoon de spieren krachtig op te spannen en te ontspannen. De amplitude (uitwijking) van het EMG signaal zou duidelijk zichtbaar moeten zijn. Is er heel veel ruis, ook bij het niet aanspannen van de spier en het bewegen van de arm, zorg er dan voor dat de laptop op de batterij werkt en niet in het stopcontact zit. Werkt de sensor nog steeds niet, kijk dan goed na of je correct gesoldeerd hebt.
 
 #### Stap 5: Spieractiviteit meten
 Als alles werkt, herstart je de meting door op "Go Back" te klikken en daarna opnieuw op "Show Console Device". Dit maakt de opnamegrafiek leeg. Normaal gezien begint de opname vanzelf, tenzij je op de pauzeknop gedrukt hebt. Ben je tevreden over je meting, download deze dan via de knoppen rechtsboven.
 
-![MS5]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig13.png)
+![MS5]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig13.png)
 
 #### Stap 6: Data analyseren
 Open het gedownload cvs bestand in excel. Maak een grafiek met de EMG patronen op de primaire Y-as en de hoek op een secondair Y-as. Zo worden beide signalen maximaal verspreid over de grafiek. Kijk naar de timing van de spieractiviteit en de armhoek.
 
-![MS6]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig14.png)
+![MS6]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig14.png)
 
 Op deze grafiek stijgt de oranje curve als de arm buigt, en daalt ze als de arm strekt (oranje pijlen). De biceps is actief (de amplitude gaat omhoog, aangegeven door blauwe pijl) als de arm buigt. Dit komt overeen met de functie van de biceps: de arm te buigen. De biceps is nog even actief aan het begin van het strekken: de biceps stabiliseert de arm terwijl de triceps de arm strekt. In deze test boog en strekte de testpersoon de arm drie keer.
 
@@ -171,7 +171,7 @@ Probeer telkens voor je een test doet, goed na te denken over je vraag, en een h
 
 Technisch gezien, kan je ook nog een en ander aanpassen. De frequentie (hoeveel metingen per seconde) waarmee de microbit het EMG signaal registreert is laag, een andere DAQ-board of een Arduino kan aan een hogere frequentie samplen waardoor het EMG signaal duidelijker zal zijn. Undersampling bij de microbit zorgt ervoor dat het signaal soms een onverwachte vorm heeft.
 
-![MS7]({{ site.baseurl }}/assets/images/2020_07-14-SpanJeSpieren/Fig15.png)
+![MS7]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig15.png)
 
 Je kan ook de spiersensor aansluiten op de EMG envelope in plaats van de RAW data (A). Dit signaal wordt eerst positief gemaakt (B) en geintegreerd (C). Dit signaal is duidelijker maar het echte effect van een EMG is dan weg.
 

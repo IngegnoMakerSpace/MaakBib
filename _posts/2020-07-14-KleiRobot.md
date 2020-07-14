@@ -19,12 +19,12 @@ pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
 categories: [ robotica, wetenschappen, elektronica ]
-image: assets/images/2020_07-14-KleiRobot/FIG0.jpg
+image: assets/images/2020-07-14-KleiRobot/FIG0.jpg
 tijd: 1 uur
-print: assets/images/2020_07-14-KleiRobot/Makers voor Makers Lichtgevende kleirobot.docx 
+print: assets/images/2020-07-14-KleiRobot/Makers voor Makers Lichtgevende kleirobot.docx 
 downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020_07-14-KleiRobot/Makers voor Makers Lichtgevende kleirobot.docx 
+    file: assets/images/2020-07-14-KleiRobot/Makers voor Makers Lichtgevende kleirobot.docx 
     
 materialen: [
     Geleidende klei (bv. Play-doh), 
@@ -60,7 +60,7 @@ Hiervoor zal je het volgende nodig hebben:
 * 1 theelepel olie
 * 120 ml water
 
-![G1]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Geleidende klei maken 1.jpg)
+![G1]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/Geleidende klei maken 1.jpg)
 
 Het zout en het water zullen ervoor zorgen dat de klei de stroom zal geleiden. Geleidende klei wordt ook wel eens zoute klei genoemd.
 
@@ -70,13 +70,13 @@ Om de klei te maken moet je de volgende stappen volgen:
 * Kook het geheel op een klein vuur. Roer steeds! Je zult zien dat de mix dikker wordt.
 * Blijf goed roeren en prakken totdat er een grote bal ontstaat.
 
-![G2]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Geleidende klei maken 2.jpg)
+![G2]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/Geleidende klei maken 2.jpg)
 
 * Strooi wat bloem op het aanrecht en leg hier de bal op. Pas op: de klei is heet! Laat deze daarom eerst afkoelen. Kneed de bloem daarna door de klei.
 
 En klaar is je zoute, geleidende klei!
 
-![G3]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Geleidende klei maken 3.jpg)
+![G3]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/Geleidende klei maken 3.jpg)
 
 Hieronder geven we nog wat tips:
 * Roer voedingskleurstof door het water om mooi gekleurde klei te maken.
@@ -91,7 +91,7 @@ Hiervoor zal je het volgende nodig hebben:
 * 3 theelepel olie
 * 60 ml gedestileerd water
 
-![NG1]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Niet-geleidende klei maken 1.jpg)
+![NG1]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/Niet-geleidende klei maken 1.jpg)
 
 Deze klei is resistief, wat betekent dat de doorgang van elektrische stroom belemmerd wordt. Niet-geleidende klei wordt ook wel eens zoete klei genoemd.
 
@@ -101,11 +101,11 @@ Om de klei te maken moet je de volgende stappen volgen:
 * Kneed het dan met de hand tot een plakkerige klei. Als het nodig is, kun je er nog een beetje extra water bij doen.
 * Kneed nu het restje bloem door de klei totdat deze mooi glad en soepel is.
 
-![NG2]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Niet-geleidende klei maken 2.jpg)
+![NG2]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/Niet-geleidende klei maken 2.jpg)
 
 En klaar is je zoete, niet-geleidende klei!
 
-![NG3]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Niet-geleidende klei maken 3.jpg)
+![NG3]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/Niet-geleidende klei maken 3.jpg)
 
 Hieronder geven we nog wat tips:
 * Roer voedingskleurstof door het water om mooi gekleurde klei te maken.
@@ -119,7 +119,7 @@ Eerst maken we een stroomkring. Plaats elk pootje van de LED in een verschillend
 
 Verbind vervolgens een kabel aan de positieve pool en de andere kabel aan de negatieve pool van de batterij. Klem dan elk van de uiteindes van de kabels in een bolletje klei. Als de LED brandt werkt je stroomkring. Zo niet, moet je de kabels omwisselen. Brand je LED te helder? Voeg dan extra klei toe tussen de kabel en het LED beentje. Brand je LED te zwak? Plaats dan je kabel dichter bij je LED, of gebruik een sterkere batterij. Opgelet, **niet** met meer dan 9V werken! 
 
-![S1]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/FIG1.jpg)
+![S1]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/FIG1.jpg)
 
 De bolletjes zullen later de ogen voorstellen en de LED de neus van onze robot. 
 
@@ -128,7 +128,7 @@ Het lampje brandt enkel als de bolletjes elkaar niet raken. Als ze elkaar wel ra
 
 Voeg een bolletje niet-geleidende klei toe tussen de ogen van de robot. Door dit stukje toe te voegen, voorkomen we dat er stroom direct tussen de bolletjes zou vloeien en dus voor een kortsluiting zou zorgen.
 
-![S2]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/FIG2.jpg)
+![S2]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/FIG2.jpg)
 
 #### Stap 3: Maak de robot af
 Nu we een veilige stroomkring hebben, kunnen we de robot verder afwerken.
@@ -137,7 +137,7 @@ Je kan de ogen afwerken door er kleine stukjes niet-geleidende klei op te plakke
 
 Je kan ook tandenstokers gebruiken om je robot armen en benen te geven. 
 
-![S3.1]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/FIG3.jpg)
+![S3.1]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/FIG3.jpg)
 
 Je mag er van alles van maken, maar je moet wel oppassen: 
 * Verschillende stukken geleidende klei mogen elkaar niet aanraken
@@ -148,11 +148,11 @@ Als de vorige stappen gelukt zijn, kan je nu aan de slag om je eigen robot te ma
 
 Maak je eigen figuur. Dit hoeft natuurlijk geen robot te zijn. Probeer uit en maak wat je zelf mooi vindt!
 
-![S4.1]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Lichtgevende kleirobot_maak het je eigen 2.jpg)
+![S4.1]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/Lichtgevende kleirobot_maak het je eigen 2.jpg)
 
 Je kunt ook werken met alleen geleidende klei. Zorg dan dat je figuurtjes maakt die elkaar niet raken! Probeer maar eens wat er gebeurt als je ze wel tegen elkaar aandrukt.
 
-![S4.2]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Lichtgevende kleirobot_maak het je eigen 1.jpg)
+![S4.2]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/Lichtgevende kleirobot_maak het je eigen 1.jpg)
 
 Probeer ook eens om meerdere LEDjes tegelijk te laten branden! Wat zie je aan de lampjes? Branden ze nog even fel? 
 
