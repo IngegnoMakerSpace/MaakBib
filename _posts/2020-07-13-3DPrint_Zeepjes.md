@@ -257,6 +257,18 @@ Om de zeep te smelten, maken we gebruik van een au bain marie. Dit kan je opstel
 Vul de onderste pot met water totdat het water tot in de helft van de bovenste pot komt. Er mag dus meer water in dan in de schets hierboven.
 Verwarm vervolgens het water tot een temperatuur van ongeveer 75°C. Als het water te warm wordt, zal er lucht in de zeep ontstaan.
 
+<div class="border_boxmaakbib03_img" markdown="1">
+#### Au bain-marie ...
+De techniek au bain-marie is afkomstig uit de alchemie. Deze wordt gebruikt om dingen te verwarmen of te destilleren en wordt het vaakst gebruikt wanneer er met delicate ingrediënten wordt gewerkt waarvan je liever niet wil dat ze in direct contact komen met een hittebron. 
+
+#### Hoe werkt het?  
+Bij deze techniek wordt een pan of kom met gerechten in een waterbad (warm of koud) geplaatst om de temperatuur te doen verhogen (of dalen). Dankzij de geleidelijke verhitting van het water dat in een groter reservoir zit, kan de inhoud van het kleinere reservoir uitermate goed kunnen worden beheerst.
+
+#### Wie heeft het uitgevonden? 
+Over de herkomst van de methode zijn geen concrete data, maar men weet dat deze gebruikt wordt sinds de tijden van Hippocrates (4e eeuw voor Christus). De naam komt van de joodse alchemiste uit Egypte, <a href="http://scihi.org/mary-the-jewess-origins-chemistry/">`Maria van Alexandrië`</a>, die op deze manier  bepaalde bereidingen langzaam liet opwarmen. Maria wordt beschouwd als de eerste echte alchemist! 
+
+</div>
+
 #### Stap 2: Smelt de zeep
 Snij kleine en fijne stukjes zeep af tot je ongeveer 100 gram hebt. 100 gram zou voldoende moeten zijn voor 4 zeepjes, maar dit is afhankelijk van je vorm natuurlijk. Smelt deze dan in de au bain marie.
 
@@ -318,8 +330,6 @@ Je kan je zeepjes ook in een leuke verpakking steken.
 
 #### Maak je eigen zeep
 Als je geïnteresseerd bent in chemie, kan je ook je eigen zeep maken met palmolie, olijfolie, natriumhydroxide en keukenzout. Je kan dat doen aan de hand van <a href="https://www.youtube.com/watch?v=UNCm60q_1Hk">dit filmpje</a>.
-
-## Weetjes over zeep
 <div class="border_boxmaakbib01_img" markdown="1">
 #### Weetjes
 * **`Hoe lang bestaat zeep al?`**  
@@ -329,5 +339,13 @@ Als je geïnteresseerd bent in chemie, kan je ook je eigen zeep maken met palmol
  Volgens een oude Romeinse legende komt de naam voor zeep van de fictieve berg Sapo. Daarbij zouden de Romeinse plattelandsvrouwen zeep per toeval ontdekt hebben. De klei van de oevers van de Tiber was vermengd met dierlijk vet en as; dit hielp hen bij het wassen van hun kleding. 
  
 </div>
+## STEM
+In dit project krijg je  inzichten  in **productie processen**: `serieproductie` (batch productie). Er wordt gefocust op het begrip gietmal en gietmaterialen. 
+Er zijn verschillende materialen en methoden om mallen te maken hier gaat men aan de slag met siliconen en zogenaamde enkelvoudige mallen. 
+
+Bij het maken van het moeder object staan meetkundige aspecten centraal die belangrijk zijn voor zowel het 3D-printen maar ook voor het mogelijk maken van het ontmallen van het gegoten materiaal.
+
+
+
 
 
