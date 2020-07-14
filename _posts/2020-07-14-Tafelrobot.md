@@ -2,7 +2,7 @@
 layout: post
 title:  "Tafelrobot"
 featured: false
-published: false
+published: true
 authors: [guest]
 author_name: "Yvon Masyn"
 lowtech: false
