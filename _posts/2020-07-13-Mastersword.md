@@ -21,7 +21,7 @@ licence: CCBY-NC-SA
 categories: [solderen, elektronica, arduino, lasercutter, 3D-printen]
 image: assets/images/2020-07-13-Mastersword/mastersword2.jpg
 tijd: 3u+
-print: /assets/images/2020-07-13-Mastersword/Makers-voor-Makers-Master-Sword.pdf
+print: assets/images/2020-07-13-Mastersword/Makers-voor-Makers-Master-Sword.pdf
 downloads: 
   - name: 'Handleiding'
     file: assets/downloads/2020-07-13-Mastersword/Makers-voor-Makers-Master-Sword.pdf
