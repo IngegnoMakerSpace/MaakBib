@@ -18,7 +18,7 @@ pijler_design_thinking : true
 pijler_digitale_fabricatie : true
 pijler_physical_computing : false
 licence: CCBY-NC-SA
-categories: [solderen, 3D-printen]
+categories: [robotica, solderen, 3D-printen]
 image: assets/images/2020-07-14-Tafelrobot/tafelrobot foto - 0.jpg
 tijd: 3u+
 print: assets/downloads/2020-07-14-Tafelrobot/tafelrobot.docx.pdf
