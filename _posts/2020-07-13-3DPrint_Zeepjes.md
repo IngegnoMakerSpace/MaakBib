@@ -59,7 +59,7 @@ benodigdheden_opt: [
       Verpakking,
       ]
 ---
-Ontwerp en giet je eigen zeepjes!  
+Ontwerp je eigen zeepvorm en giet hier een mal van om je eigen zeepjes te maken!
 
 In dit project wordt uitgelegd hoe je zelf gepersonalisserde zeepje kan maken. 
 We starten met het 3D-printen van een door de maker ontworpen vorm. Vanuit deze vorm gaan we over tot het maken van een siliconen mal. Eens de siliconen mallen klaar zijn, kan er overgegaan worden naar het maken van de zeepjes. Het smelten en het toevoegen van geuradditieven en kleurstoffen. Eens de zeep voldoende vloeibaar is, wordt overgegaan tot het gieten in de siliconen mallen.

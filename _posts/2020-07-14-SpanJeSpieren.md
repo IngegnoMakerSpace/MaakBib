@@ -1,30 +1,30 @@
 ---
 layout: post
-title:  "Robot van geleidende klei"
+title:  "Span je spieren"
 featured: false
 published: true
 authors: [guest]
-author_name: "Petri Duijsters"
-lowtech: true
-midtech: false
+author_name: "Sandra Nauwelaerts"
+lowtech: false
+midtech: true
 hightech: false
 DIT: true
 DIY: true
 CHALLENGE: false
-moeilijkheidsgraad_1_3: 1
+moeilijkheidsgraad_1_3: 2
 prijs_1_3: 1
 pijler_tinkering : true
 pijler_design_thinking : false
 pijler_digitale_fabricatie : false
-pijler_physical_computing : false
+pijler_physical_computing : true
 licence: CCBY-NC-SA 
-categories: [ Robotica, Chemie ]
-image: assets/images/2020_07-14-KleiRobot/FIG0.jpg
-tijd: 1 uur
-print: assets/images/2020_07-14-KleiRobot/Makers voor Makers Lichtgevende kleirobot.docx 
+categories: [ Robotica, Biologie ]
+image: assets/images/2020_07-14-SpanJeSpieren/FIG0.jpg
+tijd: 3 uur
+print: assets/images/2020_07-14-SpanJeSpieren/Makers voor Makers Span je spieren.pdf 
 downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020_07-14-KleiRobot/Makers voor Makers Lichtgevende kleirobot.docx 
+    file: assets/images/2020_07-14-SpanJeSpieren/Makers voor Makers Span je spieren.pdf  
     
 materialen: [
     Geleidende klei (bv. Play-doh), 
@@ -39,11 +39,11 @@ benodigdheden_opt: [
       Zelfgemaakte klei (zie later)
       ]
 ---
-Maak een robot van klei en leer over geleidende en niet-geleidende materialen! 
+Span je spieren! Maak een toestel om je spieractiviteit te meten.  
 
-In dit project zullen we een robot maken van geleidende en niet-geleidende klei. Door hiermee een stroomkring te bouwen, laten we de neus van de robot oplichten met behulp van een LED lampje.
+Dit stappenplan bouwt stap voor stap een eenvoudig EMG systeem. Dit is een instument dat de spieractiviteit in kaart brengt. Tegelijkertijd meet je de gewrichtshoek zodat je beweging kan relateren aan spieractiviteit.
 
-*Deze handleiding werd ontwikkeld door **Petri Duijsters** voor Maakbib*.
+*Deze handleiding werd ontwikkeld door **Sandra Nauwelaerts** voor Maakbib*.
 
 ## Benodigdheden
 
