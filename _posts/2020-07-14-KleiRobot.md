@@ -49,7 +49,69 @@ In dit project zullen we een robot maken van geleidende en niet-geleidende klei.
 
 {% include benodigdheden.html %}
 
-## Handleiding
+## Maak je eigen geleidende en niet-geleidende klei
+Voordat we aan de robot beginnen, zullen we je eerst uitleggen hoe je je eigen geleidende en niet-geleidende klei moet maken. 
+
+#### Geleidende klei
+Hiervoor zal je het volgende nodig hebben:
+* 130 gram bloem
+* 45 gram zout
+* 5 theelepels citroensap
+* 1 theelepel olie
+* 120 ml water
+
+![G1]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Geleidende klei maken 1.jpg)
+
+Het zout en het water zullen ervoor zorgen dat de klei de stroom zal geleiden. Geleidende klei wordt ook wel eens zoute klei genoemd.
+
+Om de klei te maken moet je de volgende stappen volgen:
+* Mix de bloem en het zout door elkaar in een pan. 
+* Meng het citroensap, water en de olie in een kom en doe dit ook in de pan.
+* Kook het geheel op een klein vuur. Roer steeds! Je zult zien dat de mix dikker wordt.
+* Blijf goed roeren en prakken totdat er een grote bal ontstaat.
+
+![G2]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Geleidende klei maken 2.jpg)
+
+* Strooi wat bloem op het aanrecht en leg hier de bal op. Pas op: de klei is heet! Laat deze daarom eerst afkoelen. Kneed de bloem daarna door de klei.
+
+En klaar is je zoute, geleidende klei!
+
+![G3]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Geleidende klei maken 3.jpg)
+
+Hieronder geven we nog wat tips:
+* Roer voedingskleurstof door het water om mooi gekleurde klei te maken.
+* Als je niet weet welke klei geleidend was, kan je altijd eens proeven. Dan proef je heel goed welke zout is.
+* Als je de klei in een luchtdicht zakje of bakje doet, blijft deze een paar weken goed!
+
+
+#### Niet-geleidende klei
+Hiervoor zal je het volgende nodig hebben:
+* 130 gram bloem
+* 60 gram suiker
+* 3 theelepel olie
+* 60 ml gedestileerd water
+
+![NG1]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Niet-geleidende klei maken 1.jpg)
+
+Deze klei is resistief, wat betekent dat de doorgang van elektrische stroom belemmerd wordt. Niet-geleidende klei wordt ook wel eens zoete klei genoemd.
+
+Om de klei te maken moet je de volgende stappen volgen:
+* Mix 80 gram bloem en de suiker door elkaar in een kom. Voeg ook de olie toe.
+* Doe er steeds een eetlepel water bij en roer goed. Het moet er korrelig uitzien.
+* Kneed het dan met de hand tot een plakkerige klei. Als het nodig is, kun je er nog een beetje extra water bij doen.
+* Kneed nu het restje bloem door de klei totdat deze mooi glad en soepel is.
+
+![NG2]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Niet-geleidende klei maken 2.jpg)
+
+En klaar is je zoete, niet-geleidende klei!
+
+![NG3]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Niet-geleidende klei maken 3.jpg)
+
+Hieronder geven we nog wat tips:
+* Roer voedingskleurstof door het water om mooi gekleurde klei te maken.
+* Als je de klei in een luchtdicht zakje of bakje doet, blijft deze een paar weken goed!
+
+## Maak je eigen robot uit klei
 We zullen je nu stap voor stap uitleggen hoe je een robot uit klei maakt. In de plaatjes is de rode klei geleidend en de blauwe klei niet-geleidend.
 
 #### Stap 1: Maak een stroomkring van de geleidende klei
@@ -79,16 +141,30 @@ Je mag er van alles van maken, maar je moet wel oppassen:
 * Verschillende stukken geleidende klei mogen elkaar niet aanraken
 * De twee soorten klei mogen niet door elkaar gekneed worden
 
+#### Maak het je eigen!
+Als de vorige stappen gelukt zijn, kan je nu aan de slag om je eigen robot te maken!
+
+Maak je eigen figuur. Dit hoeft natuurlijk geen een robot te zijn. Probeer uit en maak wat je zelf mooi vindt!
+
+![S4.1]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Lichtgevende kleirobot_maak het je eigen 2.jpg)
+
+Je kunt ook werken met alleen geleidende klei. Zorg dan dat je figuurtjes maakt die elkaar niet raken! Probeer maar eens wat er gebeurt als je ze wel tegen elkaar aandrukt.
+
+![S4.2]({{ site.baseurl }}/assets/images/2020_07-14-KleiRobot/Lichtgevende kleirobot_maak het je eigen 1.jpg)
+
+Probeer ook eens om meerdere LEDjes tegelijk te laten branden! Wat zie je aan de lampjes? Branden ze nog even fel? 
 
 
-## Weetjes over zeep
-<div class="border_boxmaakbib01_img" markdown="1">
-#### Weetjes
-* **`Hoe lang bestaat zeep al?`**  
- Zeep wordt al minstens 4800 jaar gebruikt! Zelfs in de tijd van de Oude Egyptenaren gebruikten ze een middel dat op het hedendaagse zeep lijkt.
+
+
+<div class="border_boxmaakbib03_img" markdown="1">
+#### Wanneer is een stof geleidend?
+Een stof kan alleen stroom geleiden als er deeltjes aanwezig zijn die de elektronenstroom kunnen doorgeven. Dat is zo bij metalen en bij zouten.
+
+Metaal geleidt stroom in vaste én in vloeibare vorm. Dat komt omdat er vrij bewegende elektronen in metaal zitten. Deze vrije elektronen kunnen de stroom (eigenlijk ook gewoon elektronen!) gemakkelijk doorgeven. Kijk maar eens goed naar de kabeltjes met de krokodillenbekjes. In het plastic zit koperdraad. Daarom geleiden deze kabeltjes de stroom zo goed. 
+
+Zout geleid alleen stroom als het vloeibaar is of opgelost in water. De ionen in het zout zorgen dan voor de geleiding. Er bestaan twee soorten ionen: positief en negatief. De geladen ionen zitten op hun plaats vast als een zout in vaste vorm is. De ionen komen los van elkaar als het zout smelt of wordt opgelost in water. De geladen deeltjes kunnen dan vrij bewegen en hierdoor kan er lading verplaatst worden. Zoals je kunt zien in het recept van de geleidende klei hieronder, wordt het zout opgelost in water. Daarom kan deze klei de stroom geleiden!
  
-* **`Waar komt de naam "zeep" vandaan?`**  
- Volgens een oude Romeinse legende komt de naam voor zeep van de fictieve berg Sapo. Daarbij zouden de Romeinse plattelandsvrouwen zeep per toeval ontdekt hebben. De klei van de oevers van de Tiber was vermengd met dierlijk vet en as; dit hielp hen bij het wassen van hun kleding. 
  
 </div>
 
