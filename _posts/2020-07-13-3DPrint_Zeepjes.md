@@ -315,6 +315,9 @@ Je kan je zeepjes ook in een leuke verpakking steken.
 
 ![C6.2]({{ site.baseurl }}/assets/images/2020_07-13-3DPrint_Zeepjes/fotos/FIG51.png)
 
+#### Maak je eigen zeep
+Als je geïntereseerd bent in chemie, kan je ook je eigen zeep maken met palmolie, olijfolie, natriumhydroxide en keukenzout. Je kan dat doen aan de hand van <a href="https://www.youtube.com/watch?v=UNCm60q_1Hk">dit filmpje</a>.
+
 ## Weetjes over zeep
 <div class="border_boxmaakbib01_img" markdown="1">
 #### Weetjes
