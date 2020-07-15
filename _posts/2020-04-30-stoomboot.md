@@ -61,7 +61,7 @@ Maaktijd: ½ uur voor het buiggereedschap, 1 uur voor het maken en testen van de
 
 Materiaalkost onder de 5 EUR.
  
-Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib
+*Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib.*
 
 
 ## Benodigdheden

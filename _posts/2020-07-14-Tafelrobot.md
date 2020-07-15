@@ -47,7 +47,7 @@ nauwkeurig tunen van de hoogte aan de hand van de schroeven.
 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/EW5Oj5OZzFo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
-Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib.
+*Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib.*
 
 ## Benodigdheden
 

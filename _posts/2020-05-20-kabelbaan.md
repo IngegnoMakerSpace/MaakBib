@@ -68,7 +68,7 @@ Maaktijd: 1 tot 3u. De bouw zelf kan in 1 uur, maar met rustig verkennen van de 
 
 Materiaalkost onder de 6 EUR.
  
-Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib
+*Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib*
 
 
 ## Benodigdheden

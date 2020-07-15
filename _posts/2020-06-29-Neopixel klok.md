@@ -73,7 +73,7 @@ Deze elektronische klok is de perfecte mix tussen een digitale en een analoge kl
 Maaktijd: 1 tot 4u.
 
  
-Deze handleiding werd ontwikkeld door **Hans Caluwaerts** voor Maakbib
+*Deze handleiding werd ontwikkeld door **Hans Caluwaerts** voor Maakbib*
 
 
 ## Benodigdheden

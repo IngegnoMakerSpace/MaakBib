@@ -49,7 +49,7 @@ De armband heeft een magneet-sluiting. Door een slimme schakeling gaan de
 lampjes pas branden als je de armband om doet. Een LED-armband maak je van
 duct-tape en kopertape met daarop een sliert led-lampjes. 
 
-Deze handleiding werd ontwikkeld door **Ynze van der Spek** voor Maakbib.
+*Deze handleiding werd ontwikkeld door **Ynze van der Spek** voor Maakbib.*
 
 ## Benodigdheden
 {% include benodigdheden.html %}

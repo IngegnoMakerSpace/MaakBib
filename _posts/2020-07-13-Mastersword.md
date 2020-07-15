@@ -61,7 +61,7 @@ Maak het legendarische “Master Sword” uit “The legend of Zelda” na door 
 Kennis van programmeren is niet vereist, 
 maar het is wel aangeraden als je aanpassingen wilt maken.
 
-Deze handleiding werd ontwikkeld door **Steven van Durm** voor Maakbib.
+*Deze handleiding werd ontwikkeld door **Steven van Durm** voor Maakbib.*
 
 ## Benodigdheden
 

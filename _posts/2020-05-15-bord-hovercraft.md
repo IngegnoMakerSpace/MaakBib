@@ -56,7 +56,7 @@ Maaktijd: 1u, kan aangevuld worden met decoreren en spelletjes met de hovercraft
 
 Materiaalkost onder de 5 EUR
 
-Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib.
+*Deze handleiding werd ontwikkeld door **Yvon Masyn** voor Maakbib.*
 
 
 ## Benodigdheden

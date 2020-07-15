@@ -54,7 +54,7 @@ Maaktijd: langer dan 3u.
 
 Materiaalkost onder de 6 EUR, maar met ESP32 van 20 Eur.
  
-Deze handleiding werd ontwikkeld door **Stijn Liekens** voor Maakbib
+*Deze handleiding werd ontwikkeld door **Stijn Liekens** voor Maakbib*
 
 
 ## Benodigdheden
