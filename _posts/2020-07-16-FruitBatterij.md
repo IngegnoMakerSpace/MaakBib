@@ -18,168 +18,225 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [ elektronica, wetenschappen ]
+categories: [ wetenschappen, elektronica ]
 image: assets/images/2020-07-16-FruitBatterij/fig0.png
 tijd: 30 minuten
-print: assets/images/2020-07-16-FruitBatterij/Handleiding-Fruitbatterij.pdf
+print: assets/images/2020-07-16-FruitBatterij/Handleiding-Fruitbatterij.pdf  
+downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020-07-16-FruitBatterij/Handleiding-Fruitbatterij.pdf  
+    file: assets/images/2020-07-16-FruitBatterij/Handleiding-Fruitbatterij.pdf
+    
 materialen_dontshow: true
-
 materialen: [
-    A. Myoware spiersensor, 
-    B. Microbit, 
-    C. Oppervlakteelectrodes (3 per spiersensor),
-    D. Soldeersel,
-    E. Gekleurde electrische kabels,
-    F. Krokodillenklemmen,
-    G. Micro-USB naar USB kabel,
-    H. Alcoholdoekjes,
-    I. Velcro kabelbinders of Sportstape,
+    LED lampje, 
+    M6 zinken sluitringetjes, 
+    5x 5 cent,
+    Eierdoos/WC rol/Vilt,
+    Breed elastiek,
+    Citrusvrucht,
+    Keukenpapier,
       ]
-      
+tools: [
+    Schaar,
+    Bord,
+    ]
+    
+benodigdheden_opt: [
+      Buzzertje,
+      Multimeter,
+      Klein apparaatje (fietslamp, wekker,...),
+      Electriciteitsdraden of sluitstrips,
+      Kniptang,
+      Stripper,
+      Extra sets van materialen voor meerdere batterijen
+      ]
 ---
 Maak een echte batterij van fruitsap, muntjes en zinken ringetjes. Laat er een lampje mee branden of een buzzertje mee piepen.
 
+In dit project wordt uitgelegd hoe je zelf een batterij kan maken van fruitsap. Je kan een LEDje doen branden of zelfs andere apparaten van stroom voorzien. Je leert ook wat electriciteit is en hoe een batterij werkt.
 
 *Deze handleiding werd ontwikkeld door **Allard Roeterink** voor Maakbib*.
 
 ## Benodigdheden
 
-<div class="benodigdheden">
-  <ul>
-    Materialen:
-    <li>A. <a href="https://www.kiwi-electronics.nl/myoware-muscle-sensor">Myoware Spiersensor</a></li>
-      [makecode software](https://makecode.microbit.org/)
-    <li>B. <a href="https://www.velleman.eu/products/view/?id=450210">Microbit</a></li>      
-    <li>C. <a href="https://www.antratek.be/biomedical-sensor-pad-10-pack?gclid=Cj0KCQjw9b_4BRCMARIsADMUIyox6tjPEkn0SV-kCWzkXeXJY9_v9vGT8g6xBTqJ7k44YIFyrWeOjzsaAgrbEALw_wcB">Oppervlakte Elektroden</a> (3 per spiersensor)</li>
-    <li>D. Soldeersel</li>
-    <li>E. Gekleurde electrische kabels</li>
-    <li>F. Krokodillenklemmen</li>
-    <li>G. Micro-USB naar USB kabel</li>
-    <li>H. Alcoholdoekjes</li>
-    <li>I. Velcro kabelbinders of Sportstape</li>
-  </ul>
-</div>
-
-![B1]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig1.png)
+<p style="margin: 0 0 0 0;"><strong>Materialen:</strong></p>
 
 <div class="benodigdheden">
   <ul>
-    Tools:
-    <li>A. <a href="https://www.bol.com/nl/p/derde-handje-met-vergrootglas/9200000084839009/?country=BE&approved=true&language=null">Derde handje met vergrootglas</a></li>
-    <li>B. Soldeerbout</li>
-    <li>C. Kniptang</li>
-    <li>D. Stripper</li>
-    <li>E. Lijmpistool</li>
-    <li>F. Laptop</li>
+    <li><a href="https://www.conrad.be/p/kingbright-l-53src-du-bedrade-led-rood-rond- 5-mm-1100-mcd-30-20-ma-185-v-180184">LED lampje</a></li>
+    <li><a href="https://www.brico.be/nl/gereedschap-installatie/ijzerwaren/ringen/sencys-sluitring- gegalvaniseerd-staal-6-mm-30-stuks/5368376">M6 zinken sluitringetjes</a> of een vel aluminiumfolie</li>
+    <li>Eierdoos, WC rol of vilt</li>
+    <li>Breed elastiek</li>
+    <li>Citrusvrucht</li>
+    <li>Keukenpapier</li>
  </ul>
+
 </div>
 
-![B2]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig2.png)
-
+![B1]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig1.png)
 
 {% include benodigdheden.html %}
 
 
 ## Project Overzicht
-In het eerste gedeelte zullen we de sensor zelf bouwen. Nadien gaan we over naar de sensor kalibreren en metingen uitvoeren. 
 
-## Sensor Assembleren
-#### Stap 1: Knip de draden
-Bepaal welke spier en welke hoek je wil meten. Wij nemen als voorbeeld de biceps met de onderarmhoek. Meet de lengte van de onderarm. Knip 3 draden van deze lengte met de kniptang in verschillende kleuren (rood, zwart en wit). Met de stripper maak je ongeveer 1 cm aan beide kanten vrij.
+Eerst gaan we een eenvoudige batterij maken van sluitringetjes, muntjes en fruitsap. Hiermee kunnen we een LED doen branden. 
 
-#### Stap 2: Verbind de Myoware spiersensor
-Neem de myoware sensor. Maak de rode draad vast aan het + contact en soldeer het vast. Maak de zwarte draad vast aan het – contact en soldeer vast. Meer info over solderen vind je <a href="https://maakbib.be/assets/images/2020-04-22_soldeerexperiment/Solderen%20is%20simpel_by_%20Mitch%20Altman.pdf">hier</a> en <a href="https://maakbib.be/assets/images/2020-04-22_soldeerexperiment/4%20stappen_solderen.pdf">hier</a>. 
+Nadien kunnen we een buzzertje of andere apparaatjes aansluiten. Als de batterij dan niet krachtig genoeg is, kunnen we meer stroom opwekken door meerdere batterijen te verbinden.
 
-De witte draad zet je vast aan het RAW signaal aan de andere kant van de sensor. Knip het overschot af aan de kant van de sensor. Soldeer een krokodillenklem aan het andere uiteinde.
+Tenslotte hebben we ook een aantal proefjes die je zelf kan uitvoeren om zo meer te weten te komen over de werking van een batterij.
 
-Je resultaat zou er als volgt moeten uitzien:
+## Hoe maak je een batterij uit fruitsap?
+#### Stap 1: Karton knippen
+Knip een stuk uit de eierdoos van ongeveer 2 cm breed en 8 tot 10 cm lang. Zorg ervoor dat het stukje zo vlak mogelijk is. 
+![FS1.1]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig2.png)
 
-![SS2.1]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig4.png)
+Knip deze strook in **vijf gelijke vierkantjes.**
 
-Zet de kabels vast met twee druppeltjes lijm zodat de kabels parallel lopen en het contact beschermd is.
+Pak een zinken ringetje en leg die op een vierkantje. Knip de hoekjes af die uitsteken voorbij het ringetje zoals in de figuur hieronder. Doe dit met alle vierkantjes.
 
-![SS2.2]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig5.png)
+![FS1.2]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig3.png)
 
-#### Stap 3: Electrodes aan de sensor
-Maak de oppervlakte-electrodes vast aan de sensor. Twee electrodes klikken vast via de drukknop aan de onderzijde van de sensor; een derde wordt vastgemaakt aan de drukknop van de zwarte kabel.
+#### Stap 2: Karton weken
+Schil de vrucht en knijp wat sap uit boven het bordje. Het uitgeknepen vruchtvlees kun je natuurlijk opeten als je het lekker vindt.
 
-Je resultaat ziet er dan als volgt uit:
+Leg de vijf stukjes karton van de eierdoos in het sap.
 
-![SS3]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig6.png)
+#### Stap 3: Elastiek knopen
+Pak het elastiek en leg in het uiteinde een knoop, zodat je een lus krijgt waar je duim redelijk makkelijk doorheen past.
 
-#### Stap 4: Sluit de microbit aan
-Verbind de kabels via de krokodillenklemmetjes: de rode draad (+) van de sensor met de 3V uitgang van de microbit, de zwarte draad (-) met de GND van de microbit en de witte draad (RAW) met kanaal 1 van de microbit. Gebruik je een tweede sensor, sluit deze dan op dezelfde manier aan maar breng het signaal over naar kanaal 2.
+Knip de lus met knoop van het elastiek af en leg dit weg voor straks.
 
-Je microbit ziet er nu zo uit:
+![FS3]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig4.png)
 
-![SS4]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig7.png)
+#### Stap 4: Laagjes en pakketjes opstapelen
+Pak een muntje van 5 eurocent en leg daarop een stukje van het natte karton. Leg daar bovenop een zinken ringetje. 
+Als je geen ringetje hebt, kun je ook een stuk aluminiumfolie van 11cm x 11cm zes keer dubbelvouwen.
 
-## Metingen Uitvoeren
-#### Stap 1: Microbit programmeren
-In de [makecode software](https://makecode.microbit.org/) (beschikbaar ook [offline](https://makecode.microbit.org/offline-app)), maak je een nieuw project met een forever loop die drie variabelen wegschrijft (indien je 2 EMG sensoren gebruikt): twee variabelen waarin de EMG signalen worden opgeslagen en een variabele die de beweging van je segment registreert. 
+**Kijk heel goed of er geen nat karton uitsteekt over het muntje.** Dan werkt het niet.
 
-In onderstaand voorbeeld, zit er een sensor op de biceps en een op de triceps van de bovenarm en meten we tegelijkertijd de ellebooghoek door de microbit zelf.
+![FS4.1]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig5.png)
 
-![MS1]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig8.png)
+Dit stapeltje is al een batterij-pakketje. Maar het is nog niet sterk genoeg, dus we maken er meer. Maak er in totaal ongeveer 5. 
+
+Stapel nu de batterij-pakketjes op elkaar zoals in de figuur hieronder.
+
+![FS4.2]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig6.png)
+
+Pak je lus van elastiek en doe die voorzichtig om het hele stapeltje heen. Je komt eigenlijk handen te kort, dus dit is veel handiger met twee personen!
+
+Je batterij ziet er dan als volgt uit:
+![FS4.3]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig7.png)
+
+Als je nog druppels sap ziet, veeg die dan weg met een vel keukenpapier.
+
+#### Stap 5: LED aansluiten
+Laten we nu kijken of er een lampje op brandt:
+Pak je LED-lampje en vouw de pootjes voorzichtig uit elkaar, alsof het een spagaat maakt. Vouw de pootjes ongeveer halverwege weer terug naar binnen. Je LED ziet er nu zo uit:
+
+![FS5.1]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig9.png)
+
+Schuif het langste pootje onder het elastiek aan de kant van de munt, dus helemaal onderop. Schuif het andere pootje onder het elastiek aan de kant waar het ringetje boven zit.
+
+![FS5.2]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig10.png)
+
+Als alles goed is, zie je het LEDje nu branden!
+
+#### Mogelijke problemen
+Zie je niets branden? Ook niet in het donker? Dan moet je een paar dingen controleren:
+* Kijk of het werkt als je de pootjes van het lampje verwisselt.
+* Misschien steekt er toch wat karton over de rand van de muntjes. Knip af wat uitsteekt.
+* Als je aluminiumfolie hebt gebruikt: misschien is het vierkantje te dun of niet netjes gevouwen.
+* Misschien heb je het karton te veel uitgeperst toen je het tussen het muntje en het ringetje perste. Zorg dat het nat aanvoelt. Maar niet zo nat dat er druppels van je batterij lopen.
+* Hoe netter je stapeltje is gemaakt, hoe beter het werkt!
+* Als het lampje na een dag niet meer brandt, hoef je alleen maar een paar druppels **water** op de kartonnetjes te doen en hij gaat weer aan. Het zuur zit er nog in, maar hij is alleen uitgedroogd.
+* Als er na een poosje teveel zwarte aanslag op de zinken ringetjes zit, kun je dat met een schuurpapiertje eraf schuren en de ringetjes weer opnieuw gebruiken. Of anders vervangen door nieuwe ringetjes.
 
 
-#### Stap 2: Spiersensor aanbrengen
-Maak de huid van je proefpersoon proper met een alcohol doekje.
+## Maak het je eigen!
+#### Buzzertje aansluiten
+Probeer eens een <a href="https://www.conrad.be/p/kepo-kpmb-g2315l1-k6439- miniatuurzoemer-geluidsontwikkeling-70-db-spanning-15-v-continu-1-stuks-714917">buzzertje</a> aan te sluiten. Alleen zogenaamd actieve zoemers zullen werken, want die piepen al met wat stroom. Passieve zoemers hebben een geluidsbron nodig, zoals een muziekapparaat. Die moet je dus niet hebben.
 
-De myoware sensor breng je aan op de buik van de spier. De electrode die vasthangt aan de zwarte kabel, is de referentie-electrode en die moet zo dicht mogelijk bij een bot worden vastgeplakt. Breng daarom de referentie- electrode eerst aan, zodat de kabel zeker lang genoeg is.
+Als je een zoemertje hebt, haak dan het rode draadje rond het elastiek bij het muntje en het zwarte draadje bij het ringetje. Hoor je hem zacht zoemen?
 
-In het voorbeeld van de biceps, breng je de referentiekabel aan de elleboog aan, om vervolgens de twee spierelectrodes aan te brengen. Dit doe je door aan je testpersoon te vragen zijn spieren hard op te spannen. Voel waar de spier loopt en breng de sensor parallel aan op de looprichting van de spier. Vraag je testpersoon of hij/zij zijn arm nog goed kan strekken of buigen.
+#### Andere apparaatjes aansluiten
+Kijk of je apparaatjes hebt die op één of twee batterijen werken, zoals een fietslampje of een kleine wekker. Het beste is als je iets hebt met draadjes die je meteen op je eigen sap-batterij kunt zetten.
 
-![MS2]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig9.png)
+Als je een apparaatje hebt dat op batterijen werkt, moet je zelf nog draadjes maken naar je eigen batterij. Hiervoor kun je electriciteitsdraadjes gebruiken of sluitstrips. Snijd aan het uiteinde van ieder draadje de kunststof weg, zodat je alleen metaal ziet.
 
-#### Stap 3: Microbit aanbrengen
-Plaats de microbit tegen de huid, parallel met de arm. Wees voorzichtig dat de draden **niet kruisen**. Zet de microbit vast met een velcro kabelbinder of sporttape. Verbind de microbit met de kabel naar de laptop via de microUSB poort aan de bovenzijde van de microbit naar de USB poort van de laptop.
+Haak één kant van een draadje onder het muntje. Het andere draadje haak je onder het ringetje. Tussen de twee vrije uiteindes van de draadjes staat nu een spanning, die je op je fietslampje of klokje kunt zetten.
 
-![MS3]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig10.png)
+Haal de echte batterij eruit en kijk waar de + en - van de batterij tegenaan zaten. Sluit het draadje dat vanaf het muntje komt aan op de + kant en het draadje vanaf het ringetje aan de - kant. Soms moet je nu nog op "AAN" drukken en misschien werkt je fietslampje of klokje dan wel op fruitstroom!
 
-#### Stap 4: Opstelling testen
-Laad het programma naar de microbit. Van zodra de microbit verbonden is met de laptop, verscheen ook de knop `Show Console Device` in de MakeCode Editor. Klik op deze knop en een grafiek met de real time data verschijnt op het scherm.
+![MA]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig11.png)
 
-![MS4.1]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig11.png)
+#### Meer stroom opwekken
+Als je meerdere batterijen hebt gemaakt, kun je nóg meer stroom maken door ze aan elkaar te koppelen. Gebruik hiervoor draadjes zoals hierboven beschreven.
 
-Test eerst de hoek. Buig en strek de arm zonder de schouder te bewegen. De hoek die op de grafiek verschijnt zou moeten overeenkomen met de hoek van de onderarm met een horizontale. Is dit niet het geval, dan kan je ofwel de microbit zelf draaien of in het programma “roll” in plaats van “pitch” selecteren. Download het nieuwe programma naar de microbit en test de hoek opnieuw.
+Eén draadje moet van het muntje van de ene batterij worden verbonden met het ringetje van de andere batterij. Maak nu nog twee draadjes vast: één onder het muntje waar nog niets vast zat en één onder het andere ringetje.
+Koppel zoveel sap-batterijen aan elkaar als je wilt.
 
-![MS4.2]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig12.png)
+![MS]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig12.png)
 
-Test daarna de spiersensor. Vraag je testpersoon de spieren krachtig op te spannen en te ontspannen. De amplitude (uitwijking) van het EMG signaal zou duidelijk zichtbaar moeten zijn. Is er heel veel ruis, ook bij het niet aanspannen van de spier en het bewegen van de arm, zorg er dan voor dat de laptop op de batterij werkt en niet in het stopcontact zit. Werkt de sensor nog steeds niet, kijk dan goed na of je correct gesoldeerd hebt.
+#### Experimenteer zelf
+Hieronder staan een aantal proefjes die je zelf kan uitvoeren om het effect van de verschillende onderdelen te zien:
 
-#### Stap 5: Spieractiviteit meten
-Als alles werkt, herstart je de meting door op `Go Back` te klikken en daarna opnieuw op `Show Console Device`. Dit maakt de opnamegrafiek leeg. Normaal gezien begint de opname vanzelf, tenzij je op de pauzeknop gedrukt hebt. Ben je tevreden over je meting, download deze dan als een csv file via de knoppen rechtsboven.
+* Wat geeft meer stroom: Sap van een sinaasappel of van een mandarijn?
+* En sap van een citroen of van een limoen?
+* Welke andere vruchten geven goed sap voor stroom?
+* Wat gebeurt er als je cola gebruikt? Of andere frisdrank? Of azijn? Of afwasmiddel?
+* Zout geeft meer vrije ionen, wat ook meer stroom zou kunnen geven. Test dat eens door zout aan verschillende vloeistoffen toe te voegen.
+* En wat werkt beter: zinken ringetjes of stukjes aluminiumfolie opgevouwen?
+* Welke combinatie geeft het langste licht? En welke het felste?
+* Wat gebeurt er als je meer of minder dan vijf pakketjes opstapelt? Hoeveel lukt nog?
+* Maakt het uit welke kleur LED-lampjes je gebruikt?
+* Doet karton van een eierdoos het beter dan vilt? En karton van een wc-rol?
+* Wat kun je nog meer bedenken om tussen de muntjes en de ringetjes te doen?
 
-![MS5]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig13.png)
+Je kan altijd een multimeter gebruiken om te zien hoeveel spanning je batterij eigenlijk opwekt. Meet ook de spanning eens tussen twee opeenvolgende muntjes. Zo kun je goed zien of er ergens in je pakketje een slechte verbinding is.
 
-#### Stap 6: Data analyseren
-Open het gedownload cvs bestand in een spreadsheet tool zoals Excel, Google Spreadsheet, of LibreOffice Calc. Maak een grafiek met de EMG patronen op de primaire Y-as en de hoek op een secondair Y-as. Zo worden beide signalen maximaal verspreid over de grafiek. Kijk naar de timing van de spieractiviteit en de armhoek.
+![ME]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig13.png)
 
-![MS6]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig14.png)
+## Weetjes en wetenschap
+<div class="border_boxmaakbib03_img" markdown="1">
+#### Au bain-marie ...
+De techniek au bain-marie is afkomstig uit de alchemie. Deze wordt gebruikt om dingen te verwarmen of te destilleren en wordt het vaakst gebruikt wanneer er met delicate ingrediënten wordt gewerkt waarvan je liever niet wil dat ze in direct contact komen met een hittebron. 
 
-Op deze grafiek stijgt de oranje curve als de arm buigt, en daalt ze als de arm strekt (oranje pijlen). De biceps is actief (de amplitude gaat omhoog, aangegeven door blauwe pijl) als de arm buigt. Dit komt overeen met de functie van de biceps: de arm te buigen. De biceps is nog even actief aan het begin van het strekken: de biceps stabiliseert de arm terwijl de triceps de arm strekt. In deze test boog en strekte de testpersoon de arm drie keer.
+#### Hoe werkt het?  
+Bij deze techniek wordt een pan of kom met gerechten in een waterbad (warm of koud) geplaatst om de temperatuur te doen verhogen (of dalen). Dankzij de geleidelijke verhitting van het water dat in een groter reservoir zit, kan de inhoud van het kleinere reservoir uitermate goed kunnen worden beheerst.
 
-#### Maak het je eigen!
-Je kan deze opstelling gebruiken om functies van spieren na te gaan. Heb je twee spiersensoren, dan kan je bijvoorbeeld biceps en triceps in de arm meten. Dit zijn twee antagonisten, dit wil zeggen dat ze tegengesteld werken. Bij het armbuigen en strekken wisselen hun activiteit af. 
+#### Wie heeft het uitgevonden? 
+Over de herkomst van de methode zijn geen concrete data, maar men weet dat deze gebruikt wordt sinds de tijden van Hippocrates (4e eeuw voor Christus). De naam komt van de joodse alchemiste uit Egypte, <a href="http://scihi.org/mary-the-jewess-origins-chemistry/">`Maria van Alexandrië`</a>, die op deze manier  bepaalde bereidingen langzaam liet opwarmen. Maria wordt beschouwd als de eerste echte alchemist! 
 
-Je kan ook het effect nagaan van een extra gewicht vast te nemen. Wat gebeurt er dan met het EMG signaal? Of je kan testen wat er gebeurt als je vermoeid geraakt. 
+</div>
 
-Probeer telkens voor je een test doet, goed na te denken over je vraag, en een hypothese en een voorspelling op te stellen. Op basis van je metingen, kan je dan nagaan of je gelijk had.
-
-Technisch gezien, kan je ook nog een en ander aanpassen. De frequentie (hoeveel metingen per seconde) waarmee de microbit het EMG signaal registreert is laag, een andere DAQ-board of een Arduino kan aan een hogere frequentie samplen waardoor het EMG signaal duidelijker zal zijn. Undersampling bij de microbit zorgt ervoor dat het signaal soms een onverwachte vorm heeft.
-
-![MS7]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig15.png)
-
-Je kan ook de spiersensor aansluiten op de EMG envelope in plaats van de RAW data (A). Dit signaal wordt eerst positief gemaakt (B) en geintegreerd (C). Dit signaal is duidelijker maar het echte effect van een EMG is dan weg.
-
-## Wist je dat...?
 <div class="border_boxmaakbib01_img" markdown="1">
-#### Weetjes
-* Je spieren worden door je zenuwen aangestuurd via electrische actiepotentialen. Deze spanningen zijn klein dus dit signaal wordt door de sensor 200 keer versterkt zodat het groot genoeg is om als analoog signaal te worden ingelezen via de microbit.
+#### Wist je dat zeep ook kan "zweten"?
+ Soms kan het zijn dat je op het oppervlak van je zeep druppels ziet. Dit kan op twee manieren gebeuren. 
  
-* De sensor wordt gevoed met 3V vanaf de microbit. Je kan ook werken met een externe batterij. Je mag maximaal 5.7 V als voeding geven. De voeding moet ook stabiel zijn. Vandaar dat bij slecht signaal, er wordt aangeraden de laptop niet in het stopcontact te steken.
+ Enerzijds kan er water op je zeep condenseren. Hierbij komt het vocht van de druppels van buitenaf op je zeep terecht.
+ 
+ Anderzijds kan het ook zijn dat je zeep aan het "zweten" is. Dan komt het vocht vanuit je zeep naar het oppervlak! Je wil zoveel mogelijk voorkomen dat je zeep zweet omdat je zeep daardoor sneller kleiner wordt. In ons project voorkomen we dit probleem door ervoor te zorgen dat we niet te veel geurstof toevoegen.
+ 
+ Als je zeep begint te zweten, kan je het met keukenpapier deppen en even wegleggen. Hierdoor zal het vanzelf stoppen met zweten.
+
+</div>
+
+#### Weetjes
+* **`Hoe lang bestaat zeep al?`**  
+ Zeep wordt al minstens 4800 jaar gebruikt! Zelfs in de tijd van de Oude Egyptenaren gebruikten ze een middel dat op de hedendaagse zeep lijkt.
+ 
+* **`Waar komt de naam "zeep" vandaan?`**  
+ Volgens een oude Romeinse legende komt de naam voor zeep van de fictieve berg Sapo. Daarbij zouden de Romeinse plattelandsvrouwen zeep per toeval ontdekt hebben. De klei van de oevers van de Tiber was vermengd met dierlijk vet en as; dit hielp hen bij het wassen van hun kleding. 
  
 </div>
+## STEM
+In dit project krijg je  inzichten  in **productie processen**: `serieproductie` (batch productie). Er wordt gefocust op het begrip gietmal en gietmaterialen. 
+Er zijn verschillende materialen en methoden om mallen te maken hier gaat men aan de slag met siliconen en zogenaamde enkelvoudige mallen. 
+
+Bij het maken van het moeder object staan meetkundige aspecten centraal die belangrijk zijn voor zowel het 3D-printen maar ook voor het mogelijk maken van het ontmallen van het gegoten materiaal.
+
+
+
+
+
