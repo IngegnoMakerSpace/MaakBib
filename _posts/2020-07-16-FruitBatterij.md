@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maak een batterij uit fruit"
+title:  "Maak een batterij uit fruitsap"
 featured: false
 published: false
 authors: [guest]
@@ -44,8 +44,8 @@ tools: [
 benodigdheden_opt: [
       Buzzertje,
       Multimeter,
-      Klein apparaatje (fietslamp, wekker,...),
-      Electriciteitsdraden of sluitstrips,
+      Klein apparaatje (fietslamp of wekker...),
+      Elektriciteitsdraden of sluitstrips,
       Kniptang,
       Stripper,
       Extra sets van materialen voor meerdere batterijen
@@ -53,7 +53,7 @@ benodigdheden_opt: [
 ---
 Maak een echte batterij van fruitsap, muntjes en zinken ringetjes. Laat er een lampje mee branden of een buzzertje mee piepen.
 
-In dit project wordt uitgelegd hoe je zelf een batterij kan maken van fruitsap. Je kan een LEDje doen branden of zelfs andere apparaten van stroom voorzien. Je leert ook wat electriciteit is en hoe een batterij werkt.
+In dit project wordt uitgelegd hoe je zelf een batterij kan maken van fruitsap. Je kan een LEDje doen branden of zelfs andere apparaten van stroom voorzien. Je leert ook wat elektriciteit is en hoe een batterij werkt.
 
 *Deze handleiding werd ontwikkeld door **Allard Roeterink** voor Maakbib*.
 
@@ -130,6 +130,15 @@ Je batterij ziet er dan als volgt uit:
 
 Als je nog druppels sap ziet, veeg die dan weg met een vel keukenpapier.
 
+<div class="border_boxmaakbib03_img" markdown="1">
+#### **Pas op:** Kortsluiting!
+Als je een stroomdraadje tussen de negatieve kant (het ringetje) en de positieve kant (het muntje) houdt, gaan de electronen meteen naar de positieve kant stromen door het draadje. Maar dit doen ze zo hard dat het draadje er heet van kan worden, vooral bij een echte batterij. Dat heet kortsluiting en dat is niet goed.
+
+Je kan meer te weten komen over elektriciteit en een batterij aan het einde van deze handleiding.
+
+Alleen als er iets tussen zit dat de electronen een beetje kan afremmen, zoals een lampje of een zoemertje, mag je de positieve en de negatieve kant verbinden!
+</div>
+
 #### Stap 5: LED aansluiten
 Laten we nu kijken of er een lampje op brandt:
 Pak je LED-lampje en vouw de pootjes voorzichtig uit elkaar, alsof het een spagaat maakt. Vouw de pootjes ongeveer halverwege weer terug naar binnen. Je LED ziet er nu zo uit:
@@ -141,6 +150,7 @@ Schuif het langste pootje onder het elastiek aan de kant van de munt, dus helema
 ![FS5.2]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig10.png)
 
 Als alles goed is, zie je het LEDje nu branden!
+
 
 #### Mogelijke problemen
 Zie je niets branden? Ook niet in het donker? Dan moet je een paar dingen controleren:
@@ -162,7 +172,7 @@ Als je een zoemertje hebt, haak dan het rode draadje rond het elastiek bij het m
 #### Andere apparaatjes aansluiten
 Kijk of je apparaatjes hebt die op één of twee batterijen werken, zoals een fietslampje of een kleine wekker. Het beste is als je iets hebt met draadjes die je meteen op je eigen sap-batterij kunt zetten.
 
-Als je een apparaatje hebt dat op batterijen werkt, moet je zelf nog draadjes maken naar je eigen batterij. Hiervoor kun je electriciteitsdraadjes gebruiken of sluitstrips. Snijd aan het uiteinde van ieder draadje de kunststof weg, zodat je alleen metaal ziet.
+Als je een apparaatje hebt dat op batterijen werkt, moet je zelf nog draadjes maken naar je eigen batterij. Hiervoor kun je elektriciteitsdraadjes gebruiken of sluitstrips. Snijd aan het uiteinde van ieder draadje de kunststof weg, zodat je alleen metaal ziet.
 
 Haak één kant van een draadje onder het muntje. Het andere draadje haak je onder het ringetje. Tussen de twee vrije uiteindes van de draadjes staat nu een spanning, die je op je fietslampje of klokje kunt zetten.
 
@@ -197,46 +207,40 @@ Je kan altijd een multimeter gebruiken om te zien hoeveel spanning je batterij e
 
 ![ME]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig13.png)
 
-## Weetjes en wetenschap
 <div class="border_boxmaakbib03_img" markdown="1">
-#### Au bain-marie ...
-De techniek au bain-marie is afkomstig uit de alchemie. Deze wordt gebruikt om dingen te verwarmen of te destilleren en wordt het vaakst gebruikt wanneer er met delicate ingrediënten wordt gewerkt waarvan je liever niet wil dat ze in direct contact komen met een hittebron. 
+#### Volt of Ampère?
+We hebben het hierboven alleen gehad over spanning, die gemeten wordt in Volt. Dat kun je vergelijken met hoe **graag** de electronen naar de andere kant willen zoeven door het draadje. Hoe liever ze willen gaan, hoe meer Volt je zult meten.
 
-#### Hoe werkt het?  
-Bij deze techniek wordt een pan of kom met gerechten in een waterbad (warm of koud) geplaatst om de temperatuur te doen verhogen (of dalen). Dankzij de geleidelijke verhitting van het water dat in een groter reservoir zit, kan de inhoud van het kleinere reservoir uitermate goed kunnen worden beheerst.
+Er is ook iets dat je kunt meten dat stroomsterkte heet. Dat meten we in Ampère. Dat kun je vergelijken met **hoeveel** electronen er naar de andere kant willen gaan.
+Als je weinig electronen hebt (dus weinig stroomsterkte), maar die willen wel heel graag (dus veel spanning), dan kun je best wel iets op die stroom laten werken. Bijvoorbeeld onze verse sap- batterij die een lampje laat branden.
 
-#### Wie heeft het uitgevonden? 
-Over de herkomst van de methode zijn geen concrete data, maar men weet dat deze gebruikt wordt sinds de tijden van Hippocrates (4e eeuw voor Christus). De naam komt van de joodse alchemiste uit Egypte, <a href="http://scihi.org/mary-the-jewess-origins-chemistry/">`Maria van Alexandrië`</a>, die op deze manier  bepaalde bereidingen langzaam liet opwarmen. Maria wordt beschouwd als de eerste echte alchemist! 
+Andersom kan ook: Als je heel veel electronen hebt (dus veel stroomsterkte), met maar weinig zin om door het draadje te gaan (dus weinig spanning), dan kun je nog best iets aansluiten en dat laten werken. Bijvoorbeeld als je een heleboel oude sap-batterijen combineert om een lampje te laten branden.
 
+Maar met weinig spanning èn weinig stroomsterkte, kun je helaas niets beginnen. Dat is het geval als je batterij leeg is: dan zal er niets branden.
 </div>
 
+## Weetjes en wetenschap 
 <div class="border_boxmaakbib01_img" markdown="1">
-#### Wist je dat zeep ook kan "zweten"?
- Soms kan het zijn dat je op het oppervlak van je zeep druppels ziet. Dit kan op twee manieren gebeuren. 
- 
- Enerzijds kan er water op je zeep condenseren. Hierbij komt het vocht van de druppels van buitenaf op je zeep terecht.
- 
- Anderzijds kan het ook zijn dat je zeep aan het "zweten" is. Dan komt het vocht vanuit je zeep naar het oppervlak! Je wil zoveel mogelijk voorkomen dat je zeep zweet omdat je zeep daardoor sneller kleiner wordt. In ons project voorkomen we dit probleem door ervoor te zorgen dat we niet te veel geurstof toevoegen.
- 
- Als je zeep begint te zweten, kan je het met keukenpapier deppen en even wegleggen. Hierdoor zal het vanzelf stoppen met zweten.
+#### Hoe werkt een batterij?
+In 1800 ontdekte Alessandro Volta dat tussen een schijfje van koper en een schijfje van zink een stroom gaat lopen als je er karton met zuur tussen doet. Hij stapelde er heel veel op elkaar en maakte zo de allereerste batterij.
+
+![Volta]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig14.png)
+
+Dat was een heel belangrijke uitvinding, want daarvoor kende men elektriciteit alleen van de bliksem. Om hem te eren is de eenheid van spanning naar hem genoemd: Volt. 
+
+Wij maken in dit proefje eigenlijk precies na wat deze meneer Volta bouwde. Wij gebruiken fruitsap als zuur. Ook al smaken mandarijnen en sinaasappels best zoet, eigenlijk zijn deze net zo zuur als citroenen.
+
+In de batterijen die je in de winkel koopt, zitten de laagjes niet meer opgestapeld, maar opgerold. Maar in feite werken ook die precies hetzelfde als onze stapeltjes.
 
 </div>
+<div class="border_boxmaakbib03_img" markdown="1">
+#### Wat voor iets is elektriciteit?  
+<a href="https://wikikids.nl/Elektriciteit">Elektriciteit</a> is een stroom van piepkleine electronen die door een metalen draadje gaan. Electronen zijn negatief geladen (dat heet ook min of -) en ze willen heel graag naar de positieve kant (dat heet plus of +).
 
-#### Weetjes
-* **`Hoe lang bestaat zeep al?`**  
- Zeep wordt al minstens 4800 jaar gebruikt! Zelfs in de tijd van de Oude Egyptenaren gebruikten ze een middel dat op de hedendaagse zeep lijkt.
- 
-* **`Waar komt de naam "zeep" vandaan?`**  
- Volgens een oude Romeinse legende komt de naam voor zeep van de fictieve berg Sapo. Daarbij zouden de Romeinse plattelandsvrouwen zeep per toeval ontdekt hebben. De klei van de oevers van de Tiber was vermengd met dierlijk vet en as; dit hielp hen bij het wassen van hun kleding. 
- 
+In de batterij komen door het zuur heel veel electronen uit het zinken laagje van het ringetje. Het ringetje krijgt daardoor steeds meer negatieve lading.
+Aan de kant van het muntje verliest het koperen laagje steeds meer electronen door het zuur en daar blijft steeds meer positieve lading over.
+
+Je kan <a href="https://wikikids.nl/Batterij_(elektrisch)">hier</a> wat meer lezen over hoe elektriciteit in een batterij werkt.
+
+
 </div>
-## STEM
-In dit project krijg je  inzichten  in **productie processen**: `serieproductie` (batch productie). Er wordt gefocust op het begrip gietmal en gietmaterialen. 
-Er zijn verschillende materialen en methoden om mallen te maken hier gaat men aan de slag met siliconen en zogenaamde enkelvoudige mallen. 
-
-Bij het maken van het moeder object staan meetkundige aspecten centraal die belangrijk zijn voor zowel het 3D-printen maar ook voor het mogelijk maken van het ontmallen van het gegoten materiaal.
-
-
-
-
-
