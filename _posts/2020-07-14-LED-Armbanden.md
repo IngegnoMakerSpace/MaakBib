@@ -18,7 +18,7 @@ pijler_design_thinking : true
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA
-categories: [electronica]
+categories: [elektronica]
 image: assets/images/2020-07-14-LED-Armbanden/LED-armband- (16-18)1.jpg
 tijd: 1-2u
 print: assets/downloads/2020-07-14-LED-Armbanden/LED-armband Stappen - Ynze.docx.pdf

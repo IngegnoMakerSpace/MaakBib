@@ -2,7 +2,7 @@
 layout: post
 title:  "Maak een batterij uit fruit"
 featured: false
-published: true
+published: false
 authors: [guest]
 author_name: "Allard Roeterink"
 lowtech: true
@@ -18,7 +18,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [ wetenschappen, elektronica ]
+categories: [wetenschappen, elektronica ]
 image: assets/images/2020-07-16-FruitBatterij/fig0.png
 tijd: 30 minuten
 print: assets/images/2020-07-16-FruitBatterij/Handleiding-Fruitbatterij.pdf  
