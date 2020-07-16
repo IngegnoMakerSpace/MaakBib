@@ -26,7 +26,6 @@ downloads:
   - name: 'Handleiding'
     file: assets/images/2020-07-14-SpanJeSpieren/Makers voor Makers Span je spieren.pdf  
 materialen_dontshow: true
-tools_show: false
 
 materialen: [
     A. Myoware spiersensor, 
@@ -52,9 +51,10 @@ Dit stappenplan bouwt stap voor stap een eenvoudig EMG systeem. Dit is een instu
 <div class="benodigdheden">
   <ul>
     Materialen:
-    <li>A. Myoware spiersensor</li> 
-    <li>B. Microbit</li>
-    <li>C. Oppervlakteelectrodes (3 per spiersensor)</li>
+    <li>A. <a href="https://www.kiwi-electronics.nl/myoware-muscle-sensor">Myoware Spiersensor</a></li>
+      [makecode software](https://makecode.microbit.org/)
+    <li>B. <a href="https://www.velleman.eu/products/view/?id=450210">Microbit</a></li>      
+    <li>C. <a href="https://www.antratek.be/biomedical-sensor-pad-10-pack?gclid=Cj0KCQjw9b_4BRCMARIsADMUIyox6tjPEkn0SV-kCWzkXeXJY9_v9vGT8g6xBTqJ7k44YIFyrWeOjzsaAgrbEALw_wcB">Oppervlakte Elektroden</a> (3 per spiersensor)</li>
     <li>D. Soldeersel</li>
     <li>E. Gekleurde electrische kabels</li>
     <li>F. Krokodillenklemmen</li>
@@ -69,7 +69,7 @@ Dit stappenplan bouwt stap voor stap een eenvoudig EMG systeem. Dit is een instu
 <div class="benodigdheden">
   <ul>
     Tools:
-    <li>A. Derde handje met vergrootglas</li>
+    <li>A. <a href="https://www.bol.com/nl/p/derde-handje-met-vergrootglas/9200000084839009/?country=BE&approved=true&language=null">Derde handje met vergrootglas</a></li>
     <li>B. Soldeerbout</li>
     <li>C. Kniptang</li>
     <li>D. Stripper</li>
@@ -89,7 +89,7 @@ In het eerste gedeelte zullen we de sensor zelf bouwen. Nadien gaan we over naar
 
 ## Sensor Assembleren
 #### Stap 1: Knip de draden
-Bepaal welke spier en welke hoek je wil meten. Wij nemen als voorbeeld de biceps met de onderarmhoek. Meet de lengte van de onderarm. Knip 3 draden van deze lengte in verschillende kleuren (rood, zwart en wit). Strip ongeveer 1 cm aan beide kanten eraf.
+Bepaal welke spier en welke hoek je wil meten. Wij nemen als voorbeeld de biceps met de onderarmhoek. Meet de lengte van de onderarm. Knip 3 draden van deze lengte met de kniptang in verschillende kleuren (rood, zwart en wit). Met de stripper maak je ongeveer 1 cm aan beide kanten vrij.
 
 #### Stap 2: Verbind de Myoware spiersensor
 Neem de myoware sensor. Maak de rode draad vast aan het + contact en soldeer het vast. Maak de zwarte draad vast aan het – contact en soldeer vast. Meer info over solderen vind je <a href="https://maakbib.be/assets/images/2020-04-22_soldeerexperiment/Solderen%20is%20simpel_by_%20Mitch%20Altman.pdf">hier</a> en <a href="https://maakbib.be/assets/images/2020-04-22_soldeerexperiment/4%20stappen_solderen.pdf">hier</a>. 
@@ -114,6 +114,8 @@ Je resultaat ziet er dan als volgt uit:
 #### Stap 4: Sluit de microbit aan
 Verbind de kabels via de krokodillenklemmetjes: de rode draad (+) van de sensor met de 3V uitgang van de microbit, de zwarte draad (-) met de GND van de microbit en de witte draad (RAW) met kanaal 1 van de microbit. Gebruik je een tweede sensor, sluit deze dan op dezelfde manier aan maar breng het signaal over naar kanaal 2.
 
+Je microbit ziet er nu zo uit:
+
 ![SS4]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig7.png)
 
 ## Metingen Uitvoeren
@@ -135,12 +137,12 @@ In het voorbeeld van de biceps, breng je de referentiekabel aan de elleboog aan,
 ![MS2]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig9.png)
 
 #### Stap 3: Microbit aanbrengen
-Plaats de microbit tegen de huid, parallel met de arm. Wees voorzichtig dat de draden niet kruisen. Zet de microbit vast met een velcro kabelbinder of sporttape. Verbind de microbit met de kabel naar de laptop via de microUSB poort aan de bovenzijde van de microbit naar de USB poort van de laptop.
+Plaats de microbit tegen de huid, parallel met de arm. Wees voorzichtig dat de draden **niet kruisen**. Zet de microbit vast met een velcro kabelbinder of sporttape. Verbind de microbit met de kabel naar de laptop via de microUSB poort aan de bovenzijde van de microbit naar de USB poort van de laptop.
 
 ![MS3]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig10.png)
 
 #### Stap 4: Opstelling testen
-Download het programma naar de microbit. Van zodra de microbit verbonden is met de laptop, verscheen ook de knop `show console device` in de MakeCode Editor. Klik op deze knop en een grafiek met de real time data verschijnt op het scherm.
+Laad het programma naar de microbit. Van zodra de microbit verbonden is met de laptop, verscheen ook de knop `Show Console Device` in de MakeCode Editor. Klik op deze knop en een grafiek met de real time data verschijnt op het scherm.
 
 ![MS4.1]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig11.png)
 
@@ -174,8 +176,6 @@ Technisch gezien, kan je ook nog een en ander aanpassen. De frequentie (hoeveel 
 ![MS7]({{ site.baseurl }}/assets/images/2020-07-14-SpanJeSpieren/Fig15.png)
 
 Je kan ook de spiersensor aansluiten op de EMG envelope in plaats van de RAW data (A). Dit signaal wordt eerst positief gemaakt (B) en geintegreerd (C). Dit signaal is duidelijker maar het echte effect van een EMG is dan weg.
-
-
 
 ## Wist je dat...?
 <div class="border_boxmaakbib01_img" markdown="1">

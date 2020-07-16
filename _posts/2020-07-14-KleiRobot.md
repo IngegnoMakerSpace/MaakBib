@@ -72,7 +72,7 @@ Om de klei te maken moet je de volgende stappen volgen:
 
 ![G2]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/Geleidende klei maken 2.jpg)
 
-* Strooi wat bloem op het aanrecht en leg hier de bal op. Pas op: de klei is heet! Laat deze daarom eerst afkoelen. Kneed de bloem daarna door de klei.
+* Strooi wat bloem op het aanrecht en leg hier de bal op. **Pas op: de klei is heet!** Laat deze daarom eerst afkoelen. Kneed de bloem daarna door de klei.
 
 En klaar is je zoute, geleidende klei!
 
@@ -140,8 +140,8 @@ Je kan ook tandenstokers gebruiken om je robot armen en benen te geven.
 ![S3.1]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/FIG3.jpg)
 
 Je mag er van alles van maken, maar je moet wel oppassen: 
-* Verschillende stukken geleidende klei mogen elkaar niet aanraken
-* De twee soorten klei mogen niet door elkaar gekneed worden
+* Verschillende stukken geleidende klei mogen **elkaar niet aanraken**
+* De twee soorten klei mogen **niet door elkaar gekneed worden**
 
 #### Maak het je eigen!
 Als de vorige stappen gelukt zijn, kan je nu aan de slag om je eigen robot te maken!
@@ -155,8 +155,6 @@ Je kunt ook werken met alleen geleidende klei. Zorg dan dat je figuurtjes maakt 
 ![S4.2]({{ site.baseurl }}/assets/images/2020-07-14-KleiRobot/Lichtgevende kleirobot_maak het je eigen 1.jpg)
 
 Probeer ook eens om meerdere LEDjes tegelijk te laten branden! Wat zie je aan de lampjes? Branden ze nog even fel? 
-
-
 
 
 <div class="border_boxmaakbib03_img" markdown="1">
