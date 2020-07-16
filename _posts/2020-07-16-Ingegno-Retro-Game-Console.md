@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Retro Game Console"
-featured: true
-published: true
+featured: false
+published: false
 authors: [cri, ben]
 author_name: ""
 lowtech: false
