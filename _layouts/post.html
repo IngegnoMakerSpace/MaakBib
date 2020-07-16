@@ -271,7 +271,7 @@ licence: CCBY-NC-SA
                       {% assign sortedTags = page.tags | sort %}
                       {% for tag in sortedTags %}
                       <li>
-                          <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                          <a class="smoothscroll" href="{{ site.baseurl }}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
                       </li>
                       {% endfor %}
                   </ul>
@@ -282,14 +282,13 @@ licence: CCBY-NC-SA
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
             {% if page.previous.url %}
-            <a class="prev d-block col-md-6" href="{{ site.baseurl }}/{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
+            <a class="prev d-block col-md-6" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}"> &laquo; {{ page.previous.title }}</a>
             {% endif %}
             {% if page.next.url %}
-            <a class="next d-block col-md-6 text-lg-right" href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}} &raquo; </a>
+            <a class="next d-block col-md-6 text-lg-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">{{ page.next.title }} &raquo; </a>
             {% endif %}
             <div class="clearfix"></div>
             </div>
-
         </div>
         <!-- End Post -->
 
