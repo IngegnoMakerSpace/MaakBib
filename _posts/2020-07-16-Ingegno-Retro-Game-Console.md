@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Retro Game Console"
-featured: false
-published: false
-authors: [guest]
+featured: true
+published: true
+authors: [cri, ben]
 author_name: ""
 lowtech: false
 midtech: false
@@ -18,10 +18,10 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : true
 licence: CCBY-NC-SA
-categories: [solderen, lasercutten, electronica, physical computing]
+categories: [solderen, lasercutten, elektronica, physical computing]
 image: assets/images/2020-07-16-Ingegno-Retro-Game-Console/main.jpg
 tijd: 3u+
-print: 
+print: assets/images/2020-07-16-Ingegno-Retro-Game-Console/Retro Gaming met Arduino.pdf
 downloads: 
   - name: 'Handleiding'
     file: assets/images/2020-07-16-Ingegno-Retro-Game-Console/Retro Gaming met Arduino.pdf
@@ -29,6 +29,8 @@ downloads:
     file: https://github.com/ingegno/RetroGames/tree/master/IngegnoRetroGameConsole
   - name: 'Games (arduino code)'
     file: https://github.com/ingegno/RetroGames
+  - name: Test blokkencode
+    file: assets/images/2020-07-16-Ingegno-Retro-Game-Console/Wandelende_sprite.xml
 tools: [
     Lijmpistool,
     Kleine schroevendraaier,
@@ -39,7 +41,7 @@ tools: [
 
 Maak je eigen game console waar je verschillende retro games kan op spelen. 
 
-*Deze handleiding werd ontwikkeld door **Naam** voor Maakbib.*
+*Deze handleiding werd ontwikkeld door **Cristina en Benny** voor Maakbib.*
 
 ## Benodigdheden
 
@@ -62,7 +64,7 @@ Maak je eigen game console waar je verschillende retro games kan op spelen.
 ![Tools]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole3.jpg)
 
 ## Stap 1: Doosje lasercutten
-Als je 1 game console wilt maken download je <a href="#">dit bestand</a>, maar als je zo veel mogelijk wilt laseren download je best <a href="#">het bestand met 10 doosjes</a>.
+Als je 1 game console wilt maken download je <a href="/assets/images/2020-07-16-Ingegno-Retro-Game-Console/IngegnoRetroGame.svg">dit bestand</a>, maar als je zo veel mogelijk wilt laseren download je best <a href="/assets/images/2020-07-16-Ingegno-Retro-Game-Console/IngegnoRetroGame10.svg">het bestand met 10 doosjes</a>.
 
 ![ScreenshotSvg]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot1.png)
 ![gameconsole12]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole12.jpg)
@@ -136,6 +138,8 @@ Nu dat we de soldeerbout hebben kunnen we ook de draadjes aan de schakelaar sold
 ![gameconsole21]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole21.jpg)
 
 ## Stap 4: Alles in het doosje
+**Om de componenten eerst te testen scroll naar onder en bekijk Stap 5 voor de Arduino IDE en bekijk daaronder dan Stap "Testen" voor te testen**
+
 Nu dat we eigenlijk alles af hebben voor de laatste stappen kunnen we alles in het doosje monteren.
 
 ![gameconsole22]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole22.jpg)
@@ -146,7 +150,7 @@ Nu dat alles op zijn plaats zit mag het deksel erop en kan je dit met bv. een re
 
 ![gameconsole23]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole23.jpg)
 
-## Tijd voor een retro game!
+## Stap 5: Tijd voor een retro game!
 Voor een game te kunnen spelen heb je de code nodig voor een game die je hieronder vind:<br>
 <a href="https://github.com/ingegno/RetroGames">https://github.com/ingegno/RetroGames</a>
 
@@ -167,6 +171,8 @@ Hier kan je de libraries vinden: (type ST7735 in de zoekbalk)
 
 ![Screenshot2]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot2.png)
 
+Je moet ook nog in je IDE bij 'hulpmiddelen > board' Arduino Nano kiezen en bij 'hulpmiddelen > proccesor' de Old Booter
+
 Nu is je console klaar om de game te spelen! Je kan de code uploaden door met een usb kabel die in de poort zit van de arduino op deze knop te drukken:<br>
 ![Screenshot3]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot3.png)
 
@@ -174,3 +180,74 @@ Nu is je console klaar om de game te spelen! Je kan de code uploaden door met ee
 
 ![gameconsole24]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole24.jpg)
 
+## Testen
+Je bent naar hier gekomen omdat je eerst je componenten wilt testen voordat je verder gaat.
+
+Hier word er uitgelegd hoe we door middel van blokken code kunnen kijken of de joystick en het scherm werkt. De blokken code kan je dan omzetten naar arduino code die we in de Arduino IDE kunnen zetten (voor uitleg over de Arduino IDE ga naar Stap 5). Als de blokken code niet lukt kan je onze blokken code ook downloaden bij downloads.
+
+Om te beginnen moet je op deze site zijn:<br>
+<a href="https://blokkencode.ingegno.be/" target="_blanc">https://blokkencode.ingegno.be/</a>
+
+We beginnen met de setup, we zeggen hier aan welke pin de knop zit van de joystick en aan welke pin de X en Y zitten. We geven ook mee aan de code dat we een Arduino Nano gebruiken en een TFT-Scherm. Je kan een digitale pin of een analoge sensor toevoegen door op het settings icoontje te klikken
+
+![Screenshot4]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot4.png)
+
+* Platform vind je onder 'Componenten'
+* TFT-Scherm vind je onder 'Schermen'
+* Drukknop 2-draads en analag sensor vind je onder 'In/Output'
+
+Nu heb je deze funtie nodig:
+
+![Screenshot5]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot5.png)
+
+* Dit vind je onder 'Functies'
+
+We beginnen met de code voor ``Arduino doet eerst``. We starten met een start scherm in te laden als we de console aan zetten. Hiervoor gaan we de achtergrond van het scherm aanpassen en 2 stukken tekst laten verschijnen. De "wacht 500 ms" zorgt ervoor dat we een halve seconden wachten voordat ``Games`` tevoorschijn komt.
+
+![Screenshot6]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot6.png)
+
+* TFT-Scherm en kleur blokken vind je onder 'Schermen'
+* Wacht vind je onder 'Tijd'
+* Text vind je onder 'Text'
+* Getallen vind je onder 'Wiskunde'
+
+Nu voegen we een blokje toe die zegt: zolang we niet op de joystick drukken gaan we niet verder. Dus als je op de joystick drukt gaan we verder.
+
+![Screenshot7]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot7.png)
+
+* Herhalen vind je onder 'Herhalen'
+* Niet vind je onder 'Logica'
+* Lees waarde knop vind je onder 'In/Output'
+
+Het laatste stukje code dat in de ``Arduino doe eerst`` moet is het spel klaarzetten voordat het begint. We gaan al een sprite klaarzetten dat we dan laten kunnen doen bewegen. Daarna wacht de code 3 seconden voordat het spel begint.
+
+![Screenshot8]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot8.png)
+
+* Stel Xpos en Stel Ypos vind in onder 'Variabelen' en je kan zelf de variabel toevoegen
+
+Nu gaan we naar ``Arduino herhaal voor altijd``. Deze code gaat de arduino blijven herhalen todat je hem uit zet. Maar we beginnen met een fucntie op te vragen. Deze funtie zal de joystick lezen vandaar noemt de funtie ``lees_joystick``.
+
+![Screenshot10]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot10.png)
+![Screenshot9]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot9.png)
+
+* Deze funtie maak je aan door bij 'Functies' een opdracht te maken die je dan 'lees_joystick' noemt. Dan kan je het blokje 'lees_joystick' ook bij "Functies" vinden.
+
+Nu schrijven we de code voor ``lees_joystick``. We gaan kijken op welke X,Y positie de joystick staat en zo kunnen we dan onze sprite in die richting laten gaan.
+
+![Screenshot11]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot11.png)
+
+* Als blokken vind je onder 'Logica' en kan je configureren door op het settings icoontje te klikken.
+
+Nu we de plaats van de joystick weten kunnen we de sprite in die richting laten bewegen. We hebben enkele nieuwe variabelen nodig om te weten of de positie wel veranderd moet worden
+
+![Screenshot12]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot12.png)
+
+Als de nieuwe positie wel degelijk nieuw is en niet het zelfde gaan we verplaatsen.
+
+![Screenshot13]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot13.png)
+
+* Commentaar blokken zijn niet nodig en doen niets voor de code. Deze blokken zijn aleen voor jou om te helpen zeggen wat de code doet.
+
+**Klaar!**<br>
+Nu kan je de code copieëren die bij "Arduino Source Code" staat en in je Arduino IDE zetten.
+Werkt jou code niet? De xml file staat bij downloads die kan je dan uploaden op de site.
