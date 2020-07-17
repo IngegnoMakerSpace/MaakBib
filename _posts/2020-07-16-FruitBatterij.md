@@ -221,7 +221,7 @@ Maar met weinig spanning èn weinig stroomsterkte, kun je helaas niets beginnen.
 
 ## Weetjes en wetenschap 
 <div class="border_boxmaakbib01_img" markdown="1">
-#### Hoe werkt een batterij?
+#### Wie heeft de batterij uitgevonden?
 In 1800 ontdekte Alessandro Volta dat tussen een schijfje van koper en een schijfje van zink een stroom gaat lopen als je er karton met zuur tussen doet. Hij stapelde er heel veel op elkaar en maakte zo de allereerste batterij.
 
 ![Volta]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig14.png)
