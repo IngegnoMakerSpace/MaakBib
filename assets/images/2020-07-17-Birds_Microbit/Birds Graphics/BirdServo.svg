@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="87.425369mm"
+   height="60.878914mm"
+   viewBox="0 0 87.42537 60.878915"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="BirdServo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1796276"
+     inkscape:cx="162.41306"
+     inkscape:cy="115.04677"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="281"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="14.354496,55.082945"
+       orientation="0,1"
+       id="guide877"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.84668,-44.013346)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.75590552;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.57139313;stroke-opacity:1"
+       d="M 0.37890625,0.37890625 V 170.45703 H 19.654297 V 159.87305 H 132.2832 v 10.58398 h 19.27539 V 0.37890625 H 122.83398 V 16.03125 a 7.1602522,7.1811024 0 0 1 4.23047,-1.398438 7.1602522,7.1811024 0 0 1 7.16016,7.181641 7.1602522,7.1811024 0 0 1 -7.16016,7.181641 7.1602522,7.1811024 0 0 1 -4.23047,-1.396485 V 44.976562 H 29.103516 V 26.980469 a 7.1811023,7.2020099 0 0 1 -4.982422,2.015625 7.1811023,7.2020099 0 0 1 -7.179688,-7.203125 7.1811023,7.2020099 0 0 1 7.179688,-7.201172 7.1811023,7.2020099 0 0 1 4.982422,2.025391 V 0.37890625 Z"
+       transform="matrix(0.26458333,0,0,0.26458333,24.846428,44.013094)"
+       id="rect815"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.57139313;stroke-opacity:1"
+       d="m 75.890325,46.809498 v 2.999817 H 70.890114 V 89.609469 H 110.69026 V 49.809315 h -5.00021 v -2.999817 z"
+       id="rect863"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.57139313;stroke-opacity:1"
+       d="m 60.644361,99.848598 c -0.0031,-0.49718 -0.318964,-1.87728 -1.509183,-2.17769 -5.828677,-1.47118 -21.244537,-2.67865 -23.429626,-2.67865 -2.706195,0 -4.9,2.1938 -4.9,4.9 0,2.706202 2.193805,4.900002 4.9,4.900002 2.280102,0 17.569889,-1.24686 23.411231,-2.66593 1.009472,-0.24524 1.530018,-1.88106 1.527578,-2.277732 z"
+       id="path886"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssss" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.57139313;stroke-opacity:1"
+       d="m 37.605552,99.900388 a 1.9,1.9 0 0 1 -1.9,1.900002 1.9,1.9 0 0 1 -1.9,-1.900002 1.9,1.9 0 0 1 1.9,-1.9 1.9,1.9 0 0 1 1.9,1.9 z"
+       id="circle888"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
