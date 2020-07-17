@@ -14,8 +14,8 @@ int Ypos_oud;
 int Joystick_druk = 4;
 int knopA = 2;
 int knopB = 3;
-int Joystick_X = A0;
-int Joystick_Y = A1;
+int Joystick_X = A1;
+int Joystick_Y = A2;
 
 boolean Joystick_druk_PRESSED = LOW;
 

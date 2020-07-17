@@ -3,7 +3,7 @@ layout: post
 title:  "Retro Game Maken"
 featured: false
 published: false
-authors: [guest]
+authors: [ben]
 author_name: ""
 lowtech: false
 midtech: true
@@ -24,7 +24,9 @@ tijd: 3u+
 print: assets/images/2020-07-16-Retro-Game-Maken/Handleiding_RetroGaming_ArduinoNano.docx.pdf   
 downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020-07-16-Retro-Game-Maken/Handleiding_RetroGaming_ArduinoNano.docx.pdf   
+    file: assets/images/2020-07-16-Retro-Game-Maken/Handleiding_RetroGaming_ArduinoNano.docx.pdf
+  - name: 'Etch a Sketch code'
+    file: https://github.com/ingegno/RetroGames/tree/master/ArduinoEtchAsketch
 ---
 
 Leer hoe je je eigen game programmeerd voor jou zelf gemaakte game console! Hier leer je werken met blokkencode en uiteindelijk hoe je een game maakt (Etch a Sketch).
@@ -76,3 +78,22 @@ Nu dat je dat klaar hebt heb je de ``Arduino doe eerst: / Arduino herhaal voor a
 * Als de Arduino opstart gaat het scherm voor 3 seconden vast op rood staan. Maar als je daarna op de knop drukt die op pin 1 is aangesloten zal het scherm wit worden voor 1 seconde en dan zwart worden.
 
 ## Deel 2: Etch a Sketch maken
+Als voorbeeld game gaan we Etch a Sketch maken. In deze game kan je met de joystick lijnen tekenen. Als je op de B knop (rechts) drukt zal je de kleur van je lijn aanpassen en als je op de A knop (links) drukt zal de kleur van de achtergrond resetten. Zo kan je dus tekeningen maken met je Retro Game Console! Er zal stap voor stap worden uitgelegd hoe je aan de blokkencode komt.
+
+![gamemaken6]({{ site.baseurl }}/assets/images/2020-07-16-Retro-Game-Maken/gamemaken6.jpg)
+![gamemaken7]({{ site.baseurl }}/assets/images/2020-07-16-Retro-Game-Maken/gamemaken7.jpg)
+
+**Setup**
+
+![gamemaken7]({{ site.baseurl }}/assets/images/2020-07-16-Retro-Game-Maken/gamemaken8.png)
+
+* Hier declareren we de pinnen aan de juiste componenten, we geven ook mee dat we een Arduino Nano gebruiken en een TFT-Scherm.
+
+**Doe eerst en herhaal altijd**
+
+We begin met ons startscherm en dat gaan we doen door een funtie te maken.
+
+![gamemaken7]({{ site.baseurl }}/assets/images/2020-07-16-Retro-Game-Maken/gamemaken9.png)
+![gamemaken7]({{ site.baseurl }}/assets/images/2020-07-16-Retro-Game-Maken/gamemaken10.png)
+
+* Opdrachten blokje vind je onder 'Functies'.
