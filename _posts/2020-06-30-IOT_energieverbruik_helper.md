@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IOT Energieverbruik helper"
-featured: true
+featured: false
 published: true
 authors: [guest]
 author_name: "Stijn Liekens"

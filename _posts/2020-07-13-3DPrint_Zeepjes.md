@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Giet je eigen zeepjes"
-featured: false
+featured: true
 published: true
 authors: [guest]
 author_name: "Gertjan Ameryckx"

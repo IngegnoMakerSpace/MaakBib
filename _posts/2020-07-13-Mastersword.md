@@ -485,7 +485,7 @@ Als alle pinnen vast zitten, kunnen we de laatste knop afknippen tot de juiste h
 
 ![Solderen7]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen7.png)
 
-Je kan de hoogte uittesten door de ge-3D-printte knop in de bovenkant van de greep te leggen en deze op de onderkant van de greep te leggen. Als je de knop zonder probleem
+Je kan de hoogte uittesten door de 3D-geprinte knop in de bovenkant van de greep te leggen en deze op de onderkant van de greep te leggen. Als je de knop zonder probleem
 kan indrukken, is het in orde.
 
 Deze laatste knop soldeer je met 1 beentje aan de andere knoppen. Dan knip je net zoals bij de andere knoppen het beentje dat niet meer op de foto staat af.
@@ -519,7 +519,7 @@ Voordat we de ledstrips kunnen solderen, moeten we de pinnen zichtbaar maken. Hi
 knip je het begin van de omhulsel weg en maak je de pinnen schoon.
 Of je knipt 1 LED van de ledstrip af.
 
-**Let op!** Voor je knip, kijk waar de aanduiding, lijntje of schaartje, staat om te knippen.
+**Let op!** Voor je knipt, kijk waar de aanduiding, lijntje of schaartje, staat om te knippen.
 
 Leg de ledstrip daarna op 1 van de helften van het blad van het zwaard en knip de ledstrip af
 zodat je zoveel mogelijk leds in het blad krijgt. 
