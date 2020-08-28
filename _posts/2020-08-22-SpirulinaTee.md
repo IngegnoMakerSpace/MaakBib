@@ -21,10 +21,10 @@ licence: CCBY-NC-SA
 categories: [zeefdruk, wetenschappen ]
 image: assets/images/2020-08-22-SpirulinaTee/fig0.jpeg
 tijd: 1 uur
-print: assets/images/2020-08-22-SpirulinaTee/
+print: assets/images/2020-08-22-SpirulinaTee/Handleiding_SpirulinaTee.pdf
 downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020-08-22-SpirulinaTee/
+    file: assets/images/2020-08-22-SpirulinaTee/Handleiding_SpirulinaTee.pdf
 
 materialen_dontshow: true
 materialen: [
@@ -166,7 +166,7 @@ Nu vraag je je misschien af wat cyanobacteriën zijn. Cyanobacteriën zijn bacte
 
 Aangezien spirulina een hoopje uitgedroogde bacteriën is, kan deze groene stof niet worden onderhouden. Dit wilt dus zeggen dat er een bepaalde hoeveelheid stof is, maar als die verloren gaat, kan er geen nieuwe aangemaakt worden. In het geval van spirulina kan deze stof kapot gaan door UV-straling van de zon. Oftewel, als je je T-shirt te lang in de zon laat, zal hij helemaal verkleuren en uiteindelijk is je ontwerp verdwenen!
 
-Wij gebruiken spirulina als pigment voor onze verf, maar het heeft nog een belangrijkere toepassing. Het wordt voornamelijk gebruikt als voedingsupplement. Het is enorm rijk is aan proteïnen en vitaminen. 
+Wij gebruiken spirulina als pigment voor onze verf, maar het heeft nog een belangrijkere toepassing. Het wordt voornamelijk gebruikt als voedingssupplement. Het is enorm rijk is aan proteïnen en vitaminen. 
 
 Omdat ze eenvoudig te kweken zijn in grote hoeveelheden, zijn ze veelbelovend voor de toekomst. Enerzijds kan je ze gebruiken om het voedsel tekort op aarde op te lossen. Anderzijds wordt er ook onderzoek gedaan of we ze kunnen doen groeien en oogsten in de ruimte. Dat zou handig zijn voor astronauten die op lange reizen gaan. Dan moeten ze niet al hun eten meenemen en kunnen ze het ook op een kleine oppervlakte produceren.
 
@@ -242,7 +242,7 @@ Hoe korter de golflengte van het licht, hoe meer energie er is in dat type licht
 Nu kan je je afvragen van waar die UV-straling komt. De zon stuurt naast het licht dat we zien, ook andere straling uit waaronder ook UV-straling. De zon is ook de belangrijkste bron van UV-straling waar bijna iedereen mee in contact komt. 
 
 #### Wat voor schade kan UV-straling veroorzaken?
-Omdat UV-straling een relatief korte golflengte heeft en dus meer energie bevat, kan het ook schadelijk zijn. Je zal wellicht al gehoord hebben dat je je moet insmeren als de zon schijnt. Dit is noodzakkelijk om je te beschermen tegen de hoog energetische UV-straling. Die straling kan er namelijk voor zorgen dat je je verbrandt. 
+Omdat UV-straling een relatief korte golflengte heeft en dus meer energie bevat, kan het ook schadelijk zijn. Je zal wellicht al gehoord hebben dat je je moet insmeren als de zon schijnt. Dit is noodzakelijk om je te beschermen tegen de hoog energetische UV-straling. Die straling kan er namelijk voor zorgen dat je je verbrandt. 
 
 Maar wat nog veel erger is, is dat het ook huidkanker kan veroorzaken. Dit komt omdat het DNA in de cellen van je lichaam wordt aangetast door de hoog energetische straling. 
 Je kan je cellen vergelijken met een fabriek en je DNA met de handleiding. Als alle werknemers de correcte handleiding volgen, zijn er geen problemen en werkt alles zoals het moet. Dit is de normale situatie binnen een cell. Maar als er iets fout loopt met de handleiding, dan weet niemand wat ze juist moeten doen en ontstaat er chaos binnen de fabriek. 
