@@ -19,12 +19,16 @@ pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
 categories: [zeefdruk, wetenschappen ]
-image: assets/images/2020-08-22-SpirulinaTee/fig0.JPG
+image: assets/images/2020-08-22-SpirulinaTee/fig0.jpeg
 tijd: 1 uur
+print: assets/images/2020-08-22-SpirulinaTee/
+downloads: 
+  - name: 'Handleiding'
+    file: assets/images/2020-08-22-SpirulinaTee/
 
 materialen_dontshow: true
 materialen: [
-    Witte T-shirt, 
+    Witte T-shirt of totebag, 
     Spirulina poeder, 
     Acrylhars,
     Textiel medium,
@@ -44,9 +48,9 @@ tools: [
     ]
     
 ---
-Druk je eigen ontwerp op een T-shirt met bacteriën! Maar pas op, zal jouw ontwerp het overleven?
+Druk je eigen ontwerp op een totebag of T-shirt met bacteriën! Maar pas op, zal jouw ontwerp het overleven?
 
-In dit project wordt uitgelegd hoe je zelf een textiel verf op basis van spirulina kan maken. Nadien kan je met behulp van een zeefdrukraam je eigen ontwerp op een T-shirt drukken. Maar let op, als je T-shirt te lang wordt blootgesteld aan de zon, zal je ontwerp verdwijnen!
+In dit project wordt uitgelegd hoe je zelf een textiel verf op basis van spirulina kan maken. Nadien kan je met behulp van een zeefdrukraam je eigen ontwerp op een totebag of T-shirt drukken. Maar let op, als het te lang wordt blootgesteld aan de zon, zal je ontwerp verdwijnen!
 
 *Deze handleiding werd ontwikkeld door **Ritik Mehta** voor Maakbib*.
 
@@ -56,7 +60,7 @@ In dit project wordt uitgelegd hoe je zelf een textiel verf op basis van spiruli
 
 <div class="benodigdheden">
   <ul>
-    <li>Witte T-shirt</li>
+    <li>Totebag of T-shirt</li>
     <li><a href="https://www.hollandandbarrett.be/shop/product/biotona-spirulina-raw-poeder-bio-60014851?skuid=014851">Spirulina poeder</a></li>
     <li><a href="https://www.bol.com/nl/p/a1-acrylic-resin-acrylhars-set-1-5-kg/9200000129693689/?bltgh=k5gB0s2PASDRnPZ0y4xKyw.1_4.5.ProductTitle">Acrylhars</a></li>
     <li><a href="https://www.schleiper.com/eshopexpress/articles/SRET20001--screentec-tprint-t2000-transparant-medium-pot-1kg?lang=nl&fbclid=IwAR3ht3hV0XbkZU8izzY4heQyJXtDlnW6w6qG166lTltmyzo7mUsb0SbeUoY">Textiel medium</a></li>
@@ -76,11 +80,19 @@ Dit project kan je opdelen in drie fasen. In fase 1 ontwerpen we een vorm om te 
 ## Fase 1: Maak je ontwerp
 We zullen eerst het basis ontwerp maken. Hier kiezen we ook hoe we ons ontwerp op de T-shirt willen bedrukken. Je kan deze fase ook een aantal keer herhalen als je meerdere ontwerpen wilt zeefdrukken.
 
+Hiervoor ga je de volgende zaken nodig hebben: een pen, een breekmes en papier.
+
+![B1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig4.jpeg)
+
 #### Stap 1: Teken je ontwerp
 Neem een vel papier en teken hierop je ontwerp. Er zijn geen regels, laat je creativiteit erop los!
 
+![F1S1.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig7.jpeg)
+
 #### Stap 2: Maak een sjabloon en cut-out
 Nu is het tijd om je tekening zorgvuldig uit te snijden. **Let op:** zorg dat je de vorm én de rest van het papier intact behoudt! Je kan hiervoor best een breekmes gebruiken. **Pas op voor je vingers!**
+
+![F1S2.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig8.jpeg)
 
 De vorm die je uitknipt noemen we de cut-out. De rest van het papier noemen we het sjabloon. In de volgende stap gaan we zien waarvoor we ze kunnen gebruiken.
 
@@ -95,18 +107,41 @@ Dit krijg je als je met het sjabloon zeefdrukt.
 
 ![S]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig2.png)
 
+We kiezen hier om het sjabloon te gebruiken. De losse stukjes kan je ook terugplaatsen zodat ze ook op het textiel zichtbaar zijn.
+
+![F1S3.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig9.jpeg)
+
 ## Fase 2: Bereid je verf voor
 We hebben ons ontwerp voor de T-shirt gekozen. Nu is het tijd om de textiel verf te maken. Hiervoor hebben we drie componenten nodig: acrylhars, textiel medium en kleurstof. In ons geval gebruiken we spirulina als kleurstof.
+
+Hiervoor ga je de volgende zaken nodig hebben: je acrylhars componenten, je textiel medium, de spirulina, bekertjes, lepels en een weegschaal.
+
+![B2]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig5.jpeg)
 
 #### Stap 1: Maak je acrylhars
 Acrylhars bestaat vaak uit twee componenten. Op de website van de producent kan je terugvinden in welke verhoudingen je de twee componenten moet mengen.
 
 Als je <a href="https://www.bol.com/nl/p/a1-acrylic-resin-acrylhars-set-1-5-kg/9200000129693689/?bltgh=k5gB0s2PASDRnPZ0y4xKyw.1_4.5.ProductTitle">deze acrylhars</a> hebt, dan bereid je hem als volgt. 
 Neem twee plastieken bekers, een voor de vloeistof en een voor het poeder. Je weegt een eenheid vloeistof en twee eenheden poeder af. Bijvoorbeeld 50g vloeistof en 100g poeder, dit zal voldoende zijn voor een aantal ontwerpen. 
+
+![F2S1.2]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig10.jpeg)
+
 Dan voeg je beetje bij beetje het poeder toe aan de vloeistof terwijl je roert. Zorg ervoor dat al het poeder goed oplost en blijf roeren tot de oplossing egaal is. Er mogen geen klonters meer zijn.
 
+![F2S1.3]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig11.jpeg)
+
 #### Stap 2: Maak textiel verf
-Nu we de acrylhars hebben, kunnen we neutrale textiel verf maken. Hiervoor hebben we evenveel textiel medium nodig als acrylhars. Je kan dit makkelijk doen door naast de beker met de acrylhars een tweede lege beker te plaatsen. Vul deze met textiel medium tot op dezelfde hoogte als je eerste beker. Voeg deze twee samen en roer totdat de oplossing egaal is.
+Nu we de acrylhars hebben, kunnen we neutrale textiel verf maken. Hiervoor hebben we evenveel textiel medium nodig als acrylhars. Je kan dit makkelijk doen door naast de beker met de acrylhars een tweede lege beker te plaatsen. Vul deze met textiel medium tot op dezelfde hoogte als je eerste beker. 
+
+![F2S2.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig12.jpeg)
+
+Voeg deze twee samen en roer totdat de oplossing egaal is.
+
+![F2S2.2]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig13.jpeg)
+
+Je neutrale textiel verf zou er uiteindelijk zo moeten uitzien:
+
+![F2S2.3]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig14.jpeg)
 
 #### Stap 3: Geef het wat kleur
 In dit project gebruiken we spirulina als kleurstof. Aangezien het een groene kleur heeft, kunnen we alleen groene tinten verf maken. De hoeveelheid spirulina zal bepalen hoe donker je tint zal zijn.
@@ -115,7 +150,13 @@ Hieronder leggen we uit hoeveel spirulina je ongeveer nodig hebt om drie tinten 
 
 De drie tinten maken die we willen maken zijn groen, licht groen en donker groen. Verdeel de neutrale verf in gelijke hoeveelheden over 3 bekers. Strooi in de eerste beker 1/5 lepel spirulina om licht groen te krijgen. In de tweede beker willen we gewoon groen, dus voeg hier 1/3 lepel spirulina aan toe. Tenslotte zal de derde beker een donker groene kleur bevatten en hiervoor voegen we een volledige lepel spirulina toe.
 
-Roer goed in alle bekers! Er mogen geen klonters spirulina overblijven, anders krijg je oneffenheden op je T-shirt.
+Roer goed in alle bekers! 
+
+![F2S3.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig15.jpeg)
+
+Er mogen geen klonters spirulina overblijven, anders krijg je oneffenheden op je T-shirt. Je verf zou dan zo'n textuur moeten hebben:
+
+![F2S3.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig16.jpeg)
 
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Wat is spirulina?
@@ -132,21 +173,62 @@ Omdat ze eenvoudig te kweken zijn in grote hoeveelheden, zijn ze veelbelovend vo
 </div>
 
 ## Fase 3: Tijd om te zeefdrukken
+Onze verf is nu ook klaar. We kunnen eindelijk ons ontwerp op de totebag drukken!
+
+Hiervoor ga je de volgende zaken nodig hebben: een zeefdrukraam, krantenpapier, schilderstape, je totebag of T-shirt en een oude kaart.
+
+![B3]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig6.jpeg)
+
 #### Stap 1: Bereid je zeefdrukraam voor
 Zorg ervoor dat je een zeefdrukraam hebt. Je kan er een kopen of je kan er zelf een maken aan de hand van stap 2 in <a href="https://maakbib.be/zeefdruk-met-lijm/">deze handleiding</a>. Plak de randen van je raam af met schilderstape zodat er geen verf tussen kruipt.
 
-#### Stap 2: Kader van krantenpapier
-Als je voor een cut-out hebt gekozen, ga je nu een kader maken met krantenpapier waarin je hele cut-out past. Een kader moét geen rechthoek zijn, je kan je creativiteit hier de vrije loop laten. Dit dient voornamelijk om de rest van je T-shirt te beschermen tegen vlekken tijdens het zeefdrukken. 
+![F3S1.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig17.jpeg)
 
-Als je voor het sjabloon hebt gekozen, kan je best ook de randen van je sjabloon verlengen met stukken krantenpapier. Zo voorkom je dat je per ongeluk andere delen van je T-shirt verft.
+#### Stap 2: Kader van krantenpapier
+Als je voor een cut-out hebt gekozen, ga je nu een kader maken met krantenpapier waarin je hele cut-out past. Een kader moét geen rechthoek zijn, je kan je creativiteit hier de vrije loop laten. 
+
+Als je voor het sjabloon hebt gekozen, kan je best ook de dunne randen van je sjabloon verlengen met stukken krantenpapier.
+
+![F3S2.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig18.jpeg)
+
+Dit dient voornamelijk om de rest van je T-shirt te beschermen tegen vlekken tijdens het zeefdrukken zoals hieronder:
+
+![F3S2.2]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig19.jpeg)
+
 
 #### Stap 3: Op volgorde
-We leggen nu alles klaar op de juiste volgorde op elkaar om te kunnen zeefdrukken. Plaats je T-shirt op tafel en steek er een stuk karton tussen zodat je verf niet doordrukt. Plaats nu je cut-out of sjabloon met kader op je T-shirt. Je mag kiezen waar, maar zorg ervoor dat je het karton ook verplaatst. Nu kan je je zeefdrukraam bovenop het ontwerp plaatsen.
+We leggen nu alles klaar op de juiste volgorde op elkaar om te kunnen zeefdrukken. Plaats je T-shirt op tafel en steek er een stuk karton tussen zodat je verf niet doordrukt. 
+
+![F3S3.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig20.jpeg)
+
+Plaats nu je cut-out of sjabloon met kader op je T-shirt. Je mag kiezen waar, maar zorg ervoor dat je het karton ook verplaatst. 
+
+![F3S3.2]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig21.jpeg)
+
+Nu kan je je zeefdrukraam bovenop het ontwerp plaatsen.
+
+![F3S3.3]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig22.jpeg)
 
 #### Stap 4: Tijd om te zeefdrukken
-Nu kunnen we eindelijk ons ontwerp zeefdrukken! Vraag iemand om je te helpen met deze stap. Het zeefdrukraam moet namelijk goed tegen de tafel worden geduwd terwijl je de verf verspreidt. Schep dan een lepel verf over op het zeefdrukraam. Het beste is om de verf in een streep bovenaan je ontwerp aan te brengen. Spreid vervolgens de verf uit met de raamwisser of oude kaart over het hele ontwerp. Het is niet nodig om de verf niet over heel je zeefdrukraam verspreiden als je ontwerp relatief klein is. Als je meer verf nodig hebt, kan je altijd een beetje bijscheppen.
+Nu kunnen we eindelijk ons ontwerp zeefdrukken! Vraag iemand om je te helpen met deze stap. Het zeefdrukraam moet namelijk goed tegen de tafel worden geduwd terwijl je de verf verspreidt. Schep dan een lepel verf over op het zeefdrukraam. Het beste is om de verf in een streep bovenaan je ontwerp aan te brengen. 
+
+![F3S4.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig23.jpeg)
+
+Spreid vervolgens de verf uit met de raamwisser of oude kaart over het ontwerp. Doe dit in een vlotte beweging over je hele ontwerp. Je kan afwisselen tussen horizontale en verticale lijnen. 
+
+![F3S4.2]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig24.jpeg)
+
+Het is niet nodig om de verf niet over heel je zeefdrukraam verspreiden als je ontwerp relatief klein is. Als je meer verf nodig hebt, kan je altijd een beetje bijscheppen.
+
+![F3S4.3]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig25.jpeg)
 
 Als je de verf goed hebt verspreid, kan je het zeefdrukraam eraf halen. Doe dit in een vlotte beweging en haal het direct weg van boven je T-shirt. 
+
+![F3S4.4]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig26.jpeg)
+
+Nu is je ontwerp af! Je kan dit process verschillende keren herhalen als je meer ontwerpen wilt bedrukken. **Let op:** zorg er wel voor dat je vorige ontwerp droog is, voor je aan je volgende begint.
+
+![F3S4.5]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig27.jpeg)
 
 ## Wetenschap achter UV-straling
 <div class="border_boxmaakbib03_img" markdown="1">
