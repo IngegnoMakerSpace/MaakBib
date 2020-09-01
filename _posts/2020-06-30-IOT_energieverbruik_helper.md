@@ -277,7 +277,7 @@ De testcode (op de foto hieronder) is terug te vinden in de [zip bijlage]({{ sit
 Ons project is niet af als we niet ook voor een behuizing zorgen voor onze energieverbruiker! Laat ons er dus eentje maken.
 
  1. 3Dprint de behuizing  
- De STL files hiervoor zijn te vinden in de [zip bijlage]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/3D-files.zip) als `3D print case bottom` en `3D print case top`.  
+ De STL files hiervoor zijn te vinden in de [zip bijlage]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/3D-files.zip) als `3D-print case bottom` en `3D-print case top`.  
 ![Finale Code]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image47.png)
 ![Finale Code]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image48.png)  
 ![Finale Code]({{ site.baseurl }}/assets/images/2020-06-30-IOT-Energieverbruikhulp/image49.jpeg)  

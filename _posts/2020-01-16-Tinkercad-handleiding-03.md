@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tinkercad gebruiken om een 3D print uil te maken"
+title:  "Tinkercad gebruiken om een 3D-print uil te maken"
 authors: [sanne]
 lowtech: true
 midtech: false
@@ -19,7 +19,7 @@ categories: [ software, 3D-printen]
 image: assets/images/2020-01-16-Tinkercad-handleiding-03/hoofding.png
 print: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
 downloads:
-  - name: 'Volledige handleiding 3D printen'
+  - name: 'Volledige handleiding 3D-printen'
     file: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
 benodigdheden:  [
   Computer met muis,
@@ -28,7 +28,7 @@ benodigdheden:  [
 ]
   
 ---
-Leer werken met Tinkercad en 3D tekeningen maken door deze handige handleiding te volgen om een **3D print uil** te maken.
+Leer werken met Tinkercad en 3D tekeningen maken door deze handige handleiding te volgen om een **3D-print uil** te maken.
 
 ## Benodigdheden
 
@@ -134,17 +134,17 @@ Om te kunnen printen moet het bestand nu nog geexporteerd worden naar een formaa
 Daarna kun je als STL downloaden wat alle 3D printers normaal kunnen printen.\
 ![cabine]({{ site.baseurl }}/assets/images/2020-01-16-Tinkercad-handleiding-02/stap40.png)
 
-## STAP 7 - 3D Printen
+## STAP 7 - 3D-Printen
 
-Je STL file kun je 3D printen. Volg hiervoor de handleiding van de 3D printer, of vraag een lab verantwoordelijke voor hulp.
+Je STL file kun je 3D-printen. Volg hiervoor de handleiding van de 3D printer, of vraag een lab verantwoordelijke voor hulp.
 
 ## Extra Tinkercad voorbeeld
 
-Je wil nog een Tinkercad oefening maken om nog meer expert te worden? Doe dan de activiteit [een 3D print boot maken]({{ site.baseurl }}/Tinkercad-handleiding-02)
+Je wil nog een Tinkercad oefening maken om nog meer expert te worden? Doe dan de activiteit [een 3D-print boot maken]({{ site.baseurl }}/Tinkercad-handleiding-02)
 
 ## REFERENTIES
 
 Gebaseerd op Paper owl box: http://www.instructables.com/id/Paper-Owl-Box/ 
 
 ## Voorbeelden
-Heb je een foto van je 3D print? Stuur hem ons!
+Heb je een foto van je 3D-print? Stuur hem ons!

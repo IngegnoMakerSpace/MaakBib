@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3D print een opwindbare-auto!"
+title:  "3D-print een opwindbare auto!"
 featured: false
 published: true
 authors: [guest]
@@ -42,7 +42,7 @@ benodigdheden_opt: [
       Fijne machine olie,
       ]
 ---
-Print en assembleer een opwindbaar autotje!  
+Print en assembleer een opwindbaar autootje!  
 
 Het hoofddoel van dit projectje is om te laten zien wat er de dag van vandaag mogelijk is met 3D-printing.   
 
@@ -165,12 +165,12 @@ In deze mid tech activiteit komt heel wat STEM (Science Technologie Engineering 
 En als je de werking gaat onderzoeken ontdek je heel wat natuurkunde. 
 
 <div class="border_boxmaakbib02_img" markdown="1">
-#### Opwindbare autotjes en natuurkunde
+#### Opwindbare autootjes en natuurkunde
 De opwindbare auto heeft een metalen of plastic buitenschaal waarin een chassis met een systeem van tandwielen, assen en wielen is ondergebracht. De as en achterwielen zijn bevestigd aan de tandwielen, die met de veer verbonden zijn. Wanneer de gebruiker de wielen draait, windt de as de veer op, waardoor energie opgeslagen wordt die dan omgezet wordt in beweging.  
 
 Een mooie uitleg is te zien [op deze video](https://youtu.be/QdvfiVebb_s?t=23)
 
-Het is belangrijk om het verschil tussen **snelheid** en **acceleratie/versnelling** te begrijpen, bij het werken met opwindbare autotjes. 
+Het is belangrijk om het verschil tussen **snelheid** en **acceleratie/versnelling** te begrijpen, bij het werken met opwindbare autootjes. 
 
 Een object versnelt wanneer zijn snelheid verandert, maar er wordt ook rekening gehouden met de richting. Versnelling is wanneer de bewegingsrichting, snelheid of beide van een object veranderen. Een object kan versnellen als het met een veranderende snelheid in een rechte lijn beweegt of als het in een cirkel beweegt met een variabele of constante snelheid.
 
@@ -188,7 +188,7 @@ Plaats kleine voorwerpen op de voorkant van de auto en observeer hoe de auto bew
 
 
 ## Maak het je eigen. 
-Kan je een manier bedenken om met eenvoudige recyclage materialen een autotje te maken die beweegt volgens gelijkaardige principes? 
+Kan je een manier bedenken om met eenvoudige recyclage materialen een autootje te maken die beweegt volgens gelijkaardige principes? 
 
 Ooit een `rubber-band car` gemaakt? Zoek het op!
 

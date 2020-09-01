@@ -88,7 +88,7 @@ maar het is wel aangeraden als je aanpassingen wilt maken.
 {% include benodigdheden.html %}
 
 ## 3D-Printing
-We gaan ervan uit dat je reeds succesvol kan 3D printen en dat je de instellingen voor jouw toestel kent. Anders kan je voor de komende stappen terecht bij je lokale Fablab/Maker Space of MaakBib. Zij helpen je ook om te starten met 3D printing.
+We gaan ervan uit dat je reeds succesvol kan 3D-printen en dat je de instellingen voor jouw toestel kent. Anders kan je voor de komende stappen terecht bij je lokale Fablab/Maker Space of MaakBib. Zij helpen je ook om te starten met 3D-printing.
 
 Omdat we het wiel niet opnieuw moeten uitvinden, vertrekken we van een bestaand model dat gedeeltelijk aangepast wordt zodat de elektronica erin past.
 De aangepaste bestanden voor dit project kan je hier afhalen:<br>
@@ -461,7 +461,7 @@ Vold het onderstaande schema voor het solderen van de componenten. En lees verde
 **Knoppen**
 Start met de knoppen.
 
-(Als het gelukt is om de kleine knoppen te 3D printen, moet je deze knoppen afknippen op maat
+(Als het gelukt is om de kleine knoppen te 3D-printen, moet je deze knoppen afknippen op maat
 voordat je verder gaat)
 
 ![Solderen2]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/Solderen2.jpg)

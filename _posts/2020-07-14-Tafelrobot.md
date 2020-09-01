@@ -35,7 +35,7 @@ tools: [
     een soldeerbout en soldeersel,
     "een smeltlijmpistool en een lijmstick, bij voorkeur van het lage temperatuur type, dat is veiliger",
     een schroevendraaier passend voor de schroeven,
-    een mal die je ook 3D print,
+    een mal die je ook 3D-print,
       ]
 ---
 
@@ -52,7 +52,7 @@ nauwkeurig tunen van de hoogte aan de hand van de schroeven.
 ## Benodigdheden
 
 <p style="margin: 0 0 0 0;"><strong>Materialen:</strong></p>
-60g 3D print filament, PLA of PET. Voor de basis en het regelstuk is PET aanbevolen,
+60g 3D-print filament, PLA of PET. Voor de basis en het regelstuk is PET aanbevolen,
 omdat het minder snel zal breken als de robot toch eens van de tafel valt. In de foto worden
 het filament niet getoond, maar de 3D-geprinte onderdelen
 <div class="benodigdheden">
@@ -76,7 +76,7 @@ het filament niet getoond, maar de 3D-geprinte onderdelen
 
 ![Foto2]({{ site.baseurl }}/assets/images/2020-07-14-Tafelrobot/tafelrobot foto - 2.jpg)
 
-## Stap 1: 3D printen van de onderdelen
+## Stap 1: 3D-printen van de onderdelen
 Voor alle onderdelen en de mal is [een stl-bestand beschikbaar in het zip bestand]({{ site.baseurl }}/assets/downloads/2020-07-14-Tafelrobot/tafelrobot.zip). Van de kegelwielen en de
 kleine wielen heb je per robot telkens twee exemplaren nodig, van alle andere onderdelen
 één. De mal kan je hergebruiken en delen binnen een kleine groep.

@@ -19,7 +19,7 @@ categories: [ software, 3D-printen]
 image: assets/images/2020-01-16-Tinkercad-handleiding-01/Tinkercad-handleiding.png
 print: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
 downloads:
-  - name: 'Volledige handleiding 3D printen'
+  - name: 'Volledige handleiding 3D-printen'
     file: assets/images/2020-01-16-Tinkercad-handleiding-01/TINKERCAD handleiding.pdf
 benodigdheden:  [
   Computer met muis,
@@ -170,8 +170,8 @@ De fijne rasterlijnen van het werkvlak liggen 1 mm uit elkaar, de dikkere lijnen
 
 We hebben twee voorbeelden waarbij we stap voor stap uitleggen hoe een object te maken. Doe minstens 1 van deze om expert in Tinkercad te worden!
 
-* Voorbeeld 1: [een 3D print boot maken]({{ site.baseurl }}/Tinkercad-handleiding-02)
-* Voorbeeld 2: [een 3D print uil maken]({{ site.baseurl }}/Tinkercad-handleiding-03)
+* Voorbeeld 1: [een 3D-print boot maken]({{ site.baseurl }}/Tinkercad-handleiding-02)
+* Voorbeeld 2: [een 3D-print uil maken]({{ site.baseurl }}/Tinkercad-handleiding-03)
 
 ## MEER VOORBEELDEN
 
@@ -199,4 +199,4 @@ Afbeeldingen van:
 * decreatievestem.be
 
 ## Voorbeelden
-Heb je een foto van je 3D print? Stuur hem ons!
+Heb je een foto van je 3D-print? Stuur hem ons!
