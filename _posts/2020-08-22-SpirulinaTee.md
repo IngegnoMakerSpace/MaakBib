@@ -160,7 +160,7 @@ Er mogen geen klonters spirulina overblijven, anders krijg je oneffenheden op je
 
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Wat is spirulina?
-Spirulina is een biomassa dat bestaat uit uitgedroogde cyanobacteriën. 
+Spirulina is een biomassa die bestaat uit uitgedroogde cyanobacteriën. 
 
 Nu vraag je je misschien af wat cyanobacteriën zijn. Cyanobacteriën zijn bacteriën die met behulp van zuurstof en licht, zoals planten, aan fotosynthese kunnen doen. Om aan fotosynthese te kunnen doen, hebben ze bepaalde stoffen nodig waarmee ze licht opvangen en omzetten in energie. Deze stoffen zijn aanwezig in plantencellen en cyanobacteriën en geeft hen beiden hun typische groene kleur. Wij gebruiken deze groene kleur als pigment voor onze textiel verf.
 
@@ -175,7 +175,7 @@ Omdat ze eenvoudig te kweken zijn in grote hoeveelheden, zijn ze veelbelovend vo
 ## Fase 3: Tijd om te zeefdrukken
 Onze verf is nu ook klaar. We kunnen eindelijk ons ontwerp op de totebag drukken!
 
-Hiervoor ga je de volgende zaken nodig hebben: een zeefdrukraam, krantenpapier, schilderstape, je totebag of T-shirt en een oude kaart.
+Hiervoor ga je de volgende zaken nodig hebben: een zeefdrukraam, krantenpapier, schilderstape, je totebag of T-shirt en een oude plastic kaart (bv je vorige bankkaart).
 
 ![B3]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig6.jpeg)
 
@@ -218,7 +218,7 @@ Spreid vervolgens de verf uit met de raamwisser of oude kaart over het ontwerp. 
 
 ![F3S4.2]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig24.jpeg)
 
-Het is niet nodig om de verf niet over heel je zeefdrukraam verspreiden als je ontwerp relatief klein is. Als je meer verf nodig hebt, kan je altijd een beetje bijscheppen.
+Het is niet nodig om de verf over heel je zeefdrukraam te verspreiden als je ontwerp relatief klein is. Als je meer verf nodig hebt, kan je altijd een beetje bijscheppen.
 
 ![F3S4.3]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig25.jpeg)
 
@@ -229,6 +229,8 @@ Als je de verf goed hebt verspreid, kan je het zeefdrukraam eraf halen. Doe dit 
 Nu is je ontwerp af! Je kan dit process verschillende keren herhalen als je meer ontwerpen wilt bedrukken. **Let op:** zorg er wel voor dat je vorige ontwerp droog is, voor je aan je volgende begint.
 
 ![F3S4.5]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig27.jpeg)
+
+Je bent klaar. Maar let op, als je zeefdruk te lang wordt blootgesteld aan de zon, zal je ontwerp verdwijnen! Dit komt door de UV-straling in het zonlicht. Hierdoor gaan de cyanobacteriën kapot en verliezen ze hun groene kleur. Doe de test, en kijk hoelang je ontwerp meegaat. In België valt dat best mee!
 
 ## Wetenschap achter UV-straling
 <div class="border_boxmaakbib03_img" markdown="1">
@@ -245,9 +247,9 @@ Nu kan je je afvragen van waar die UV-straling komt. De zon stuurt naast het lic
 Omdat UV-straling een relatief korte golflengte heeft en dus meer energie bevat, kan het ook schadelijk zijn. Je zal wellicht al gehoord hebben dat je je moet insmeren als de zon schijnt. Dit is noodzakelijk om je te beschermen tegen de hoog energetische UV-straling. Die straling kan er namelijk voor zorgen dat je je verbrandt. 
 
 Maar wat nog veel erger is, is dat het ook huidkanker kan veroorzaken. Dit komt omdat het DNA in de cellen van je lichaam wordt aangetast door de hoog energetische straling. 
-Je kan je cellen vergelijken met een fabriek en je DNA met de handleiding. Als alle werknemers de correcte handleiding volgen, zijn er geen problemen en werkt alles zoals het moet. Dit is de normale situatie binnen een cell. Maar als er iets fout loopt met de handleiding, dan weet niemand wat ze juist moeten doen en ontstaat er chaos binnen de fabriek. 
-Zo'n chaotische fabriek kan je vergelijken met een kanker cell. Die zijn ertoe in staat om andere cellen aan te tasten en kan er zelfs voor zorgen dat hele organen niet meer werken.
+Je kan je cellen vergelijken met een fabriek en je DNA met de handleiding. Als alle werknemers de correcte handleiding volgen, zijn er geen problemen en werkt alles zoals het moet. Dit is de normale situatie binnen een cel. Maar als er iets fout loopt met de handleiding, dan weet niemand wat ze juist moeten doen en ontstaat er chaos binnen de fabriek. 
+Zo'n chaotische fabriek kan je vergelijken met een kankercel. Die zijn ertoe in staat om andere cellen aan te tasten en kan er zelfs voor zorgen dat hele organen niet meer werken.
 
-Wat kan je doen om je daartegen te beschermen? Telkens als je langdurig blootgesteld bent aan de zon, kan je best zonnecrème opdoen. Want zonnecrème werkt zoals een spiegel. In plaats van dat je lichaamscellen die UV-straling opnemen, wordt het grotendeels weerkaatst. Dit voorkomt schade aan je DNA en dus ook kanker cell vorming.
+Wat kan je doen om je daartegen te beschermen? Telkens als je langdurig blootgesteld bent aan de zon, kan je best zonnecrème opdoen. Want zonnecrème werkt zoals een spiegel. In plaats van dat je lichaamscellen die UV-straling opnemen, wordt het grotendeels weerkaatst. Dit voorkomt schade aan je DNA en dus ook kankercel vorming.
 
 </div>
