@@ -19,13 +19,13 @@ Download Inkscape van de website [inkscape.org](https://inkscape.org/) voor jou 
 
 ## Leren werken met Inkscape
 
-* Overzichtleijk Basis Handleiding Inskscape [Inkscape by Jes]({{ site.baseurl}}/assets/tools/inkscape/LaserSnijden_JES_Astrid.pdf)
-* Korte handleiding inkscape  [Inskscape_kort]({{ site.baseurl}}/assets/tools/inkscape/Hip_HandleidingInkscape.pdf)
-* Bitmap overtrace: een figuur (.jpg, .png, .bmp) vectorizeren, dat is door de compouter laten overtekenen alsvector tekening. [Bitmap Overtrace]({{ site.baseurl}}/assets/tools/inkscape/BitMap Overtrace.pdf)
-* [Activiteit Sleutelhanger maken met Inkscape en de Lasercutter]({{ site.baseurl}}/sleutelhanger-maken-met-inkscape/)
-* Snel figuurtjes maken door bewerkingen op paden toe te passen
-[Bewerkingen_Paden]({{ site.baseurl}}/assets/tools/inkscape/Bewerkingen op Paden_inkscape.pdf)
-
+* Overzichtelijke Basis Handleiding [Inkscape by Jes]({{ site.baseurl}}/assets/tools/inkscape/LaserSnijden_JES_Astrid.pdf)
+* [Korte handleiding Inkscape]({{ site.baseurl}}/assets/tools/inkscape/Hip_HandleidingInkscape.pdf)
+* Bitmap overtrace: een figuur (.jpg, .png, .bmp) vectorizeren, dat is door de compouter laten overtekenen als een vector tekening geschikt voor de lasercutter of plotter.
+  * [Inkscape 1.0+ Bitmap Overtrace]({{ site.baseurl}}/assets/tools/inkscape/BitMap Overtrace Inkscape 1.0.pdf)
+  * [Inkscape 0.9 Bitmap Overtrace]({{ site.baseurl}}/assets/tools/inkscape/BitMap Overtrace.pdf)
+* Activiteit [Sleutelhanger maken met Inkscape en de Lasercutter]({{ site.baseurl}}/sleutelhanger-maken-met-inkscape/)
+* Snel figuurtjes maken door [bewerkingen op paden uit te voeren]({{ site.baseurl}}/assets/tools/inkscape/Bewerkingen op Paden_inkscape.pdf)
 
 ## Activiteiten
 
