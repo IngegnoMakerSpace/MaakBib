@@ -159,7 +159,7 @@ Nu dat alles op zijn plaats zit mag het deksel erop en kan je deze met bv. een e
 Om een game te kunnen spelen heb je de code nodig voor een game. Je vindt op onze repo code voor snake, pacman, pong en meer. Deze repo vind je hier:
 <a href="https://github.com/ingegno/RetroGames">github.com/ingegno/RetroGames</a>.
 
-Om deze code op je console te zetten heb je 2 dingen nodig die hieronder worden uitgeledg.
+Om deze code op je console te zetten heb je 2 dingen nodig die hieronder worden uitgelegd.
 
 **Arduino IDE**
 
@@ -170,7 +170,7 @@ Naast deze Arduino IDE, hebben we ook code fragmenten nodig die speciaal gemaakt
 
 **Adafruit labraries**
 
-In de Arduino IDE, ga naar menu **Schets > Biblioteek gebruiken > Biblioteek beheren...**
+In de Arduino IDE, ga naar menu **Schets > Bibliotheek gebruiken > Bibliotheek beheren...**
 
 Hier kun je de libraries zoeken, en installeren. Specifiek dien je te zoeken op `ST7735` via de zoekbalk, en de library ervoor te installeren:
 
@@ -194,7 +194,7 @@ Je bent naar hier gekomen omdat je eerst je componenten wilt testen voordat je v
 
 Hier word er uitgelegd hoe we door middel van blokken code kunnen kijken of de joystick en het scherm werkt. De blokken code kan je dan omzetten naar arduino code die we in de Arduino IDE kunnen zetten (voor uitleg over de Arduino IDE ga naar Stap 5). Als de blokken code niet lukt kan je onze blokken code ook downloaden bij downloads.
 
-Om te beginnen moet je op deze site zijn: <a href="https://blokkencode.ingegno.be" target="_blanc">blokkencode.ingegno.be/</a>
+Om te beginnen moet je op deze site zijn: <a href="https://blokkencode.ingegno.be" target="_blanc">blokkencode.ingegno.be</a>
 
 We beginnen met de setup, we zeggen hier aan welke pin de knop zit van de joystick en aan welke pin de X en Y richting van de joystick bevestigd zijn. We geven ook mee aan de code dat we een Arduino Nano gebruiken en een TFT-Scherm. Je kan een digitale pin of een analoge sensor toevoegen door op het blauwe settings icoontje in het arduino blok te klikken
 
@@ -259,4 +259,4 @@ Als de nieuwe positie wel degelijk nieuw is en niet het zelfde gaan we verplaats
 **Klaar!**<br>
 Nu kan je de code kopiëren die in de rechterkolom staat onder "Arduino Source Code" en plakken in een **lege** schets in je Arduino IDE. Druk op de upload knop om het op je console te plaatsen, en test je joystick en het scherm zo. 
 
-Werkt jou code niet? De blokken op <a href="https://blokkencode.ingegno.be/" target="_blanc">blokkencode.ingegno.be</a> kun je opslaan als een `xml` file (via knop rechtsboven), en zo delen met anderen. Onze test xml files vind je bij <a href="https://github.com/ingegno/RetroGames/tree/master/voorbeelden" target="_blanc">de voorbeelden in de repo</a>. Je kan ze downloaden en opladen in <a href="https://blokkencode.ingegno.be/" target="_blanc">blokkencode.ingegno.be</a> via de knop rechtsboven.
+Werkt jou code niet? De blokken op <a href="https://blokkencode.ingegno.be" target="_blanc">blokkencode.ingegno.be</a> kun je opslaan als een `xml` file (via knop rechtsboven), en zo delen met anderen. Onze test xml files vind je bij <a href="https://github.com/ingegno/RetroGames/tree/master/voorbeelden" target="_blanc">de voorbeelden in de repo</a>. Je kan ze downloaden en opladen in <a href="https://blokkencode.ingegno.be" target="_blanc">blokkencode.ingegno.be</a> via de knop rechtsboven.
