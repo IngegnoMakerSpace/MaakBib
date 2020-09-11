@@ -97,3 +97,5 @@ We begin met ons startscherm en dat gaan we doen door een funtie te maken.
 ![gamemaken7]({{ site.baseurl }}/assets/images/2020-07-16-Retro-Game-Maken/gamemaken10.png)
 
 * Opdrachten blokje vind je onder 'Functies'.
+
+**Code voor de opdracht startscherm**
