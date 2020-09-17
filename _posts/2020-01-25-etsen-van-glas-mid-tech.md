@@ -18,6 +18,8 @@ print: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.p
 downloads:
   - name: 'Stappenplan glas etsen met etspasta'
     file: assets/images/2020-01-25-etsen-van-glas-low-tech/Handleiding_glas etsen.pdf
+  - name: 'Lasercut files circuit - zipped'
+    file: assets/images/2020-01-25-etsen-van-glas-mid-tech/circuit_nutellaLamp.zip
 benodigdheden:  [
   Glazen voorwerpen van ongehard glas; we gebruiken een Nutella pot,
   Sticker vel,
