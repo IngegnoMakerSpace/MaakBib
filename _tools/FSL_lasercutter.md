@@ -21,7 +21,7 @@ We beschikken over een kleine lasercutter (30x50 cm) van het merk
 
 
 
-Bij problemen, raadpleeg officiële handleiding: [Referentie waarden]({{ site.baseurl}}/assets/tools/FSL_lasercutter/Hobby Series Manual.pdf)
+Bij problemen, raadpleeg [officiële handleiding]({{ site.baseurl}}/assets/tools/FSL_lasercutter/Hobby Series Manual.pdf)
 
 
 ## Download en Installatie
