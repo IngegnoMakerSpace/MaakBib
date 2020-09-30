@@ -85,7 +85,7 @@
 </div>
 {% endif %}
 
-{% if page.benodigdheden_opt %}
+{% if page.benodigdheden_opt and (page.benodigdheden_opt_dontshow == false  or page.benodigdheden_opt_dontshow == nil %}
 <p style="margin: 0 0 0 0;"><strong>Optioneel:</strong></p>
 <div class="row">
   <div class="col-xs-12 col-md-6 col-lg-6 text-left text-md-left benodigdheden">
