@@ -175,9 +175,8 @@ We hebben twee voorbeelden waarbij we stap voor stap uitleggen hoe een object te
 
 ## MEER VOORBEELDEN
 
-Tinkercad is een open community. Dit wil zeggen dat je het werk van anderen ook kunt gebruiken en aanpassen! Alle modellen kun je in de 3D gallery van Tinkercad terugvinden. Klik op `Copy & Tinker` en je kunt aan de slag. Voorbeelden vind je op [https://www.linkercad.com/things/](https://www.linkercad.com/things/)
+Tinkercad is een open community. Dit wil zeggen dat je het werk van anderen ook kunt gebruiken en aanpassen! Alle modellen kun je in de 3D gallery van Tinkercad terugvinden. Klik op `Copy & Tinker` en je kunt aan de slag. Voorbeelden vind je op [https://www.tinkercad.com/things/](https://www.tinkercad.com/things/)
 
-Wil je je eigen cookie cutter maken? Weg met ronde koekjes, maak je eigen unieke vorm en print deze in 3D. Je kan deze maken op de site [http://www.cookiecaster.com/](http://www.cookiecaster.com/)
 
 MakerBot is een 3D printer. Er bestaat hier ook een community pagina, Thingiverse, van waar je allerhande leuke projecten kunt vinden en 3D objecten. Aan de slag! [http://www.thingiverse.com/](http://www.thingiverse.com/)
 
