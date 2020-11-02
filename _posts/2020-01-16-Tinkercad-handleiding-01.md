@@ -170,8 +170,8 @@ De fijne rasterlijnen van het werkvlak liggen 1 mm uit elkaar, de dikkere lijnen
 
 We hebben twee voorbeelden waarbij we stap voor stap uitleggen hoe een object te maken. Doe minstens 1 van deze om expert in Tinkercad te worden!
 
-* Voorbeeld 1: [een 3D-print boot maken]({{ site.baseurl }}/Tinkercad-handleiding-02)
-* Voorbeeld 2: [een 3D-print uil maken]({{ site.baseurl }}/Tinkercad-handleiding-03)
+* Voorbeeld 1: [een 3D-print boot maken]({{ site.baseurl }}/Tinkercad-handleiding-02/)
+* Voorbeeld 2: [een 3D-print uil maken]({{ site.baseurl }}/Tinkercad-handleiding-03/)
 
 ## MEER VOORBEELDEN
 
