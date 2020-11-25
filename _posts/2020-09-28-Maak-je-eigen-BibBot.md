@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Big BibBot Challenge"
-featured: true
+featured: false
 published: true
 authors: [guest]
 lowtech: true

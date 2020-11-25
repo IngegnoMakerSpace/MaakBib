@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stem laten laseren"
-featured: true
+featured: false
 authors: [len]
 lowtech: false
 midtech: false
