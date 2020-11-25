@@ -36,7 +36,7 @@ Leer werken met Tinkercad en 3D tekeningen maken door deze handige handleiding t
 
 ## Wat is Tinkercad?
 
-Je hebt Tinkercad nog nooit gebruikt? Lees eerst onze [basishandleiding Tinkercad]({{ site.baseurl }}/Tinkercad-handleiding-01)
+Je hebt Tinkercad nog nooit gebruikt? Lees eerst onze [basishandleiding Tinkercad]({{ site.baseurl }}/Tinkercad-handleiding-01/)
 
 ## STAP 1 - Lijf en kop
 Gebruikte tools: 
@@ -79,7 +79,7 @@ Lengte 12 mm Breedte 12 mm Dikte 5 mm
 Positioneer de bril tot je het gewenst effect verkrijgt.\
 ![bril]({{ site.baseurl }}/assets/images/2020-01-16-Tinkercad-handleiding-03/stap07.png)\
 Maak daarna gaten in de bril met behulp van de 'hole tool'. (zie stap [5 
-voorbeeld boot maken]({{ site.baseurl }}/Tinkercad-handleiding-02))\
+voorbeeld boot maken]({{ site.baseurl }}/Tinkercad-handleiding-02/))\
 ![snavel]({{ site.baseurl }}/assets/images/2020-01-16-Tinkercad-handleiding-03/stap08.png)
 3. Gebruik de 'box tool' voor de snavel (L: 9mm, B: 8.2 mm, D: 3 mm), plaats deze onder de ogen zodat je effect van een snavel krijgt.\
 ![snavel]({{ site.baseurl }}/assets/images/2020-01-16-Tinkercad-handleiding-03/stap09.png)
@@ -140,7 +140,7 @@ Je STL file kun je 3D-printen. Volg hiervoor de handleiding van de 3D printer, o
 
 ## Extra Tinkercad voorbeeld
 
-Je wil nog een Tinkercad oefening maken om nog meer expert te worden? Doe dan de activiteit [een 3D-print boot maken]({{ site.baseurl }}/Tinkercad-handleiding-02)
+Je wil nog een Tinkercad oefening maken om nog meer expert te worden? Doe dan de activiteit [een 3D-print boot maken]({{ site.baseurl }}/Tinkercad-handleiding-02/)
 
 ## REFERENTIES
 

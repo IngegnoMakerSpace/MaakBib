@@ -36,7 +36,7 @@ Leer werken met Tinkercad en 3D tekeningen maken door deze handige handleiding t
 
 ## Wat is Tinkercad?
 
-Je hebt Tinkercad nog nooit gebruikt? Lees eerst onze [basishandleiding Tinkercad]({{ site.baseurl }}/assets/images/2020-01-16-Tinkercad-handleiding-01)
+Je hebt Tinkercad nog nooit gebruikt? Lees eerst onze [basishandleiding Tinkercad]({{ site.baseurl }}/Tinkercad-handleiding-01/)
 
 ## STAP 1 - Onderkant boot
 Gebruikte tools: 
@@ -183,7 +183,7 @@ Je STL file kun je 3D-printen. Volg hiervoor de handleiding van de 3D printer, o
 
 ## Extra Tinkercad voorbeeld
 
-Je wil nog een Tinkercad oefening maken om nog meer expert te worden? Doe dan de activiteit [een 3D-print uil maken]({{ site.baseurl }}/Tinkercad-handleiding-03)
+Je wil nog een Tinkercad oefening maken om nog meer expert te worden? Doe dan de activiteit [een 3D-print uil maken]({{ site.baseurl }}/Tinkercad-handleiding-03/)
 
 ## REFERENTIES
  

@@ -20,8 +20,7 @@ We beschikken over een kleine lasercutter (30x50 cm) van het merk
  Full Spectrum Laser: 5th gen 40w Hobby Laser 20"x12" 
 
 
-
-Bij problemen, raadpleeg [officiële handleiding]({{ site.baseurl}}/assets/tools/FSL_lasercutter/Hobby Series Manual.pdf)
+Bij problemen, raadpleeg [officiële handleiding]({{ site.baseurl}}/assets/tools/FSL_lasercutter/Hobby Series Manual.pdf), en zoek info via de [site van de leverancier](http://laser101.fslaser.com/hobby-laser-tutorials).
 
 
 ## Download en Installatie

@@ -23,6 +23,7 @@ Op 14 oktober 2020  organiseert het STEM-partnerschap `MaakBib` de studiedag **â
 
 ### Programma:
 #### Voormiddag Sessie
+- 9u00-9u30 Registratie en welkomstkoffie
 - 9u30-10u00 **Inleiding**: The world of fablabs: innovation & new materials door **Deepak Metha**, maker Team Scheire
 - 10u00-10u30 **Lezing**: Project Skills4Smartex: Smart textiles for STEM training - e-learning instruments door **dr. Benny Malengier**, UGent
 - 10u30-10u45 koffie 
