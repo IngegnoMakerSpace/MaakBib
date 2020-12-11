@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Driehoek Vierkant"
-featured: true
+featured: false
 published: true
 authors: [guest]
 lowtech: true

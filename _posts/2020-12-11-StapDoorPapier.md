@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stap Door Papier"
-featured: true
+featured: false
 published: true
 authors: [guest]
 lowtech: true
