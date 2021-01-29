@@ -70,6 +70,14 @@ authors:
     web: http://decreatievestem.be
     twitter: https://twitter.com/
     description: "Productontwikkelaar en leerkracht met een passie voor voetbal."
+  jill:
+    name: Jill
+    display_name: Jill
+    avatar: 'assets/images/avatars/avatar12.svg'
+    email: jill@decreatievestem.be
+    web: https://ingegnomakerspace.github.io/inclusievekets/
+    twitter: 
+    description: "Productontwikkelaar, Ski-monitor, atleet, FabLab manager. Trekker van FabZero 2021."
 
 # Collections on MaakBib site
 collections:
