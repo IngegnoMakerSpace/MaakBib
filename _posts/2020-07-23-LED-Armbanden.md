@@ -177,7 +177,7 @@ Je armband werkt nu goed, tijd voor de afwerking. Vaak steken de pootjes van de 
 ## Weetjes
 **Sieraden met elektronica**
 
-Electronica-onderdelen, zoals led-lampjes en batterijen, printplaatjes en
+Elektronica-onderdelen, zoals led-lampjes en batterijen, printplaatjes en
 weerstanden kun je goed gebruiken om sieraden van te maken. Google maar eens op
 ‘jewelry with electronics’.
 

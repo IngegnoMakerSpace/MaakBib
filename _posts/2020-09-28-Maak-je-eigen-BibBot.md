@@ -17,7 +17,7 @@ pijler_design_thinking : true
 pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [tinkering, electronica, challenges]
+categories: [tinkering, elektronica, challenges]
 image: assets/images/2020-09-28-Big-Bibbot-Challenge/image6.jpeg
 tijd: 3 uur
 print: assets/images/2020-09-28-Big-Bibbot-Challenge/Big Bibbot Challenge.pdf

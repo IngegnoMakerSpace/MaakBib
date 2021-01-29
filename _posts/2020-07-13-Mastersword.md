@@ -18,7 +18,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : true
 licence: CCBY-NC-SA 
-categories: [solderen, elektronica, arduino, lasercutter, 3D-printen]
+categories: [solderen, elektronica, arduino, lasercutter, 3d-printen]
 image: assets/images/2020-07-13-Mastersword/mastersword2.jpg
 tijd: 3u+
 print: assets/images/2020-07-13-Mastersword/Makers-voor-Makers-Master-Sword.pdf

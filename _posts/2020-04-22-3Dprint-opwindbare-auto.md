@@ -16,7 +16,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [ 3D-printen ]
+categories: [ 3d-printen ]
 image: assets/images/2020-04-22-3Dprint-opwindbare-auto/cover.png
 tijd: 60 min
 print: assets/images/2020-04-22-3Dprint-opwindbare-auto/3D-geprinte opwindbare auto.pdf  

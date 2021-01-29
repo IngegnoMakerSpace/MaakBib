@@ -18,7 +18,7 @@ pijler_design_thinking : false
 pijler_digitale_fabricatie : true
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [ 3D-printen ]
+categories: [ 3d-printen ]
 image: assets/images/2020-07-13-3DPrint_Zeepjes/fotos/FIG51.png
 tijd: 2 dagen
 print: assets/images/2020-07-13-3DPrint_Zeepjes/Zeepjes maken.pdf  
