@@ -78,6 +78,14 @@ authors:
     web: https://ingegnomakerspace.github.io/inclusievekets/
     twitter: 
     description: "Productontwikkelaar, Ski-monitor, atleet, FabLab manager. Trekker van FabZero 2021."
+  gilian:
+    name: Gilian
+    display_name: Gilian
+    avatar: 'assets/images/avatars/avatar07.png'
+    email: gilian@decreatievestem.be
+    web: https://www.mathemagic.be/
+    twitter: 
+    description: "Productontwikkelaar, STEAM-edutrainer, jeugdbeweging-leider."
 
 # Collections on MaakBib site
 collections:

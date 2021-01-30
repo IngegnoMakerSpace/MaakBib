@@ -2,24 +2,24 @@
 layout: post
 title:  "Driehoek Vierkant"
 featured: false
-published: false
-authors: [guest]
+published: true
+authors: [gilian]
 lowtech: true
 midtech: false
 hightech: false
-DIT: true
+DIT: false
 DIY: true
-CHALLENGE: false
+CHALLENGE: true
 moeilijkheidsgraad_1_3: 1
 prijs_1_3: 1
-pijler_tinkering : true
+pijler_tinkering : false
 pijler_design_thinking : false
-pijler_digitale_fabricatie : false
+pijler_digitale_fabricatie : true
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
-categories: [tinkering, elektriciteit, engineering ]
-image: assets/images/2020-09-28-Maak-je-eigen-leeslamp/image6.jpeg
-tijd: 3 uur
+categories: [lasercutter, challenges ]
+image: assets/images/2020-12-11-DriehoekVierkant/driehoekvierkant.jpeg
+tijd: 1 uur
 print:
     
 materialen_dontshow: true
@@ -34,7 +34,7 @@ benodigdheden_opt: [
       ]
 ---
 
-Straks meer
+Kun je een driehoek vierkant maken? Is het kunst? Is het wiskunde? Is het magie? Het is mathemagic!
 
 
 ## Benodigdheden
@@ -43,7 +43,7 @@ Straks meer
 {% include benodigdheden.html %}
 
 
-## Aan de slag
+## Aan de slag 
 
 #### Maak het je eigen
 
