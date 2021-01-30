@@ -170,3 +170,8 @@ Laczkovich (1988) bewees ook dat een cirkel congruent is door dissectie tot een 
 
 </div>
 
+
+## Voorbeelden
+
+![driehoek vierkant aarde]({{ site.baseurl }}/{{page.imgdir}}/voorbeeld01.jpg)  
+![driehoek vierkant aarde]({{ site.baseurl }}/{{page.imgdir}}/voorbeeld02.jpg)    

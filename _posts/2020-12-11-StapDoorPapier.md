@@ -111,14 +111,18 @@ Scroll naar beneden voor een oplossing voor deze challenge
 1. Vouw het papier zodat de twee `korte` uiteinden bij elkaar komen. De vouw in je blad is in deze figuur aangeven met de pijlen. 
 
     ![snijden blad]({{ site.baseurl }}/{{page.imgdir}}/gat_papier01.svg)  
-2. Breng nu stippelijnen aan op je blad zoals in onderstaande figuur. De buitenste stippenlijnen zijn dus `niet` aan de vouwkant
+2. Breng nu stippelijnen aan op je blad zoals in onderstaande figuur. 
 
     ![snijden blad]({{ site.baseurl }}/{{page.imgdir}}/gat_papier02.svg)  
 
-3. Snij langs de stippelijnen
-3. Maak een aantal sneden in het papier, zoals weergegeven in de figuur hieronder. Dit zijn de **binnenste** verbindingen, zodat de rand samen blijft en er een groot gat ontstaat
-  ![patroon blad]({{ site.baseurl }}/{{page.imgdir}}/stapdoorpapier02.png)  
-4. Ontvouw het papier voorzichtig uit en je zal door het gat kunnen stappen. Als het gaatje krap is, probeer het dan opnieuw op een ander vel papier. Maak deze keer meer sneden in stap 2.
+3. Knip langs deze stippelijnen
+3. Gan nu langs de vouwlijn knippen. Maar, **let op!** Knip enkel langs de **binnenste** verbindingen, zodat de rand samen blijft en er een groot gat ontstaat
+
+    ![patroon blad]({{ site.baseurl }}/{{page.imgdir}}/knippen_vouwlijn.svg)
+  
+4. Ontvouw het papier voorzichtig uit en je zal door het gat kunnen stappen. 
+
+Als het gaatje krap is, probeer het dan opnieuw op een ander vel papier. Maak deze keer meer sneden in stap 2.
 
 Heb je opgemerkt dat er altijd een oneven aantal sneden moet zijn? welk patroon volgen ze? 
 
@@ -137,6 +141,8 @@ In zekere zin is dit hoe de moleculen van rubber hun vorm veranderen als je ze u
 #### Maak het je eigen!
 
 * Kunt u raden hoe groot het gat zal zijn dat je gaat maken, als u alleen weet hoe groot uw papier is en hoeveel / hoeveel sneden u gaat maken?
+
+* Kan je uit een A4 blad een gat zo groot maken dat het rond 6 volwassenen past? 
 </div>
 
 ## Voorbeelden
