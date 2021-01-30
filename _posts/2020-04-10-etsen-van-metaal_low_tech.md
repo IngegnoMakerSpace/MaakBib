@@ -48,7 +48,7 @@ benodigdheden_opt: [
 
 Upcyclen met wetenschap? Met een redoxreactie je ontwerpen op metaal etsen en in een mum van tijd heb je gepersonaliseerde objecten. Ga aan de slag met een batterij, een zoutoplossing en een stalen pot. Versnel oxidatie en je mooie ontwerpen doen de rest.  
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/{{page.video_front}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="315" src="https://www.youtube-nocookie.com/embed/{{page.video_front}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 
 ## Benodigdheden

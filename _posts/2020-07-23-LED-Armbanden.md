@@ -212,9 +212,8 @@ Engels voor een diode die licht geeft.
 Een LED-armband is een stroomkring die op een strook ducttape wordt geplakt. De onderkant van de armband klikt met een magneet vast op de batterij aan de bovenkant. Super 3-dimensionaal dus. Op de afbeelding hierboven zie je hoe de verschillende onderdelen samen een LED-armband worden.
 
 In de onderstaande video (9 minuten en een beetje) zie je hoe je een LED-armband kunt maken, van begin tot eind.
-Embed YouTube video: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZbVFkIO4lM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe style="width:100%;" height="315" src="https://www.youtube-nocookie.com/embed/ZZbVFkIO4lM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 Ga je voor het eerst solderen? Kijk dan extra goed naar de video. Vanaf 3 minuut 50 wordt voorgedaan hoe je de led-lampjes soldeert op het kopertape.. 
 

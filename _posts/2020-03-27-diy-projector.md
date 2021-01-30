@@ -34,7 +34,7 @@ benodigdheden:  [
 
 Maak je eigen projector, en projecteer je GSM scherm op een wit scherm of witte muur!
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/{{page.video_front}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="315" src="https://www.youtube-nocookie.com/embed/{{page.video_front}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 
 ## Benodigdheden
