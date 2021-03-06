@@ -71,7 +71,7 @@ Als je 1 game console wilt maken download je <a href="/assets/images/2020-07-16-
 ![gameconsole12]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole12.jpg)
 
 ## Stap 2: Doosje maken
-Je begint bij de onderkant van het doosje waar deze 2 stukjes opgelijmt moeten worden.
+Je begint bij de onderkant van het doosje waar deze 2 stukjes opgelijmd moeten worden.
 
 ![gameconsole4]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole4.jpg)
 
@@ -109,7 +109,7 @@ Om het scherm eerst te testen kunnen we deze pinnen al aansluiten aan de Arduino
 | 3.3V | | LED |
 
 <br>
-Nu kunnen we beginnen aan de anderen connecties.<br>
+Nu kunnen we beginnen aan de andere connecties.<br>
 De arduino moet aan deze pinnen draadjes hebben:
 
 ![gameconsole13]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole13.jpg)
@@ -122,11 +122,11 @@ Als we de bedrading bekijken op de afbeelding kunnen we al de arduino pinnen al 
 
 ![Bedrading]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/bedrading.png)
 
-Gebruik suikertjes, of soldereer en isoleer met krimpkous, om te verhinderen dat je meer dan 2 draden in een connectie op de Arduino Nano moet bevestigen.
+Gebruik suikertjes, of soldeer en isoleer met krimpkous, om te verhinderen dat je meer dan 2 draden in een connectie op de Arduino Nano moet bevestigen.
 
 ![gameconsole15]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole15.jpg)
 
-Al de **GND** draadjes doen we samen in zo één suiketje en al de **Vcc** draden ook.
+Al de **GND** draadjes doen we samen in zo één suikertje en al de **Vcc** draden ook.
 
 ![gameconsole16]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole16.jpg)
 
@@ -138,7 +138,7 @@ Om zeker te zijn dat losse koperfilamenten voor geen kortsluiting gaan zorgen al
 ![gameconsole18]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole18.jpg)
 ![gameconsole19]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole19.jpg)
 
-Nu dat we de soldeerbout hebben kunnen we ook de draadjes aan de schakelaar solderen. Controleer waar de schakelaar zal bevestigd worden, zodat te draadejs lang genoeg zijn.
+Nu dat we de soldeerbout hebben kunnen we ook de draadjes aan de schakelaar solderen. Controleer waar de schakelaar zal bevestigd worden, zodat te draadjes lang genoeg zijn.
 
 ![gameconsole21]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole21.jpg)
 
@@ -192,7 +192,7 @@ Nu is je console en de Arduino IDE klaar! Je kan een game van <a href="https://g
 ## Testen
 Je bent naar hier gekomen omdat je eerst je componenten wilt testen voordat je verder gaat.
 
-Hier word er uitgelegd hoe we door middel van blokken code kunnen kijken of de joystick en het scherm werkt. De blokken code kan je dan omzetten naar arduino code die we in de Arduino IDE kunnen zetten (voor uitleg over de Arduino IDE ga naar Stap 5). Als de blokken code niet lukt kan je onze blokken code ook downloaden bij downloads.
+Hier wordt er uitgelegd hoe we door middel van blokken code kunnen kijken of de joystick en het scherm werkt. De blokken code kan je dan omzetten naar arduino code die we in de Arduino IDE kunnen zetten (voor uitleg over de Arduino IDE ga naar Stap 5). Als de blokken code niet lukt kan je onze blokken code ook downloaden bij downloads.
 
 Om te beginnen moet je op deze site zijn: <a href="https://blokkencode.ingegno.be" target="_blanc">blokkencode.ingegno.be</a>
 
@@ -219,7 +219,7 @@ We beginnen met de code voor `Arduino doe eerst`. We starten met een start scher
 * Text vind je onder 'Text'
 * Getallen vind je onder 'Wiskunde'
 
-Nu voegen we een blokje toe die zegt: zolang we niet op de joystick drukken gaan we niet verder. Dus als je op de joystick drukt gaan we verder.
+Nu voegen we een blokje toe dat zegt: zolang we niet op de joystick drukken gaan we niet verder. Dus als je op de joystick drukt gaan we verder.
 
 ![Screenshot7]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot7.png)
 
@@ -233,12 +233,12 @@ Het laatste stukje code dat in de ``Arduino doe eerst`` moet is het spel klaarze
 
 * **Stel _item_ in op** vindt je onder 'Variabelen' en laat je toe zelf opslagnamen toe te voegen. Deze kunnen een waarde bevatten, en noemt men variabelen (omdat de waarde kan veranderen, dus variabel is). Zo kun je door _item_ te wijzigen in een andere naam, **Stel Xpos in** en **Stel Ypos in** aanmaken.
 
-Nu gaan we naar `Arduino herhaal voor altijd`. Deze code gaat de arduino blijven herhalen todat je hem uit zet. Maar we beginnen met een fucntie op te vragen. Deze funtie zal de joystick lezen vandaar noemt de funtie `lees_joystick`.
+Nu gaan we naar `Arduino herhaal voor altijd`. Deze code gaat de arduino blijven herhalen todat je hem uit zet. Maar we beginnen met een fucntie op te vragen. Deze functie zal de joystick lezen vandaar noemt de functie `lees_joystick`.
 
 ![Screenshot10]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot10.png)
 ![Screenshot9]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot9.png)
 
-* Deze funtie maak je aan door bij 'Functies' een opdracht te maken die je dan 'lees_joystick' noemt. Daarna kan je het blokje 'lees_joystick' ook bij "Functies" vinden, en dan het toevoegen aan het `Arduino herhaal voor altijd` blok.
+* Deze functie maak je aan door bij 'Functies' een opdracht te maken die je dan 'lees_joystick' noemt. Daarna kan je het blokje 'lees_joystick' ook bij "Functies" vinden, en dan het toevoegen aan het `Arduino herhaal voor altijd` blok.
 
 Nu schrijven we de code voor `lees_joystick`. We gaan kijken op welke X,Y positie de joystick staat en zo kunnen we dan onze sprite in die richting laten gaan.
 
@@ -246,7 +246,7 @@ Nu schrijven we de code voor `lees_joystick`. We gaan kijken op welke X,Y positi
 
 * Het **Als blok** vind je onder 'Logica' en kan je configureren door op het blauwe settings icoontje te klikken.
 
-Nu we wetenin welke richting de speler de joystick duwt, kunnen we de sprite in die richting laten bewegen. We hebben enkele nieuwe variabelen nodig om te weten of de positie wel veranderd moet worden, immers aan de rand van het scherm kun je niet verder bewegen!
+Nu we weten in welke richting de speler de joystick duwt, kunnen we de sprite in die richting laten bewegen. We hebben enkele nieuwe variabelen nodig om te weten of de positie wel veranderd moet worden, immers aan de rand van het scherm kun je niet verder bewegen!
 
 ![Screenshot12]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/screenshot12.png)
 
