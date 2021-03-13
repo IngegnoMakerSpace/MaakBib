@@ -122,6 +122,32 @@ Als we de bedrading bekijken op de afbeelding kunnen we al de arduino pinnen al 
 
 ![Bedrading]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/bedrading.png)
 
+Je ziet dat de connecties bij de Joystick zijn:
+
+| **Nano** |   |**Joystick** |
+|:--------:| --- |:-------------:|
+| 5V  | | Vcc|
+| Gnd | | Gnd|
+| 8   | | RESET|
+| A1  | | VRx/Hor |
+| A0  | | VRy/Ver |
+| D4  | | SW |
+
+En bij de linkse knop A, en rechtse knop B:
+
+| **Nano** |   |**Knop A** |
+|:--------:| --- |:-------------:|
+| 5V  | | Vcc|
+| Gnd | | Gnd|
+| D3  | | OUT|
+|:--------:| --- |:-------------:|
+| **Nano** |   |**Knop B** |
+|:--------:| --- |:-------------:|
+| 5V  | | Vcc|
+| Gnd | | Gnd|
+| D2  | | OUT|
+
+
 Gebruik suikertjes, of soldeer en isoleer met krimpkous, om te verhinderen dat je meer dan 2 draden in een connectie op de Arduino Nano moet bevestigen.
 
 ![gameconsole15]({{ site.baseurl }}/assets/images/2020-07-16-Ingegno-Retro-Game-Console/gameconsole15.jpg)
@@ -168,7 +194,7 @@ De IDE kan je downloaden van de <a href="https://www.arduino.cc/en/main/software
 
 Naast deze Arduino IDE, hebben we ook code fragmenten nodig die speciaal gemaakt zijn om met onze componenten te kunnen spreken. Dit noemt men **bibliotheken**, of in het Engels, *libraries*. De volgende stap is deze dus downloaden en installeren.
 
-**Adafruit labraries**
+**Adafruit libraries**
 
 In de Arduino IDE, ga naar menu **Schets > Bibliotheek gebruiken > Bibliotheek beheren...**
 
