@@ -21,10 +21,10 @@ licence: CCBY-NC-SA
 categories: [solderen, lasercutten, elektronica, physical computing]
 image: assets/images/2020-07-16-Ingegno-Retro-Game-Console/main.jpg
 tijd: 3u+
-print: assets/images/2020-07-16-Ingegno-Retro-Game-Console/Retro Gaming met Arduino.pdf
+print: 
 downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020-07-16-Ingegno-Retro-Game-Console/Retro Gaming met Arduino.pdf
+    file: https://drive.google.com/file/d/1bOSvvhD5s3Rxv3oh2xcXA0hooT3peE4n/view?usp=sharing
   - name: '2D Bestanden'
     file: https://github.com/ingegno/RetroGames/tree/master/IngegnoRetroGameConsole
   - name: 'Games (arduino code)'
