@@ -2,7 +2,7 @@
 layout: post
 title:  "Maak een batterij uit fruitsap"
 featured: false
-published: false
+published: true
 authors: [guest]
 author_name: "Allard Roeterink"
 lowtech: true
@@ -132,20 +132,19 @@ Als je nog druppels sap ziet, veeg die dan weg met een vel keukenpapier.
 
 <div class="border_boxmaakbib03_img" markdown="1">
 #### **Pas op:** Kortsluiting!
-Als je een stroomdraadje tussen de negatieve kant (het ringetje) en de positieve kant (het muntje) houdt, gaan de electronen meteen naar de positieve kant stromen door het draadje. Maar dit doen ze zo hard dat het draadje er heet van kan worden, vooral bij een echte batterij. Dat heet kortsluiting en dat is niet goed.
+Als je een stroomdraadje tussen de negatieve kant (het ringetje) en de positieve kant (het muntje) houdt, gaan de elektronen meteen naar de positieve kant stromen door het draadje. Maar dit doen ze zo hard dat het draadje er heet van kan worden, vooral bij een echte batterij. Dat heet kortsluiting en dat is niet goed.
 
 Je kan meer te weten komen over elektriciteit en een batterij aan het einde van deze handleiding.
 
-Alleen als er iets tussen zit dat de electronen een beetje kan afremmen, zoals een lampje of een zoemertje, mag je de positieve en de negatieve kant verbinden!
+Alleen als er iets tussen zit dat de elektronen een beetje kan afremmen, zoals een lampje of een zoemertje, mag je de positieve en de negatieve kant verbinden!
 </div>
 
 #### Stap 5: LED aansluiten
-Laten we nu kijken of er een lampje op brandt:
-Pak je LED-lampje en vouw de pootjes voorzichtig uit elkaar, alsof het een spagaat maakt. Vouw de pootjes ongeveer halverwege weer terug naar binnen. Je LED ziet er nu zo uit:
+Laten we nu kijken of er een lampje brandt: pak je LED-lampje en vouw de pootjes voorzichtig uit elkaar, alsof het een spagaat maakt. Vouw de pootjes ongeveer halverwege weer terug naar binnen. Je LED ziet er nu zo uit:
 
 ![FS5.1]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig9.png)
 
-Schuif het langste pootje onder het elastiek aan de kant van de munt, dus helemaal onderop. Schuif het andere pootje onder het elastiek aan de kant waar het ringetje boven zit.
+Schuif het langste pootje onder de elastiek aan de kant van de munt, dus helemaal onderaan. Schuif het andere pootje onder het elastiek aan de kant waar het ringetje boven zit.
 
 ![FS5.2]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig10.png)
 
@@ -157,20 +156,20 @@ Zie je niets branden? Ook niet in het donker? Dan moet je een paar dingen contro
 * Kijk of het werkt als je de pootjes van het lampje verwisselt.
 * Misschien steekt er toch wat karton over de rand van de muntjes. Knip af wat uitsteekt.
 * Als je aluminiumfolie hebt gebruikt: misschien is het vierkantje te dun of niet netjes gevouwen.
-* Misschien heb je het karton te veel uitgeperst toen je het tussen het muntje en het ringetje perste. Zorg dat het nat aanvoelt. Maar niet zo nat dat er druppels van je batterij lopen.
-* Hoe netter je stapeltje is gemaakt, hoe beter het werkt!
-* Als het lampje na een dag niet meer brandt, hoef je alleen maar een paar druppels **water** op de kartonnetjes te doen en hij gaat weer aan. Het zuur zit er nog in, maar hij is alleen uitgedroogd.
-* Als er na een poosje teveel zwarte aanslag op de zinken ringetjes zit, kun je dat met een schuurpapiertje eraf schuren en de ringetjes weer opnieuw gebruiken. Of anders vervangen door nieuwe ringetjes.
+* Misschien heb je het karton te veel uitgeperst toen je het tussen het muntje en het ringetje perste. Zorg dat het nat aanvoelt, maar niet zo nat dat er druppels van je batterij lopen.
+* Hoe netter je stapeltje gemaakt is, hoe beter het werkt!
+* Als het lampje na een dag niet meer brandt, hoef je alleen maar een paar druppels **water** op de kartonnetjes te doen en het gaat weer aan. Het zuur zit er nog in, maar het is alleen uitgedroogd.
+* Als er na een poosje teveel zwarte aanslag op de zinken ringetjes zit, kun je dat er met een stukje schuurpapier af schuren en de ringetjes weer opnieuw gebruiken. Of anders vervangen door nieuwe ringetjes.
 
 
 ## Maak het je eigen!
 #### Buzzertje aansluiten
 Probeer eens een <a href="https://www.conrad.be/p/kepo-kpmb-g2315l1-k6439- miniatuurzoemer-geluidsontwikkeling-70-db-spanning-15-v-continu-1-stuks-714917">buzzertje</a> aan te sluiten. Alleen zogenaamd actieve zoemers zullen werken, want die piepen al met wat stroom. Passieve zoemers hebben een geluidsbron nodig, zoals een muziekapparaat. Die moet je dus niet hebben.
 
-Als je een zoemertje hebt, haak dan het rode draadje rond het elastiek bij het muntje en het zwarte draadje bij het ringetje. Hoor je hem zacht zoemen?
+Als je een zoemertje hebt, haak dan het rode draadje rond het elastiek bij het muntje en het zwarte draadje bij het ringetje. Hoor je het zacht zoemen?
 
 #### Andere apparaatjes aansluiten
-Kijk of je apparaatjes hebt die op één of twee batterijen werken, zoals een fietslampje of een kleine wekker. Het beste is als je iets hebt met draadjes die je meteen op je eigen sap-batterij kunt zetten.
+Kijk of je apparaatjes hebt die op één of twee batterijen werken, zoals een fietslampje of een kleine wekker. Het beste is als je iets hebt met draadjes die je meteen op je eigen sap-batterij kunt aansluiten.
 
 Als je een apparaatje hebt dat op batterijen werkt, moet je zelf nog draadjes maken naar je eigen batterij. Hiervoor kun je elektriciteitsdraadjes gebruiken of sluitstrips. Snijd aan het uiteinde van ieder draadje de kunststof weg, zodat je alleen metaal ziet.
 
@@ -181,7 +180,7 @@ Haal de echte batterij eruit en kijk waar de + en - van de batterij tegenaan zat
 ![MA]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig11.png)
 
 #### Meer stroom opwekken
-Als je meerdere batterijen hebt gemaakt, kun je nóg meer stroom maken door ze aan elkaar te koppelen. Gebruik hiervoor draadjes zoals hierboven beschreven.
+Als je meerdere batterijen gemaakt hebt, kun je nóg meer stroom maken door ze aan elkaar te koppelen. Gebruik hiervoor draadjes zoals hierboven beschreven.
 
 Eén draadje moet van het muntje van de ene batterij worden verbonden met het ringetje van de andere batterij. Maak nu nog twee draadjes vast: één onder het muntje waar nog niets vast zat en één onder het andere ringetje.
 Koppel zoveel sap-batterijen aan elkaar als je wilt.
@@ -191,7 +190,7 @@ Koppel zoveel sap-batterijen aan elkaar als je wilt.
 #### Experimenteer zelf
 Hieronder staan een aantal proefjes die je zelf kan uitvoeren om het effect van de verschillende onderdelen te zien:
 
-* Wat geeft meer stroom: Sap van een sinaasappel of van een mandarijn?
+* Wat geeft meer stroom: sap van een sinaasappel of van een mandarijn?
 * En sap van een citroen of van een limoen?
 * Welke andere vruchten geven goed sap voor stroom?
 * Wat gebeurt er als je cola gebruikt? Of andere frisdrank? Of azijn? Of afwasmiddel?
@@ -209,12 +208,12 @@ Je kan altijd een multimeter gebruiken om te zien hoeveel spanning je batterij e
 
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Volt of Ampère?
-We hebben het hierboven alleen gehad over spanning, die gemeten wordt in Volt. Dat kun je vergelijken met hoe **graag** de electronen naar de andere kant willen zoeven door het draadje. Hoe liever ze willen gaan, hoe meer Volt je zult meten.
+We hebben het hierboven gehad over spanning, die gemeten wordt in Volt. Dat kun je vergelijken met hoe **graag** de elektronen naar de andere kant willen zoeven door het draadje. Hoe liever ze willen gaan, hoe meer spanning (Volt) je zult meten.
 
-Er is ook iets dat je kunt meten dat stroomsterkte heet. Dat meten we in Ampère. Dat kun je vergelijken met **hoeveel** electronen er naar de andere kant willen gaan.
-Als je weinig electronen hebt (dus weinig stroomsterkte), maar die willen wel heel graag (dus veel spanning), dan kun je best wel iets op die stroom laten werken. Bijvoorbeeld onze verse sap- batterij die een lampje laat branden.
+Er is ook iets dat je kunt meten dat stroomsterkte heet. Dat meten we in Ampère. Dat kun je vergelijken met **hoeveel** elektronen er naar de andere kant willen gaan.
+Als je weinig elektronen hebt (dus weinig stroomsterkte), maar die wel heel graag naar de andere kant willen (dus veel spanning), dan kun je best wel iets op die stroom laten werken. Bijvoorbeeld onze verse sap- batterij die een lampje laat branden.
 
-Andersom kan ook: Als je heel veel electronen hebt (dus veel stroomsterkte), met maar weinig zin om door het draadje te gaan (dus weinig spanning), dan kun je nog best iets aansluiten en dat laten werken. Bijvoorbeeld als je een heleboel oude sap-batterijen combineert om een lampje te laten branden.
+Andersom kan ook: Als je heel veel elektronen hebt (dus veel stroomsterkte), met maar weinig zin om door het draadje te gaan (dus weinig spanning), dan kun je nog best iets aansluiten en dat laten werken. Bijvoorbeeld als je een heleboel oude sap-batterijen combineert om een lampje te laten branden.
 
 Maar met weinig spanning èn weinig stroomsterkte, kun je helaas niets beginnen. Dat is het geval als je batterij leeg is: dan zal er niets branden.
 </div>
@@ -235,10 +234,10 @@ In de batterijen die je in de winkel koopt, zitten de laagjes niet meer opgestap
 </div>
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Wat voor iets is elektriciteit?  
-<a href="https://wikikids.nl/Elektriciteit">Elektriciteit</a> is een stroom van piepkleine electronen die door een metalen draadje gaan. Electronen zijn negatief geladen (dat heet ook min of -) en ze willen heel graag naar de positieve kant (dat heet plus of +).
+<a href="https://wikikids.nl/Elektriciteit">Elektriciteit</a> is een stroom van piepkleine elektronen die door een metalen draadje gaan. Elektronen zijn negatief geladen (dat heet ook min of -) en ze willen heel graag naar de positieve kant (dat heet plus of +).
 
-In de batterij komen door het zuur heel veel electronen uit het zinken laagje van het ringetje. Het ringetje krijgt daardoor steeds meer negatieve lading.
-Aan de kant van het muntje verliest het koperen laagje steeds meer electronen door het zuur en daar blijft steeds meer positieve lading over.
+In de batterij komen door het zuur heel veel elektronen uit het zinken laagje van het ringetje. Het ringetje krijgt daardoor steeds meer negatieve lading.
+Aan de kant van het muntje verliest het koperen laagje steeds meer elektronen door het zuur en daar blijft steeds meer positieve lading over.
 
 Je kan <a href="https://wikikids.nl/Batterij_(elektrisch)">hier</a> wat meer lezen over hoe elektriciteit in een batterij werkt.
 
