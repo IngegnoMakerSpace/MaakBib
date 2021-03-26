@@ -19,12 +19,12 @@ pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
 categories: [wetenschappen, elektronica ]
-image: assets/images/2020-07-16-FruitBatterij/fig0.png
+image: assets/images/2021-03-26-FruitBatterij/fig0.png
 tijd: 30 minuten
-print: assets/images/2020-07-16-FruitBatterij/Handleiding-Fruitbatterij.pdf  
+print: assets/images/2021-03-26-FruitBatterij/Handleiding-Fruitbatterij.pdf  
 downloads: 
   - name: 'Handleiding'
-    file: assets/images/2020-07-16-FruitBatterij/Handleiding-Fruitbatterij.pdf
+    file: assets/images/2021-03-26-FruitBatterij/Handleiding-Fruitbatterij.pdf
     
 materialen_dontshow: true
 materialen: [
@@ -73,7 +73,7 @@ In dit project wordt uitgelegd hoe je zelf een batterij kan maken van fruitsap. 
 
 </div>
 
-![B1]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig1.png)
+![B1]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig1.png)
 
 {% include benodigdheden.html %}
 
@@ -89,13 +89,13 @@ Tenslotte hebben we ook een aantal proefjes die je zelf kan uitvoeren om zo meer
 ## Hoe maak je een batterij uit fruitsap?
 #### Stap 1: Karton knippen
 Knip een stuk uit de eierdoos van ongeveer 2 cm breed en 8 tot 10 cm lang. Zorg ervoor dat het stukje zo vlak mogelijk is. 
-![FS1.1]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig2.png)
+![FS1.1]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig2.png)
 
 Knip deze strook in **vijf gelijke vierkantjes.**
 
 Pak een zinken ringetje en leg die op een vierkantje. Knip de hoekjes af die uitsteken voorbij het ringetje zoals in de figuur hieronder. Doe dit met alle vierkantjes.
 
-![FS1.2]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig3.png)
+![FS1.2]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig3.png)
 
 #### Stap 2: Karton weken
 Schil de vrucht en knijp wat sap uit boven het bordje. Het uitgeknepen vruchtvlees kun je natuurlijk opeten als je het lekker vindt.
@@ -107,7 +107,7 @@ Pak het elastiek en leg in het uiteinde een knoop, zodat je een lus krijgt waar 
 
 Knip de lus met knoop van het elastiek af en leg dit weg voor straks.
 
-![FS3]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig4.png)
+![FS3]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig4.png)
 
 #### Stap 4: Laagjes en pakketjes opstapelen
 Pak een muntje van 5 eurocent en leg daarop een stukje van het natte karton. Leg daar bovenop een zinken ringetje. 
@@ -115,18 +115,18 @@ Als je geen ringetje hebt, kun je ook een stuk aluminiumfolie van 11cm x 11cm ze
 
 **Kijk heel goed of er geen nat karton uitsteekt over het muntje.** Dan werkt het niet.
 
-![FS4.1]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig5.png)
+![FS4.1]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig5.png)
 
 Dit stapeltje is al een batterij-pakketje. Maar het is nog niet sterk genoeg, dus we maken er meer. Maak er in totaal ongeveer 5. 
 
 Stapel nu de batterij-pakketjes op elkaar zoals in de figuur hieronder.
 
-![FS4.2]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig6.png)
+![FS4.2]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig6.png)
 
 Pak je lus van elastiek en doe die voorzichtig om het hele stapeltje heen. Je komt eigenlijk handen te kort, dus dit is veel handiger met twee personen!
 
 Je batterij ziet er dan als volgt uit:
-![FS4.3]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig7.png)
+![FS4.3]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig7.png)
 
 Als je nog druppels sap ziet, veeg die dan weg met een vel keukenpapier.
 
@@ -142,11 +142,11 @@ Alleen als er iets tussen zit dat de elektronen een beetje kan afremmen, zoals e
 #### Stap 5: LED aansluiten
 Laten we nu kijken of er een lampje brandt: pak je LED-lampje en vouw de pootjes voorzichtig uit elkaar, alsof het een spagaat maakt. Vouw de pootjes ongeveer halverwege weer terug naar binnen. Je LED ziet er nu zo uit:
 
-![FS5.1]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig9.png)
+![FS5.1]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig9.png)
 
 Schuif het langste pootje onder de elastiek aan de kant van de munt, dus helemaal onderaan. Schuif het andere pootje onder het elastiek aan de kant waar het ringetje boven zit.
 
-![FS5.2]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig10.png)
+![FS5.2]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig10.png)
 
 Als alles goed is, zie je het LEDje nu branden!
 
@@ -177,7 +177,7 @@ Haak één kant van een draadje onder het muntje. Het andere draadje haak je ond
 
 Haal de echte batterij eruit en kijk waar de + en - van de batterij tegenaan zaten. Sluit het draadje dat vanaf het muntje komt aan op de + kant en het draadje vanaf het ringetje aan de - kant. Soms moet je nu nog op "AAN" drukken en misschien werkt je fietslampje of klokje dan wel op fruitstroom!
 
-![MA]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig11.png)
+![MA]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig11.png)
 
 #### Meer stroom opwekken
 Als je meerdere batterijen gemaakt hebt, kun je nóg meer stroom maken door ze aan elkaar te koppelen. Gebruik hiervoor draadjes zoals hierboven beschreven.
@@ -185,7 +185,7 @@ Als je meerdere batterijen gemaakt hebt, kun je nóg meer stroom maken door ze a
 Eén draadje moet van het muntje van de ene batterij worden verbonden met het ringetje van de andere batterij. Maak nu nog twee draadjes vast: één onder het muntje waar nog niets vast zat en één onder het andere ringetje.
 Koppel zoveel sap-batterijen aan elkaar als je wilt.
 
-![MS]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig12.png)
+![MS]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig12.png)
 
 #### Experimenteer zelf
 Hieronder staan een aantal proefjes die je zelf kan uitvoeren om het effect van de verschillende onderdelen te zien:
@@ -204,7 +204,7 @@ Hieronder staan een aantal proefjes die je zelf kan uitvoeren om het effect van 
 
 Je kan altijd een multimeter gebruiken om te zien hoeveel spanning je batterij eigenlijk opwekt. Meet ook de spanning eens tussen twee opeenvolgende muntjes. Zo kun je goed zien of er ergens in je pakketje een slechte verbinding is.
 
-![ME]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig13.png)
+![ME]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig13.png)
 
 <div class="border_boxmaakbib03_img" markdown="1">
 #### Volt of Ampère?
@@ -223,7 +223,7 @@ Maar met weinig spanning èn weinig stroomsterkte, kun je helaas niets beginnen.
 #### Wie heeft de batterij uitgevonden?
 In 1800 ontdekte Alessandro Volta dat tussen een schijfje van koper en een schijfje van zink een stroom gaat lopen als je er karton met zuur tussen doet. Hij stapelde er heel veel op elkaar en maakte zo de allereerste batterij.
 
-![Volta]({{ site.baseurl }}/assets/images/2020-07-16-FruitBatterij/fig14.png)
+![Volta]({{ site.baseurl }}/assets/images/2021-03-26-FruitBatterij/fig14.png)
 
 Dat was een heel belangrijke uitvinding, want daarvoor kende men elektriciteit alleen van de bliksem. Om hem te eren is de eenheid van spanning naar hem genoemd: Volt. 
 

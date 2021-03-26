@@ -286,3 +286,10 @@ Als de nieuwe positie wel degelijk nieuw is en niet het zelfde gaan we verplaats
 Nu kan je de code kopiëren die in de rechterkolom staat onder "Arduino Source Code" en plakken in een **lege** schets in je Arduino IDE. Druk op de upload knop om het op je console te plaatsen, en test je joystick en het scherm zo. 
 
 Werkt jou code niet? De blokken op <a href="https://blokkencode.ingegno.be" target="_blanc">blokkencode.ingegno.be</a> kun je opslaan als een `xml` file (via knop rechtsboven), en zo delen met anderen. Onze test xml files vind je bij <a href="https://github.com/ingegno/RetroGames/tree/master/voorbeelden" target="_blanc">de voorbeelden in de repo</a>. Je kan ze downloaden en opladen in <a href="https://blokkencode.ingegno.be" target="_blanc">blokkencode.ingegno.be</a> via de knop rechtsboven.
+
+
+## Handleiding extra spelletjes opladen
+
+We leggen je uit hoe je thuis zelf onze spelletjes kunt opladen op je Ingegno Retro Games Consoles, in de volgende video: 
+
+<p><iframe style="width:100%;" height="315" src="https://www.youtube-nocookie.com/embed/GEbX8JFAs3E?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
