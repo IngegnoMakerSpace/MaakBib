@@ -28,6 +28,5 @@ Ze zijn zo gemaakt om rectoverso geprint te worden of landscape met de twee dele
 * [Toolcard Foamcutter]({{ site.baseurl }}{{ page.imgdir }}Toolcards_foamcutter.pdf)
 * [Toolcard Lijmpistool]({{ site.baseurl }}{{ page.imgdir }}Toolcards_Lijmpistool.pdf)
 * [Toolcard Soldeerbout]({{ site.baseurl }}{{ page.imgdir }}Toolcards_soldeerbout.pdf)
-* [Toolcard Elektrisch circuit]({{ site.baseurl }}{{ page.imgdir }}Toolcards_electrisch_circuit.pdf)
-
+* [Toolcard Elektrisch circuit]({{ site.baseurl }}{{ page.imgdir }}Toolcards_elektrisch_circuit.pdf)
 
