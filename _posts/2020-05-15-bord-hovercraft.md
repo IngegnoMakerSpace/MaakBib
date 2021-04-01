@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bord-hovercraft"
-featured: true
+featured: false
 published: true
 authors: [guest]
 author_name: "Yvon Masyn"
@@ -222,7 +222,7 @@ Hier de korte uitleg.
  
    ![Uitleg3]({{ site.baseurl }}/assets/images/2020-05-15-bord hovercraft/eenvoudige hovercraft 18.jpg)
 
-* De luchtkussen tussen tafel en hovercraft zorgt voor een verlaagde vrijwing en zo kan een zachte tik de constructie lang vorruit doen bewegen. 
+* Het luchtkussen tussen tafel en hovercraft zorgt voor een verlaagde wrijving en zo kan een zachte tik de constructie lang vooruit doen bewegen. 
 </div>
 
 #### Maak het je eigen
