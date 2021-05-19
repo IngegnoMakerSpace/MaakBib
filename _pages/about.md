@@ -35,8 +35,11 @@ comments: false
 </ul>
   
 <h4>Members</h4>
-  
-<p>Zijn dit de leden die het project mee uitvoeren: </p>
+
+<p>Een handig overzicht van waar er een MaakBib is in je buurt: </p>
+{% include map_maakbibs.html %}
+
+<p>Dit zijn de leden die het project uitvoeren: </p>
 <ul>
   <li>Cluster CO7 (Westhoek)</li>
     <ul>
@@ -76,12 +79,28 @@ comments: false
     <li>Bibliotheek Zwijndrecht</li>
     <li>Bibliotheek Sint-Gillis-Waas</li>
   </ul>
+  <li>Bibliotheek Middelkerke</li>
+  <li>Bibliotheek Pelt</li>
+  <li>Bibliotheek Sint-Pieters-Leeuw</li>
+  <li>Bibliotheek Buggenhout</li>
   <li><a target="_blank" href="https://www.minus-one.be/"> Minus One</a> <a target="_blank" href="https://www.minus-one.be/"><br> <img src="assets/images/sponsors/minusone-logo.png" width="100"/></a>
   <p>Minus One is een jongerencultuurcentrum in de prachtige Gentse Rabotwijk, net buiten het stadscentrum. We prikkelen en inspireren jongeren met een gevarieerd programma. Je kan bij ons dansen, feesten, concerten bijwonen, evenementen organiseren, workshops volgen, quizzen, hangen, en verschillende ateliers volgen, maar ook je project uitwerken tijdens een residentie, meedoen met creatieve interventies in de openbare ruimte, je ondernemingsidee uitwerken of advies vragen over een projectidee of businessplan. Wij zorgen voor ondersteuning op maat.</p>
   </li>
   <li><a target="_blank" href="https://www.technopolis.be/en/"> Technopolis</a> <a target="_blank" href="https://www.technopolis.be/en/"><br> <img src="assets/images/sponsors/technopolis-logo.png"  width="150"/></a>
   <p>Technopolis is een plek waar curieuzeneuzemosterdpotten van 4 tot 104 van alles over wetenschap en technologie komen ontdekken. Technopolis is géén museum, maar een doe-centrum! Je steekt er de handen uit de mouwen tijdens allerlei workshops, geeft je ogen de kost tijdens te gekke demo's en shows en je gaat er aan de slag met talloze interactieve opstellingen.</p>
   </li>
+  <li>Kras jeugdwerking (Antwerpen - Kras Dam)</li>
+  <li>Jeugddienst Sint-Gillis</li>
+  <li>Jong vzw Gent</li>
+</ul>
+Vanaf volgend jaar normaal ook:
+<ul>
+  <li>Bibliotheek Permeke (Antwerpen)</li>
+  <li>Bibliotheek Hoboken (Antwerpen)</li>
+  <li>Bibliotheek Luchtbal (Antwerpen)</li>
+  <li>Bibliotheek Park (Antwerpen)</li>
+  <li>Bibliotheek De Vertellerij (Antwerpen)</li>
+  <li>Bibliotheek Maaseik</li>
 </ul>
 
 <h4>STEM-academie in de Bib?</h4>
@@ -121,7 +140,7 @@ We ondersteunen ook de algemene aanbevelingen voor STEM-academies:
 
 <h4>Vragen, opmerkingen, of verbeteringen?</h4>
 
-<p>Laat het ons weten via volgend formulier: TODO</p>
+<p>Laat het ons weten!</p>
 
 </div>
 
@@ -164,6 +183,10 @@ We ondersteunen ook de algemene aanbevelingen voor STEM-academies:
 <br />
 <br />
 <a target="_blank" href="https://cricut.com/nl_nl/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/cricut.svg" alt="Trideus logo" /></a>
+
+<br />
+<br />
+<a target="_blank" href="https://www.flam3d.be/"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sponsors/flam3d-logo-dark.png" alt="Flam3D logo" /></a>
 
 </div>
 </div>

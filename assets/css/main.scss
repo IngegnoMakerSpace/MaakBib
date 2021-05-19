@@ -8,6 +8,9 @@
 	display:inline;
 }
 
+/* LEAFLET MAP */
+#mapid { height: 400px; }
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
