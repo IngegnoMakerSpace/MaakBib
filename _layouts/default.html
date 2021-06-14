@@ -75,6 +75,14 @@ ga('send', 'pageview');
         <!-- Begin Menu -->
             <ul class="navbar-nav ml-auto">
               
+                {% if page.url == "/maakjezomer" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item" >
+                {% endif %}
+                <a class="callout nav-link" style="color:white" href="https://maakjezomer.be/">Maak Je Zomer</a>
+                </li>
+              
                 {% if page.url == "/" %}
                 <li class="nav-item active">
                 {% else %}
