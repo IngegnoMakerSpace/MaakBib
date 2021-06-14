@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bladwijzer Challenge"
+title:  "Fonkelende Bladwijzer Challenge"
 featured: false
 published: true
 authors: [jill]
@@ -18,7 +18,7 @@ pijler_digitale_fabricatie : false
 pijler_physical_computing : false
 licence: CCBY-NC-SA 
 categories: [elektronica, tinkering, challenges]
-image: assets/images/2021-01-29-bladwijzer/bladwijzer01.png
+image: assets/images/2021-01-29-bladwijzer/bladwijzer04.png
 tijd: 2 uur
 print: 
 materialen_dontshow: false
@@ -40,7 +40,9 @@ benodigdheden_opt: [
       ]
 ---
 
-We hebben een challenge voor jou: Ontwerp een lichtgevende bladwijzer! Geen zorgen, we geven je alle informatie die je nodig hebt om deze challenge tot een goed einde te brengen.
+We hebben een challenge voor jou: Ontwerp een lichtgevende bladwijzer! Maak er een en stuur een foto in voor [Maak Je Zomer](https://maakjezomer.be/).
+
+Op bibbertrip met een spannend boek in de zomeravonden? Maak licht met een kleurrijke lichtgevende bladwijzer zodat je in het donker kunt lezen. Voor jezelf of iemand die je kent die van boeken houdt. 
 
 
 ## Benodigdheden
@@ -59,11 +61,23 @@ Kies kleuren en een decoratief thema voor uw bladwijzer en voeg deze details toe
 
 ![sjabloon bladwijzer]({{ site.baseurl }}/assets/images/2021-01-29-bladwijzer/bladwijzer02.png)
 
+Heb je geen batterijhouder? Geen paniek! Maak er een met plakband of laat je inspireren door de mogelijkheden van [paper circuits](https://www.makerspaces.com/paper-circuits/). 
+
 Zoek uit waar u uw batterijhouder en LED lichtje wil hebben. Teken deze ook op de schets.
 
 Teken de schakeling, en let op dat je de (+) pool van de batterijhouder verbindt met de (+) kant van de LED (het lange beentje) en de (-) pool van de batterij met de (-) van de LED. Het schema is als volgt:
 
 ![schakeling]({{ site.baseurl }}/assets/images/2021-01-29-bladwijzer/bladwijzer01.png)
+
+
+<div class="border_boxmaakbib02_img" markdown="1">
+#### Snelle LED-les!
+
+"LED" is een acroniem dat staat voor "Light Emitting Diode". Een diode is een elektronische component die de elektriciteit maar in één richting laat stromen. Dat betekent dat het correct moet worden aangesloten op de positieve en negatieve polen van de batterij. Bij de meeste LED's is het lange pootje de positieve pool en het kortere is de negatieve. Als de LED die je bijvoorbeeld uit een zaklamp of kerstsnoer hebt gehaald draden heeft waar het moeilijk te zeggen is welke poot is wat, probeer dan de batterij tussen de draden te plaatsen, zodat de ene draad de positieve kant raakt en de andere de negatieve. Als het niet oplicht, draai de batterij gewoon om!
+![Led en batterij]({{ site.baseurl }}/assets/images/2021-01-29-bladwijzer/bladwijzer05.png)
+
+</div>
+
 
 Decoreer, kleur en positioneer dan alle elektronische componenten. Plak en lijm, en klaar! Bijvoorbeeld:
 
