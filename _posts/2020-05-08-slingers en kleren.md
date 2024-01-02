@@ -131,7 +131,7 @@ Kringgesprek over talenten en STEM, terugkoppeling met wat ze gedaan hebben. Ste
 
 ### Link naar het Maakatelier
 
-Gebruik de plotter om vouwlijnen in het papier aan te brengen voor 'vouwgemak'. De plotter en/of lasersnijden kunnen ook ingezet worden om bijvoorbeeld stencils te maken voor versier patronen, stempels, stickers … Met extra maakhoeken kunnen accessoires bv ook [via etsen op metaal](https://maakbib.be/etsen-van-metaal_low_tech/) of [etsen op glas](https://maakbib.be/etsen-van-glas-low-tech/) via de stencils. 
+Gebruik de plotter om vouwlijnen in het papier aan te brengen voor 'vouwgemak'. De plotter en/of lasersnijden kunnen ook ingezet worden om bijvoorbeeld stencils te maken voor versier patronen, stempels, stickers … Met extra maakhoeken kunnen accessoires bv ook [via etsen op metaal]({{site.url}}/etsen-van-metaal_low_tech/) of [etsen op glas]({{site.url}}/etsen-van-glas-low-tech/) via de stencils. 
 
 
 ## Voorbeelden

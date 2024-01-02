@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 logoheader: 'assets/images/logoMaakbibHeader.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-url: 'https://maakbib.be'
+url: 'https://activiteiten.decreatievestem.be'
 port:
 google_analytics: ''
 #disqus: 'demowebsite'

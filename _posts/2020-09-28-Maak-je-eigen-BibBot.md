@@ -134,7 +134,7 @@ Plaats de LED’s in de gaatjes die je daarvoor voorzien hebt. Met wat smeltlijm
 
 <div class="border_boxmaakbib01_img" markdown="1">
 #### Wil je meer met elektronica experimenteren?
-Bekijk dan zeker eens <a href="https://maakbib.be/bord-hovercraft/">bord hovercraft</a>
+Bekijk dan zeker eens <a href="{{site.url}}/bord-hovercraft/">bord hovercraft</a>
 
 </div>
 

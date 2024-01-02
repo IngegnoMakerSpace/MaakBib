@@ -92,7 +92,7 @@ In het eerste gedeelte zullen we de sensor zelf bouwen. Nadien gaan we over naar
 Bepaal welke spier en welke hoek je wil meten. Wij nemen als voorbeeld de biceps met de onderarmhoek. Meet de lengte van de onderarm. Knip 3 draden van deze lengte met de kniptang in verschillende kleuren (rood, zwart en wit). Met de stripper maak je ongeveer 1 cm aan beide kanten vrij.
 
 #### Stap 2: Verbind de Myoware spiersensor
-Neem de myoware sensor. Maak de rode draad vast aan het + contact en soldeer het vast. Maak de zwarte draad vast aan het – contact en soldeer vast. Meer info over solderen vind je <a href="https://maakbib.be/assets/images/2020-04-22_soldeerexperiment/Solderen%20is%20simpel_by_%20Mitch%20Altman.pdf">hier</a> en <a href="https://maakbib.be/assets/images/2020-04-22_soldeerexperiment/4%20stappen_solderen.pdf">hier</a>. 
+Neem de myoware sensor. Maak de rode draad vast aan het + contact en soldeer het vast. Maak de zwarte draad vast aan het – contact en soldeer vast. Meer info over solderen vind je <a href="{{site.url}}/assets/images/2020-04-22_soldeerexperiment/Solderen%20is%20simpel_by_%20Mitch%20Altman.pdf">hier</a> en <a href="{{site.url}}/assets/images/2020-04-22_soldeerexperiment/4%20stappen_solderen.pdf">hier</a>. 
 
 De witte draad zet je vast aan het RAW signaal aan de andere kant van de sensor. Knip het overschot af aan de kant van de sensor. Soldeer een krokodillenklem aan het andere uiteinde.
 

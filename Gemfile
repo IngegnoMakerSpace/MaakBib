@@ -18,3 +18,5 @@ group :jekyll_plugins do
     gem 'rouge'
     gem 'jekyll-paginate-v2'
 end
+
+gem "webrick", "~> 1.8"

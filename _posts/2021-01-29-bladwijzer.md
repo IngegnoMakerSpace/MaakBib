@@ -91,7 +91,7 @@ Heb je geen inspiratie, zoek eens op [**bookmark**](https://www.google.com/searc
 
 ## Extra
 
-Om meer te weten over stroomkringen lees ook onze [glas ets mid-tech activiteit](https://maakbib.be/etsen-van-glas-mid-tech/) of de [BibBot activiteit](https://maakbib.be/Maak-je-eigen-BibBot/).
+Om meer te weten over stroomkringen lees ook onze [glas ets mid-tech activiteit]({{site.url}}/etsen-van-glas-mid-tech/) of de [BibBot activiteit]({{site.url}}/Maak-je-eigen-BibBot/).
 
 Neem ook eens een kijkje naar dit leuk ontwerp op [leftbraincraftbrain.com]( https://leftbraincraftbrain.com/light-up-valentine-corner-bookmark/)
 

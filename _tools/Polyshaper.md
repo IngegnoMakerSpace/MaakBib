@@ -44,7 +44,7 @@ Van ontwerp naar realisatie in **9 stappen**
 
 #### Stap 1: Tekening maken in inkscape
 
-Gebruik onze [handleiding inkscape](http://maakbib.be/tools/Inkscape/)
+Gebruik onze [handleiding inkscape]({{site.url}}/tools/Inkscape/)
 
 ![vb inkscape]({{ site.baseurl}}/assets/tools/Polyshaper/image13.png)
 

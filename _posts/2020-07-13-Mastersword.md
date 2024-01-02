@@ -672,6 +672,6 @@ Je wordt uitgedaagd met 3D-printen, solderen, programmeren en laser snijden. Als
 
 ![3DPrinterlagen]({{ site.baseurl }} /assets/images/2020-07-13-Mastersword/3dprinterlagen.jpeg)
 
-Neem een kijkje <a href="https://maakbib.be/wistjedat/2020-01-20-DYK-3D-printen/">hier</a>
+Neem een kijkje <a href="{{site.url}}/wistjedat/2020-01-20-DYK-3D-printen/">hier</a>
 
 </div>

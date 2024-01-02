@@ -1,6 +1,6 @@
 # MaakBib
 
-Dit is de code voor de [MaakBib Website](https://maakbib.be).
+Dit is de code voor de [2020 MaakBib Website](https://activiteiten.decreatievestem.be).
 
 ## Lokaal hosten
 

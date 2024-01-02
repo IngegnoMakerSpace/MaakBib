@@ -180,7 +180,7 @@ Hiervoor ga je de volgende zaken nodig hebben: een zeefdrukraam, krantenpapier, 
 ![B3]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig6.jpeg)
 
 #### Stap 1: Bereid je zeefdrukraam voor
-Zorg ervoor dat je een zeefdrukraam hebt. Je kan er een kopen of je kan er zelf een maken aan de hand van stap 2 in <a href="https://maakbib.be/zeefdruk-met-lijm/">deze handleiding</a>. Plak de randen van je raam af met schilderstape zodat er geen verf tussen kruipt.
+Zorg ervoor dat je een zeefdrukraam hebt. Je kan er een kopen of je kan er zelf een maken aan de hand van stap 2 in <a href="{{site.url}}/zeefdruk-met-lijm/">deze handleiding</a>. Plak de randen van je raam af met schilderstape zodat er geen verf tussen kruipt.
 
 ![F3S1.1]({{ site.baseurl }}/assets/images/2020-08-22-SpirulinaTee/fig17.jpeg)
 
